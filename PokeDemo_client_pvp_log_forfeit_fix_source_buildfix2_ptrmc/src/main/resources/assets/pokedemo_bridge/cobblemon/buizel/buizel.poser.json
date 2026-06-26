@@ -1,0 +1,96 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1.0,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "buizel",
+  "animations": {
+    "cry": "q.bedrock_primary('buizel', 'cry', q.curve('one'))"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "q.bedrock('buizel', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('buizel', 'ground_walk')"
+      ]
+    },
+    "running": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('buizel', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('buizel', 'ground_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('buizel', 'sleep')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "animations": [
+        "q.bedrock('buizel', 'water_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "SWIM"
+      ],
+      "animations": [
+        "q.bedrock('buizel', 'water_swim')"
+      ]
+    },
+    "surface-float": {
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "animations": [
+        "q.bedrock('buizel', 'water_idle')"
+      ]
+    },
+    "surface-swim": {
+      "poseTypes": [
+        "SWIM"
+      ],
+      "animations": [
+        "q.bedrock('buizel', 'water_swim')"
+      ]
+    }
+  }
+}

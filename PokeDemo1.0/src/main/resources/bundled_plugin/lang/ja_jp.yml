@@ -1,0 +1,81 @@
+# PokeDemo プラグイン UI/メッセージ（日本語）
+
+pokedemo:
+  common:
+    empty: "(空)"
+    none: "(なし)"
+
+  guide:
+    join_hint: "§2ヒント§8：§3/poke guide §8でガイド本を取得できます"
+    join_hint_summon: "§2ヒント§8：§3Shift+F§8＋§3ホットバー/マウスホイール§8で召喚"
+
+  gui:
+    common:
+      back: "§e戻る"
+      close: "§c閉じる"
+      next: "§e次のページ"
+      prev: "§e前のページ"
+
+    recipes:
+      title: "§6レシピ"
+
+    starter:
+      title: "§2最初の相棒を選ぶ"
+
+    phone:
+      title: "§5ポケフォン"
+      party: "§aパーティ"
+      party.lore: "§7パーティを管理"
+      pc: "§bPC"
+      pc.lore: "§7PCボックスを開く"
+      healer: "§d回復"
+      healer.lore: "§7パーティのHPとPPを回復"
+      healer.machine: "§d回復"
+      healer.machine.lore: "§7回復マシンの近くで使用"
+      dex: "§c図鑑"
+      dex.lore: "§7捕まえたポケモン情報を見る"
+
+    dex:
+      title: "§cポケモン図鑑"
+      entry.title: "§c図鑑"
+
+    summary:
+      title: "§8ポケモン詳細"
+      tab:
+        overview: "概要"
+        overview.lore: "§7基本情報を見る"
+        moves: "わざ"
+        moves.lore: "§7わざとPPを見る"
+        stats: "ステータス"
+        stats.lore: "§7能力値を見る"
+        iv_ev: "個体/努力"
+        iv_ev.lore: "§7IV/EVを見る"
+      back:
+        party: "§7パーティへ戻る"
+        pc: "§7PCへ戻る"
+
+  label:
+    uuid: "UUID"
+    species: "種類"
+    nature: "性格"
+    types: "タイプ"
+    type: "タイプ"
+    status: "状態"
+    hp: "§cHP"
+    nickname: "§fニックネーム"
+    ot: "§fOT"
+    accuracy: "命中"
+    category: "分類"
+    held_item: "§fもちもの"
+
+  summary:
+    nickname.hint: "§8後でここで改名できます"
+    ot.placeholder: "§7(サーバープレイヤー)"
+    ot.hint: "§8後でOTを紐付け"
+
+    held_item:
+      has: "§7所持中"
+      set: "§a設定"
+      replace: "§e入れ替え"
+      remove: "§c外す"
+      only_pokedemo: "§8現在はPokeDemoアイテムのみ対応"

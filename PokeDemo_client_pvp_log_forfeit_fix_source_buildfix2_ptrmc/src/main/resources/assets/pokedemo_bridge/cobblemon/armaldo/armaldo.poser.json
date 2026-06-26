@@ -1,0 +1,96 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1.0,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "armaldo",
+  "animations": {
+    "cry": "q.bedrock_primary('armaldo', 'cry', q.curve('one'))"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "q.bedrock('armaldo', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('armaldo', 'ground_walk')"
+      ]
+    },
+    "running": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('armaldo', 'ground_walk')"
+      ]
+    },
+    "battle-standing": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('armaldo', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('armaldo', 'sleep')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "animations": [
+        "q.bedrock('armaldo', 'water_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "SWIM"
+      ],
+      "animations": [
+        "q.bedrock('armaldo', 'water_swim')"
+      ]
+    },
+    "surface-float": {
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "animations": [
+        "q.bedrock('armaldo', 'water_idle')"
+      ]
+    },
+    "surface-swim": {
+      "poseTypes": [
+        "SWIM"
+      ],
+      "animations": [
+        "q.bedrock('armaldo', 'water_swim')"
+      ]
+    }
+  }
+}

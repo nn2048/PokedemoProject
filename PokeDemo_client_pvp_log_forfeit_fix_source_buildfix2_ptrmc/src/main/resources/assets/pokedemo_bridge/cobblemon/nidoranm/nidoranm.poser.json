@@ -1,0 +1,1 @@
+{"rootBone":"nidoran_m","profileScale":1.0,"profileTranslation":[0.0,0.0,0.0],"poses":{"standing":{"animations":["q.bedrock('nidoranm', 'idle')"]},"walk":{"animations":["q.bedrock('nidoranm', 'idle')"]}}}

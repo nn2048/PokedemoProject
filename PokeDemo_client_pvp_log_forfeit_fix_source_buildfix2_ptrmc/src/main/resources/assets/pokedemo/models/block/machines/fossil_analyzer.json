@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "pokedemo:block/machines/fossil_analyzer"
+  },
+  "render_type": "minecraft:translucent"
+}

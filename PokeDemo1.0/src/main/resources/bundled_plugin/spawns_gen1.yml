@@ -1,0 +1,6355 @@
+pokedemoSpawnFormat: 2
+generatedFrom: cobblemon 1.7.3 spawn_pool_world Gen1
+biomes:
+  any:
+  - species: bulbasaur
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: ivysaur
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 16
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: venusaur
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 32
+    maxLevel: 52
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: charmander
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_volcanic'
+  - species: charmander
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_basalt'
+  - species: charmeleon
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 16
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_volcanic'
+  - species: charmeleon
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 16
+    maxLevel: 40
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_basalt'
+  - species: charizard
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 36
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_volcanic'
+  - species: charizard
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 36
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_basalt'
+  - species: squirtle
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: squirtle
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: squirtle
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: squirtle
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: squirtle
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: wartortle
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 16
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: wartortle
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 16
+    maxLevel: 40
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: wartortle
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 16
+    maxLevel: 40
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: wartortle
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 16
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: wartortle
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 16
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: blastoise
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 36
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: blastoise
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 36
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: blastoise
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 36
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: blastoise
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 36
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: blastoise
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 36
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: caterpie
+    weight: 70
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_plains'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_spooky'
+  - species: caterpie valencian
+    weight: 70
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: caterpie valencian
+    weight: 45
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    biomes:
+    - the_bumblezone:floral_meadow
+  - species: metapod
+    weight: 20
+    bucket: common
+    minLevel: 7
+    maxLevel: 21
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_plains'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_spooky'
+  - species: metapod valencian
+    weight: 20
+    bucket: common
+    minLevel: 7
+    maxLevel: 21
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: metapod valencian
+    weight: 10
+    bucket: common
+    minLevel: 7
+    maxLevel: 21
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    biomes:
+    - the_bumblezone:floral_meadow
+  - species: butterfree
+    weight: 10
+    bucket: common
+    minLevel: 10
+    maxLevel: 40
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_spooky'
+  - species: butterfree
+    weight: 100
+    bucket: common
+    minLevel: 10
+    maxLevel: 40
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_overworld'
+  - species: butterfree
+    weight: 10
+    bucket: common
+    minLevel: 10
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: butterfree valencian
+    weight: 10
+    bucket: common
+    minLevel: 10
+    maxLevel: 40
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: butterfree valencian
+    weight: 50
+    bucket: common
+    minLevel: 10
+    maxLevel: 40
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    biomes:
+    - the_bumblezone:floral_meadow
+  - species: weedle
+    weight: 70
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: weedle
+    weight: 30
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#the_bumblezone:the_bumblezone'
+  - species: kakuna
+    weight: 20
+    bucket: common
+    minLevel: 7
+    maxLevel: 21
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: kakuna
+    weight: 20
+    bucket: common
+    minLevel: 7
+    maxLevel: 21
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#the_bumblezone:the_bumblezone'
+  - species: beedrill
+    weight: 10
+    bucket: common
+    minLevel: 10
+    maxLevel: 40
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: beedrill
+    weight: 50
+    bucket: common
+    minLevel: 10
+    maxLevel: 40
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#the_bumblezone:the_bumblezone'
+  - species: pidgey
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_sky'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: pidgey
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: pidgeotto
+    weight: 9
+    bucket: common
+    minLevel: 18
+    maxLevel: 35
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_sky'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: pidgeotto
+    weight: 9
+    bucket: common
+    minLevel: 18
+    maxLevel: 35
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: pidgeot
+    weight: 1
+    bucket: common
+    minLevel: 36
+    maxLevel: 48
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_sky'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: pidgeot
+    weight: 1
+    bucket: common
+    minLevel: 36
+    maxLevel: 48
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: rattata
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: rattata
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: rattata
+    weight: 84
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 25
+    minY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: rattata alolan
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: rattata alolan
+    weight: 84
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 25
+    maxY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: rattata alolan
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: rattata alolan
+    weight: 84
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 25
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: raticate
+    weight: 10
+    bucket: common
+    minLevel: 20
+    maxLevel: 41
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: raticate
+    weight: 10
+    bucket: common
+    minLevel: 20
+    maxLevel: 41
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: raticate
+    weight: 16
+    bucket: uncommon
+    minLevel: 20
+    maxLevel: 41
+    minY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: raticate alolan
+    weight: 10
+    bucket: common
+    minLevel: 20
+    maxLevel: 41
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: raticate alolan
+    weight: 16
+    bucket: uncommon
+    minLevel: 20
+    maxLevel: 41
+    maxY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: raticate alolan
+    weight: 10
+    bucket: common
+    minLevel: 20
+    maxLevel: 41
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: raticate alolan
+    weight: 16
+    bucket: uncommon
+    minLevel: 20
+    maxLevel: 41
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: spearow
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 26
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_badlands'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+    - '#cobblemon:is_sky'
+  - species: fearow
+    weight: 10
+    bucket: common
+    minLevel: 20
+    maxLevel: 44
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_badlands'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+    - '#cobblemon:is_sky'
+  - species: ekans snake_pattern=classic
+    weight: 40
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: ekans snake_pattern=legacy
+    weight: 3
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: ekans snake_pattern=attack
+    weight: 3
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: ekans snake_pattern=speed
+    weight: 3
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: ekans snake_pattern=elusive
+    weight: 3
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: ekans snake_pattern=sound
+    weight: 3
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: ekans snake_pattern=dark
+    weight: 54
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_desert'
+  - species: arbok snake_pattern=classic
+    weight: 4
+    bucket: common
+    minLevel: 22
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: arbok snake_pattern=legacy
+    weight: 1
+    bucket: common
+    minLevel: 22
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: arbok snake_pattern=attack
+    weight: 1
+    bucket: common
+    minLevel: 22
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: arbok snake_pattern=speed
+    weight: 1
+    bucket: common
+    minLevel: 22
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: arbok snake_pattern=elusive
+    weight: 1
+    bucket: common
+    minLevel: 22
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: arbok snake_pattern=sound
+    weight: 1
+    bucket: common
+    minLevel: 22
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: arbok snake_pattern=dark
+    weight: 6
+    bucket: common
+    minLevel: 22
+    maxLevel: 45
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_desert'
+  - species: pikachu
+    weight: 7
+    bucket: uncommon
+    minLevel: 16
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: pikachu region_bias=alola
+    weight: 3
+    bucket: uncommon
+    minLevel: 16
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: raichu
+    weight: 1
+    bucket: uncommon
+    minLevel: 27
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: raichu alolan
+    weight: 1
+    bucket: uncommon
+    minLevel: 27
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: sandshrew
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: sandslash
+    weight: 10
+    bucket: common
+    minLevel: 22
+    maxLevel: 45
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: nidoranf
+    weight: 84
+    bucket: uncommon
+    minLevel: 3
+    maxLevel: 28
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: nidorina
+    weight: 15
+    bucket: uncommon
+    minLevel: 16
+    maxLevel: 37
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: nidoqueen
+    weight: 1
+    bucket: uncommon
+    minLevel: 37
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: nidoranm
+    weight: 84
+    bucket: uncommon
+    minLevel: 3
+    maxLevel: 28
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: nidorino
+    weight: 15
+    bucket: uncommon
+    minLevel: 16
+    maxLevel: 37
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: nidoking
+    weight: 1
+    bucket: uncommon
+    minLevel: 37
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: clefairy
+    weight: 15
+    bucket: uncommon
+    minLevel: 17
+    maxLevel: 32
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_dripstone'
+    - '#cobblemon:is_overworld'
+  - species: clefairy
+    weight: 15
+    bucket: uncommon
+    minLevel: 17
+    maxLevel: 32
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_dripstone'
+    - '#cobblemon:is_overworld'
+  - species: clefairy
+    weight: 15
+    bucket: uncommon
+    minLevel: 17
+    maxLevel: 32
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+  - species: clefairy
+    weight: 15
+    bucket: uncommon
+    minLevel: 17
+    maxLevel: 32
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: clefable
+    weight: 1
+    bucket: uncommon
+    minLevel: 27
+    maxLevel: 48
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_dripstone'
+    - '#cobblemon:is_overworld'
+  - species: clefable
+    weight: 1
+    bucket: uncommon
+    minLevel: 27
+    maxLevel: 48
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_dripstone'
+    - '#cobblemon:is_overworld'
+  - species: clefable
+    weight: 1
+    bucket: uncommon
+    minLevel: 27
+    maxLevel: 48
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+  - species: clefable
+    weight: 1
+    bucket: uncommon
+    minLevel: 27
+    maxLevel: 48
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_spooky'
+  - species: vulpix
+    weight: 55
+    bucket: uncommon
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_taiga'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: vulpix
+    weight: 19
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_forest'
+    antiBiomeTags:
+    - '#cobblemon:nether/is_frozen'
+  - species: vulpix alolan
+    weight: 55
+    bucket: uncommon
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_snowy_forest'
+    - '#cobblemon:is_snowy_taiga'
+  - species: vulpix alolan
+    weight: 19
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_frozen'
+  - species: ninetales
+    weight: 5
+    bucket: uncommon
+    minLevel: 25
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_taiga'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: ninetales
+    weight: 1
+    bucket: common
+    minLevel: 25
+    maxLevel: 51
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_forest'
+    antiBiomeTags:
+    - '#cobblemon:nether/is_frozen'
+  - species: ninetales alolan
+    weight: 5
+    bucket: uncommon
+    minLevel: 25
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_snowy_forest'
+    - '#cobblemon:is_snowy_taiga'
+  - species: ninetales alolan
+    weight: 1
+    bucket: common
+    minLevel: 25
+    maxLevel: 51
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_frozen'
+  - species: jigglypuff
+    weight: 10
+    bucket: common
+    minLevel: 16
+    maxLevel: 27
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_overworld'
+  - species: jigglypuff
+    weight: 2
+    bucket: common
+    minLevel: 16
+    maxLevel: 27
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_plains'
+    antiBiomeTags:
+    - '#cobblemon:is_floral'
+  - species: jigglypuff
+    weight: 10
+    bucket: common
+    minLevel: 16
+    maxLevel: 27
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: wigglytuff
+    weight: 1
+    bucket: common
+    minLevel: 22
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_overworld'
+  - species: wigglytuff
+    weight: 1
+    bucket: common
+    minLevel: 22
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_plains'
+    antiBiomeTags:
+    - '#cobblemon:is_floral'
+  - species: wigglytuff
+    weight: 1
+    bucket: common
+    minLevel: 22
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: zubat
+    weight: 18
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_spooky'
+  - species: zubat
+    weight: 18
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_spooky'
+  - species: zubat
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_swamp'
+  - species: zubat
+    weight: 84
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 25
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_swamp'
+  - species: zubat
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: zubat
+    weight: 84
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 25
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_deep_dark'
+    - '#cobblemon:is_overworld'
+  - species: zubat
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 25
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: golbat
+    weight: 2
+    bucket: common
+    minLevel: 22
+    maxLevel: 46
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_spooky'
+  - species: golbat
+    weight: 2
+    bucket: common
+    minLevel: 22
+    maxLevel: 46
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_spooky'
+  - species: golbat
+    weight: 9
+    bucket: common
+    minLevel: 22
+    maxLevel: 46
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_swamp'
+  - species: golbat
+    weight: 15
+    bucket: uncommon
+    minLevel: 22
+    maxLevel: 46
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_swamp'
+  - species: golbat
+    weight: 9
+    bucket: common
+    minLevel: 22
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: golbat
+    weight: 15
+    bucket: uncommon
+    minLevel: 22
+    maxLevel: 46
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_deep_dark'
+    - '#cobblemon:is_overworld'
+  - species: golbat
+    weight: 9
+    bucket: common
+    minLevel: 22
+    maxLevel: 46
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: oddish
+    weight: 90
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: oddish
+    weight: 18
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+  - species: oddish valencian
+    weight: 18
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+    - '#cobblemon:is_tropical_island'
+  - species: gloom
+    weight: 10
+    bucket: common
+    minLevel: 21
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: gloom
+    weight: 2
+    bucket: common
+    minLevel: 21
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+  - species: gloom valencian
+    weight: 2
+    bucket: common
+    minLevel: 21
+    maxLevel: 40
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+    - '#cobblemon:is_tropical_island'
+  - species: vileplume
+    weight: 1
+    bucket: common
+    minLevel: 35
+    maxLevel: 49
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: vileplume
+    weight: 1
+    bucket: common
+    minLevel: 35
+    maxLevel: 49
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+  - species: vileplume valencian
+    weight: 1
+    bucket: common
+    minLevel: 35
+    maxLevel: 49
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+    - '#cobblemon:is_tropical_island'
+  - species: paras
+    weight: 84
+    bucket: uncommon
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+  - species: paras
+    weight: 90
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    biomeTags:
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+  - species: paras
+    weight: 90
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_fungus'
+    antiBiomeTags:
+    - '#cobblemon:nether/is_warped'
+  - species: paras
+    weight: 84
+    bucket: uncommon
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+  - species: parasect
+    weight: 16
+    bucket: uncommon
+    minLevel: 24
+    maxLevel: 41
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+  - species: parasect
+    weight: 10
+    bucket: common
+    minLevel: 24
+    maxLevel: 41
+    biomeTags:
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+  - species: parasect
+    weight: 10
+    bucket: common
+    minLevel: 24
+    maxLevel: 41
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_fungus'
+    antiBiomeTags:
+    - '#cobblemon:nether/is_warped'
+  - species: parasect
+    weight: 16
+    bucket: uncommon
+    minLevel: 24
+    maxLevel: 41
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+  - species: venonat
+    weight: 54
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+    - '#cobblemon:is_swamp'
+  - species: venomoth
+    weight: 6
+    bucket: common
+    minLevel: 31
+    maxLevel: 45
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+    - '#cobblemon:is_swamp'
+  - species: diglett
+    weight: 90
+    bucket: common
+    minLevel: 2
+    maxLevel: 27
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: diglett alolan
+    weight: 90
+    bucket: common
+    minLevel: 2
+    maxLevel: 27
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: dugtrio
+    weight: 10
+    bucket: common
+    minLevel: 26
+    maxLevel: 43
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: dugtrio alolan
+    weight: 10
+    bucket: common
+    minLevel: 26
+    maxLevel: 43
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 0
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: meowth
+    weight: 90
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_taiga'
+  - species: meowth
+    weight: 90
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_taiga'
+  - species: meowth
+    weight: 90
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: meowth
+    weight: 90
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: meowth alolan
+    weight: 540
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_freezing'
+  - species: meowth alolan
+    weight: 540
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_overworld'
+  - species: meowth alolan
+    weight: 504
+    bucket: uncommon
+    minLevel: 4
+    maxLevel: 29
+    minY: 62
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: meowth galarian
+    weight: 90
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_taiga'
+  - species: meowth galarian
+    weight: 90
+    bucket: common
+    minLevel: 4
+    maxLevel: 29
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_taiga'
+  - species: persian
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_taiga'
+  - species: persian
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_taiga'
+  - species: persian
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: persian
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_overworld'
+  - species: persian alolan
+    weight: 60
+    bucket: common
+    minLevel: 28
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_freezing'
+  - species: persian alolan
+    weight: 60
+    bucket: common
+    minLevel: 28
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_arid'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_overworld'
+  - species: persian alolan
+    weight: 96
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 44
+    minY: 62
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: psyduck
+    weight: 54
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: psyduck
+    weight: 54
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: psyduck
+    weight: 54
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: psyduck
+    weight: 18
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: golduck
+    weight: 6
+    bucket: common
+    minLevel: 33
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: golduck
+    weight: 6
+    bucket: common
+    minLevel: 33
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: golduck
+    weight: 6
+    bucket: common
+    minLevel: 33
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: golduck
+    weight: 2
+    bucket: common
+    minLevel: 33
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: mankey
+    weight: 54
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: primeape
+    weight: 5
+    bucket: common
+    minLevel: 28
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: growlithe
+    weight: 92
+    bucket: uncommon
+    minLevel: 10
+    maxLevel: 35
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_desert'
+  - species: growlithe
+    weight: 92
+    bucket: uncommon
+    minLevel: 10
+    maxLevel: 35
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_desert'
+  - species: arcanine
+    weight: 8
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 56
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_desert'
+  - species: arcanine
+    weight: 8
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 56
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_desert'
+  - species: poliwag
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: rain
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: poliwag
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:lily_pad
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwag
+    weight: 54
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: rain
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwag
+    weight: 54
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: poliwag
+    weight: 18
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+  - species: poliwag
+    weight: 54
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: poliwag
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: poliwag
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+  - species: poliwag
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:lily_pad
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwag
+    weight: 54
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: poliwag
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: poliwag
+    weight: 18
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+  - species: poliwag
+    weight: 54
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+    waterOnly: true
+  - species: poliwag
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+  - species: poliwhirl
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: rain
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: poliwhirl
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:lily_pad
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwhirl
+    weight: 6
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: rain
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwhirl
+    weight: 6
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: poliwhirl
+    weight: 2
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+  - species: poliwhirl
+    weight: 6
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: poliwhirl
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: poliwhirl
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+  - species: poliwhirl
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:lily_pad
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwhirl
+    weight: 6
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: poliwhirl
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: poliwhirl
+    weight: 2
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+  - species: poliwhirl
+    weight: 6
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+    waterOnly: true
+  - species: poliwhirl
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: rain
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:lily_pad
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: rain
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_lush'
+    - '#cobblemon:is_overworld'
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    nearBlocks:
+    - minecraft:lily_pad
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mushroom'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+    waterOnly: true
+  - species: poliwrath
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 51
+    minSkyLight: 0
+    maxSkyLight: 7
+    minY: -41
+    maxY: 9
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_lush'
+  - species: abra
+    weight: 75
+    bucket: rare
+    minLevel: 6
+    maxLevel: 31
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_magical'
+  - species: abra
+    weight: 84
+    bucket: uncommon
+    minLevel: 6
+    maxLevel: 31
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+  - species: abra
+    weight: 18
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: kadabra
+    weight: 24
+    bucket: rare
+    minLevel: 16
+    maxLevel: 40
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_magical'
+  - species: kadabra
+    weight: 15
+    bucket: uncommon
+    minLevel: 16
+    maxLevel: 40
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+  - species: kadabra
+    weight: 2
+    bucket: common
+    minLevel: 16
+    maxLevel: 40
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: alakazam
+    weight: 1
+    bucket: rare
+    minLevel: 35
+    maxLevel: 50
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    antiBiomeTags:
+    - '#cobblemon:is_magical'
+  - species: alakazam
+    weight: 1
+    bucket: uncommon
+    minLevel: 35
+    maxLevel: 50
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+  - species: alakazam
+    weight: 1
+    bucket: common
+    minLevel: 35
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: machop
+    weight: 54
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+  - species: machoke
+    weight: 6
+    bucket: common
+    minLevel: 28
+    maxLevel: 41
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+  - species: machamp
+    weight: 1
+    bucket: common
+    minLevel: 36
+    maxLevel: 51
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+  - species: bellsprout
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: weepinbell
+    weight: 10
+    bucket: common
+    minLevel: 21
+    maxLevel: 39
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: victreebel
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: tentacool
+    weight: 90
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: tentacool
+    weight: 84
+    bucket: uncommon
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_dripstone'
+    - '#cobblemon:is_lush'
+    waterOnly: true
+  - species: tentacool
+    weight: 18
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: tentacool
+    weight: 90
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+  - species: tentacool
+    weight: 90
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_dripstone'
+    - '#cobblemon:is_lush'
+  - species: tentacool
+    weight: 90
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+  - species: tentacool
+    weight: 90
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: tentacool
+    weight: 90
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: tentacruel
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 52
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: tentacruel
+    weight: 16
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 52
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_dripstone'
+    - '#cobblemon:is_lush'
+    waterOnly: true
+  - species: tentacruel
+    weight: 2
+    bucket: common
+    minLevel: 30
+    maxLevel: 52
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: tentacruel
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 52
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+  - species: tentacruel
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 52
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_dripstone'
+    - '#cobblemon:is_lush'
+  - species: tentacruel
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 52
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+  - species: tentacruel
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 52
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: tentacruel
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 52
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: geodude
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+  - species: geodude
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: geodude alolan
+    weight: 90
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - '#minecraft:iron_ores'
+    nearBlocksRadius: 12
+  - species: graveler
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+  - species: graveler
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: graveler alolan
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 39
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - '#minecraft:iron_ores'
+    nearBlocksRadius: 12
+  - species: golem
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+  - species: golem
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 50
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: golem alolan
+    weight: 1
+    bucket: common
+    minLevel: 34
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - '#minecraft:iron_ores'
+    nearBlocksRadius: 12
+  - species: ponyta
+    weight: 50
+    bucket: uncommon
+    minLevel: 16
+    maxLevel: 41
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_magical'
+  - species: ponyta
+    weight: 54
+    bucket: common
+    minLevel: 16
+    maxLevel: 41
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_overgrowth'
+    - '#cobblemon:nether/is_wasteland'
+  - species: ponyta galarian
+    weight: 84
+    bucket: uncommon
+    minLevel: 16
+    maxLevel: 41
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+  - species: ponyta galarian
+    weight: 90
+    bucket: common
+    minLevel: 16
+    maxLevel: 41
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: rapidash
+    weight: 10
+    bucket: uncommon
+    minLevel: 40
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_magical'
+  - species: rapidash
+    weight: 6
+    bucket: common
+    minLevel: 40
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_overgrowth'
+    - '#cobblemon:nether/is_wasteland'
+  - species: rapidash galarian
+    weight: 16
+    bucket: uncommon
+    minLevel: 40
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+  - species: rapidash galarian
+    weight: 10
+    bucket: common
+    minLevel: 40
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: slowpoke
+    weight: 54
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+  - species: slowpoke
+    weight: 60
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_river'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: slowpoke
+    weight: 18
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+  - species: slowpoke
+    weight: 20
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: slowpoke
+    weight: 18
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+  - species: slowpoke
+    weight: 20
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: slowpoke galarian
+    weight: 54
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    biomes:
+    - minecraft:mushroom_fields
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: slowpoke galarian
+    weight: 18
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    biomes:
+    - minecraft:mushroom_fields
+  - species: slowpoke galarian
+    weight: 18
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    biomes:
+    - minecraft:mushroom_fields
+  - species: slowbro
+    weight: 4
+    bucket: common
+    minLevel: 37
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+  - species: slowbro
+    weight: 2
+    bucket: common
+    minLevel: 37
+    maxLevel: 49
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+  - species: slowbro
+    weight: 2
+    bucket: common
+    minLevel: 37
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+  - species: slowbro galarian
+    weight: 4
+    bucket: common
+    minLevel: 37
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    biomes:
+    - minecraft:mushroom_fields
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: slowbro galarian
+    weight: 2
+    bucket: common
+    minLevel: 37
+    maxLevel: 49
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    biomes:
+    - minecraft:mushroom_fields
+  - species: slowbro galarian
+    weight: 2
+    bucket: common
+    minLevel: 37
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    biomes:
+    - minecraft:mushroom_fields
+  - species: magnemite
+    weight: 840
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    nearBlocks:
+    - POKEDEMO_REDSTONE
+    nearBlocksRadius: 12
+  - species: magnemite
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - minecraft:lightning_rod
+    nearBlocksRadius: 12
+  - species: magneton
+    weight: 152
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 47
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    nearBlocks:
+    - POKEDEMO_REDSTONE
+    nearBlocksRadius: 12
+  - species: magneton
+    weight: 2
+    bucket: common
+    minLevel: 30
+    maxLevel: 47
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - minecraft:lightning_rod
+    nearBlocksRadius: 12
+  - species: farfetchd
+    weight: 100
+    bucket: common
+    minLevel: 13
+    maxLevel: 38
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - minecraft:sugar_cane
+    nearBlocksRadius: 12
+  - species: farfetchd galarian
+    weight: 88
+    bucket: rare
+    minLevel: 13
+    maxLevel: 38
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_overworld'
+  - species: doduo
+    weight: 90
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: doduo
+    weight: 90
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: dodrio
+    weight: 10
+    bucket: common
+    minLevel: 31
+    maxLevel: 47
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: dodrio
+    weight: 10
+    bucket: common
+    minLevel: 31
+    maxLevel: 47
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: seel
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: seel
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: seel
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: seel
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: seel
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: dewgong
+    weight: 10
+    bucket: common
+    minLevel: 34
+    maxLevel: 48
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: dewgong
+    weight: 10
+    bucket: common
+    minLevel: 34
+    maxLevel: 48
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: dewgong
+    weight: 10
+    bucket: common
+    minLevel: 34
+    maxLevel: 48
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: dewgong
+    weight: 10
+    bucket: common
+    minLevel: 34
+    maxLevel: 48
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: dewgong
+    weight: 10
+    bucket: common
+    minLevel: 34
+    maxLevel: 48
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: grimer
+    weight: 17
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: grimer
+    weight: 17
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: grimer
+    weight: 17
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: grimer
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: grimer
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+  - species: grimer
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+  - species: grimer
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: grimer
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+  - species: grimer
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+  - species: grimer alolan
+    weight: 17
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: grimer alolan
+    weight: 17
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: grimer alolan
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_toxic'
+  - species: muk
+    weight: 3
+    bucket: uncommon
+    minLevel: 38
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: muk
+    weight: 3
+    bucket: uncommon
+    minLevel: 38
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: muk
+    weight: 3
+    bucket: uncommon
+    minLevel: 38
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+    waterOnly: true
+  - species: muk
+    weight: 2
+    bucket: common
+    minLevel: 38
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: muk
+    weight: 2
+    bucket: common
+    minLevel: 38
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+  - species: muk
+    weight: 2
+    bucket: common
+    minLevel: 38
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+  - species: muk
+    weight: 2
+    bucket: common
+    minLevel: 38
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_swamp'
+  - species: muk
+    weight: 2
+    bucket: common
+    minLevel: 38
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+  - species: muk
+    weight: 2
+    bucket: common
+    minLevel: 38
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_swamp'
+  - species: muk alolan
+    weight: 3
+    bucket: uncommon
+    minLevel: 38
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: muk alolan
+    weight: 3
+    bucket: uncommon
+    minLevel: 38
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: muk alolan
+    weight: 10
+    bucket: common
+    minLevel: 38
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_toxic'
+  - species: shellder
+    weight: 95
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: shellder
+    weight: 57
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    waterOnly: true
+  - species: shellder
+    weight: 95
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: shellder
+    weight: 19
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+  - species: shellder
+    weight: 95
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: shellder
+    weight: 19
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+  - species: shellder
+    weight: 57
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: shellder
+    weight: 95
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: cloyster
+    weight: 5
+    bucket: common
+    minLevel: 26
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: cloyster
+    weight: 3
+    bucket: common
+    minLevel: 26
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    waterOnly: true
+  - species: cloyster
+    weight: 5
+    bucket: common
+    minLevel: 26
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: cloyster
+    weight: 1
+    bucket: common
+    minLevel: 26
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+  - species: cloyster
+    weight: 5
+    bucket: common
+    minLevel: 26
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: cloyster
+    weight: 1
+    bucket: common
+    minLevel: 26
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+  - species: cloyster
+    weight: 3
+    bucket: common
+    minLevel: 26
+    maxLevel: 53
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: cloyster
+    weight: 5
+    bucket: common
+    minLevel: 26
+    maxLevel: 53
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: gastly
+    weight: 90
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minSkyLight: 0
+    maxSkyLight: 0
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: gastly
+    weight: 50
+    bucket: uncommon
+    minLevel: 6
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: gastly
+    weight: 90
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: gastly
+    weight: 90
+    bucket: common
+    minLevel: 6
+    maxLevel: 31
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#minecraft:is_nether'
+  - species: haunter
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 41
+    minSkyLight: 0
+    maxSkyLight: 0
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: haunter
+    weight: 7
+    bucket: uncommon
+    minLevel: 25
+    maxLevel: 41
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: haunter
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 41
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: haunter
+    weight: 10
+    bucket: common
+    minLevel: 25
+    maxLevel: 41
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#minecraft:is_nether'
+  - species: gengar
+    weight: 1
+    bucket: common
+    minLevel: 36
+    maxLevel: 50
+    minSkyLight: 0
+    maxSkyLight: 0
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: gengar
+    weight: 1
+    bucket: uncommon
+    minLevel: 36
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: gengar
+    weight: 1
+    bucket: common
+    minLevel: 36
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: gengar
+    weight: 1
+    bucket: common
+    minLevel: 36
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#minecraft:is_nether'
+  - species: onix
+    weight: 55
+    bucket: uncommon
+    minLevel: 14
+    maxLevel: 39
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: onix
+    weight: 18
+    bucket: uncommon
+    minLevel: 14
+    maxLevel: 39
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_basalt'
+  - species: drowzee
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: drowzee
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: hypno
+    weight: 10
+    bucket: common
+    minLevel: 26
+    maxLevel: 48
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: hypno
+    weight: 10
+    bucket: common
+    minLevel: 26
+    maxLevel: 48
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: krabby
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_overworld'
+  - species: krabby
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: krabby
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+  - species: krabby
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+  - species: krabby
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: krabby
+    weight: 90
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: kingler
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 48
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_overworld'
+  - species: kingler
+    weight: 2
+    bucket: common
+    minLevel: 28
+    maxLevel: 48
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: kingler
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 48
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+  - species: kingler
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 48
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+  - species: kingler
+    weight: 2
+    bucket: common
+    minLevel: 28
+    maxLevel: 48
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: kingler
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 48
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: voltorb
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: voltorb
+    weight: 18
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: voltorb
+    weight: 840
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - minecraft:lightning_rod
+    nearBlocksRadius: 12
+  - species: voltorb hisuian
+    weight: 920
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - '#cobblemon:apricorns'
+    nearBlocksRadius: 12
+  - species: electrode
+    weight: 2
+    bucket: common
+    minLevel: 30
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: electrode
+    weight: 2
+    bucket: common
+    minLevel: 30
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: electrode
+    weight: 160
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - minecraft:lightning_rod
+    nearBlocksRadius: 12
+  - species: electrode hisuian
+    weight: 80
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - '#cobblemon:apricorns'
+    nearBlocksRadius: 12
+  - species: exeggcute
+    weight: 19
+    bucket: common
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: exeggcute region_bias=alola
+    weight: 92
+    bucket: uncommon
+    minLevel: 8
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: exeggutor
+    weight: 1
+    bucket: common
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: exeggutor alolan
+    weight: 8
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_beach'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: cubone
+    weight: 18
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_badlands'
+    - '#cobblemon:is_desert'
+    - '#cobblemon:is_overworld'
+  - species: cubone region_bias=alola
+    weight: 54
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_volcanic'
+  - species: cubone region_bias=alola
+    weight: 90
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_desert'
+  - species: marowak
+    weight: 2
+    bucket: common
+    minLevel: 28
+    maxLevel: 43
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_badlands'
+    - '#cobblemon:is_desert'
+    - '#cobblemon:is_overworld'
+  - species: marowak alolan
+    weight: 6
+    bucket: common
+    minLevel: 28
+    maxLevel: 43
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_volcanic'
+  - species: marowak alolan
+    weight: 10
+    bucket: common
+    minLevel: 28
+    maxLevel: 43
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_desert'
+  - species: hitmonlee
+    weight: 3
+    bucket: uncommon
+    minLevel: 20
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+  - species: hitmonchan
+    weight: 3
+    bucket: uncommon
+    minLevel: 20
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+  - species: lickitung
+    weight: 17
+    bucket: uncommon
+    minLevel: 14
+    maxLevel: 39
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_overworld'
+  - species: koffing
+    weight: 18
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: koffing
+    weight: 18
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: koffing
+    weight: 90
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_toxic'
+  - species: koffing region_bias=galar
+    weight: 18
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+  - species: koffing region_bias=galar
+    weight: 18
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: weezing
+    weight: 2
+    bucket: common
+    minLevel: 35
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: weezing
+    weight: 2
+    bucket: common
+    minLevel: 35
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: weezing
+    weight: 10
+    bucket: common
+    minLevel: 35
+    maxLevel: 49
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_toxic'
+  - species: weezing galarian
+    weight: 2
+    bucket: common
+    minLevel: 35
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+  - species: weezing galarian
+    weight: 2
+    bucket: common
+    minLevel: 35
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_spooky'
+  - species: rhyhorn
+    weight: 18
+    bucket: common
+    minLevel: 10
+    maxLevel: 35
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+    antiBiomeTags:
+    - '#cobblemon:is_cold'
+  - species: rhydon
+    weight: 2
+    bucket: common
+    minLevel: 42
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+    antiBiomeTags:
+    - '#cobblemon:is_cold'
+  - species: chansey
+    weight: 11
+    bucket: rare
+    minLevel: 17
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: chansey
+    weight: 11
+    bucket: rare
+    minLevel: 17
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: chansey
+    weight: 11
+    bucket: rare
+    minLevel: 17
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: tangela
+    weight: 18
+    bucket: common
+    minLevel: 19
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: kangaskhan
+    weight: 100
+    bucket: rare
+    minLevel: 24
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_savanna'
+  - species: horsea
+    weight: 18
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_lukewarm_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_warm_ocean'
+    waterOnly: true
+  - species: horsea
+    weight: 18
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+  - species: horsea
+    weight: 18
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_lukewarm_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_warm_ocean'
+    waterOnly: true
+  - species: horsea
+    weight: 18
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+  - species: horsea
+    weight: 18
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: horsea
+    weight: 18
+    bucket: common
+    minLevel: 5
+    maxLevel: 30
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: seadra
+    weight: 2
+    bucket: common
+    minLevel: 32
+    maxLevel: 44
+    biomeTags:
+    - '#cobblemon:is_lukewarm_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_warm_ocean'
+    waterOnly: true
+  - species: seadra
+    weight: 2
+    bucket: common
+    minLevel: 32
+    maxLevel: 44
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+  - species: seadra
+    weight: 2
+    bucket: common
+    minLevel: 32
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_lukewarm_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_warm_ocean'
+    waterOnly: true
+  - species: seadra
+    weight: 2
+    bucket: common
+    minLevel: 32
+    maxLevel: 44
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_cold_ocean'
+    - '#cobblemon:is_frozen_ocean'
+  - species: seadra
+    weight: 2
+    bucket: common
+    minLevel: 32
+    maxLevel: 44
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: seadra
+    weight: 2
+    bucket: common
+    minLevel: 32
+    maxLevel: 44
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: goldeen
+    weight: 90
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_river'
+    waterOnly: true
+  - species: goldeen
+    weight: 90
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_bamboo'
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_taiga'
+    - '#cobblemon:is_temperate'
+  - species: goldeen
+    weight: 90
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_river'
+    waterOnly: true
+  - species: goldeen
+    weight: 90
+    bucket: common
+    minLevel: 7
+    maxLevel: 32
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_bamboo'
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_taiga'
+    - '#cobblemon:is_temperate'
+  - species: seaking
+    weight: 10
+    bucket: common
+    minLevel: 33
+    maxLevel: 45
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_river'
+    waterOnly: true
+  - species: seaking
+    weight: 10
+    bucket: common
+    minLevel: 33
+    maxLevel: 45
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_bamboo'
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_taiga'
+    - '#cobblemon:is_temperate'
+  - species: seaking
+    weight: 10
+    bucket: common
+    minLevel: 33
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_river'
+    waterOnly: true
+  - species: seaking
+    weight: 10
+    bucket: common
+    minLevel: 33
+    maxLevel: 45
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_bamboo'
+    - '#cobblemon:is_floral'
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_mountain'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_taiga'
+    - '#cobblemon:is_temperate'
+  - species: staryu
+    weight: 92
+    bucket: uncommon
+    minLevel: 9
+    maxLevel: 34
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_overworld'
+  - species: staryu
+    weight: 55
+    bucket: uncommon
+    minLevel: 9
+    maxLevel: 34
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: staryu
+    weight: 55
+    bucket: uncommon
+    minLevel: 9
+    maxLevel: 34
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: staryu
+    weight: 18
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: staryu
+    weight: 55
+    bucket: uncommon
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: staryu
+    weight: 55
+    bucket: uncommon
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: staryu
+    weight: 18
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: staryu
+    weight: 55
+    bucket: uncommon
+    minLevel: 9
+    maxLevel: 34
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: staryu
+    weight: 55
+    bucket: uncommon
+    minLevel: 9
+    maxLevel: 34
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: staryu
+    weight: 18
+    bucket: common
+    minLevel: 9
+    maxLevel: 34
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: starmie
+    weight: 8
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 52
+    time: night
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_overworld'
+  - species: starmie
+    weight: 5
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 52
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: starmie
+    weight: 5
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 52
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: starmie
+    weight: 2
+    bucket: common
+    minLevel: 29
+    maxLevel: 52
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: starmie
+    weight: 5
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 52
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: starmie
+    weight: 5
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 52
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: starmie
+    weight: 2
+    bucket: common
+    minLevel: 29
+    maxLevel: 52
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_coast'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: starmie
+    weight: 5
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 52
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: starmie
+    weight: 5
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 52
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: starmie
+    weight: 2
+    bucket: common
+    minLevel: 29
+    maxLevel: 52
+    minY: -60
+    maxY: 13
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: mrmime
+    weight: 3
+    bucket: uncommon
+    minLevel: 26
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: mrmime
+    weight: 3
+    bucket: uncommon
+    minLevel: 26
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: mrmime
+    weight: 2
+    bucket: common
+    minLevel: 26
+    maxLevel: 46
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: mrmime galarian
+    weight: 3
+    bucket: uncommon
+    minLevel: 26
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_overworld'
+  - species: mrmime galarian
+    weight: 3
+    bucket: uncommon
+    minLevel: 26
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_overworld'
+  - species: scyther
+    weight: 18
+    bucket: rare
+    minLevel: 25
+    maxLevel: 50
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_spooky'
+  - species: scyther
+    weight: 18
+    bucket: uncommon
+    minLevel: 25
+    maxLevel: 50
+    time: day
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+  - species: scyther
+    weight: 18
+    bucket: rare
+    minLevel: 25
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: jynx
+    weight: 3
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_overworld'
+  - species: jynx
+    weight: 3
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 46
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freezing'
+    - '#cobblemon:is_overworld'
+  - species: electabuzz
+    weight: 3
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_plains'
+  - species: magmar
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_volcanic'
+    nearBlocks:
+    - minecraft:lava
+    - minecraft:magma_block
+    nearBlocksRadius: 12
+  - species: magmar
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: clear
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_volcanic'
+  - species: magmar
+    weight: 10
+    bucket: common
+    minLevel: 30
+    maxLevel: 50
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:nether/is_basalt'
+    - '#cobblemon:nether/is_wasteland'
+  - species: pinsir
+    weight: 100
+    bucket: rare
+    minLevel: 25
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_tropical_island'
+  - species: pinsir
+    weight: 20
+    bucket: uncommon
+    minLevel: 25
+    maxLevel: 50
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    nearBlocks:
+    - POKEDEMO_RIPE_BERRY_BUSH
+    nearBlocksRadius: 12
+  - species: tauros
+    weight: 20
+    bucket: common
+    minLevel: 24
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_hills'
+  - species: tauros paldean bull_breed=combat
+    weight: 18
+    bucket: common
+    minLevel: 24
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_highlands'
+    - '#cobblemon:is_overworld'
+  - species: tauros paldean bull_breed=blaze
+    weight: 1
+    bucket: common
+    minLevel: 24
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_highlands'
+    - '#cobblemon:is_overworld'
+  - species: tauros paldean bull_breed=aqua
+    weight: 1
+    bucket: common
+    minLevel: 24
+    maxLevel: 49
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_highlands'
+    - '#cobblemon:is_overworld'
+  - species: magikarp
+    weight: 99
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: magikarp
+    weight: 18
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: magikarp
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp
+    weight: 99
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: magikarp
+    weight: 90
+    bucket: common
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=skelly
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=skelly
+    weight: 60
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=skelly
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=calico-orange-white
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=calico-orange-white-black
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=calico-white-orange
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=calico-orange-gold
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-two-tone
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-orca
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-dapples
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=pink-two-tone
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=pink-orca
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=pink-dapples
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=gray-bubbles
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=gray-diamonds
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=gray-patches
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=purple-bubbles
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=purple-diamonds
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=purple-patches
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=apricot-tiger
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=apricot-zebra
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=apricot-stripes
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=brown-tiger
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=brown-zebra
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=brown-stripes
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-forehead
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-mask
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-forehead
+    weight: 100
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-mask
+    weight: 100
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-forehead
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=orange-mask
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=black-forehead
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=black-mask
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=black-forehead
+    weight: 60
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=black-mask
+    weight: 60
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 0
+    maxSkyLight: 7
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=black-forehead
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=black-mask
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=blue-saucy
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=blue-raindrops
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=violet-saucy
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: magikarp magikarp_jump=violet-raindrops
+    weight: 20
+    bucket: uncommon
+    minLevel: 1
+    maxLevel: 20
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: gyarados
+    weight: 1
+    bucket: common
+    minLevel: 20
+    maxLevel: 54
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: gyarados
+    weight: 2
+    bucket: uncommon
+    minLevel: 20
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: gyarados
+    weight: 10
+    bucket: common
+    minLevel: 20
+    maxLevel: 54
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: gyarados
+    weight: 1
+    bucket: common
+    minLevel: 20
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: gyarados
+    weight: 10
+    bucket: common
+    minLevel: 20
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+  - species: lapras
+    weight: 20
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+    waterOnly: true
+  - species: lapras
+    weight: 100
+    bucket: ultra_rare
+    minLevel: 29
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    waterOnly: true
+  - species: lapras
+    weight: 20
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 54
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: lapras
+    weight: 20
+    bucket: common
+    minLevel: 29
+    maxLevel: 54
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: lapras
+    weight: 100
+    bucket: ultra_rare
+    minLevel: 29
+    maxLevel: 54
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'
+  - species: lapras
+    weight: 20
+    bucket: uncommon
+    minLevel: 29
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: lapras
+    weight: 20
+    bucket: common
+    minLevel: 29
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_frozen_ocean'
+    - '#cobblemon:is_overworld'
+  - species: lapras
+    weight: 100
+    bucket: ultra_rare
+    minLevel: 29
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'
+  - species: eevee
+    weight: 48
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_temperate'
+  - species: eevee
+    weight: 100
+    bucket: rare
+    minLevel: 5
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+  - species: eevee
+    weight: 18
+    bucket: uncommon
+    minLevel: 5
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: eevee
+    weight: 18
+    bucket: uncommon
+    minLevel: 5
+    maxLevel: 33
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: eevee
+    weight: 92
+    bucket: uncommon
+    minLevel: 5
+    maxLevel: 33
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: vaporeon
+    weight: 12
+    bucket: ultra_rare
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: vaporeon
+    weight: 12
+    bucket: ultra_rare
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+    waterOnly: true
+  - species: vaporeon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: vaporeon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: vaporeon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: vaporeon
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_freshwater'
+    - '#cobblemon:is_jungle'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_temperate'
+    - '#cobblemon:is_tropical_island'
+    antiBiomeTags:
+    - '#cobblemon:is_freezing'
+  - species: jolteon
+    weight: 12
+    bucket: ultra_rare
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_grassland'
+    - '#cobblemon:is_overworld'
+  - species: jolteon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: jolteon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: jolteon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: flareon
+    weight: 12
+    bucket: ultra_rare
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_badlands'
+    - '#cobblemon:is_desert'
+    - '#cobblemon:is_overworld'
+  - species: flareon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: flareon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: flareon
+    weight: 1
+    bucket: uncommon
+    minLevel: 28
+    maxLevel: 53
+    biomeTags:
+    - '#cobblemon:is_overworld'
+  - species: porygon
+    weight: 92
+    bucket: uncommon
+    minLevel: 15
+    maxLevel: 40
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - POKEDEMO_PC
+    nearBlocksRadius: 12
+  - species: snorlax
+    weight: 25
+    bucket: rare
+    minLevel: 34
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_forest'
+    - '#cobblemon:is_hills'
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_snowy_forest'
+  - species: snorlax
+    weight: 3
+    bucket: uncommon
+    minLevel: 34
+    maxLevel: 54
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    nearBlocks:
+    - POKEDEMO_RIPE_BERRY_BUSH
+    nearBlocksRadius: 12
+  - species: dratini
+    weight: 75
+    bucket: rare
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 32
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    waterOnly: true
+  - species: dratini
+    weight: 75
+    bucket: rare
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 32
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    waterOnly: true
+  - species: dratini
+    weight: 840
+    bucket: uncommon
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    nearStructure: OCEAN_RUIN
+    nearStructureRadius: 128
+    waterOnly: true
+  - species: dratini
+    weight: 15
+    bucket: rare
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 32
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: dratini
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 30
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'
+  - species: dratini
+    weight: 840
+    bucket: uncommon
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    nearStructure: OCEAN_RUIN
+    nearStructureRadius: 128
+    waterOnly: true
+  - species: dratini
+    weight: 60
+    bucket: ultra_rare
+    minLevel: 5
+    maxLevel: 30
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'
+  - species: dragonair
+    weight: 22
+    bucket: rare
+    minLevel: 30
+    maxLevel: 42
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 32
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    waterOnly: true
+  - species: dragonair
+    weight: 22
+    bucket: rare
+    minLevel: 30
+    maxLevel: 42
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 32
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    waterOnly: true
+  - species: dragonair
+    weight: 144
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 42
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    nearStructure: OCEAN_RUIN
+    nearStructureRadius: 128
+    waterOnly: true
+  - species: dragonair
+    weight: 4
+    bucket: rare
+    minLevel: 30
+    maxLevel: 42
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 32
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: dragonair
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 30
+    maxLevel: 42
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'
+  - species: dragonair
+    weight: 144
+    bucket: uncommon
+    minLevel: 30
+    maxLevel: 42
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    nearStructure: OCEAN_RUIN
+    nearStructureRadius: 128
+    waterOnly: true
+  - species: dragonair
+    weight: 36
+    bucket: ultra_rare
+    minLevel: 30
+    maxLevel: 42
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'
+  - species: dragonite
+    weight: 2
+    bucket: rare
+    minLevel: 55
+    maxLevel: 60
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 32
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+    nearBlocks:
+    - minecraft:water
+    nearBlocksRadius: 12
+    waterOnly: true
+  - species: dragonite
+    weight: 16
+    bucket: uncommon
+    minLevel: 55
+    maxLevel: 60
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    nearStructure: OCEAN_RUIN
+    nearStructureRadius: 128
+    waterOnly: true
+  - species: dragonite
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 55
+    maxLevel: 60
+    minSkyLight: 8
+    maxSkyLight: 15
+    weather: rain
+    biomeTags:
+    - '#cobblemon:is_overworld'
+    - '#cobblemon:is_sky'
+  - species: dragonite
+    weight: 1
+    bucket: rare
+    minLevel: 55
+    maxLevel: 60
+    minSkyLight: 0
+    maxSkyLight: 7
+    maxY: 32
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_deep_dark'
+  - species: dragonite
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 55
+    maxLevel: 60
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'
+  - species: dragonite
+    weight: 16
+    bucket: uncommon
+    minLevel: 55
+    maxLevel: 60
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    nearStructure: OCEAN_RUIN
+    nearStructureRadius: 128
+    waterOnly: true
+  - species: dragonite
+    weight: 4
+    bucket: ultra_rare
+    minLevel: 55
+    maxLevel: 60
+    minSkyLight: 8
+    maxSkyLight: 15
+    biomeTags:
+    - '#aether:is_aether'
+    - '#cobblemon:is_magical'
+    - '#cobblemon:is_ocean'
+    - '#cobblemon:is_overworld'
+    antiBiomeTags:
+    - '#cobblemon:is_frozen_ocean'

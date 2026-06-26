@@ -1,0 +1,2798 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 30001
+      },
+      "model": "pokedemo:item/items/potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30002
+      },
+      "model": "pokedemo:item/items/super_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30003
+      },
+      "model": "pokedemo:item/items/hyper_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30004
+      },
+      "model": "pokedemo:item/items/max_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30005
+      },
+      "model": "pokedemo:item/items/full_restore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30006
+      },
+      "model": "pokedemo:item/items/fresh_water"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30007
+      },
+      "model": "pokedemo:item/items/soda_pop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30008
+      },
+      "model": "pokedemo:item/items/lemonade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30010
+      },
+      "model": "pokedemo:item/items/antidote"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30011
+      },
+      "model": "pokedemo:item/items/awakening"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30012
+      },
+      "model": "pokedemo:item/items/burn_heal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30013
+      },
+      "model": "pokedemo:item/items/ice_heal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30014
+      },
+      "model": "pokedemo:item/items/paralyze_heal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30015
+      },
+      "model": "pokedemo:item/items/full_heal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30020
+      },
+      "model": "pokedemo:item/items/revive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30021
+      },
+      "model": "pokedemo:item/items/max_revive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30030
+      },
+      "model": "pokedemo:item/items/ether"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30031
+      },
+      "model": "pokedemo:item/items/max_ether"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30032
+      },
+      "model": "pokedemo:item/items/elixir"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30033
+      },
+      "model": "pokedemo:item/items/max_elixir"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30034
+      },
+      "model": "pokedemo:item/items/pp_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30035
+      },
+      "model": "pokedemo:item/items/pp_max"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30101
+      },
+      "model": "pokedemo:item/items/x_attack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30102
+      },
+      "model": "pokedemo:item/items/x_defend"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30103
+      },
+      "model": "pokedemo:item/items/x_speed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30104
+      },
+      "model": "pokedemo:item/items/x_accuracy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30105
+      },
+      "model": "pokedemo:item/items/dire_hit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30106
+      },
+      "model": "pokedemo:item/items/guard_spec"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30107
+      },
+      "model": "pokedemo:item/items/x_special"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30108
+      },
+      "model": "pokedemo:item/items/x_evasion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30109
+      },
+      "model": "pokedemo:item/items/poke_doll"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30201
+      },
+      "model": "pokedemo:item/items/repel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30202
+      },
+      "model": "pokedemo:item/items/super_repel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30203
+      },
+      "model": "pokedemo:item/items/max_repel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30210
+      },
+      "model": "pokedemo:item/items/escape_rope"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30301
+      },
+      "model": "pokedemo:item/items/rare_candy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30311
+      },
+      "model": "pokedemo:item/items/fire_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30312
+      },
+      "model": "pokedemo:item/items/water_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30313
+      },
+      "model": "pokedemo:item/items/thunder_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30314
+      },
+      "model": "pokedemo:item/items/leaf_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30315
+      },
+      "model": "pokedemo:item/items/moon_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30321
+      },
+      "model": "pokedemo:item/items/hp_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30322
+      },
+      "model": "pokedemo:item/items/protein"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30323
+      },
+      "model": "pokedemo:item/items/iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30324
+      },
+      "model": "pokedemo:item/items/calcium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30325
+      },
+      "model": "pokedemo:item/items/carbos"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30331
+      },
+      "model": "pokedemo:item/items/poke_flute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30401
+      },
+      "model": "pokedemo:item/apricorns/red_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30402
+      },
+      "model": "pokedemo:item/apricorns/blue_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30403
+      },
+      "model": "pokedemo:item/apricorns/yellow_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30404
+      },
+      "model": "pokedemo:item/apricorns/green_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30405
+      },
+      "model": "pokedemo:item/apricorns/pink_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30406
+      },
+      "model": "pokedemo:item/apricorns/black_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30407
+      },
+      "model": "pokedemo:item/apricorns/white_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30411
+      },
+      "model": "pokedemo:item/seeds/seed_red_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30412
+      },
+      "model": "pokedemo:item/seeds/seed_blue_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30413
+      },
+      "model": "pokedemo:item/seeds/seed_yellow_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30414
+      },
+      "model": "pokedemo:item/seeds/seed_green_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30415
+      },
+      "model": "pokedemo:item/seeds/seed_pink_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30416
+      },
+      "model": "pokedemo:item/seeds/seed_black_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30417
+      },
+      "model": "pokedemo:item/seeds/seed_white_apricorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30420
+      },
+      "model": "pokedemo:item/items/ability_capsule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30421
+      },
+      "model": "pokedemo:item/items/ability_patch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30424
+      },
+      "model": "pokedemo:item/items/ability_patch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30450
+      },
+      "model": "pokedemo:item/items/lonely_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30451
+      },
+      "model": "pokedemo:item/items/adamant_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30452
+      },
+      "model": "pokedemo:item/items/naughty_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30453
+      },
+      "model": "pokedemo:item/items/brave_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30454
+      },
+      "model": "pokedemo:item/items/bold_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30455
+      },
+      "model": "pokedemo:item/items/impish_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30456
+      },
+      "model": "pokedemo:item/items/lax_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30457
+      },
+      "model": "pokedemo:item/items/relaxed_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30458
+      },
+      "model": "pokedemo:item/items/modest_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30459
+      },
+      "model": "pokedemo:item/items/mild_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30460
+      },
+      "model": "pokedemo:item/items/rash_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30461
+      },
+      "model": "pokedemo:item/items/quiet_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30462
+      },
+      "model": "pokedemo:item/items/calm_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30463
+      },
+      "model": "pokedemo:item/items/gentle_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30464
+      },
+      "model": "pokedemo:item/items/careful_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30465
+      },
+      "model": "pokedemo:item/items/sassy_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30466
+      },
+      "model": "pokedemo:item/items/timid_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30467
+      },
+      "model": "pokedemo:item/items/hasty_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30468
+      },
+      "model": "pokedemo:item/items/jolly_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30469
+      },
+      "model": "pokedemo:item/items/naive_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30470
+      },
+      "model": "pokedemo:item/items/serious_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30480
+      },
+      "model": "pokedemo:item/items/gold_bottle_cap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30481
+      },
+      "model": "pokedemo:item/items/silver_bottle_cap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30500
+      },
+      "model": "pokedemo:item/berries/cheri_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30501
+      },
+      "model": "pokedemo:item/berries/chesto_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30502
+      },
+      "model": "pokedemo:item/berries/pecha_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30503
+      },
+      "model": "pokedemo:item/berries/rawst_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30504
+      },
+      "model": "pokedemo:item/berries/aspear_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30505
+      },
+      "model": "pokedemo:item/berries/leppa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30506
+      },
+      "model": "pokedemo:item/berries/oran_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30507
+      },
+      "model": "pokedemo:item/berries/persim_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30508
+      },
+      "model": "pokedemo:item/berries/lum_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30509
+      },
+      "model": "pokedemo:item/berries/sitrus_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30510
+      },
+      "model": "pokedemo:item/berries/figy_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30511
+      },
+      "model": "pokedemo:item/berries/wiki_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30512
+      },
+      "model": "pokedemo:item/berries/mago_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30513
+      },
+      "model": "pokedemo:item/berries/aguav_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30514
+      },
+      "model": "pokedemo:item/berries/iapapa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30515
+      },
+      "model": "pokedemo:item/berries/razz_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30516
+      },
+      "model": "pokedemo:item/berries/bluk_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30517
+      },
+      "model": "pokedemo:item/berries/nanab_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30518
+      },
+      "model": "pokedemo:item/berries/wepear_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30519
+      },
+      "model": "pokedemo:item/berries/pinap_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30520
+      },
+      "model": "pokedemo:item/berries/pomeg_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30521
+      },
+      "model": "pokedemo:item/berries/kelpsy_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30522
+      },
+      "model": "pokedemo:item/berries/qualot_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30523
+      },
+      "model": "pokedemo:item/berries/hondew_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30524
+      },
+      "model": "pokedemo:item/berries/grepa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30525
+      },
+      "model": "pokedemo:item/berries/tamato_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30526
+      },
+      "model": "pokedemo:item/berries/cornn_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30527
+      },
+      "model": "pokedemo:item/berries/magost_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30528
+      },
+      "model": "pokedemo:item/berries/rabuta_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30529
+      },
+      "model": "pokedemo:item/berries/nomel_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30530
+      },
+      "model": "pokedemo:item/berries/spelon_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30531
+      },
+      "model": "pokedemo:item/berries/pamtre_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30532
+      },
+      "model": "pokedemo:item/berries/watmel_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30533
+      },
+      "model": "pokedemo:item/berries/durin_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30534
+      },
+      "model": "pokedemo:item/berries/belue_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30535
+      },
+      "model": "pokedemo:item/berries/occa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30536
+      },
+      "model": "pokedemo:item/berries/passho_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30537
+      },
+      "model": "pokedemo:item/berries/wacan_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30538
+      },
+      "model": "pokedemo:item/berries/rindo_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30539
+      },
+      "model": "pokedemo:item/berries/yache_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30540
+      },
+      "model": "pokedemo:item/berries/chople_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30541
+      },
+      "model": "pokedemo:item/berries/kebia_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30542
+      },
+      "model": "pokedemo:item/berries/shuca_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30543
+      },
+      "model": "pokedemo:item/berries/coba_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30544
+      },
+      "model": "pokedemo:item/berries/payapa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30545
+      },
+      "model": "pokedemo:item/berries/tanga_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30546
+      },
+      "model": "pokedemo:item/berries/charti_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30547
+      },
+      "model": "pokedemo:item/berries/kasib_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30548
+      },
+      "model": "pokedemo:item/berries/haban_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30549
+      },
+      "model": "pokedemo:item/berries/colbur_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30550
+      },
+      "model": "pokedemo:item/berries/babiri_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30551
+      },
+      "model": "pokedemo:item/berries/chilan_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30552
+      },
+      "model": "pokedemo:item/berries/liechi_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30553
+      },
+      "model": "pokedemo:item/berries/ganlon_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30554
+      },
+      "model": "pokedemo:item/berries/salac_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30555
+      },
+      "model": "pokedemo:item/berries/petaya_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30556
+      },
+      "model": "pokedemo:item/berries/apicot_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30557
+      },
+      "model": "pokedemo:item/berries/lansat_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30558
+      },
+      "model": "pokedemo:item/berries/starf_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30559
+      },
+      "model": "pokedemo:item/berries/enigma_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30560
+      },
+      "model": "pokedemo:item/berries/micle_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30561
+      },
+      "model": "pokedemo:item/berries/custap_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30562
+      },
+      "model": "pokedemo:item/berries/jaboca_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30563
+      },
+      "model": "pokedemo:item/berries/rowap_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30564
+      },
+      "model": "pokedemo:item/berries/roseli_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30565
+      },
+      "model": "pokedemo:item/berries/kee_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30566
+      },
+      "model": "pokedemo:item/berries/maranga_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30567
+      },
+      "model": "pokedemo:item/berries/hopo_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30568
+      },
+      "model": "pokedemo:item/berries/eggant_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30569
+      },
+      "model": "pokedemo:item/berries/touga_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30590
+      },
+      "model": "pokedemo:item/items/health_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30591
+      },
+      "model": "pokedemo:item/items/muscle_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30592
+      },
+      "model": "pokedemo:item/items/resist_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30593
+      },
+      "model": "pokedemo:item/items/genius_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30594
+      },
+      "model": "pokedemo:item/items/clever_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30595
+      },
+      "model": "pokedemo:item/items/swift_wing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33001
+      },
+      "model": "pokedemo:item/tm/tm01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33002
+      },
+      "model": "pokedemo:item/tm/tm02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33003
+      },
+      "model": "pokedemo:item/tm/tm03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33004
+      },
+      "model": "pokedemo:item/tm/tm04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33005
+      },
+      "model": "pokedemo:item/tm/tm05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33006
+      },
+      "model": "pokedemo:item/tm/tm06"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33007
+      },
+      "model": "pokedemo:item/tm/tm07"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33008
+      },
+      "model": "pokedemo:item/tm/tm08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33009
+      },
+      "model": "pokedemo:item/tm/tm09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33010
+      },
+      "model": "pokedemo:item/tm/tm10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33011
+      },
+      "model": "pokedemo:item/tm/tm11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33012
+      },
+      "model": "pokedemo:item/tm/tm12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33013
+      },
+      "model": "pokedemo:item/tm/tm13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33014
+      },
+      "model": "pokedemo:item/tm/tm14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33015
+      },
+      "model": "pokedemo:item/tm/tm15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33016
+      },
+      "model": "pokedemo:item/tm/tm16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33017
+      },
+      "model": "pokedemo:item/tm/tm17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33018
+      },
+      "model": "pokedemo:item/tm/tm18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33019
+      },
+      "model": "pokedemo:item/tm/tm19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33020
+      },
+      "model": "pokedemo:item/tm/tm20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33021
+      },
+      "model": "pokedemo:item/tm/tm21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33022
+      },
+      "model": "pokedemo:item/tm/tm22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33023
+      },
+      "model": "pokedemo:item/tm/tm23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33024
+      },
+      "model": "pokedemo:item/tm/tm24"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33025
+      },
+      "model": "pokedemo:item/tm/tm25"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33026
+      },
+      "model": "pokedemo:item/tm/tm26"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33027
+      },
+      "model": "pokedemo:item/tm/tm27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33028
+      },
+      "model": "pokedemo:item/tm/tm28"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33029
+      },
+      "model": "pokedemo:item/tm/tm29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33030
+      },
+      "model": "pokedemo:item/tm/tm30"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33031
+      },
+      "model": "pokedemo:item/tm/tm31"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33032
+      },
+      "model": "pokedemo:item/tm/tm32"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33033
+      },
+      "model": "pokedemo:item/tm/tm33"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33034
+      },
+      "model": "pokedemo:item/tm/tm34"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33035
+      },
+      "model": "pokedemo:item/tm/tm35"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33036
+      },
+      "model": "pokedemo:item/tm/tm36"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33037
+      },
+      "model": "pokedemo:item/tm/tm37"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33038
+      },
+      "model": "pokedemo:item/tm/tm38"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33039
+      },
+      "model": "pokedemo:item/tm/tm39"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33040
+      },
+      "model": "pokedemo:item/tm/tm40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33041
+      },
+      "model": "pokedemo:item/tm/tm41"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33042
+      },
+      "model": "pokedemo:item/tm/tm42"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33043
+      },
+      "model": "pokedemo:item/tm/tm43"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33044
+      },
+      "model": "pokedemo:item/tm/tm44"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33045
+      },
+      "model": "pokedemo:item/tm/tm45"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33046
+      },
+      "model": "pokedemo:item/tm/tm46"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33047
+      },
+      "model": "pokedemo:item/tm/tm47"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33048
+      },
+      "model": "pokedemo:item/tm/tm48"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33049
+      },
+      "model": "pokedemo:item/tm/tm49"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33050
+      },
+      "model": "pokedemo:item/tm/tm50"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33101
+      },
+      "model": "pokedemo:item/tm/hm01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33102
+      },
+      "model": "pokedemo:item/tm/hm02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33103
+      },
+      "model": "pokedemo:item/tm/hm03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33104
+      },
+      "model": "pokedemo:item/tm/hm04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33105
+      },
+      "model": "pokedemo:item/tm/hm05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35999
+      },
+      "model": "pokedemo:item/machines/fossil_machine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36000
+      },
+      "model": "pokedemo:item/machines/pasture_machine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36001
+      },
+      "model": "pokedemo:item/machines/pc_machine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36002
+      },
+      "model": "pokedemo:item/machines/healer_machine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37000
+      },
+      "model": "pokedemo:item/items/helix_fossil"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37001
+      },
+      "model": "pokedemo:item/items/dome_fossil"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37002
+      },
+      "model": "pokedemo:item/items/old_amber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37003
+      },
+      "model": "pokedemo:item/items/aspear_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37003
+      },
+      "model": "pokedemo:item/held/kings_rock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37004
+      },
+      "model": "pokedemo:item/items/babiri_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37004
+      },
+      "model": "pokedemo:item/held/silver_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37005
+      },
+      "model": "pokedemo:item/items/belue_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37005
+      },
+      "model": "pokedemo:item/held/amulet_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37006
+      },
+      "model": "pokedemo:item/items/bluk_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37006
+      },
+      "model": "pokedemo:item/held/cleanse_tag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37007
+      },
+      "model": "pokedemo:item/items/charti_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37007
+      },
+      "model": "pokedemo:item/held/smoke_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37008
+      },
+      "model": "pokedemo:item/items/cheri_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37008
+      },
+      "model": "pokedemo:item/held/everstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37009
+      },
+      "model": "pokedemo:item/items/chesto_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37009
+      },
+      "model": "pokedemo:item/held/focus_band"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37010
+      },
+      "model": "pokedemo:item/items/chilan_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37010
+      },
+      "model": "pokedemo:item/held/lucky_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37011
+      },
+      "model": "pokedemo:item/items/chople_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37011
+      },
+      "model": "pokedemo:item/held/scope_lens"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37012
+      },
+      "model": "pokedemo:item/items/coba_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37012
+      },
+      "model": "pokedemo:item/held/metal_coat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37013
+      },
+      "model": "pokedemo:item/items/colbur_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37013
+      },
+      "model": "pokedemo:item/held/leftovers"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37014
+      },
+      "model": "pokedemo:item/items/cornn_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37014
+      },
+      "model": "pokedemo:item/held/dragon_scale"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37015
+      },
+      "model": "pokedemo:item/items/custap_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37015
+      },
+      "model": "pokedemo:item/held/light_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37016
+      },
+      "model": "pokedemo:item/items/durin_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37016
+      },
+      "model": "pokedemo:item/held/soft_sand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37017
+      },
+      "model": "pokedemo:item/items/eggant_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37017
+      },
+      "model": "pokedemo:item/held/hard_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37018
+      },
+      "model": "pokedemo:item/items/enigma_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37018
+      },
+      "model": "pokedemo:item/held/miracle_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37019
+      },
+      "model": "pokedemo:item/items/figy_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37019
+      },
+      "model": "pokedemo:item/held/black_glasses"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37020
+      },
+      "model": "pokedemo:item/items/ganlon_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37020
+      },
+      "model": "pokedemo:item/held/black_belt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37021
+      },
+      "model": "pokedemo:item/items/grepa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37021
+      },
+      "model": "pokedemo:item/held/magnet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37022
+      },
+      "model": "pokedemo:item/items/haban_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37022
+      },
+      "model": "pokedemo:item/held/mystic_water"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37023
+      },
+      "model": "pokedemo:item/items/hondew_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37023
+      },
+      "model": "pokedemo:item/held/sharp_beak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37024
+      },
+      "model": "pokedemo:item/items/hopo_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37024
+      },
+      "model": "pokedemo:item/held/poison_barb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37025
+      },
+      "model": "pokedemo:item/items/iapapa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37025
+      },
+      "model": "pokedemo:item/held/never_melt_ice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37026
+      },
+      "model": "pokedemo:item/items/jaboca_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37026
+      },
+      "model": "pokedemo:item/held/spell_tag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37027
+      },
+      "model": "pokedemo:item/items/kasib_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37027
+      },
+      "model": "pokedemo:item/held/twisted_spoon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37028
+      },
+      "model": "pokedemo:item/items/kebia_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37028
+      },
+      "model": "pokedemo:item/held/charcoal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37029
+      },
+      "model": "pokedemo:item/items/kee_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37029
+      },
+      "model": "pokedemo:item/held/dragon_fang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37030
+      },
+      "model": "pokedemo:item/items/kelpsy_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37030
+      },
+      "model": "pokedemo:item/held/pink_bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37031
+      },
+      "model": "pokedemo:item/items/lansat_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37031
+      },
+      "model": "pokedemo:item/held/polkadot_bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37032
+      },
+      "model": "pokedemo:item/items/leppa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37032
+      },
+      "model": "pokedemo:item/held/silk_scarf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37033
+      },
+      "model": "pokedemo:item/items/liechi_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37033
+      },
+      "model": "pokedemo:item/held/berserk_gene"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37034
+      },
+      "model": "pokedemo:item/items/lum_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37034
+      },
+      "model": "pokedemo:item/held/up_grade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37035
+      },
+      "model": "pokedemo:item/items/mago_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37035
+      },
+      "model": "pokedemo:item/held/lucky_punch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37036
+      },
+      "model": "pokedemo:item/items/magost_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37036
+      },
+      "model": "pokedemo:item/held/metal_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37037
+      },
+      "model": "pokedemo:item/items/maranga_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37037
+      },
+      "model": "pokedemo:item/held/quick_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37038
+      },
+      "model": "pokedemo:item/items/micle_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37038
+      },
+      "model": "pokedemo:item/held/thick_club"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37039
+      },
+      "model": "pokedemo:item/items/nanab_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37039
+      },
+      "model": "pokedemo:item/held/stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37040
+      },
+      "model": "pokedemo:item/items/nomel_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37040
+      },
+      "model": "pokedemo:item/held/berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37041
+      },
+      "model": "pokedemo:item/items/occa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37041
+      },
+      "model": "pokedemo:item/held/gold_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37042
+      },
+      "model": "pokedemo:item/items/oran_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37042
+      },
+      "model": "pokedemo:item/held/przcureberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37043
+      },
+      "model": "pokedemo:item/items/pamtre_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37043
+      },
+      "model": "pokedemo:item/held/psncureberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37044
+      },
+      "model": "pokedemo:item/items/passho_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37044
+      },
+      "model": "pokedemo:item/held/bitter_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37045
+      },
+      "model": "pokedemo:item/items/payapa_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37045
+      },
+      "model": "pokedemo:item/held/burnt_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37046
+      },
+      "model": "pokedemo:item/items/pecha_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37046
+      },
+      "model": "pokedemo:item/held/ice_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37047
+      },
+      "model": "pokedemo:item/items/persim_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37047
+      },
+      "model": "pokedemo:item/held/mint_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37048
+      },
+      "model": "pokedemo:item/items/petaya_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37048
+      },
+      "model": "pokedemo:item/held/miracleberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37049
+      },
+      "model": "pokedemo:item/items/pinap_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37049
+      },
+      "model": "pokedemo:item/held/mysteryberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37050
+      },
+      "model": "pokedemo:item/items/pomeg_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37050
+      },
+      "model": "pokedemo:item/held/white_herb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37051
+      },
+      "model": "pokedemo:item/items/qualot_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37051
+      },
+      "model": "pokedemo:item/held/mental_herb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37052
+      },
+      "model": "pokedemo:item/items/rabuta_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37052
+      },
+      "model": "pokedemo:item/held/power_herb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37053
+      },
+      "model": "pokedemo:item/items/rawst_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37053
+      },
+      "model": "pokedemo:item/held/macho_brace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37054
+      },
+      "model": "pokedemo:item/items/razz_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37054
+      },
+      "model": "pokedemo:item/held/soothe_bell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37055
+      },
+      "model": "pokedemo:item/items/rindo_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37055
+      },
+      "model": "pokedemo:item/held/choice_band"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37056
+      },
+      "model": "pokedemo:item/items/roseli_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37056
+      },
+      "model": "pokedemo:item/held/choice_specs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37057
+      },
+      "model": "pokedemo:item/items/rowap_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37057
+      },
+      "model": "pokedemo:item/held/choice_scarf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37058
+      },
+      "model": "pokedemo:item/items/salac_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37058
+      },
+      "model": "pokedemo:item/held/soul_dew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37059
+      },
+      "model": "pokedemo:item/items/shuca_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37059
+      },
+      "model": "pokedemo:item/held/deep_sea_tooth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37060
+      },
+      "model": "pokedemo:item/items/sitrus_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37060
+      },
+      "model": "pokedemo:item/held/deep_sea_scale"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37061
+      },
+      "model": "pokedemo:item/items/spelon_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37061
+      },
+      "model": "pokedemo:item/held/shell_bell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37062
+      },
+      "model": "pokedemo:item/items/starf_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37062
+      },
+      "model": "pokedemo:item/held/sea_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37063
+      },
+      "model": "pokedemo:item/items/tamato_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37063
+      },
+      "model": "pokedemo:item/held/lax_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37064
+      },
+      "model": "pokedemo:item/items/tanga_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37064
+      },
+      "model": "pokedemo:item/held/odd_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37065
+      },
+      "model": "pokedemo:item/items/touga_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37065
+      },
+      "model": "pokedemo:item/held/rock_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37066
+      },
+      "model": "pokedemo:item/items/wacan_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37066
+      },
+      "model": "pokedemo:item/held/full_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37067
+      },
+      "model": "pokedemo:item/items/watmel_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37067
+      },
+      "model": "pokedemo:item/held/wave_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37068
+      },
+      "model": "pokedemo:item/items/wepear_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37068
+      },
+      "model": "pokedemo:item/held/rose_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37069
+      },
+      "model": "pokedemo:item/items/wiki_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37069
+      },
+      "model": "pokedemo:item/held/luck_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37070
+      },
+      "model": "pokedemo:item/items/yache_berry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37070
+      },
+      "model": "pokedemo:item/held/pure_incense"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37071
+      },
+      "model": "pokedemo:item/held/red_scarf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37072
+      },
+      "model": "pokedemo:item/held/blue_scarf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37073
+      },
+      "model": "pokedemo:item/held/pink_scarf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37074
+      },
+      "model": "pokedemo:item/held/green_scarf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37075
+      },
+      "model": "pokedemo:item/held/yellow_scarf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37076
+      },
+      "model": "pokedemo:item/held/red_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37077
+      },
+      "model": "pokedemo:item/held/blue_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37078
+      },
+      "model": "pokedemo:item/held/flame_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37079
+      },
+      "model": "pokedemo:item/held/splash_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37080
+      },
+      "model": "pokedemo:item/held/zap_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37081
+      },
+      "model": "pokedemo:item/held/meadow_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37082
+      },
+      "model": "pokedemo:item/held/icicle_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37083
+      },
+      "model": "pokedemo:item/held/fist_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37084
+      },
+      "model": "pokedemo:item/held/toxic_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37085
+      },
+      "model": "pokedemo:item/held/earth_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37086
+      },
+      "model": "pokedemo:item/held/sky_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37087
+      },
+      "model": "pokedemo:item/held/mind_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37088
+      },
+      "model": "pokedemo:item/held/insect_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37089
+      },
+      "model": "pokedemo:item/held/stone_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37090
+      },
+      "model": "pokedemo:item/held/spooky_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37091
+      },
+      "model": "pokedemo:item/held/draco_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37092
+      },
+      "model": "pokedemo:item/held/dread_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37093
+      },
+      "model": "pokedemo:item/held/iron_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37094
+      },
+      "model": "pokedemo:item/held/pixie_plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37095
+      },
+      "model": "pokedemo:item/held/oval_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37096
+      },
+      "model": "pokedemo:item/held/adamant_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37097
+      },
+      "model": "pokedemo:item/held/lustrous_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37098
+      },
+      "model": "pokedemo:item/held/griseous_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37099
+      },
+      "model": "pokedemo:item/held/protector"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37100
+      },
+      "model": "pokedemo:item/held/electirizer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37101
+      },
+      "model": "pokedemo:item/held/magmarizer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37102
+      },
+      "model": "pokedemo:item/held/dubious_disc"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37103
+      },
+      "model": "pokedemo:item/held/reaper_cloth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37104
+      },
+      "model": "pokedemo:item/held/razor_claw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37105
+      },
+      "model": "pokedemo:item/held/razor_fang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37106
+      },
+      "model": "pokedemo:item/held/wide_lens"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37107
+      },
+      "model": "pokedemo:item/held/muscle_band"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37108
+      },
+      "model": "pokedemo:item/held/wise_glasses"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37109
+      },
+      "model": "pokedemo:item/held/expert_belt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37110
+      },
+      "model": "pokedemo:item/held/light_clay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37111
+      },
+      "model": "pokedemo:item/held/life_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37112
+      },
+      "model": "pokedemo:item/held/toxic_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37113
+      },
+      "model": "pokedemo:item/held/flame_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37114
+      },
+      "model": "pokedemo:item/held/focus_sash"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37115
+      },
+      "model": "pokedemo:item/held/zoom_lens"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37116
+      },
+      "model": "pokedemo:item/held/metronome"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37117
+      },
+      "model": "pokedemo:item/held/iron_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37118
+      },
+      "model": "pokedemo:item/held/lagging_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37119
+      },
+      "model": "pokedemo:item/held/destiny_knot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37120
+      },
+      "model": "pokedemo:item/held/black_sludge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37121
+      },
+      "model": "pokedemo:item/held/icy_rock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37122
+      },
+      "model": "pokedemo:item/held/smooth_rock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37123
+      },
+      "model": "pokedemo:item/held/heat_rock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37124
+      },
+      "model": "pokedemo:item/held/damp_rock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37125
+      },
+      "model": "pokedemo:item/held/grip_claw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37126
+      },
+      "model": "pokedemo:item/held/sticky_barb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37127
+      },
+      "model": "pokedemo:item/held/power_bracer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37128
+      },
+      "model": "pokedemo:item/held/power_belt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37129
+      },
+      "model": "pokedemo:item/held/power_lens"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37130
+      },
+      "model": "pokedemo:item/held/power_band"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37131
+      },
+      "model": "pokedemo:item/held/power_anklet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37132
+      },
+      "model": "pokedemo:item/held/power_weight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37133
+      },
+      "model": "pokedemo:item/held/shed_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37134
+      },
+      "model": "pokedemo:item/held/big_root"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37135
+      },
+      "model": "pokedemo:item/held/douse_drive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37136
+      },
+      "model": "pokedemo:item/held/shock_drive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37137
+      },
+      "model": "pokedemo:item/held/burn_drive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37138
+      },
+      "model": "pokedemo:item/held/chill_drive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37139
+      },
+      "model": "pokedemo:item/held/prism_scale"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37140
+      },
+      "model": "pokedemo:item/held/eviolite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37141
+      },
+      "model": "pokedemo:item/held/float_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37142
+      },
+      "model": "pokedemo:item/held/rocky_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37143
+      },
+      "model": "pokedemo:item/held/air_balloon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37144
+      },
+      "model": "pokedemo:item/held/red_card"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37145
+      },
+      "model": "pokedemo:item/held/ring_target"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37146
+      },
+      "model": "pokedemo:item/held/binding_band"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37147
+      },
+      "model": "pokedemo:item/held/absorb_bulb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37148
+      },
+      "model": "pokedemo:item/held/cell_battery"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37149
+      },
+      "model": "pokedemo:item/held/eject_button"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37150
+      },
+      "model": "pokedemo:item/held/fire_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37151
+      },
+      "model": "pokedemo:item/held/water_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37152
+      },
+      "model": "pokedemo:item/held/electric_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37153
+      },
+      "model": "pokedemo:item/held/grass_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37154
+      },
+      "model": "pokedemo:item/held/ice_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37155
+      },
+      "model": "pokedemo:item/held/fighting_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37156
+      },
+      "model": "pokedemo:item/held/poison_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37157
+      },
+      "model": "pokedemo:item/held/ground_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37158
+      },
+      "model": "pokedemo:item/held/flying_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37159
+      },
+      "model": "pokedemo:item/held/psychic_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37160
+      },
+      "model": "pokedemo:item/held/bug_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37161
+      },
+      "model": "pokedemo:item/held/rock_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37162
+      },
+      "model": "pokedemo:item/held/ghost_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37163
+      },
+      "model": "pokedemo:item/held/dragon_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37164
+      },
+      "model": "pokedemo:item/held/dark_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37165
+      },
+      "model": "pokedemo:item/held/steel_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37166
+      },
+      "model": "pokedemo:item/held/normal_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37167
+      },
+      "model": "pokedemo:item/held/fairy_gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37168
+      },
+      "model": "pokedemo:item/held/weakness_policy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37169
+      },
+      "model": "pokedemo:item/held/blunder_policy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37170
+      },
+      "model": "pokedemo:item/held/assault_vest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37171
+      },
+      "model": "pokedemo:item/held/whipped_dream"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37172
+      },
+      "model": "pokedemo:item/held/sachet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37173
+      },
+      "model": "pokedemo:item/held/luminous_moss"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37174
+      },
+      "model": "pokedemo:item/held/snowball"
+    }
+  ]
+}

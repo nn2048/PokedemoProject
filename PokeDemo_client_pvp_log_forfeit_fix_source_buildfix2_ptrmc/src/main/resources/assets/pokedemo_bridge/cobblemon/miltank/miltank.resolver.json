@@ -1,0 +1,49 @@
+{
+  "species": "cobblemon:miltank",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:miltank",
+      "model": "cobblemon:miltank.geo",
+      "texture": "cobblemon:textures/pokemon/0241_miltank/miltank.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0241_miltank/miltank_shiny.png"
+    },
+    {
+      "aspects": [
+        "mooshtank-red"
+      ],
+      "model": "cobblemon:mooshtank.geo",
+      "texture": "cobblemon:textures/pokemon/0241_miltank/miltank_red_mushroom.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "mooshtank-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0241_miltank/miltank_red_mushroom_shiny.png"
+    },
+    {
+      "aspects": [
+        "mooshtank-brown"
+      ],
+      "model": "cobblemon:mooshtank.geo",
+      "texture": "cobblemon:textures/pokemon/0241_miltank/miltank_brown_mushroom.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "mooshtank-brown",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0241_miltank/miltank_brown_mushroom_shiny.png"
+    }
+  ]
+}

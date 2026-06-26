@@ -1,0 +1,61 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1.0,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "frillish",
+  "animations": {},
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "q.bedrock('frillish', 'water_idle')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "animations": [
+        "q.bedrock('frillish', 'water_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "SWIM"
+      ],
+      "animations": [
+        "q.bedrock('frillish', 'water_swim')"
+      ]
+    },
+    "surface-float": {
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "animations": [
+        "q.bedrock('frillish', 'water_idle')"
+      ]
+    },
+    "surface-swim": {
+      "poseTypes": [
+        "SWIM"
+      ],
+      "animations": [
+        "q.bedrock('frillish', 'water_swim')"
+      ]
+    }
+  }
+}

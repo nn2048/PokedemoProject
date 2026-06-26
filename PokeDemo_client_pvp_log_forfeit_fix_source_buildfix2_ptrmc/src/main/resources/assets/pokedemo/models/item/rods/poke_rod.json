@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "pokedemo:item/rods/poke_rod"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cast": 1
+      },
+      "model": "pokedemo:item/rods/poke_rod_cast"
+    }
+  ]
+}

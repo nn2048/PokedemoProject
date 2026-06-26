@@ -1,0 +1,64 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1.0,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "yamper",
+  "animations": {
+    "cry": "q.bedrock_primary('yamper', 'cry', q.curve('one'))"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "q.bedrock('yamper', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('yamper', 'ground_walk')"
+      ]
+    },
+    "running": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('yamper', 'ground_run')"
+      ]
+    },
+    "battle-standing": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('yamper', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('yamper', 'sleep')"
+      ]
+    }
+  }
+}

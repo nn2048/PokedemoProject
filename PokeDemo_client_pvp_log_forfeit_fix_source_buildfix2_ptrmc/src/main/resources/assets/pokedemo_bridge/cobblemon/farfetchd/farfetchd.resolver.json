@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:farfetchd",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:farfetchd",
+      "model": "cobblemon:farfetchd.geo",
+      "texture": "cobblemon:textures/pokemon/0083_farfetchd/farfetchd.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0083_farfetchd/farfetchd_shiny.png"
+    },
+    {
+      "aspects": [
+        "galarian"
+      ],
+      "poser": "cobblemon:farfetchd_galarian",
+      "model": "cobblemon:farfetchd_galar.geo",
+      "texture": "cobblemon:textures/pokemon/0083_farfetchd/farfetchd_galar.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "galarian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0083_farfetchd/farfetchd_galar_shiny.png"
+    }
+  ]
+}

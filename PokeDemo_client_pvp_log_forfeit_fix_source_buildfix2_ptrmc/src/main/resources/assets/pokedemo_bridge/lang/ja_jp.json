@@ -1,0 +1,6 @@
+{
+  "message.pokedemo_bridge.battle_reopen_hint": "Bキーでバトル画面に戻る",
+  "message.pokedemo_bridge.hud_on": "左側のポケモン欄を表示しました",
+  "message.pokedemo_bridge.hud_off": "左側のポケモン欄を非表示にしました",
+  "message.pokedemo_bridge.loaded": "クライアントモッドが接続されました。\"O\"キーで左側のポケモン欄を非表示にできます。\n上下キーでスロットを選び、\"R\"キーでポケモンを繰り出します。"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "squirtle",
+  "name": "杰尼龟",
+  "types": [
+    "water"
+  ],
+  "baseStats": {
+    "hp": 44,
+    "atk": 48,
+    "def": 65,
+    "spa": 50,
+    "spd": 64,
+    "spe": 43
+  },
+  "catchRate": 45,
+  "levelRange": [
+    2,
+    8
+  ],
+  "evYields": {
+    "def": 1
+  },
+  "baseExpYield": 63,
+  "expGroup": "MEDIUM_SLOW",
+  "levelUpMoves": {
+    "1": ["tackle", "tail_whip", "bubble"],
+    "3": ["water_gun"],
+    "6": ["withdraw"]
+  },
+  "evolutions": [
+    {
+      "variant": "level_up",
+      "minLevel": 16,
+      "result": "wartortle"
+    }
+  ]
+}

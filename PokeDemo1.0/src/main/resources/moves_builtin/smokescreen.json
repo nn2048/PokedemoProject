@@ -1,0 +1,13 @@
+{
+  "id": "smokescreen",
+  "name": "Smokescreen",
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": 1.0,
+  "pp": 20,
+  "priority": 0,
+  "effects": [
+    { "kind": "stat_stage", "target": "target", "stat": "accuracy", "stages": -1 }
+  ]
+}

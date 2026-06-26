@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "particle": "minecraft:block/note_block"
+  },
+  "elements": [],
+  "render_type": "minecraft:translucent"
+}

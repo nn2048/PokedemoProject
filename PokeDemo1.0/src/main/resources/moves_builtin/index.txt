@@ -1,0 +1,26 @@
+# Built-in moves copied when plugins/PokeDemo/moves is empty
+
+tackle.json
+quick_attack.json
+growl.json
+recover.json
+
+scratch.json
+ember.json
+smokescreen.json
+
+tail_whip.json
+bubble.json
+water_gun.json
+withdraw.json
+
+vine_whip.json
+growth.json
+leech_seed.json
+razor_leaf.json
+poison_powder.json
+sleep_powder.json
+
+thundershock.json
+thunder_wave.json
+double_team.json

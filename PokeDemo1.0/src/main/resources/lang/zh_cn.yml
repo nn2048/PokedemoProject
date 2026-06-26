@@ -1,0 +1,1243 @@
+pokedemo.gui.recipes.no_recipe: §7暂无配方
+pokedemo.gui.recipes.no_recipe_hint: §8该物品暂未配置合成表
+pokedemo.gui.recipes.click_view: §7点击查看配方
+pokedemo.gui.recipes.not_found: "§c找不到该配方：{key}"
+pokedemo.gui.clone.title: §d宝可梦克隆仪
+pokedemo.gui.clone.no_mew: §c未选择梦幻
+pokedemo.gui.clone.no_mew.lore: §7点击右侧按钮选择
+pokedemo.gui.clone.select_mew: §b选择梦幻
+pokedemo.gui.clone.select_mew.l1: §7打开队伍选择一只可克隆的梦幻
+pokedemo.gui.clone.select_mew.l2: §7选中后将进入锁定状态
+pokedemo.gui.clone.chance: §e克隆成功率
+pokedemo.gui.clone.chance.bonus: "§f当前加成：§a+{n}%"
+pokedemo.gui.clone.chance.hint: §7可通过消耗材料提高
+pokedemo.gui.clone.chance.cap: §7上限：§a+50%
+pokedemo.gui.clone.running: §d正在克隆中...
+pokedemo.gui.clone.running.rem: "§7剩余：§f{sec}§7 秒"
+pokedemo.gui.clone.running.break: §8挖掉机器将自动解除锁定
+pokedemo.gui.clone.idle: §7待机
+pokedemo.gui.clone.idle.hint: §7选择梦幻并设置概率后开始
+pokedemo.gui.clone.start: §d开始克隆
+pokedemo.gui.clone.start.l1: §7开始后将进入 60 秒倒计时
+pokedemo.gui.clone.start.l2: §7结束后按成功率判定
+pokedemo.gui.clone.start.ok: §a成功：§f生成超梦并摧毁克隆机
+pokedemo.gui.clone.start.fail: §c失败：§f生成低等级百变怪，机器保留
+pokedemo.gui.clone.clear: §c解除锁定/清空
+pokedemo.gui.clone.clear.l1: §7解除本机器对梦幻的锁定
+pokedemo.gui.clone.clear.l2: §7并清空概率加成
+pokedemo.gui.clone.clear.l3: §8(不会重置梦幻的克隆次数)
+pokedemo.clone.select_hint: "§b请在队伍中选择一只可克隆的梦幻。\n§7提示：被锁定的精灵不可选择。\n§7可用 /pokedemo unlockall 一键解除锁定。"
+pokedemo.clone.cleared: §a已解除锁定并清空该克隆机设置。
+pokedemo.clone.invalid_location: §c机器位置无效，请重新放置。
+pokedemo.clone.bonus.cap: §7成功率加成已达上限：§a+50%§7。
+pokedemo.clone.bonus.no_mat: "§c你没有足够的材料：{mat}"
+pokedemo.clone.bonus.added: "§a已添加成功率：§f+{inc}% §7→ §a+{next}%"
+pokedemo.battle.log.berry_cure_status: "§a{mon} 的§f{item}§a治愈了异常状态！"
+pokedemo.battle.log.berry_cure_confusion: "§a{mon} 的§f{item}§a治愈了混乱！"
+pokedemo.battle.log.eat_berry_heal: "§a{mon} 吃下了§f{item}§a，回复了 §f{n}§a 点HP！"
+pokedemo.battle.log.eat_berry: "§a{mon} 吃下了§f{item}§a！"
+pokedemo.battle.log.eat_berry_cure: "§a{mon} 吃下了§f{item}§a，治愈了异常状态！"
+pokedemo.battle.log.eat_berry_cure_confusion: "§a{mon} 吃下了§f{item}§a，治愈了混乱！"
+pokedemo: 
+gui: 
+recipes: 
+title: §8精灵详情
+cat: 
+balls: 
+lore: §7查看IV/EV
+devices: 
+items: 
+list: 
+prefix: '§6配方 - '
+devices_hint: 上=图鉴 左=PC 右=治疗机 中=红石中继器
+common: 
+back: 
+unlockall_hint: §7可用 §f/pokedemo unlockall §7一键解除所有锁定
+shift_click_details: §eShift+点击：查看详情
+shift_click_details_pokemon: §eShift+点击：查看精灵详情
+close: §c关闭
+prev: §e上一页
+next: §e下一页
+locked: §c已锁定，无法操作
+pc: §7返回电脑盒子
+page: ' §7(第{page}页)'
+left_click_take: §e左键：取出到队伍
+right_click_release_confirm: §c再次右键：确认放生
+right_click_release: §c右键：放生（需确认）
+party: §7返回队伍
+title_compact: §2队伍 §7(6)
+left_click_select_swap_gray: §7左键：选择/交换顺序
+right_click_store_pc: §b右键：存入电脑盒子
+left_click_pick_for_swap: §7左键：选择该精灵用于交换
+starter: 
+phone: 
+healer: 
+machine: 
+dex: 
+entry: 
+summary: 
+tab: 
+overview: 
+moves: 
+stats: 
+iv_ev: 
+no_desc: §7（暂无说明）
+none: (无)
+empty: §7(空)
+no_recipe: 暂无合成配方
+label: 
+uuid: UUID
+species: 物种
+nature: 性格
+types: 属性
+status: 状态
+hp: §cHP
+nickname: 
+ot: 
+held_item: 
+type: 属性
+category: 分类
+accuracy: 命中
+locked_tag: 锁定
+gender: 性别
+iv: 个体
+hint: §8(蛋只有放在队伍中才会孵化)
+placeholder: §7(服务器玩家)
+has: §7已携带
+remove: §8左键取下
+replace: §8先左键背包里的道具，再点此格可替换
+set: §8先左键背包里的道具，再点此格即可携带
+only_pokedemo: §8仅支持本插件道具
+egg: 
+pokedemo.gui.battle.title: §4战斗
+pokedemo.gui.battle.switch_title: §5换精灵
+pokedemo.gui.battle.loot_title: 战利品
+pokedemo.battle.gui.ally_title: "§a我方：{name} Lv.{level}"
+pokedemo.battle.gui.enemy_title_pvp: "§c对方：{player} 的 {name} Lv.{level}"
+pokedemo.battle.gui.enemy_title_wild: "§c野生：{name} Lv.{level}"
+pokedemo.battle.gui.hp: "§7生命值: {cur}/{max}"
+pokedemo.battle.gui.status: "§7状态: {status}"
+pokedemo.battle.gui.hint_wait: §e请稍等...
+pokedemo.battle.gui.hint_choose: §7请选择一个招式
+pokedemo.battle.gui.turn_suffix: "§8(回合 {turn})"
+pokedemo.battle.gui.turn_title: §6回合结算
+pokedemo.battle.gui.turn_locked: §8结算期间无法再次操作
+pokedemo.battle.gui.bag.title: §b道具
+pokedemo.battle.gui.bag.lore: §7使用战斗道具（X能力/要害攻击/防守指令等）
+pokedemo.battle.gui.catch.title: §a捕捉
+pokedemo.battle.gui.catch.l1: §7消耗背包中的精灵球
+pokedemo.battle.gui.catch.l2: "§7优先级: §f大师球>高级球>超级球>精灵球"
+pokedemo.battle.gui.catch.disabled_title: §c捕捉(禁用)
+pokedemo.battle.gui.catch.disabled_lore_pvp: §cPVP战斗中严格禁止捕捉
+pokedemo.battle.gui.run.title: §e逃跑
+pokedemo.battle.gui.run.l1: §7尝试逃跑（可能失败）
+pokedemo.battle.gui.run.disabled_title: §c逃跑(禁用)
+pokedemo.battle.gui.run.disabled_lore_pvp: §7PVP战斗中禁止逃跑
+pokedemo.battle.gui.switch.title: §d换精灵
+pokedemo.battle.gui.switch.l1: §7打开队伍选择界面
+pokedemo.battle.gui.switch.l2: §7换人会消耗本回合行动
+pokedemo.battle.gui.switch.disabled_title: §c换精灵(禁用)
+pokedemo.battle.gui.switch.disabled_lore_pvp: §7仅在昏厥时强制切换
+pokedemo.battle.gui.close.title: §c关闭
+pokedemo.battle.gui.close.l1: §7关闭界面不会立刻结束战斗
+pokedemo.battle.gui.close.l2: §7你可随时 /battle 继续
+pokedemo.battle.gui.move.empty_title: §7(无招式)
+pokedemo.battle.gui.move.empty_lore: §8该槽位为空或招式数据缺失
+pokedemo.battle.gui.move.l1: "§7属性: {type}  §7分类: {cat}"
+pokedemo.battle.gui.move.l2: "§7威力: {power}  §7命中: {acc}%"
+pokedemo.battle.gui.move.l3: "§7PP: {cur}/{max}"
+pokedemo.battle.gui.move.no_pp: §cPP 不足
+pokedemo.battle.gui.move.click_use: §8点击使用
+pokedemo.battle.forced_switch: §e你的精灵已昏厥，请先选择要派出的精灵。
+pokedemo.capture.throw_disabled: §e捕捉功能正在重做中，暂时无法丢球捕捉。请先进入战斗。
+pokedemo.battle.already_in: §c你正在战斗中，无法再次进入。§7(/battle leave)
+pokedemo.battle.already_in_short: §e你已经在战斗中，结束后才能开始新的战斗。
+pokedemo.battle.wait_turn: §e请稍等，本回合正在结算...
+pokedemo.battle.status.catching: §e请稍等...§7（捕捉中）
+pokedemo.battle.status.opponent_acting: §e请稍等...§7（对方行动中）
+pokedemo.battle.status.choose_move: §7请选择一个招式。
+pokedemo.battle.log.throw_ball: "§e你投出了 §f{ball}§e!"
+pokedemo.battle.log.capture_success: §a捕捉成功！§7你抓住了对方的精灵。
+pokedemo.battle.log.capture_fail: §c捕捉失败！§7精灵挣脱了出来。
+pokedemo.battle.log.capture_fail_shakes: "§c捕捉失败！§7精灵球摇晃了 {n} 次后挣脱了出来。"
+pokedemo.battle.log.caught_party: §7已加入你的队伍。
+pokedemo.battle.log.caught_pc: §7队伍已满，已存入电脑盒子。
+pokedemo.battle.capture.save_fail: "§c捕捉写入存档失败: {msg}"
+pokedemo.battle.wild_locked: §e该野生精灵已经在战斗中了！
+pokedemo.battle.repel_active: §7驱虫喷雾效果中，无法遭遇野生精灵。
+pokedemo.spectate.enter_pvp: "§7你已进入§a观战§7：§f{a} §7vs §f{b}§7（仅聊天）"
+pokedemo.spectate.enter_wild: "§7你已进入§a观战§7：§f{player}§7 的战斗（仅聊天）"
+pokedemo.spectate.auto_enter: "§7该野生精灵正在与 §f{owner} §7战斗中，你已进入§a观战§7（仅聊天）。"
+pokedemo.battle.item.cannot_use: §7无法使用该道具。
+pokedemo.battle.item.stat_cannot_raise: "§7{mon} 的能力已经无法再提升了。"
+pokedemo.battle.item.stat_cannot_lower: "§7{mon} 的能力已经无法再降低了。"
+pokedemo.battle.item.already_active: "§7{item} 已经生效了。"
+pokedemo.battle.item.only_wild: "§7{item} 只能用于野外战斗。"
+pokedemo.battle.item.not_implemented: "§7该战斗道具暂未实现：{id}"
+pokedemo.battle.item.fainted_no_heal: "§7{mon} 已经倒下，无法使用该回复道具（请使用复活类道具）。"
+pokedemo.battle.item.fainted_no_status: "§7{mon} 已经倒下，无法使用状态药。"
+pokedemo.battle.item.not_needed: "§7{mon} 现在不需要使用 {item}。"
+pokedemo.battle.item.no_status_to_cure: "§7{mon} 当前没有需要治愈的异常状态。"
+pokedemo.battle.item.not_fainted_revive: "§7{mon} 还没倒下，无法使用复活类道具。"
+pokedemo.battle.item.not_supported_in_battle: "§7该道具暂未支持战斗中使用：{id}"
+pokedemo.battle.item.bad_param: "§7该道具参数异常，无法在战斗中使用：{id}"
+pokedemo.battle.item.bad_param_status: "§7该状态药参数异常，无法使用：{id}"
+pokedemo.battle.item.hp_full: "§7{mon} 已经是满血了。"
+pokedemo.battle.item.heal.extra_cure: ，并治愈了异常状态
+pokedemo.battle.log.use_item.heal: "§a使用了 {item}：§f{mon} §a回复 {heal}"
+pokedemo.battle.log.use_item.boost_sp: "§e{mon} 使用了 §f{item}§e！§d特殊提升了！"
+pokedemo.battle.log.use_item.boost_stat: "§e{mon} 使用了 §f{item}§e！§d{stat}提升了！"
+pokedemo.battle.log.use_item.dire_hit: "§e{mon} 使用了 §f{item}§e！§d要害命中率提高了！"
+pokedemo.battle.log.recharge: "§e{atk} 需要恢复精力，无法行动！"
+pokedemo.battle.log.paralyzed: "§e{atk} 因为麻痹而无法行动！"
+pokedemo.battle.log.flinch: "§e{atk} 畏缩了，无法行动！"
+pokedemo.battle.log.frozen: "§e{atk} 冻结了，无法行动！"
+pokedemo.battle.log.asleep: "§e{atk} 睡着了，无法行动！"
+pokedemo.battle.log.confusion_selfhit: "§e{atk} 因为混乱而攻击了自己！"
+pokedemo.battle.log.miss: "§e但是没有命中！"
+pokedemo.battle.log.no_effect: §7没有效果...
+pokedemo.machine.place.not_allowed: §c这里不能放置。
+pokedemo.machine.ranch.disabled: §c精灵牧场已被管理员禁用。
+pokedemo.machine.pc.no_space: §c上方空间不足，无法放置PC。
+pokedemo.machine.pc.placed: §b放置了PC
+pokedemo.machine.pc.removed: §b拆除了PC
+pokedemo.machine.healer.placed: §a放置了治疗仪
+pokedemo.machine.healer.removed: §a拆除了治疗仪
+pokedemo.machine.healer.used: §a治疗机已恢复你的队伍：回满血、清除异常并恢复PP。
+pokedemo.machine.ranch.placed: §d放置了精灵牧场
+pokedemo.machine.ranch.removed: §d拆除了精灵牧场
+pokedemo.machine.cloner.placed: §d放置了宝可梦克隆仪
+pokedemo.machine.trader.placed: §e放置了宝可梦交换机
+pokedemo.machine.trader.plugin_null: §e宝可梦交换机：§c插件实例异常
+pokedemo.machine.fossil.analyzer.placed: §6放置了化石解析仪
+pokedemo.machine.fossil.reviver.placed: §6放置了化石复活机
+pokedemo.battle.log.attract: "§d{atk} 陷入了爱河，无法行动！"
+pokedemo.battle.log.heal_hp: "§a{mon} 回复了 §c{n}§a 点体力！"
+pokedemo.battle.log.encore: "§7{atk} 继续使用了 §f{move}§7！"
+pokedemo.battle.log.disable: "§7{atk} 的 §f{move}§7 被定身法封印了！"
+pokedemo.battle.log.bide_charging: "§7{atk} 忍耐中……"
+pokedemo.battle.log.bide_release: "§c{atk} 释放了忍耐！"
+pokedemo.battle.log.deal_damage: "§f造成了 §c{dmg}§f 点伤害！ §7({hp}/{max})"
+pokedemo.battle.log.confused: "§d{atk} 混乱了！"
+pokedemo.battle.log.confused_hit_self: "§c它撞到了自己！ §f造成了 §c{dmg}§f 点伤害！"
+pokedemo.battle.log.confusion_end: "§a{atk} 恢复正常了！"
+pokedemo.battle.log.sleeping: "§7{atk} 还在睡觉，无法行动！"
+pokedemo.battle.log.woke_up: "§a{atk} 醒来了！"
+pokedemo.battle.log.damp: "§6【湿气】§e空气变得潮湿，招式失败了！"
+pokedemo.battle.log.soundproof: "§6【隔音】§e{def} 对声音招式免疫！"
+pokedemo.battle.log.safety_goggles: "§7{def} 的§f防尘护目镜§7挡住了粉末！"
+pokedemo.battle.log.overcoat: "§6【防尘】§e{def} 挡住了粉末！"
+pokedemo.battle.log.fail: "§7失败了。"
+pokedemo.battle.log.blunder_policy: "§d{atk} 的§f打空保险§d发动了！速度大幅提升！"
+pokedemo.battle.log.weather.sun: "§e阳光变得强烈了！ §7({n}回合)"
+pokedemo.battle.log.escape_fail: "§c逃跑失败！"
+pokedemo.battle.log.escape_try_fail: "§7你尝试逃跑，但没能成功..."
+pokedemo.battle.item.error: "§c道具使用时发生错误: {err}"
+pokedemo.battle.log.mystery_berry: "§a{mon} 的§f神秘果§a回复了招式PP！"
+pokedemo.battle.log.cannot_move_anymore: "§7但是它已无法行动了！"
+pokedemo.battle.log.defeat_wild: "§a你击败了野生精灵：§f{wild}§a！"
+pokedemo.battle.log.pickup: "§6【捡拾】§e{mon} 捡到了 §f{item}§e！"
+pokedemo.battle.log.gain_exp: "§f{mon} §a获得了 §e{exp}§a 经验值。"
+pokedemo.battle.log.level_up: "§b升级！§f{mon} §a到达 §eLv.{lv}§a！"
+pokedemo.battle.log.forced_switch: "§e你的精灵昏厥了！请在列表中选择要派出的精灵。"
+pokedemo.battle.log.party_fainted_end: "§c你的队伍全部昏厥了！战斗结束。"
+pokedemo.common.player_a: 玩家A
+pokedemo.common.player_b: 玩家B
+pokedemo.common.player: 玩家
+pokedemo.gui.common.back_to_battle: "§7返回战斗界面"
+pokedemo.battle.log.weather.rain: "§b开始下雨了！ §7({n}回合)"
+pokedemo.battle.log.weather.sandstorm: "§e沙暴刮起来了！ §7({n}回合)"
+pokedemo.battle.log.weather.hail: "§b开始下冰雹了！ §7({n}回合)"
+pokedemo.battle.end.blowaway_player: "§e你使用了 {move}，战斗结束。"
+pokedemo.battle.end.blowaway_wild: "§e野生 {def} 被 {move} 吹走了！战斗结束。"
+pokedemo.battle.end.teleport_player: "§e你使用了瞬间移动，成功逃跑！"
+pokedemo.battle.end.teleport_wild: "§e野生 {atk} 使用了瞬间移动，逃走了！"
+pokedemo.battle.log.mirror_move: "§7{atk} 使用了鹦鹉学舌！"
+pokedemo.battle.log.focus_energy: "§a{atk} 集中精神！(Gen1)"
+pokedemo.battle.log.transform: "§b{atk} 变身成了 {def}！"
+pokedemo.battle.log.learn_temp: "§d{atk} 学会了 §f{move}§d！（战斗结束后失效）"
+pokedemo.battle.log.metronome: "§7{atk} 挥指使出了 §f{move}§7！"
+pokedemo.battle.log.power_herb: "§e{atk} 的§f强力香草§e让它立刻行动！"
+pokedemo.battle.log.harsh_sun_now: "§e阳光很强烈！"
+pokedemo.battle.log.charging: "§7{atk} 蓄力中……"
+pokedemo.battle.log.ohko: "§c一击必杀！！"
+pokedemo.battle.log.super_effective: "§c效果拔群！"
+pokedemo.battle.log.not_very_effective: "§7效果不太好…"
+pokedemo.battle.log.throw_no_item: "§6【投掷】§e{atk} 没有可投掷的道具！"
+pokedemo.battle.log.hit_times: "§f命中了 §e{n}§f 次！"
+pokedemo.battle.log.ability.justified: "§6【正义之心】§e{def} 的攻击提升了！"
+pokedemo.battle.log.ability.anger_point: "§6【愤怒穴位】§e{def} 的攻击最大化了！"
+pokedemo.battle.log.item.escape_button: "§e逃脱按键让你撤回了宝可梦！"
+pokedemo.battle.log.item.rocky_helmet: "§6{def} 的§f凸凸头盔§6反弹了伤害！ §7(-{n})"
+pokedemo.battle.log.item.eject_button: "§e{def} 的§f红牌§e发动了！"
+pokedemo.battle.log.item.eject_button_force: "§e红牌把你的宝可梦弹回去了！"
+pokedemo.battle.log.item.shell_bell: "§a{atk} 的§f贝壳之铃§a回复了 {n} 点体力！"
+pokedemo.battle.log.item.covert_cloak: "§7但是{def} 的§f密探斗篷§7阻止了追加畏缩！"
+pokedemo.battle.log.flinched_short: "§e{def} 畏缩了！"
+pokedemo.battle.log.ability.steadfast: "§6【不屈之心】§e{def} 没有畏缩！"
+pokedemo.battle.log.use_item.guard_spec: "§e{mon} 使用了 §f{item}§e！§d能力下降被防止了！ §7({n}回合)"
+pokedemo.battle.log.use_item.poke_doll: "§e{mon} 使用了 §f{item}§e！§d你成功逃走了！"
+pokedemo.battle.log.use_item.cure_status: "§a使用了 {item}：§f{mon} §a异常状态已治愈。"
+pokedemo.battle.log.use_item.revive: "§a使用了 {item}：§f{mon} §a复活（{hp}/{max}）。"
+pokedemo.battle.log.ability.intimidate: "§6【威吓】§e{self} 让 {foe} 的攻击下降了！"
+pokedemo.battle.log.ability.intimidate_no_effect: "§6【威吓】§7但是没有效果！"
+pokedemo.battle.log.ability.rattled: "§6【胆怯】§e{mon} 的速度提升了！"
+pokedemo.battle.log.ability.download_atk: "§6【下载】§e{mon} 的攻击提升了！"
+pokedemo.battle.log.ability.download_spa: "§6【下载】§e{mon} 的特攻提升了！"
+pokedemo.battle.log.ability.frisk: "§6【察觉】§e{self} 发现对手携带了 §f{item}§e！"
+pokedemo.battle.log.ability.anticipation: "§6【预知危险】§e{mon} 预感到了危险！"
+pokedemo.battle.log.ability.forewarn: "§6【预知梦】§e{mon} 变得警觉起来！"
+pokedemo.battle.log.ability.pressure: "§6【压迫感】§e{mon} 施加了压力！"
+pokedemo.battle.log.ability.trace: "§6【复制】§e{self} 复制了 {foe} 的特性：§f{ab}§e！"
+pokedemo.battle.log.ability.imposter: "§6【冒牌货】§b{self} 变身成了 {foe}！"
+pokedemo.battle.log.ability.neutralizing_gas: "§6【化学变化气体】§e场上的其他宝可梦特性被抑制了！"
+pokedemo.battle.log.ability.natural_cure: "§6【自然回复】§e{mon} 的异常状态被治愈了！"
+pokedemo.battle.log.ability.regenerator: "§6【再生力】§a{mon} 回复了 §c{n}§a 点体力！"
+pokedemo.battle.log.ability.defiant: "§6【不服输】§e{mon} 的攻击大幅提升了！"
+pokedemo.battle.log.ability.competitive: "§6【好胜】§e{mon} 的特攻大幅提升了！"
+pokedemo.battle.log.ability.synchronize: "§6【同步】§e{target} 将异常状态同步给了 {source}！"
+pokedemo.battle.log.ability.contact_recoil: "§6【{ab}】§c{atk} 受到了反伤！ §7(-{n})"
+pokedemo.battle.log.ability.cute_charm_oblivious: "§6【迷人之躯】§e{atk} 没有被影响（迟钝）"
+pokedemo.battle.log.ability.poison_touch: "§6【毒手】§d{atk} 让 {def} 中毒了！"
+pokedemo.battle.log.ability.weak_armor: "§6【碎甲】§e{def} 的防御下降了，速度大幅提升！"
+pokedemo.battle.log.ability.cursed_body: "§6【诅咒之躯】§d{def} 封印了 {atk} 的招式！"
+pokedemo.battle.log.item.mental_herb_disable: "§e{atk} 的§f心灵香草§e发动了！定身法效果被解除！"
+pokedemo.battle.log.ability.moxie: "§6【自信过度】§e{atk} 的攻击提升了！"
+pokedemo.battle.log.ability.aftermath: "§6【余波】§c{killer} 受到了爆炸伤害！ §7(-{n})"
+pokedemo.battle.log.ability.inflict_status: "§6【特性】§e{tgt} 陷入了 {status} 状态！"
+pokedemo.pvp.cannot_start_someone_battling: "§e有一方正在战斗中，无法开始PVP。"
+pokedemo.pvp.already_preparing_self: "§e你正在准备/进行另一场PVP。"
+pokedemo.pvp.already_preparing_other: "§e对方正在准备/进行另一场PVP。"
+pokedemo.pvp.prep_enter: "§6[PVP]§7 已进入准备界面，请调整队伍顺序并点击确认。"
+pokedemo.pvp.prep_cancelled: "§6[PVP]§7 准备已取消。"
+pokedemo.pvp.prep_expired: "§e该PVP准备已失效。"
+pokedemo.pvp.other_offline: "§e对方不在线，无法开始PVP。"
+pokedemo.pvp.need_usable_party: "§c无法开始PVP：双方都必须至少有一只未昏厥且非蛋的精灵。"
+pokedemo.pvp.started: "§6[PVP]§a 战斗开始！"
+pokedemo.battle.invalid_wild: "§c无效的野生精灵。"
+pokedemo.battle.no_party: "§c你的队伍里没有精灵。管理员可用 /pokedemo give <精灵ID> 来给你一只（演示用）。"
+pokedemo.battle.no_usable_party: "§c你的队伍中没有可出战的精灵（蛋不能出战，且必须至少有一只未昏厥的精灵）。"
+pokedemo.battle.log.ability.flinch: "§6【{ability}】§e{def} 畏缩了！"
+pokedemo.battle.log.ability.noflinch: "§6【{ability}】§e{def} 没有畏缩！"
+pokedemo.battle.log.substitute.create: "§7{atk} 制造了替身！"
+pokedemo.battle.log.recharge_short: "§e{atk} 需要恢复精力！"
+pokedemo.battle.log.substitute.block: "§7但是替身挡住了！"
+pokedemo.battle.log.disable.applied: "§7{def} 的招式被定身法封印了！"
+pokedemo.battle.log.disable.mentalherb: "§e{def} 的§f心灵香草§e发动了！定身法效果被解除！"
+pokedemo.battle.log.bind.gripclaw: "§6{atk} 的§f紧缚带§6让束缚伤害提高了！ §7(-{dmg})"
+pokedemo.battle.log.bind.applied: "§e{def} 被束缚住了！"
+pokedemo.battle.log.bide.start: "§7{atk} 开始忍耐！"
+pokedemo.battle.log.haze: "§7黑雾吹散了能力变化！"
+pokedemo.battle.log.mist: "§7白雾保护着 {atk}！"
+pokedemo.battle.log.conversion: "§7属性改变了。"
+pokedemo.battle.log.heal.generic: "§a回复了体力！ §7({hp}/{max})"
+pokedemo.battle.log.ability.liquidooze: "§6【{ability}】§c{atk} 因吸取受到了伤害！ §7(-{dmg})"
+pokedemo.battle.log.drain.heal: "§a吸取回复了体力！ §7(+{heal})"
+pokedemo.battle.log.stat_change: "§d{who} 的 {stat}{dir}了！"
+pokedemo.battle.word.rose: 提升
+pokedemo.battle.word.fell: 降低
+pokedemo.battle.log.send_out: "§b你派出了 {mon}！"
+pokedemo.battle.log.damage: "§f造成了 §c{dmg}§f 点伤害！ §7({hp}/{max})"
+pokedemo.battle.log.item.covertcloak: "§7但是{who} 的§f密探斗篷§7阻止了追加效果！"
+pokedemo.battle.log.ability.shielddust: "§6【{ability}】§e{who} 不会受到追加效果影响！"
+pokedemo.battle.log.ability.shielddust_noflinch: "§6【{ability}】§e{def} 不会畏缩！（追加效果无效）"
+pokedemo.battle.log.ability.leafguard: "§6【{ability}】§e{who} 在阳光下不会陷入异常状态！"
+pokedemo.battle.log.status.immune: "§6【特性】§e{who} 对该异常状态免疫！"
+pokedemo.battle.log.status.sleep: "§b{who} 睡着了！"
+pokedemo.battle.log.status.poison: "§a{who} 中毒了！"
+pokedemo.battle.log.status.toxic: "§a{who} 中了剧毒！"
+pokedemo.battle.log.status.burn: "§c{who} 被灼伤了！"
+pokedemo.battle.log.status.paralysis: "§e{who} 麻痹了！"
+pokedemo.battle.log.status.freeze: "§b{who} 冻结了！"
+pokedemo.battle.log.reflect: "§b反射壁张开了！ §7({turns}回合)"
+pokedemo.battle.log.lightscreen: "§b光墙张开了！ §7({turns}回合)"
+pokedemo.battle.log.leechseed: "§a种子寄生在了对手身上！"
+pokedemo.battle.log.item.clearamulet: "§7但是{who} 的§f清净坠饰§7阻止了能力被降低！"
+pokedemo.battle.log.mist_protect: "§7但是白雾保护着 {who}！"
+pokedemo.battle.log.item.mirrorherb: "§e{holder} 的§f模仿香草§e发动了！能力变化被复制了！"
+pokedemo.battle.log.item.ejectpack: "§e{who} 的§f逃脱背包§e发动了！"
+pokedemo.battle.log.item.ejectpack_hint: "§e逃脱背包让你撤回了宝可梦！"
+pokedemo.battle.log.recoil: "§c{atk} 受到了反作用力！ §7(-{dmg})"
+pokedemo.battle.log.ability.owntempo: "§6【{ability}】§e{who} 不会混乱！"
+pokedemo.battle.log.status.confusion: "§d{who} 混乱了！"
+battle.item.covert_cloak.block_secondary: "§7但是{def} 的§f密探斗篷§7阻止了追加效果！"
+battle.status.sleep.fell: "§b{mon} 睡着了！"
+battle.common.healed: "§a{mon} 体力恢复了！"
+battle.common.fainted: "§c{mon} 倒下了！"
+battle.item.throat_spray.activate: "§d{mon} 的§f爽喉喷雾§d发动了！特攻提升了！"
+battle.item.life_orb.damage: "§c{mon} 因§f生命宝珠§c受到了 §c{dmg}§c 点伤害。"
+battle.item.shell_bell.heal: "§a{mon} 的§f贝壳之铃§a回复了 §c{heal}§a 点体力。"
+battle.ability.sticky_hold.block_swap: "§6【黏着】§e{mon} 的道具无法被交换！"
+battle.move.trick.switch_items: "§6【{move}】§e双方的道具被交换了！"
+battle.status.toxic: "§a{mon} 中了剧毒！"
+battle.status.poison: "§a{mon} 中毒了！"
+battle.status.burn: "§c{mon} 被灼伤了！"
+battle.status.paralysis: "§e{mon} 麻痹了！"
+battle.substitute.took_damage: "§7替身替 {mon} 承受了伤害！"
+battle.substitute.broke: "§7替身破碎了！"
+battle.ability.sturdy.hold_on: "§6【结实】§e{mon} 挺住了！(1 HP)"
+battle.item.focus_sash.hold_on: "§e{mon} 靠§f气势披带§e撑住了！(1 HP)"
+battle.item.focus_band.hold_on: "§e{mon} 靠§f气势头带§e撑住了！(1 HP)"
+pokedemo.battle.log.ability.poison_heal: "§a【{ability}】{mon} 回复了 §c{amt}§a 点体力。"
+pokedemo.battle.log.status.damage.poison: "§a{mon} 因{status}受到了 §c{dmg}§a 点伤害。"
+pokedemo.battle.log.status.damage.burn: "§c{mon} 因{status}受到了 §c{dmg}§c 点伤害。"
+pokedemo.battle.log.status.damage.toxic: "§2{mon} 因{status}受到了 §c{dmg}§2 点伤害。"
+pokedemo.battle.log.item.leftovers.heal: "§a{mon} 的§f{item}§a回复了 §c{amt}§a 点体力。"
+pokedemo.battle.log.item.black_sludge.heal: "§a{mon} 的§f{item}§a回复了 §c{amt}§a 点体力。"
+pokedemo.battle.log.item.black_sludge.damage: "§c{mon} 因§f{item}§c受到了 §c{amt}§c 点伤害。"
+pokedemo.battle.log.item.status_orb.toxic_orb: "§d{mon} 被§f{item}§d的力量影响，{status}了！"
+pokedemo.battle.log.item.status_orb.flame_orb: "§6{mon} 被§f{item}§6的力量影响，{status}了！"
+pokedemo.battle.log.item.sticky_barb.damage: "§c{mon} 因§f{item}§c受到了 §c{amt}§c 点伤害。"
+pokedemo.common.back: §e返回
+pokedemo.common.back_red: §c返回
+pokedemo.common.back_to_machine: §7返回机器界面
+pokedemo.common.click_select_paren: §7(点击选择)
+pokedemo.common.close: §c关闭
+pokedemo.common.empty_slot: §7空槽位
+pokedemo.common.locked_cannot_select: §c已锁定，无法选择
+pokedemo.common.locked_tag: §c(锁定中)
+pokedemo.common.missing_paren: (丢失)
+pokedemo.common.seconds_gray: §7 秒
+pokedemo.common.unlockall_hint_short: §7可用 /pokedemo unlockall 一键解除
+pokedemo.machine.analyzer.claim_note: §7背包满了会掉落到地面
+pokedemo.machine.analyzer.click_claim: §a点击获取化石
+pokedemo.machine.analyzer.countdown_prefix: §7倒计时：§e
+pokedemo.machine.analyzer.inject_water_btn: §e注入水桶
+pokedemo.machine.analyzer.inject_water_lore1: §7点击消耗 1 桶水
+pokedemo.machine.analyzer.inject_water_lore2: §7并返还 1 个空桶
+pokedemo.machine.analyzer.need_stone: §7请先放入可疑的石头。
+pokedemo.machine.analyzer.need_water: §7请先注入水桶。
+pokedemo.machine.analyzer.no_bucket: §7你背包里没有水桶。
+pokedemo.machine.analyzer.no_stone: §7你背包里没有可疑的石头。
+pokedemo.machine.analyzer.placed: §6放置了化石解析仪
+pokedemo.machine.analyzer.put_stone_btn: §e放入可疑的石头
+pokedemo.machine.analyzer.put_stone_lore: §7点击消耗 1 个可疑的石头
+pokedemo.machine.analyzer.put_stone_note: §8（放入后不可取回）
+pokedemo.machine.analyzer.result_wait: §7已有结果待领取。
+pokedemo.machine.analyzer.running: §e解析中…
+pokedemo.machine.analyzer.running_wait: §7解析中，等待倒计时结束…
+pokedemo.machine.analyzer.seconds_suffix: 
+pokedemo.machine.analyzer.start_btn: §7开始解析
+pokedemo.machine.analyzer.start_lore: §7点击开始（60秒）
+pokedemo.machine.analyzer.starting: §6开始解析（60秒）…
+pokedemo.machine.analyzer.stone_in: §a已放入：可疑的石头
+pokedemo.machine.analyzer.title: §6化石解析仪
+pokedemo.machine.analyzer.water_in: §a已注入水
+pokedemo.machine.clone.added_bonus_prefix: §a已添加成功率：§f+
+pokedemo.machine.clone.back_to_machine: §7返回克隆机界面
+pokedemo.machine.clone.bad_loc: §c机器位置无效，请重新放置。
+pokedemo.machine.clone.bonus_cap: §7成功率加成已达上限：§a+50%§7。
+pokedemo.machine.clone.bonus_prefix: §f当前加成：§a+
+pokedemo.machine.clone.break_unlock_hint: §8挖掉机器将自动解除锁定
+pokedemo.machine.clone.can_clone: §a可克隆
+pokedemo.machine.clone.choose_hint: §b请在队伍中选择一只可克隆的梦幻。\n§7提示：被锁定的精灵不可选择。\n§7可用 /pokedemo unlockall 一键解除锁定。
+pokedemo.machine.clone.cleared: §a已解除锁定并清空该克隆机设置。
+pokedemo.machine.clone.click_pick: §e点击选择这只梦幻
+pokedemo.machine.clone.consume_one_prefix: §7点击消耗 1 个 
+pokedemo.machine.clone.hint1: §7选择梦幻并设置概率后开始
+pokedemo.machine.clone.hint2: §7开始后将进入 60 秒倒计时
+pokedemo.machine.clone.mat_diamond: 钻石块
+pokedemo.machine.clone.mat_gold: 金块
+pokedemo.machine.clone.mat_iron: 铁块
+pokedemo.machine.clone.mat_netherite: 下界合金块
+pokedemo.machine.clone.no_egg: §c蛋不能用于克隆
+pokedemo.machine.clone.no_mats: §c你没有足够的材料：
+pokedemo.machine.clone.no_more: §c已无法再克隆
+pokedemo.machine.clone.only_mew: §7仅梦幻可用于克隆
+pokedemo.machine.clone.outcome_fail: §c失败：§f生成低等级百变怪，机器保留
+pokedemo.machine.clone.outcome_note: §8(不会重置梦幻的克隆次数)
+pokedemo.machine.clone.outcome_success: §a成功：§f生成超梦并摧毁克隆机
+pokedemo.machine.clone.party_invalid: §c队伍不能只有梦幻/蛋
+pokedemo.machine.clone.party_need_other: §7请至少携带 1 只其它可战斗精灵
+pokedemo.machine.clone.pick_title: §d选择梦幻 §7(队伍)
+pokedemo.machine.clone.placed: §d放置了宝可梦克隆仪
+pokedemo.machine.clone.raise_cap: §7最高到 §a+50%
+pokedemo.machine.clone.raise_success: §7提升克隆成功率
+pokedemo.machine.clone.remaining_prefix: §7剩余：§f
+pokedemo.machine.clone.select_lore1: §7打开队伍选择一只可克隆的梦幻
+pokedemo.machine.clone.select_lore2: §7选中后将进入锁定状态
+pokedemo.machine.clone.times_prefix: §7克隆次数：§f
+pokedemo.machine.common.cannot_place: §c这里不能放置。
+pokedemo.machine.fossil.add_fuel_left: §7左键：添加 1 个红石（+1秒）
+pokedemo.machine.fossil.add_fuel_right: §7右键：添加 64 个红石（+64秒，按你背包实际扣除）
+pokedemo.machine.fossil.ball_click_use_prefix: §8点击使用（拥有 
+pokedemo.machine.fossil.cannot_add_fuel: §7当前无法添加燃料。
+pokedemo.machine.fossil.cannot_put_fossil: §7当前无法放入化石。
+pokedemo.machine.fossil.choose_ball_title: 选择精灵球
+pokedemo.machine.fossil.choose_fossil_title: 选择化石
+pokedemo.machine.fossil.claim_fail: §c领取失败。
+pokedemo.machine.fossil.claim_ok: §a已领取化石蛋！
+pokedemo.machine.fossil.claimable: §a可领取：
+pokedemo.machine.fossil.click_claim: §7点击领取化石
+pokedemo.machine.fossil.click_claim_egg: §7点击领取蛋（选择精灵球）
+pokedemo.machine.fossil.click_start: §7点击开始解析
+pokedemo.machine.fossil.countdown_prefix: §7倒计时：§e
+pokedemo.machine.fossil.egg: §a蛋
+pokedemo.machine.fossil.fossil_amber: §6秘密琥珀
+pokedemo.machine.fossil.fossil_amber_plain: 秘密琥珀
+pokedemo.machine.fossil.fossil_change_hint: §7点击更换（化石放入后不可收回）
+pokedemo.machine.fossil.fossil_dome: §a甲壳化石
+pokedemo.machine.fossil.fossil_dome_plain: 甲壳化石
+pokedemo.machine.fossil.fossil_helix: §b螺旋化石
+pokedemo.machine.fossil.fossil_helix_plain: 螺旋化石
+pokedemo.machine.fossil.fossil_label: §e化石：
+pokedemo.machine.fossil.fuel_btn: §c供能
+pokedemo.machine.fossil.fuel_now: §8当前燃料：
+pokedemo.machine.fossil.fuel_prefix: §6已供能 §e
+pokedemo.machine.fossil.inject_water_btn: §b注入水
+pokedemo.machine.fossil.left_click_choose: §7左键点击选择化石
+pokedemo.machine.fossil.need_fossil: §7请先放入化石。
+pokedemo.machine.fossil.need_fuel: §7请先添加红石供能。
+pokedemo.machine.fossil.no_ball: §7你背包里没有可用的精灵球。
+pokedemo.machine.fossil.no_ball_for_egg: §7你背包里没有可用的精灵球。\n§7请先准备精灵球再领取蛋。
+pokedemo.machine.fossil.no_redstone: §7你背包里没有红石。
+pokedemo.machine.fossil.no_this_fossil: §7你背包里没有这个化石。
+pokedemo.machine.fossil.not_started: §7未解析
+pokedemo.machine.fossil.placed: §6放置了化石复活机
+pokedemo.machine.fossil.put_fossil_btn: §e放入化石
+pokedemo.machine.fossil.put_ok: §6已放入化石
+pokedemo.machine.fossil.put_one: §7点击放入（消耗 1 个）
+pokedemo.machine.fossil.running: §7解析中…
+pokedemo.machine.fossil.seconds_suffix: 秒
+pokedemo.machine.fossil.seconds_suffix_gold: §6 秒
+pokedemo.machine.fossil.seconds_suffix_gray: §7 秒
+pokedemo.machine.fossil.start_analyze: §6开始解析…
+pokedemo.machine.fossil.status_egg_wait: §7已有蛋待领取。
+pokedemo.machine.fossil.status_not: §7状态：未解析
+pokedemo.machine.fossil.status_running: §e解析中
+pokedemo.machine.fossil.status_running_wait: §7解析中，等待倒计时结束…
+pokedemo.machine.fossil.title: §6化石复活机
+pokedemo.machine.fossil.use_water1: §7点击消耗 1 桶水
+pokedemo.machine.fossil.use_water2: §7并返还 1 个空桶
+pokedemo.machine.fossil.water_done: §a已注入水
+pokedemo.machine.fossil.water_not: §7尚未注入水
+pokedemo.machine.healer.broken: §a拆除了治疗仪
+pokedemo.machine.healer.done: §a治疗机已恢复你的队伍：回满血、清除异常并恢复PP。
+pokedemo.machine.pasture.back_to_pasture: §7返回牧场界面
+pokedemo.machine.pasture.ball_click_use_prefix: §8点击使用（拥有 
+pokedemo.machine.pasture.broken: §d拆除了精灵牧场
+pokedemo.machine.pasture.can_breed: 可产蛋
+pokedemo.machine.pasture.choose_ball_title: 选择精灵球
+pokedemo.machine.pasture.claim_fail: §c领取蛋失败。
+pokedemo.machine.pasture.click_pick_ball: §e点击选择球并领取蛋
+pokedemo.machine.pasture.disabled: §c精灵牧场已被管理员禁用。
+pokedemo.machine.pasture.egg_note: §8(完成繁殖后可领取蛋)
+pokedemo.machine.pasture.egg_unknown: §f蛋 §7(???)
+pokedemo.machine.pasture.gender_unknown: §7性别：§f?
+pokedemo.machine.pasture.gui_title: §d精灵牧场
+pokedemo.machine.pasture.iv: §7个体：§f
+pokedemo.machine.pasture.iv_unknown: §7个体：§f??????
+pokedemo.machine.pasture.mon_missing: §7所选精灵不存在或已被移除
+pokedemo.machine.pasture.nature: §7性格：§f
+pokedemo.machine.pasture.nature_unknown: §7性格：§f?
+pokedemo.machine.pasture.no_ball: §7你背包里没有可用的精灵球。
+pokedemo.machine.pasture.no_egg: §7还没有蛋可以领取。
+pokedemo.machine.pasture.open_pc_pick: §7点击后打开PC选择一只精灵
+pokedemo.machine.pasture.placed: §d放置了精灵牧场
+pokedemo.machine.pasture.remaining_prefix: §7剩余：§f
+pokedemo.machine.pasture.reselect: §7点击重新选择
+pokedemo.machine.pasture.reselect_note: §e点击：重新选择（将解除原精灵锁定）
+pokedemo.machine.pasture.slot_a: 精灵A
+pokedemo.machine.pasture.slot_b: 精灵B
+pokedemo.machine.pasture.speed_group_note: §7 (每9方块=1组)
+pokedemo.machine.pasture.speed_groups: §7加速组：§f
+pokedemo.machine.pasture.status_label: §7状态：
+pokedemo.machine.pasture.waiting: 等待
+pokedemo.machine.pc.broken: §b拆除了PC
+pokedemo.machine.trade.choose_hint: §b请在队伍中选择一只用于交换的精灵。\n§7提示：被锁定的精灵不可选择。\n§7可用 /pokedemo unlockall 一键解除锁定。
+pokedemo.machine.trade.clear: §c解除锁定/清空
+pokedemo.machine.trade.clear_lore1: §7解除本交换机对精灵的锁定
+pokedemo.machine.trade.clear_lore2: §7并清空双方选择
+pokedemo.machine.trade.cleared: §a已清空并解除该交换机的锁定。\n§7如仍有锁定可用 /pokedemo unlockall
+pokedemo.machine.trade.confirm: §a确定
+pokedemo.machine.trade.confirm_lore1: §7确认你选择的精灵
+pokedemo.machine.trade.confirm_lore2: §7双方都确认后将自动交换
+pokedemo.machine.trade.confirm_wait: §a你已确认。等待对方确认…
+pokedemo.machine.trade.fail_changed: §c交换失败：精灵状态已变化或被移动，请重新选择。
+pokedemo.machine.trade.in_use: §c该交换机正在被其他玩家使用。
+pokedemo.machine.trade.left_buttons: §7这是左侧玩家的操作按钮。
+pokedemo.machine.trade.left_confirmed: §a左侧已确认
+pokedemo.machine.trade.left_not_selected: §c左侧未选择
+pokedemo.machine.trade.left_not_selected_lore: §7点击右侧按钮选择
+pokedemo.machine.trade.left_unconfirmed: §e左侧未确认
+pokedemo.machine.trade.not_participant: §c你不是该交换机的参与者。
+pokedemo.machine.trade.not_selected: §c你还没有选择精灵。
+pokedemo.machine.trade.placed: §e放置了宝可梦交换机
+pokedemo.machine.trade.plugin_bad: §e宝可梦交换机：§c插件实例异常
+pokedemo.machine.trade.right_buttons: §7这是右侧玩家的操作按钮。
+pokedemo.machine.trade.right_confirmed: §a右侧已确认
+pokedemo.machine.trade.right_not_selected: §c右侧未选择
+pokedemo.machine.trade.right_not_selected_lore: §7点击左侧按钮选择
+pokedemo.machine.trade.right_unconfirmed: §e右侧未确认
+pokedemo.machine.trade.select_lore1: §7打开队伍选择一只用于交换的精灵
+pokedemo.machine.trade.select_lore2: §7选中后将进入锁定状态
+pokedemo.machine.trade.select_other: §7选择精灵
+pokedemo.machine.trade.select_you: §b选择精灵(你)
+pokedemo.machine.trade.status: §d状态
+pokedemo.machine.trade.status_hint: §8提示：锁定精灵可用 /pokedemo unlockall 一键解除
+pokedemo.machine.trade.success: §a交换成功！
+pokedemo.machine.trade.title: §e宝可梦交换机
+pokedemo.machine.trade.waiting: §7等待选择…
+itemuse.not_implemented: "§e该道具暂未实现：{id}"
+itemuse.no_eligible_party: "§7你的队伍里没有需要使用该道具的精灵。"
+itemuse.party_all_cured: "§a使用了 {item}：§a已治愈 {n} 只精灵的异常状态。"
+itemuse.party_all_not_supported: "§e该道具暂不支持对全队使用：{id}"
+itemuse.repel.used: "§a已使用驱虫喷雾，{min}分钟内不会遭遇野生精灵。"
+itemuse.escape_rope.used: "§a你使用了逃脱绳，返回了出生点。"
+item.potion.desc: 回复 20 点HP。
+item.super_potion.desc: 回复 50 点HP。
+item.hyper_potion.desc: 回复 200 点HP。
+item.max_potion.desc: 完全回复HP。
+item.full_restore.desc: 完全回复HP并治愈所有异常状态。
+item.full_heal.desc: 治愈所有异常状态。
+item.burn_heal.desc: 治愈灼伤状态。
+item.ice_heal.desc: 治愈冰冻状态。
+item.awakening.desc: 唤醒睡眠状态。
+item.paralyze_heal.desc: 治愈麻痹状态。
+item.ether.desc: 为1个招式回复 10 点PP。
+item.max_ether.desc: 完全回复1个招式的PP。
+item.elixir.desc: 为所有招式回复 10 点PP。
+item.max_elixir.desc: 完全回复所有招式的PP。
+item.fresh_water.desc: 回复 50 点HP。
+item.soda_pop.desc: 回复 60 点HP。
+item.lemonade.desc: 回复 80 点HP。
+item.pp_up.desc: 提升1个招式的PP上限。
+item.pp_max.desc: 将1个招式的PP上限提升至最大。
+item.antidote.desc: 治愈中毒状态。
+item.revive.desc: 让倒下的精灵以 50% HP复活。
+item.max_revive.desc: 让倒下的精灵以满HP复活。
+item.poke_ball.desc: 用于捕捉野生精灵。
+item.great_ball.desc: 用于捕捉野生精灵。捕捉倍率×1.5。
+item.ultra_ball.desc: 用于捕捉野生精灵。捕捉倍率×2。
+item.master_ball.desc: 必定捕捉野生精灵。
+item.x_attack.desc: 战斗中提升能力：atk +1。
+item.x_defend.desc: 战斗中提升能力：def +1。
+item.x_speed.desc: 战斗中提升能力：spe +1。
+item.x_accuracy.desc: 战斗中提升能力：accuracy +1。
+item.x_special.desc: 战斗中提升能力：special +1。
+item.x_evasion.desc: 战斗中提升能力：evasion +1。
+item.poke_doll.desc: 可从野生战斗中逃走。
+item.leftovers.desc: 携带道具：战斗中自动生效。
+item.black_sludge.desc: 携带道具：战斗中自动生效。
+item.quick_claw.desc: 携带道具：战斗中自动生效。
+item.lagging_tail.desc: 携带道具：战斗中自动生效。
+item.full_incense.desc: 携带道具：战斗中自动生效。
+item.kings_rock.desc: 携带道具：战斗中自动生效。
+item.razor_fang.desc: 携带道具：战斗中自动生效。
+item.bright_powder.desc: 携带道具：战斗中自动生效。
+item.lax_incense.desc: 携带道具：战斗中自动生效。
+item.light_clay.desc: 携带道具：战斗中自动生效。
+item.mental_herb.desc: 携带道具：战斗中自动生效。
+item.fairy_gem.desc: 携带道具：战斗中自动生效。
+item.smoke_ball.desc: 携带道具：战斗中自动生效。
+item.shed_shell.desc: 携带道具：战斗中自动生效。
+item.up_grade.desc: 道具。
+item.dubious_disc.desc: 道具。
+item.protector.desc: 道具。
+item.reaper_cloth.desc: 道具。
+item.electirizer.desc: 道具。
+item.magmarizer.desc: 道具。
+item.dragon_scale.desc: 道具。
+item.oval_stone.desc: 道具。
+item.leaders_crest.desc: 道具。
+item.focus_band.desc: 携带道具：战斗中自动生效。
+item.focus_sash.desc: 携带道具：战斗中自动生效。
+item.scope_lens.desc: 携带道具：战斗中自动生效。
+item.razor_claw.desc: 携带道具：战斗中自动生效。
+item.lucky_punch.desc: 携带道具：战斗中自动生效。
+item.choice_band.desc: 携带道具：战斗中自动生效。
+item.choice_specs.desc: 携带道具：战斗中自动生效。
+item.light_ball.desc: 携带道具：战斗中自动生效。
+item.thick_club.desc: 携带道具：战斗中自动生效。
+item.charcoal.desc: 携带道具：战斗中自动生效。
+item.mystic_water.desc: 携带道具：战斗中自动生效。
+item.magnet.desc: 携带道具：战斗中自动生效。
+item.miracle_seed.desc: 携带道具：战斗中自动生效。
+item.soft_sand.desc: 携带道具：战斗中自动生效。
+item.hard_stone.desc: 携带道具：战斗中自动生效。
+item.never_melt_ice.desc: 携带道具：战斗中自动生效。
+item.black_belt.desc: 携带道具：战斗中自动生效。
+item.poison_barb.desc: 携带道具：战斗中自动生效。
+item.sharp_beak.desc: 携带道具：战斗中自动生效。
+item.spell_tag.desc: 携带道具：战斗中自动生效。
+item.twisted_spoon.desc: 携带道具：战斗中自动生效。
+item.dragon_fang.desc: 携带道具：战斗中自动生效。
+item.metal_coat.desc: 携带道具：战斗中自动生效。
+item.black_glasses.desc: 携带道具：战斗中自动生效。
+item.silk_scarf.desc: 携带道具：战斗中自动生效。
+item.red_scarf.desc: 携带道具：战斗中自动生效。
+item.blue_scarf.desc: 携带道具：战斗中自动生效。
+item.pink_scarf.desc: 携带道具：战斗中自动生效。
+item.green_scarf.desc: 携带道具：战斗中自动生效。
+item.yellow_scarf.desc: 携带道具：战斗中自动生效。
+item.amulet_coin.desc: 携带道具：战斗中自动生效。
+item.luck_incense.desc: 携带道具：战斗中自动生效。
+item.soothe_bell.desc: 携带道具：战斗中自动生效。
+item.destiny_knot.desc: 携带道具：战斗中自动生效。
+item.damp_rock.desc: 携带道具：战斗中自动生效。
+item.heat_rock.desc: 携带道具：战斗中自动生效。
+item.icy_rock.desc: 携带道具：战斗中自动生效。
+item.smooth_rock.desc: 携带道具：战斗中自动生效。
+item.red_orb.desc: 携带道具：战斗中自动生效。
+item.blue_orb.desc: 携带道具：战斗中自动生效。
+item.strawberry_sweet.desc: 携带道具：战斗中自动生效。
+item.berry_sweet.desc: 携带道具：战斗中自动生效。
+item.love_sweet.desc: 携带道具：战斗中自动生效。
+item.clover_sweet.desc: 携带道具：战斗中自动生效。
+item.flower_sweet.desc: 携带道具：战斗中自动生效。
+item.star_sweet.desc: 携带道具：战斗中自动生效。
+item.ribbon_sweet.desc: 携带道具：战斗中自动生效。
+item.burn_drive.desc: 携带道具：战斗中自动生效。
+item.douse_drive.desc: 携带道具：战斗中自动生效。
+item.chill_drive.desc: 携带道具：战斗中自动生效。
+item.shock_drive.desc: 携带道具：战斗中自动生效。
+item.bug_memory.desc: 携带道具：战斗中自动生效。
+item.dark_memory.desc: 携带道具：战斗中自动生效。
+item.dragon_memory.desc: 携带道具：战斗中自动生效。
+item.electric_memory.desc: 携带道具：战斗中自动生效。
+item.fairy_memory.desc: 携带道具：战斗中自动生效。
+item.fighting_memory.desc: 携带道具：战斗中自动生效。
+item.fire_memory.desc: 携带道具：战斗中自动生效。
+item.flying_memory.desc: 携带道具：战斗中自动生效。
+item.ghost_memory.desc: 携带道具：战斗中自动生效。
+item.grass_memory.desc: 携带道具：战斗中自动生效。
+item.ground_memory.desc: 携带道具：战斗中自动生效。
+item.ice_memory.desc: 携带道具：战斗中自动生效。
+item.poison_memory.desc: 携带道具：战斗中自动生效。
+item.psychic_memory.desc: 携带道具：战斗中自动生效。
+item.rock_memory.desc: 携带道具：战斗中自动生效。
+item.steel_memory.desc: 携带道具：战斗中自动生效。
+item.water_memory.desc: 携带道具：战斗中自动生效。
+item.dire_hit.desc: 战斗中使用的道具。
+item.guard_spec.desc: 战斗中使用的道具。
+item.repel.desc: 道具。
+item.super_repel.desc: 道具。
+item.max_repel.desc: 道具。
+item.escape_rope.desc: 道具。
+item.rare_candy.desc: 道具。
+item.fire_stone.desc: 道具。
+item.water_stone.desc: 道具。
+item.thunder_stone.desc: 道具。
+item.leaf_stone.desc: 道具。
+item.moon_stone.desc: 道具。
+item.hp_up.desc: 提升努力值。
+item.protein.desc: 提升努力值。
+item.iron.desc: 提升努力值。
+item.calcium.desc: 提升努力值。
+item.carbos.desc: 提升努力值。
+item.health_wing.desc: 提升努力值。
+item.muscle_wing.desc: 提升努力值。
+item.resist_wing.desc: 提升努力值。
+item.genius_wing.desc: 提升努力值。
+item.clever_wing.desc: 提升努力值。
+item.swift_wing.desc: 提升努力值。
+item.ability_capsule.desc: 道具。
+item.ability_patch.desc: 道具。
+item.silver_bottle_cap.desc: 道具。
+item.gold_bottle_cap.desc: 道具。
+item.lonely_mint.desc: 道具。
+item.adamant_mint.desc: 道具。
+item.naughty_mint.desc: 道具。
+item.brave_mint.desc: 道具。
+item.bold_mint.desc: 道具。
+item.impish_mint.desc: 道具。
+item.lax_mint.desc: 道具。
+item.relaxed_mint.desc: 道具。
+item.modest_mint.desc: 道具。
+item.mild_mint.desc: 道具。
+item.rash_mint.desc: 道具。
+item.quiet_mint.desc: 道具。
+item.calm_mint.desc: 道具。
+item.gentle_mint.desc: 道具。
+item.careful_mint.desc: 道具。
+item.sassy_mint.desc: 道具。
+item.timid_mint.desc: 道具。
+item.hasty_mint.desc: 道具。
+item.jolly_mint.desc: 道具。
+item.naive_mint.desc: 道具。
+item.serious_mint.desc: 道具。
+item.red_apricorn.desc: 道具。
+item.blue_apricorn.desc: 道具。
+item.yellow_apricorn.desc: 道具。
+item.green_apricorn.desc: 道具。
+item.pink_apricorn.desc: 道具。
+item.black_apricorn.desc: 道具。
+item.white_apricorn.desc: 道具。
+item.seed_red_apricorn.desc: 道具。
+item.seed_blue_apricorn.desc: 道具。
+item.seed_yellow_apricorn.desc: 道具。
+item.seed_green_apricorn.desc: 道具。
+item.seed_pink_apricorn.desc: 道具。
+item.seed_black_apricorn.desc: 道具。
+item.seed_white_apricorn.desc: 道具。
+item.tumblestone.desc: 道具。
+item.black_tumblestone.desc: 道具。
+item.sky_tumblestone.desc: 道具。
+item.poke_flute.desc: 唤醒睡眠状态。
+item.pc_machine.desc: 关键道具。
+item.healer_machine.desc: 关键道具。
+item.pasture_machine.desc: 关键道具。
+item.fossil_machine.desc: 关键道具。
+item.fossil_analyzer.desc: 关键道具。
+item.helix_fossil.desc: 道具。
+item.dome_fossil.desc: 道具。
+item.old_amber.desc: 道具。
+item.suspicious_stone.desc: 道具。
+item.trade_machine.desc: 关键道具。
+item.clone_machine.desc: 关键道具。
+item.pokedex.desc: 关键道具。
+item.poke_phone.desc: 关键道具。
+pokedemo.capture.missing_species: §c这个野生精灵数据异常（缺少物种）。
+pokedemo.capture.success: §a成功捕捉：§f{mon} §a(Lv.{lv})！
+pokedemo.capture.break_free: §e精灵挣脱了精灵球！
+pokedemo.evo.blocked_everstone: §6[进化] §e{mon} §7携带了§f不变之石§7，无法进化。
+pokedemo.evo.success: §6[进化] §a{from} §7→ §b{to} §a进化成功！
+pokedemo.evo.ready: §e{mon} §6似乎可以进化了！§7（打开精灵详情点击“进化”）§8 -> {to}
+pokedemo.evo.you_evolved: §a你的精灵进化成了 §e{to}§a！
+pokedemo.exp.gain_levelup: §a{mon} 获得了 §e{exp}§a 经验值！§7 Lv.{from} → §bLv.{to}
+pokedemo.cmd.player_only: §c仅玩家可用。
+pokedemo.cmd.heal.no_perm: §c你没有权限使用 /heal。§7普通玩家请使用§a治疗机§7。
+pokedemo.cmd.heal.done: §a已治疗队伍中的 {n} 只精灵：回满血、清除异常状态并恢复PP。
+pokedemo.battle.log.item_heal_hp: §a{mon} 的§f{item}§a回复了 {n} 点体力！
+pokedemo.battle.log.gem_broken: §e{mon} 的§f宝石§e碎裂了！
+pokedemo.common.berry: 树果
+
+# ---- Auto-generated item name keys (do not delete; safe to override in plugins/PokeDemo/lang/*.yml) ----
+item.ability_capsule.name: 特性胶囊
+item.ability_patch.name: 特性膏药
+item.adamant_mint.name: 固执薄荷
+item.amulet_coin.name: 护符金币
+item.antidote.name: 解毒药
+item.awakening.name: 解眠药
+item.berry_sweet.name: 野莓糖饰
+item.black_apricorn.name: 黑球果
+item.black_belt.name: 黑带
+item.black_glasses.name: 黑色眼镜
+item.black_sludge.name: 黑色污泥
+item.black_tumblestone.name: 黑滚滚石
+item.blue_apricorn.name: 蓝球果
+item.blue_orb.name: 靛蓝色宝珠
+item.blue_scarf.name: 蓝色头巾
+item.bold_mint.name: 大胆薄荷
+item.brave_mint.name: 勇敢薄荷
+item.bright_powder.name: 光粉
+item.bug_memory.name: 虫子存储碟
+item.burn_drive.name: 火焰卡带
+item.burn_heal.name: 灼伤药
+item.calcium.name: 特殊提升
+item.calcium.name: 特殊提升
+item.calm_mint.name: 温和薄荷
+item.carbos.name: 速度提升
+item.carbos.name: 速度提升
+item.careful_mint.name: 慎重薄荷
+item.charcoal.name: 木炭
+item.chill_drive.name: 冰冻卡带
+item.choice_band.name: 讲究头带
+item.choice_specs.name: 讲究眼镜
+item.clever_wing.name: 精神之羽
+item.clone_machine.name: 宝可梦克隆仪
+item.clover_sweet.name: 幸运草糖饰
+item.damp_rock.name: 潮湿岩石
+item.dark_memory.name: 黑暗存储碟
+item.destiny_knot.name: 红线
+item.dire_hit.name: 要害攻击
+item.dire_hit.name: 要害攻击
+item.dome_fossil.name: 甲壳化石
+item.douse_drive.name: 水流卡带
+item.dragon_fang.name: 龙之牙
+item.dragon_memory.name: 龙存储碟
+item.dragon_scale.name: 龙之鳞片
+item.dubious_disc.name: 可疑补丁
+item.electirizer.name: 电力增幅器
+item.electric_memory.name: 电子存储碟
+item.elixir.name: PP多项小补剂
+item.escape_rope.name: 逃脱绳
+item.escape_rope.name: 逃脱绳
+item.ether.name: PP单项小补剂
+item.fairy_gem.name: 妖精宝石
+item.fairy_memory.name: 妖精存储碟
+item.fighting_memory.name: 战斗存储碟
+item.fire_memory.name: 火焰存储碟
+item.fire_stone.name: 火之石
+item.fire_stone.name: 火之石
+item.flower_sweet.name: 花朵糖饰
+item.flying_memory.name: 飞翔存储碟
+item.focus_band.name: 气势头带
+item.focus_sash.name: 气势披带
+item.fossil_analyzer.name: 化石解析仪
+item.fossil_machine.name: 化石复活机
+item.fresh_water.name: 清水
+item.full_heal.name: 万能药
+item.full_incense.name: 饱腹薰香
+item.full_restore.name: 全满药
+item.genius_wing.name: 智力之羽
+item.gentle_mint.name: 温顺薄荷
+item.ghost_memory.name: 幽灵存储碟
+item.gold_bottle_cap.name: 金色王冠
+item.grass_memory.name: 青草存储碟
+item.great_ball.name: 超级球
+item.green_apricorn.name: 绿球果
+item.green_scarf.name: 绿色头巾
+item.ground_memory.name: 大地存储碟
+item.guard_spec.name: 防守指令
+item.guard_spec.name: 防守指令
+item.hard_stone.name: 硬石头
+item.hasty_mint.name: 急躁薄荷
+item.healer_machine.name: 治疗仪
+item.health_wing.name: 体力之羽
+item.heat_rock.name: 炽热岩石
+item.helix_fossil.name: 螺旋化石
+item.hp_up.name: ＨＰ提升
+item.hp_up.name: ＨＰ提升
+item.hyper_potion.name: 高级伤药
+item.ice_heal.name: 解冻药
+item.ice_memory.name: 冰雪存储碟
+item.icy_rock.name: 冰冷岩石
+item.impish_mint.name: 淘气薄荷
+item.iron.name: 防御提升
+item.iron.name: 防御提升
+item.jolly_mint.name: 爽朗薄荷
+item.kings_rock.name: 王者之证
+item.lagging_tail.name: 后攻之尾
+item.lax_incense.name: 悠闲薰香
+item.lax_mint.name: 乐天薄荷
+item.leaders_crest.name: 头领凭证
+item.leaf_stone.name: 叶之石
+item.leaf_stone.name: 叶之石
+item.leftovers.name: 吃剩的东西
+item.lemonade.name: Lemonade
+item.light_ball.name: 电气球
+item.light_clay.name: 光之黏土
+item.lonely_mint.name: 怕寂寞薄荷
+item.love_sweet.name: 爱心糖饰
+item.luck_incense.name: 幸运薰香
+item.lucky_punch.name: 吉利拳
+item.magmarizer.name: 熔岩增幅器
+item.magnet.name: 磁铁
+item.master_ball.name: 大师球
+item.max_elixir.name: PP多项全补剂
+item.max_ether.name: PP单项全补剂
+item.max_potion.name: 全满药
+item.max_repel.name: 黄金喷雾
+item.max_repel.name: 黄金喷雾
+item.max_revive.name: 活力全块
+item.mental_herb.name: 心灵香草
+item.metal_coat.name: 金属膜
+item.mild_mint.name: 慢吞吞薄荷
+item.miracle_seed.name: 奇迹种子
+item.modest_mint.name: 内敛薄荷
+item.moon_stone.name: 月之石
+item.moon_stone.name: 月之石
+item.muscle_wing.name: 肌力之羽
+item.mystic_water.name: 神秘水滴
+item.naive_mint.name: 天真薄荷
+item.naughty_mint.name: 顽皮薄荷
+item.never_melt_ice.name: 不融冰
+item.old_amber.name: 秘密琥珀
+item.oval_stone.name: 浑圆之石
+item.paralyze_heal.name: 解麻药
+item.pasture_machine.name: 精灵牧场
+item.pc_machine.name: 电脑（PC）
+item.pink_apricorn.name: 粉球果
+item.pink_scarf.name: 粉红头巾
+item.poison_barb.name: 毒针
+item.poison_memory.name: 毒存储碟
+item.poke_ball.name: 精灵球
+item.poke_doll.name: 宝可梦玩偶
+item.poke_doll.name: 宝可梦玩偶
+item.poke_flute.name: 宝可梦之笛
+item.poke_phone.name: 精灵手机
+item.pokedex.name: 精灵图鉴
+item.potion.name: 伤药
+item.pp_max.name: PP极限剂
+item.pp_up.name: PP提升剂
+item.protector.name: 护具
+item.protein.name: 力量提升
+item.protein.name: 力量提升
+item.psychic_memory.name: 精神存储碟
+item.quick_claw.name: 先制之爪
+item.quiet_mint.name: 冷静薄荷
+item.rare_candy.name: 稀有糖果
+item.rare_candy.name: 稀有糖果
+item.rash_mint.name: 马虎薄荷
+item.razor_claw.name: 锐利之爪
+item.razor_fang.name: 锐利之牙
+item.reaper_cloth.name: 灵界之布
+item.red_apricorn.name: 红球果
+item.red_orb.name: 朱红色宝珠
+item.red_scarf.name: 红色头巾
+item.relaxed_mint.name: 悠闲薄荷
+item.repel.name: 驱虫喷雾
+item.repel.name: 驱虫喷雾
+item.resist_wing.name: 抵抗之羽
+item.revive.name: 活力碎片
+item.ribbon_sweet.name: 蝴蝶结糖饰
+item.rock_memory.name: 岩石存储碟
+item.sassy_mint.name: 自大薄荷
+item.scope_lens.name: 焦点镜
+item.seed_black_apricorn.name: Seed Black Apricorn
+item.seed_blue_apricorn.name: Seed Blue Apricorn
+item.seed_green_apricorn.name: Seed Green Apricorn
+item.seed_pink_apricorn.name: Seed Pink Apricorn
+item.seed_red_apricorn.name: Seed Red Apricorn
+item.seed_white_apricorn.name: Seed White Apricorn
+item.seed_yellow_apricorn.name: Seed Yellow Apricorn
+item.serious_mint.name: 认真薄荷
+item.sharp_beak.name: 锐利鸟嘴
+item.shed_shell.name: 美丽空壳
+item.shock_drive.name: 闪电卡带
+item.silk_scarf.name: 丝绸围巾
+item.silver_bottle_cap.name: 银色王冠
+item.sky_tumblestone.name: 天青滚滚石
+item.smoke_ball.name: 烟雾球
+item.smooth_rock.name: 沙沙岩石
+item.soda_pop.name: 汽水
+item.soft_sand.name: 柔软沙子
+item.soothe_bell.name: 安抚之铃
+item.spell_tag.name: 咒术之符
+item.star_sweet.name: 星星糖饰
+item.steel_memory.name: 钢铁存储碟
+item.strawberry_sweet.name: 草莓糖饰
+item.super_potion.name: 好伤药
+item.super_repel.name: 白银喷雾
+item.super_repel.name: 白银喷雾
+item.suspicious_stone.name: 可疑的石头
+item.swift_wing.name: 瞬发之羽
+item.thick_club.name: 粗骨头
+item.thunder_stone.name: 雷之石
+item.thunder_stone.name: 雷之石
+item.timid_mint.name: 胆小薄荷
+item.trade_machine.name: 宝可梦交换机
+item.tumblestone.name: 滚滚石
+item.twisted_spoon.name: 弯曲的汤匙
+item.ultra_ball.name: 高级球
+item.up_grade.name: 升级数据
+item.water_memory.name: 清水存储碟
+item.water_stone.name: 水之石
+item.water_stone.name: 水之石
+item.white_apricorn.name: 白球果
+item.x_accuracy.name: 命中提升剂
+item.x_accuracy.name: 命中提升剂
+item.x_attack.name: 攻击提升剂
+item.x_attack.name: 攻击提升剂
+item.x_defend.name: 防御提升剂
+item.x_defend.name: 防御提升剂
+item.x_evasion.name: X闪避
+item.x_evasion.name: X闪避
+item.x_special.name: X特殊
+item.x_special.name: X特殊
+item.x_speed.name: 速度提升剂
+item.x_speed.name: 速度提升剂
+item.yellow_apricorn.name: 黄球果
+item.yellow_scarf.name: 黄色头巾
+
+pokedemo.gui.phone.title: §d宝可手机
+
+pokedemo.gui.recipes.title: §6合成表
+
+pokedemo.gui.party.title: §a队伍
+
+pokedemo.gui.party.left_click_select: §7左键：选择/交换顺序
+
+pokedemo.gui.party.right_click_store: §b右键：存入电脑盒子
+
+pokedemo.gui.party.shift_click_details: §eShift+点击：查看精灵详情
+
+pokedemo.gui.pc.title: §b电脑盒子（第{page}页）
+
+pokedemo.gui.pc.left_click_take: §e左键：取出到队伍
+
+pokedemo.gui.pc.right_click_release: §c右键：放生（需确认）
+
+pokedemo.gui.pc.shift_click_details: §eShift+点击：查看详情
+
+pokedemo.pasture.egg.status.running: §d繁殖中
+
+pokedemo.pasture.egg.status.ready: §a可产蛋
+
+pokedemo.pasture.egg.status.paused: §e暂停
+
+pokedemo.pasture.egg.label.status: 状态：
+
+pokedemo.pasture.egg.label.remaining: 剩余：
+
+pokedemo.pasture.egg.label.group: 加速组：
+
+pokedemo.pasture.egg.label.gender: 性别：
+
+pokedemo.pasture.egg.label.nature: 性格：
+
+pokedemo.pasture.egg.label.species: 种类：
+
+item.ability_shield.desc: 可爱而有个性的盾。携带后，特性不会被对手改变。
+
+item.ability_shield: 特性盾牌
+
+pokedemo.gui.phone.recipes: "§a合成配方\n§7查看所有可合成物品的配方"
+
+# --- Guide / Join hints ---
+pokedemo.guide.join_hint: "§2提示§8：输入 §3/poke guide §8获取教学之书"
+pokedemo.guide.join_hint_summon: "§2提示§8：§3Shift+F §8+ §3物品栏/鼠标滚轮 §8召唤精灵"
+pokedemo.guide.received: "§2已获得教学之书：§3右键打开§8，§3左键切换教程类型"
+pokedemo.guide.disabled: "§4教学之书未启用。"
+pokedemo.cmd.poke.header: "§2Poke 指令："
+pokedemo.cmd.poke.control: "§6/poke control §8获取“调试魔杖”（用于调整精灵模型大小/高度，§4仅 OP§8）"
+pokedemo.cmd.poke.guide: "§6/poke guide §8获取教学之书（右键打开，左键切换）"
+pokedemo.cmd.poke.unknown: "§4未知子命令。用法：/poke control | /poke guide"
+
+# --- GUI titles & buttons (added) ---
+# --- GUI titles & buttons (added) ---
+gui.guide.switch_title: "§8教程切换"
+gui.guide.tab.welcome: "§e新手指南"
+gui.guide.tab.stones: "§e世界刷新与资源"
+gui.guide.tab.breeding: "§e孵化与环境偏好"
+gui.guide.tab.devices: "§e设备研究"
+gui.guide.tab.legends: "§e传说之书"
+gui.guide.tab.community: "§e社区与支持"
+gui.guide.tab.selected: "§a当前已选择"
+gui.guide.tab.click_to_switch: "§7点击切换"
+gui.trade.pick_party_title: "§d选择交换精灵"
+gui.ball_chest.title: "§6精灵球宝箱"
+gui.move_learn.title: "§6学习新技能"
+gui.move_learn.none: "§7没有需要学习的新技能。"
+gui.common.cancel: "§c取消"
+gui.pvp.cancel_lore: "§7关闭将取消本次PVP准备"
+gui.pvp.confirmed: "§a已确认"
+gui.pvp.wait_other: "§7等待对方确认..."
+gui.pvp.confirm: "§a确认出战"
+gui.pvp.both_confirm: "§7两人都确认后开始战斗"
+gui.pvp.default_first: "§7默认先派出队伍第一只可战斗精灵"
+
+item.pokemon_fishing_rod.desc: 用于遭遇宝可梦的特殊钓竿。
+
+# 特性战斗提示补充（Showdown 风格）
+pokedemo.battle.log.ability.weather_start: "§6【{ab}】§e{msg} §7({turns}回合)"
+pokedemo.battle.log.ability.terrain_start: "§6【{ab}】§e{msg}"
+pokedemo.battle.log.ability.airlock: "§6【{ab}】§e{mon} 使天气的影响消失了！"
+pokedemo.battle.log.ability.orichalcum_pulse: "§6【{ab}】§e阳光变得强烈了！ §7({turns}回合)"
+pokedemo.battle.log.ability.hadron_engine: "§6【{ab}】§e电气场地展开了！"
+pokedemo.battle.log.ability.intrepid_sword: "§6【{ab}】§e{mon} 的攻击提升了！"
+pokedemo.battle.log.ability.dauntless_shield: "§6【{ab}】§e{mon} 的防御提升了！"
+pokedemo.battle.log.ability.slow_start: "§6【{ab}】§e{mon} 还没有进入状态！"
+pokedemo.battle.log.ability.screen_cleaner: "§6【除障】§e双方的墙类效果都被清除了！"
+pokedemo.battle.log.ability.supersweet_syrup: "§6【甘甜蜜浆】§e{mon} 的闪避下降了！"
+pokedemo.battle.log.ability.mimicry: "§6【拟态】§e{mon} 变成了 {type} 属性！"
+pokedemo.battle.log.ability.delta_stream: "§6【德尔塔气流】§e神秘的强风保护着飞行属性宝可梦！"
+pokedemo.battle.log.ability.desolate_land: "§6【终结之地】§e极端的日照笼罩了战场！"
+pokedemo.battle.log.ability.primordial_sea: "§6【始源之海】§e暴雨倾盆而下！"
+pokedemo.battle.log.ability.costar: "§6【跟风】§e{mon} 复制了对手的能力变化！"
+pokedemo.battle.log.ability.tera_shift: "§6【太晶甲壳】§e{mon} 变换了形态！"
+pokedemo.battle.log.ability.embody_aspect_speed: "§6【面影辉映】§e{mon} 的速度提升了！"
+pokedemo.battle.log.ability.embody_aspect_atk: "§6【面影辉映】§e{mon} 的攻击提升了！"
+pokedemo.battle.log.ability.embody_aspect_spd: "§6【面影辉映】§e{mon} 的特防提升了！"
+pokedemo.battle.log.ability.embody_aspect_def: "§6【面影辉映】§e{mon} 的防御提升了！"
+pokedemo.battle.log.ability.teraform_zero: "§6【归零化境】§e天气与场地效果都消失了！"
+pokedemo.battle.log.ability.paradox_boost: "§6【{ab}】§e{mon} 最高的能力被强化了！"
+pokedemo.battle.log.ability.as_one: "§6【{ab}】§e{mon} 散发出了压倒性的气场！"
+pokedemo.battle.log.ability.zero_to_hero: "§6【全能变身】§e{mon} 变成了全能形态！"
+pokedemo.battle.log.ability.levitate_immune: "§6【飘浮】§e招式没有命中！"
+pokedemo.battle.log.ability.earth_eater: "§6【食土】§a吃下了地面的能量并回复了体力！"
+pokedemo.battle.log.ability.flash_fire: "§6【引火】§e吸收了火焰！"
+pokedemo.battle.log.ability.water_absorb: "§6【储水】§a回复了体力！"
+pokedemo.battle.log.ability.volt_absorb: "§6【蓄电】§a回复了体力！"
+pokedemo.battle.log.ability.lightning_rod: "§6【避雷针】§a吸引了电属性招式！"
+pokedemo.battle.log.ability.motor_drive: "§6【电气引擎】§e速度提升了！"
+pokedemo.battle.log.ability.sap_sipper: "§6【食草】§e攻击提升了！"
+pokedemo.battle.log.ability.storm_drain: "§6【引水】§e特攻提升了！"
+pokedemo.battle.log.ability.well_baked_body: "§6【焦香之躯】§e防御大幅提升了！"
+pokedemo.battle.log.ability.desolate_land_block: "§6【终结之地】§e水属性招式蒸发了！"
+pokedemo.battle.log.ability.primordial_sea_block: "§6【始源之海】§e火属性招式被暴雨熄灭了！"
+pokedemo.battle.log.ability.dry_skin: "§6【干燥皮肤】§a回复了体力！"
+pokedemo.battle.log.ability.poison_puppeteer: "§6【毒傀儡】§d{target} 陷入了混乱！"
+pokedemo.battle.log.ability.thermal_exchange: "§6【热交换】§e{def} 的攻击提升了！"
+pokedemo.battle.log.ability.electromorphosis: "§6【电力转换】§e{def} 储蓄了电力！"
+pokedemo.battle.log.ability.toxic_debris: "§6【毒满地】§e对手场地散落了毒菱！"
+pokedemo.battle.log.ability.water_compaction: "§6【遇水凝固】§e{def} 的防御大幅提升了！"
+pokedemo.battle.log.ability.steam_engine: "§6【蒸汽机】§e{def} 的速度巨幅提升了！"
+pokedemo.battle.log.ability.berserk: "§6【怒火冲天】§e{def} 的特攻提升了！"
+pokedemo.battle.log.ability.anger_shell: "§6【愤怒甲壳】§e{def} 的能力发生了变化！"
+pokedemo.battle.log.ability.emergency_exit: "§6【{ab}】§e{def} 准备撤退了！"
+pokedemo.battle.log.ability.magician: "§6【魔术师】§e{atk} 变走了 {def} 的道具！"
+pokedemo.battle.log.ability.wandering_spirit: "§6【游魂】§e{atk} 与 {def} 互换了特性！"
+pokedemo.battle.log.ability.gulp_missile: "§6【一口导弹】§e{def} 发射了嘴里的猎物！"
+pokedemo.battle.log.ability.sand_spit: "§6【吐沙】§e沙暴刮起来了！ §7({turns}回合)"
+pokedemo.battle.log.ability.seed_sower: "§6【掉出种子】§e青草场地展开了！"
+pokedemo.battle.log.ability.wind_power: "§6【风力发电】§e{def} 储蓄了电力！"
+pokedemo.battle.log.ability.perish_body: "§6【灭亡之躯】§e双方都被灭亡之歌笼罩了！"
+pokedemo.battle.log.ability.toxic_chain: "§6【毒锁链】§d{atk} 让 {def} 陷入了剧毒！"
+pokedemo.battle.log.ability.stamina: "§6【持久力】§e{def} 的防御提升了！"
+pokedemo.battle.log.ability.speed_drop_contact: "§6【{ab}】§e{atk} 的速度下降了！"
+pokedemo.battle.log.ability.cotton_down: "§6【棉絮】§e{atk} 的速度下降了！"
+pokedemo.battle.log.ability.pickpocket: "§6【扒手】§e{def} 偷走了 {atk} 的道具！"
+pokedemo.battle.log.ability.chilling_neigh: "§6【苍白嘶鸣】§e{atk} 的攻击提升了！"
+pokedemo.battle.log.ability.grim_neigh: "§6【黑色嘶鸣】§e{atk} 的特攻提升了！"
+pokedemo.battle.log.ability.soul_heart: "§6【魂心】§e{atk} 的特攻提升了！"
+pokedemo.battle.log.ability.beast_boost: "§6【异兽提升】§e{atk} 的 {stat} 提升了！"
+pokedemo.battle.log.ability.battle_bond: "§6【牵绊变身】§e{atk} 变换了形态！"
+pokedemo.battle.log.ability.innards_out: "§6【内脏挤压】§c{killer} 受到了反噬伤害！ §7(-{dmg})"
+pokedemo.battle.log.ability.disguise: "§6【画皮】§e{def} 用画皮挡下了攻击！"
+pokedemo.battle.log.ability.ice_face: "§6【冰冻头】§e{def} 用冰冻的脸挡下了攻击！"
+pokedemo.battle.log.ability.mirror_armor: "§6【镜甲】§e{who} 将能力下降反弹给了 {atk}！"
+pokedemo.battle.log.ability.pressure_pp: "§6【压迫感】§e{def} 施加了压力！PP 额外减少了 1！"
+pokedemo.battle.log.ability.shed_skin: "§a【蜕皮】{mon} 摆脱了异常状态！"
+pokedemo.battle.log.ability.healer: "§a【治愈之心】{mon} 的异常状态被治愈了！"
+pokedemo.battle.log.ability.bad_dreams: "§6【梦魇】§8{mon} 因恶梦受到了伤害！(-{dmg})"
+pokedemo.battle.log.ability.speed_boost: "§6【加速】§e{mon} 的速度提升了！"
+pokedemo.battle.log.ability.moody: "§6【心情不定】§e{mon} 的能力发生了变化！"
+pokedemo.battle.log.ability.cud_chew: "§6【反刍】§e{mon} 再次取出了树果！"
+pokedemo.battle.log.ability.hunger_switch: "§6【饥饿开关】§e{mon} 切换了形态！"
+
+item.poke_rod.desc: 基础款宝可梦钓竿。
+item.great_rod.desc: 更容易钓到更好的宝可梦。
+item.ultra_rod.desc: 用于更稀有的钓鱼遭遇。
+item.master_rod.desc: 顶级钓竿，可命中最高档钓鱼规则。
+item.love_rod.desc: 偏向爱心与特殊甜点相关的钓鱼遭遇。
+# battle UI hint
+battle-reopen-hint: "按B返回战斗"
+item.sun_stone.name: 日之石
+item.sun_stone.desc: 道具。
+item.shiny_stone.name: 光之石
+item.shiny_stone.desc: 道具。
+item.dusk_stone.name: 暗之石
+item.dusk_stone.desc: 道具。
+item.dawn_stone.name: 觉醒之石
+item.dawn_stone.desc: 道具。
+item.ice_stone.name: 冰之石
+item.ice_stone.desc: 道具。
+item.tart_apple.name: 酸酸苹果
+item.tart_apple.desc: 道具。
+item.sweet_apple.name: 甜甜苹果
+item.sweet_apple.desc: 道具。
+item.syrupy_apple.name: 糖浆苹果
+item.syrupy_apple.desc: 道具。
+item.auspicious_armor.name: 庆祝之铠
+item.auspicious_armor.desc: 道具。
+item.malicious_armor.name: 咒术之铠
+item.malicious_armor.desc: 道具。
+item.metal_alloy.name: 金属合金
+item.metal_alloy.desc: 道具。
+item.scroll_of_darkness.name: 恶之卷轴
+item.scroll_of_darkness.desc: 道具。
+item.scroll_of_waters.name: 水之卷轴
+item.scroll_of_waters.desc: 道具。
+item.black_augurite.name: 黑奇石
+item.black_augurite.desc: 道具。
+item.peat_block.name: 泥炭块
+item.peat_block.desc: 道具。
+item.galarica_cuff.name: 伽勒豆蔻手环
+item.galarica_cuff.desc: 道具。
+item.galarica_wreath.name: 伽勒豆蔻花圈
+item.galarica_wreath.desc: 道具。
+item.cracked_pot.name: 破裂的茶壶
+item.cracked_pot.desc: 道具。
+item.chipped_pot.name: 缺损的茶壶
+item.chipped_pot.desc: 道具。
+item.unremarkable_teacup.name: 凡作茶碗
+item.unremarkable_teacup.desc: 道具。
+item.masterpiece_teacup.name: 杰作茶碗
+item.masterpiece_teacup.desc: 道具。
+
+label.move_effect: "§6招式效果"
+
+item.relic_coin.name: 古代硬币
+item.relic_coin.desc: 特殊进化道具。

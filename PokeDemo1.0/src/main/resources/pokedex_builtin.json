@@ -1,0 +1,5127 @@
+[
+  {
+    "speciesId": "bulbasaur",
+    "nationalDexNumber": 1,
+    "descKey": "cobblemon.species.bulbasaur.desc"
+  },
+  {
+    "speciesId": "ivysaur",
+    "nationalDexNumber": 2,
+    "descKey": "cobblemon.species.ivysaur.desc"
+  },
+  {
+    "speciesId": "venusaur",
+    "nationalDexNumber": 3,
+    "descKey": "cobblemon.species.venusaur.desc"
+  },
+  {
+    "speciesId": "charmander",
+    "nationalDexNumber": 4,
+    "descKey": "cobblemon.species.charmander.desc"
+  },
+  {
+    "speciesId": "charmeleon",
+    "nationalDexNumber": 5,
+    "descKey": "cobblemon.species.charmeleon.desc"
+  },
+  {
+    "speciesId": "charizard",
+    "nationalDexNumber": 6,
+    "descKey": "cobblemon.species.charizard.desc"
+  },
+  {
+    "speciesId": "squirtle",
+    "nationalDexNumber": 7,
+    "descKey": "cobblemon.species.squirtle.desc"
+  },
+  {
+    "speciesId": "wartortle",
+    "nationalDexNumber": 8,
+    "descKey": "cobblemon.species.wartortle.desc"
+  },
+  {
+    "speciesId": "blastoise",
+    "nationalDexNumber": 9,
+    "descKey": "cobblemon.species.blastoise.desc"
+  },
+  {
+    "speciesId": "caterpie",
+    "nationalDexNumber": 10,
+    "descKey": "cobblemon.species.caterpie.desc"
+  },
+  {
+    "speciesId": "metapod",
+    "nationalDexNumber": 11,
+    "descKey": "cobblemon.species.metapod.desc"
+  },
+  {
+    "speciesId": "butterfree",
+    "nationalDexNumber": 12,
+    "descKey": "cobblemon.species.butterfree.desc"
+  },
+  {
+    "speciesId": "weedle",
+    "nationalDexNumber": 13,
+    "descKey": "cobblemon.species.weedle.desc"
+  },
+  {
+    "speciesId": "kakuna",
+    "nationalDexNumber": 14,
+    "descKey": "cobblemon.species.kakuna.desc"
+  },
+  {
+    "speciesId": "beedrill",
+    "nationalDexNumber": 15,
+    "descKey": "cobblemon.species.beedrill.desc"
+  },
+  {
+    "speciesId": "pidgey",
+    "nationalDexNumber": 16,
+    "descKey": "cobblemon.species.pidgey.desc"
+  },
+  {
+    "speciesId": "pidgeotto",
+    "nationalDexNumber": 17,
+    "descKey": "cobblemon.species.pidgeotto.desc"
+  },
+  {
+    "speciesId": "pidgeot",
+    "nationalDexNumber": 18,
+    "descKey": "cobblemon.species.pidgeot.desc"
+  },
+  {
+    "speciesId": "rattata",
+    "nationalDexNumber": 19,
+    "descKey": "cobblemon.species.rattata.desc"
+  },
+  {
+    "speciesId": "raticate",
+    "nationalDexNumber": 20,
+    "descKey": "cobblemon.species.raticate.desc"
+  },
+  {
+    "speciesId": "spearow",
+    "nationalDexNumber": 21,
+    "descKey": "cobblemon.species.spearow.desc"
+  },
+  {
+    "speciesId": "fearow",
+    "nationalDexNumber": 22,
+    "descKey": "cobblemon.species.fearow.desc"
+  },
+  {
+    "speciesId": "ekans",
+    "nationalDexNumber": 23,
+    "descKey": "cobblemon.species.ekans.desc"
+  },
+  {
+    "speciesId": "arbok",
+    "nationalDexNumber": 24,
+    "descKey": "cobblemon.species.arbok.desc"
+  },
+  {
+    "speciesId": "pikachu",
+    "nationalDexNumber": 25,
+    "descKey": "cobblemon.species.pikachu.desc"
+  },
+  {
+    "speciesId": "raichu",
+    "nationalDexNumber": 26,
+    "descKey": "cobblemon.species.raichu.desc"
+  },
+  {
+    "speciesId": "sandshrew",
+    "nationalDexNumber": 27,
+    "descKey": "cobblemon.species.sandshrew.desc"
+  },
+  {
+    "speciesId": "sandslash",
+    "nationalDexNumber": 28,
+    "descKey": "cobblemon.species.sandslash.desc"
+  },
+  {
+    "speciesId": "nidoran-f",
+    "nationalDexNumber": 29,
+    "descKey": "cobblemon.species.nidoran-f.desc"
+  },
+  {
+    "speciesId": "nidorina",
+    "nationalDexNumber": 30,
+    "descKey": "cobblemon.species.nidorina.desc"
+  },
+  {
+    "speciesId": "nidoqueen",
+    "nationalDexNumber": 31,
+    "descKey": "cobblemon.species.nidoqueen.desc"
+  },
+  {
+    "speciesId": "nidoran-m",
+    "nationalDexNumber": 32,
+    "descKey": "cobblemon.species.nidoran-m.desc"
+  },
+  {
+    "speciesId": "nidorino",
+    "nationalDexNumber": 33,
+    "descKey": "cobblemon.species.nidorino.desc"
+  },
+  {
+    "speciesId": "nidoking",
+    "nationalDexNumber": 34,
+    "descKey": "cobblemon.species.nidoking.desc"
+  },
+  {
+    "speciesId": "clefairy",
+    "nationalDexNumber": 35,
+    "descKey": "cobblemon.species.clefairy.desc"
+  },
+  {
+    "speciesId": "clefable",
+    "nationalDexNumber": 36,
+    "descKey": "cobblemon.species.clefable.desc"
+  },
+  {
+    "speciesId": "vulpix",
+    "nationalDexNumber": 37,
+    "descKey": "cobblemon.species.vulpix.desc"
+  },
+  {
+    "speciesId": "ninetales",
+    "nationalDexNumber": 38,
+    "descKey": "cobblemon.species.ninetales.desc"
+  },
+  {
+    "speciesId": "jigglypuff",
+    "nationalDexNumber": 39,
+    "descKey": "cobblemon.species.jigglypuff.desc"
+  },
+  {
+    "speciesId": "wigglytuff",
+    "nationalDexNumber": 40,
+    "descKey": "cobblemon.species.wigglytuff.desc"
+  },
+  {
+    "speciesId": "zubat",
+    "nationalDexNumber": 41,
+    "descKey": "cobblemon.species.zubat.desc"
+  },
+  {
+    "speciesId": "golbat",
+    "nationalDexNumber": 42,
+    "descKey": "cobblemon.species.golbat.desc"
+  },
+  {
+    "speciesId": "oddish",
+    "nationalDexNumber": 43,
+    "descKey": "cobblemon.species.oddish.desc"
+  },
+  {
+    "speciesId": "gloom",
+    "nationalDexNumber": 44,
+    "descKey": "cobblemon.species.gloom.desc"
+  },
+  {
+    "speciesId": "vileplume",
+    "nationalDexNumber": 45,
+    "descKey": "cobblemon.species.vileplume.desc"
+  },
+  {
+    "speciesId": "paras",
+    "nationalDexNumber": 46,
+    "descKey": "cobblemon.species.paras.desc"
+  },
+  {
+    "speciesId": "parasect",
+    "nationalDexNumber": 47,
+    "descKey": "cobblemon.species.parasect.desc"
+  },
+  {
+    "speciesId": "venonat",
+    "nationalDexNumber": 48,
+    "descKey": "cobblemon.species.venonat.desc"
+  },
+  {
+    "speciesId": "venomoth",
+    "nationalDexNumber": 49,
+    "descKey": "cobblemon.species.venomoth.desc"
+  },
+  {
+    "speciesId": "diglett",
+    "nationalDexNumber": 50,
+    "descKey": "cobblemon.species.diglett.desc"
+  },
+  {
+    "speciesId": "dugtrio",
+    "nationalDexNumber": 51,
+    "descKey": "cobblemon.species.dugtrio.desc"
+  },
+  {
+    "speciesId": "meowth",
+    "nationalDexNumber": 52,
+    "descKey": "cobblemon.species.meowth.desc"
+  },
+  {
+    "speciesId": "persian",
+    "nationalDexNumber": 53,
+    "descKey": "cobblemon.species.persian.desc"
+  },
+  {
+    "speciesId": "psyduck",
+    "nationalDexNumber": 54,
+    "descKey": "cobblemon.species.psyduck.desc"
+  },
+  {
+    "speciesId": "golduck",
+    "nationalDexNumber": 55,
+    "descKey": "cobblemon.species.golduck.desc"
+  },
+  {
+    "speciesId": "mankey",
+    "nationalDexNumber": 56,
+    "descKey": "cobblemon.species.mankey.desc"
+  },
+  {
+    "speciesId": "primeape",
+    "nationalDexNumber": 57,
+    "descKey": "cobblemon.species.primeape.desc"
+  },
+  {
+    "speciesId": "growlithe",
+    "nationalDexNumber": 58,
+    "descKey": "cobblemon.species.growlithe.desc"
+  },
+  {
+    "speciesId": "arcanine",
+    "nationalDexNumber": 59,
+    "descKey": "cobblemon.species.arcanine.desc"
+  },
+  {
+    "speciesId": "poliwag",
+    "nationalDexNumber": 60,
+    "descKey": "cobblemon.species.poliwag.desc"
+  },
+  {
+    "speciesId": "poliwhirl",
+    "nationalDexNumber": 61,
+    "descKey": "cobblemon.species.poliwhirl.desc"
+  },
+  {
+    "speciesId": "poliwrath",
+    "nationalDexNumber": 62,
+    "descKey": "cobblemon.species.poliwrath.desc"
+  },
+  {
+    "speciesId": "abra",
+    "nationalDexNumber": 63,
+    "descKey": "cobblemon.species.abra.desc"
+  },
+  {
+    "speciesId": "kadabra",
+    "nationalDexNumber": 64,
+    "descKey": "cobblemon.species.kadabra.desc"
+  },
+  {
+    "speciesId": "alakazam",
+    "nationalDexNumber": 65,
+    "descKey": "cobblemon.species.alakazam.desc"
+  },
+  {
+    "speciesId": "machop",
+    "nationalDexNumber": 66,
+    "descKey": "cobblemon.species.machop.desc"
+  },
+  {
+    "speciesId": "machoke",
+    "nationalDexNumber": 67,
+    "descKey": "cobblemon.species.machoke.desc"
+  },
+  {
+    "speciesId": "machamp",
+    "nationalDexNumber": 68,
+    "descKey": "cobblemon.species.machamp.desc"
+  },
+  {
+    "speciesId": "bellsprout",
+    "nationalDexNumber": 69,
+    "descKey": "cobblemon.species.bellsprout.desc"
+  },
+  {
+    "speciesId": "weepinbell",
+    "nationalDexNumber": 70,
+    "descKey": "cobblemon.species.weepinbell.desc"
+  },
+  {
+    "speciesId": "victreebel",
+    "nationalDexNumber": 71,
+    "descKey": "cobblemon.species.victreebel.desc"
+  },
+  {
+    "speciesId": "tentacool",
+    "nationalDexNumber": 72,
+    "descKey": "cobblemon.species.tentacool.desc"
+  },
+  {
+    "speciesId": "tentacruel",
+    "nationalDexNumber": 73,
+    "descKey": "cobblemon.species.tentacruel.desc"
+  },
+  {
+    "speciesId": "geodude",
+    "nationalDexNumber": 74,
+    "descKey": "cobblemon.species.geodude.desc"
+  },
+  {
+    "speciesId": "graveler",
+    "nationalDexNumber": 75,
+    "descKey": "cobblemon.species.graveler.desc"
+  },
+  {
+    "speciesId": "golem",
+    "nationalDexNumber": 76,
+    "descKey": "cobblemon.species.golem.desc"
+  },
+  {
+    "speciesId": "ponyta",
+    "nationalDexNumber": 77,
+    "descKey": "cobblemon.species.ponyta.desc"
+  },
+  {
+    "speciesId": "rapidash",
+    "nationalDexNumber": 78,
+    "descKey": "cobblemon.species.rapidash.desc"
+  },
+  {
+    "speciesId": "slowpoke",
+    "nationalDexNumber": 79,
+    "descKey": "cobblemon.species.slowpoke.desc"
+  },
+  {
+    "speciesId": "slowbro",
+    "nationalDexNumber": 80,
+    "descKey": "cobblemon.species.slowbro.desc"
+  },
+  {
+    "speciesId": "magnemite",
+    "nationalDexNumber": 81,
+    "descKey": "cobblemon.species.magnemite.desc"
+  },
+  {
+    "speciesId": "magneton",
+    "nationalDexNumber": 82,
+    "descKey": "cobblemon.species.magneton.desc"
+  },
+  {
+    "speciesId": "farfetch’d",
+    "nationalDexNumber": 83,
+    "descKey": "cobblemon.species.farfetch’d.desc"
+  },
+  {
+    "speciesId": "doduo",
+    "nationalDexNumber": 84,
+    "descKey": "cobblemon.species.doduo.desc"
+  },
+  {
+    "speciesId": "dodrio",
+    "nationalDexNumber": 85,
+    "descKey": "cobblemon.species.dodrio.desc"
+  },
+  {
+    "speciesId": "seel",
+    "nationalDexNumber": 86,
+    "descKey": "cobblemon.species.seel.desc"
+  },
+  {
+    "speciesId": "dewgong",
+    "nationalDexNumber": 87,
+    "descKey": "cobblemon.species.dewgong.desc"
+  },
+  {
+    "speciesId": "grimer",
+    "nationalDexNumber": 88,
+    "descKey": "cobblemon.species.grimer.desc"
+  },
+  {
+    "speciesId": "muk",
+    "nationalDexNumber": 89,
+    "descKey": "cobblemon.species.muk.desc"
+  },
+  {
+    "speciesId": "shellder",
+    "nationalDexNumber": 90,
+    "descKey": "cobblemon.species.shellder.desc"
+  },
+  {
+    "speciesId": "cloyster",
+    "nationalDexNumber": 91,
+    "descKey": "cobblemon.species.cloyster.desc"
+  },
+  {
+    "speciesId": "gastly",
+    "nationalDexNumber": 92,
+    "descKey": "cobblemon.species.gastly.desc"
+  },
+  {
+    "speciesId": "haunter",
+    "nationalDexNumber": 93,
+    "descKey": "cobblemon.species.haunter.desc"
+  },
+  {
+    "speciesId": "gengar",
+    "nationalDexNumber": 94,
+    "descKey": "cobblemon.species.gengar.desc"
+  },
+  {
+    "speciesId": "onix",
+    "nationalDexNumber": 95,
+    "descKey": "cobblemon.species.onix.desc"
+  },
+  {
+    "speciesId": "drowzee",
+    "nationalDexNumber": 96,
+    "descKey": "cobblemon.species.drowzee.desc"
+  },
+  {
+    "speciesId": "hypno",
+    "nationalDexNumber": 97,
+    "descKey": "cobblemon.species.hypno.desc"
+  },
+  {
+    "speciesId": "krabby",
+    "nationalDexNumber": 98,
+    "descKey": "cobblemon.species.krabby.desc"
+  },
+  {
+    "speciesId": "kingler",
+    "nationalDexNumber": 99,
+    "descKey": "cobblemon.species.kingler.desc"
+  },
+  {
+    "speciesId": "voltorb",
+    "nationalDexNumber": 100,
+    "descKey": "cobblemon.species.voltorb.desc"
+  },
+  {
+    "speciesId": "electrode",
+    "nationalDexNumber": 101,
+    "descKey": "cobblemon.species.electrode.desc"
+  },
+  {
+    "speciesId": "exeggcute",
+    "nationalDexNumber": 102,
+    "descKey": "cobblemon.species.exeggcute.desc"
+  },
+  {
+    "speciesId": "exeggutor",
+    "nationalDexNumber": 103,
+    "descKey": "cobblemon.species.exeggutor.desc"
+  },
+  {
+    "speciesId": "cubone",
+    "nationalDexNumber": 104,
+    "descKey": "cobblemon.species.cubone.desc"
+  },
+  {
+    "speciesId": "marowak",
+    "nationalDexNumber": 105,
+    "descKey": "cobblemon.species.marowak.desc"
+  },
+  {
+    "speciesId": "hitmonlee",
+    "nationalDexNumber": 106,
+    "descKey": "cobblemon.species.hitmonlee.desc"
+  },
+  {
+    "speciesId": "hitmonchan",
+    "nationalDexNumber": 107,
+    "descKey": "cobblemon.species.hitmonchan.desc"
+  },
+  {
+    "speciesId": "lickitung",
+    "nationalDexNumber": 108,
+    "descKey": "cobblemon.species.lickitung.desc"
+  },
+  {
+    "speciesId": "koffing",
+    "nationalDexNumber": 109,
+    "descKey": "cobblemon.species.koffing.desc"
+  },
+  {
+    "speciesId": "weezing",
+    "nationalDexNumber": 110,
+    "descKey": "cobblemon.species.weezing.desc"
+  },
+  {
+    "speciesId": "rhyhorn",
+    "nationalDexNumber": 111,
+    "descKey": "cobblemon.species.rhyhorn.desc"
+  },
+  {
+    "speciesId": "rhydon",
+    "nationalDexNumber": 112,
+    "descKey": "cobblemon.species.rhydon.desc"
+  },
+  {
+    "speciesId": "chansey",
+    "nationalDexNumber": 113,
+    "descKey": "cobblemon.species.chansey.desc"
+  },
+  {
+    "speciesId": "tangela",
+    "nationalDexNumber": 114,
+    "descKey": "cobblemon.species.tangela.desc"
+  },
+  {
+    "speciesId": "kangaskhan",
+    "nationalDexNumber": 115,
+    "descKey": "cobblemon.species.kangaskhan.desc"
+  },
+  {
+    "speciesId": "horsea",
+    "nationalDexNumber": 116,
+    "descKey": "cobblemon.species.horsea.desc"
+  },
+  {
+    "speciesId": "seadra",
+    "nationalDexNumber": 117,
+    "descKey": "cobblemon.species.seadra.desc"
+  },
+  {
+    "speciesId": "goldeen",
+    "nationalDexNumber": 118,
+    "descKey": "cobblemon.species.goldeen.desc"
+  },
+  {
+    "speciesId": "seaking",
+    "nationalDexNumber": 119,
+    "descKey": "cobblemon.species.seaking.desc"
+  },
+  {
+    "speciesId": "staryu",
+    "nationalDexNumber": 120,
+    "descKey": "cobblemon.species.staryu.desc"
+  },
+  {
+    "speciesId": "starmie",
+    "nationalDexNumber": 121,
+    "descKey": "cobblemon.species.starmie.desc"
+  },
+  {
+    "speciesId": "mr._mime",
+    "nationalDexNumber": 122,
+    "descKey": "cobblemon.species.mr._mime.desc"
+  },
+  {
+    "speciesId": "scyther",
+    "nationalDexNumber": 123,
+    "descKey": "cobblemon.species.scyther.desc"
+  },
+  {
+    "speciesId": "jynx",
+    "nationalDexNumber": 124,
+    "descKey": "cobblemon.species.jynx.desc"
+  },
+  {
+    "speciesId": "electabuzz",
+    "nationalDexNumber": 125,
+    "descKey": "cobblemon.species.electabuzz.desc"
+  },
+  {
+    "speciesId": "magmar",
+    "nationalDexNumber": 126,
+    "descKey": "cobblemon.species.magmar.desc"
+  },
+  {
+    "speciesId": "pinsir",
+    "nationalDexNumber": 127,
+    "descKey": "cobblemon.species.pinsir.desc"
+  },
+  {
+    "speciesId": "tauros",
+    "nationalDexNumber": 128,
+    "descKey": "cobblemon.species.tauros.desc"
+  },
+  {
+    "speciesId": "magikarp",
+    "nationalDexNumber": 129,
+    "descKey": "cobblemon.species.magikarp.desc"
+  },
+  {
+    "speciesId": "gyarados",
+    "nationalDexNumber": 130,
+    "descKey": "cobblemon.species.gyarados.desc"
+  },
+  {
+    "speciesId": "lapras",
+    "nationalDexNumber": 131,
+    "descKey": "cobblemon.species.lapras.desc"
+  },
+  {
+    "speciesId": "ditto",
+    "nationalDexNumber": 132,
+    "descKey": "cobblemon.species.ditto.desc"
+  },
+  {
+    "speciesId": "eevee",
+    "nationalDexNumber": 133,
+    "descKey": "cobblemon.species.eevee.desc"
+  },
+  {
+    "speciesId": "vaporeon",
+    "nationalDexNumber": 134,
+    "descKey": "cobblemon.species.vaporeon.desc"
+  },
+  {
+    "speciesId": "jolteon",
+    "nationalDexNumber": 135,
+    "descKey": "cobblemon.species.jolteon.desc"
+  },
+  {
+    "speciesId": "flareon",
+    "nationalDexNumber": 136,
+    "descKey": "cobblemon.species.flareon.desc"
+  },
+  {
+    "speciesId": "porygon",
+    "nationalDexNumber": 137,
+    "descKey": "cobblemon.species.porygon.desc"
+  },
+  {
+    "speciesId": "omanyte",
+    "nationalDexNumber": 138,
+    "descKey": "cobblemon.species.omanyte.desc"
+  },
+  {
+    "speciesId": "omastar",
+    "nationalDexNumber": 139,
+    "descKey": "cobblemon.species.omastar.desc"
+  },
+  {
+    "speciesId": "kabuto",
+    "nationalDexNumber": 140,
+    "descKey": "cobblemon.species.kabuto.desc"
+  },
+  {
+    "speciesId": "kabutops",
+    "nationalDexNumber": 141,
+    "descKey": "cobblemon.species.kabutops.desc"
+  },
+  {
+    "speciesId": "aerodactyl",
+    "nationalDexNumber": 142,
+    "descKey": "cobblemon.species.aerodactyl.desc"
+  },
+  {
+    "speciesId": "snorlax",
+    "nationalDexNumber": 143,
+    "descKey": "cobblemon.species.snorlax.desc"
+  },
+  {
+    "speciesId": "articuno",
+    "nationalDexNumber": 144,
+    "descKey": "cobblemon.species.articuno.desc"
+  },
+  {
+    "speciesId": "zapdos",
+    "nationalDexNumber": 145,
+    "descKey": "cobblemon.species.zapdos.desc"
+  },
+  {
+    "speciesId": "moltres",
+    "nationalDexNumber": 146,
+    "descKey": "cobblemon.species.moltres.desc"
+  },
+  {
+    "speciesId": "dratini",
+    "nationalDexNumber": 147,
+    "descKey": "cobblemon.species.dratini.desc"
+  },
+  {
+    "speciesId": "dragonair",
+    "nationalDexNumber": 148,
+    "descKey": "cobblemon.species.dragonair.desc"
+  },
+  {
+    "speciesId": "dragonite",
+    "nationalDexNumber": 149,
+    "descKey": "cobblemon.species.dragonite.desc"
+  },
+  {
+    "speciesId": "mewtwo",
+    "nationalDexNumber": 150,
+    "descKey": "cobblemon.species.mewtwo.desc"
+  },
+  {
+    "speciesId": "mew",
+    "nationalDexNumber": 151,
+    "descKey": "cobblemon.species.mew.desc"
+  },
+  {
+    "speciesId": "chikorita",
+    "nationalDexNumber": 152,
+    "descKey": "cobblemon.species.chikorita.desc"
+  },
+  {
+    "speciesId": "bayleef",
+    "nationalDexNumber": 153,
+    "descKey": "cobblemon.species.bayleef.desc"
+  },
+  {
+    "speciesId": "meganium",
+    "nationalDexNumber": 154,
+    "descKey": "cobblemon.species.meganium.desc"
+  },
+  {
+    "speciesId": "cyndaquil",
+    "nationalDexNumber": 155,
+    "descKey": "cobblemon.species.cyndaquil.desc"
+  },
+  {
+    "speciesId": "quilava",
+    "nationalDexNumber": 156,
+    "descKey": "cobblemon.species.quilava.desc"
+  },
+  {
+    "speciesId": "typhlosion",
+    "nationalDexNumber": 157,
+    "descKey": "cobblemon.species.typhlosion.desc"
+  },
+  {
+    "speciesId": "totodile",
+    "nationalDexNumber": 158,
+    "descKey": "cobblemon.species.totodile.desc"
+  },
+  {
+    "speciesId": "croconaw",
+    "nationalDexNumber": 159,
+    "descKey": "cobblemon.species.croconaw.desc"
+  },
+  {
+    "speciesId": "feraligatr",
+    "nationalDexNumber": 160,
+    "descKey": "cobblemon.species.feraligatr.desc"
+  },
+  {
+    "speciesId": "sentret",
+    "nationalDexNumber": 161,
+    "descKey": "cobblemon.species.sentret.desc"
+  },
+  {
+    "speciesId": "furret",
+    "nationalDexNumber": 162,
+    "descKey": "cobblemon.species.furret.desc"
+  },
+  {
+    "speciesId": "hoothoot",
+    "nationalDexNumber": 163,
+    "descKey": "cobblemon.species.hoothoot.desc"
+  },
+  {
+    "speciesId": "noctowl",
+    "nationalDexNumber": 164,
+    "descKey": "cobblemon.species.noctowl.desc"
+  },
+  {
+    "speciesId": "ledyba",
+    "nationalDexNumber": 165,
+    "descKey": "cobblemon.species.ledyba.desc"
+  },
+  {
+    "speciesId": "ledian",
+    "nationalDexNumber": 166,
+    "descKey": "cobblemon.species.ledian.desc"
+  },
+  {
+    "speciesId": "spinarak",
+    "nationalDexNumber": 167,
+    "descKey": "cobblemon.species.spinarak.desc"
+  },
+  {
+    "speciesId": "ariados",
+    "nationalDexNumber": 168,
+    "descKey": "cobblemon.species.ariados.desc"
+  },
+  {
+    "speciesId": "crobat",
+    "nationalDexNumber": 169,
+    "descKey": "cobblemon.species.crobat.desc"
+  },
+  {
+    "speciesId": "chinchou",
+    "nationalDexNumber": 170,
+    "descKey": "cobblemon.species.chinchou.desc"
+  },
+  {
+    "speciesId": "lanturn",
+    "nationalDexNumber": 171,
+    "descKey": "cobblemon.species.lanturn.desc"
+  },
+  {
+    "speciesId": "pichu",
+    "nationalDexNumber": 172,
+    "descKey": "cobblemon.species.pichu.desc"
+  },
+  {
+    "speciesId": "cleffa",
+    "nationalDexNumber": 173,
+    "descKey": "cobblemon.species.cleffa.desc"
+  },
+  {
+    "speciesId": "igglybuff",
+    "nationalDexNumber": 174,
+    "descKey": "cobblemon.species.igglybuff.desc"
+  },
+  {
+    "speciesId": "togepi",
+    "nationalDexNumber": 175,
+    "descKey": "cobblemon.species.togepi.desc"
+  },
+  {
+    "speciesId": "togetic",
+    "nationalDexNumber": 176,
+    "descKey": "cobblemon.species.togetic.desc"
+  },
+  {
+    "speciesId": "natu",
+    "nationalDexNumber": 177,
+    "descKey": "cobblemon.species.natu.desc"
+  },
+  {
+    "speciesId": "xatu",
+    "nationalDexNumber": 178,
+    "descKey": "cobblemon.species.xatu.desc"
+  },
+  {
+    "speciesId": "mareep",
+    "nationalDexNumber": 179,
+    "descKey": "cobblemon.species.mareep.desc"
+  },
+  {
+    "speciesId": "flaaffy",
+    "nationalDexNumber": 180,
+    "descKey": "cobblemon.species.flaaffy.desc"
+  },
+  {
+    "speciesId": "ampharos",
+    "nationalDexNumber": 181,
+    "descKey": "cobblemon.species.ampharos.desc"
+  },
+  {
+    "speciesId": "bellossom",
+    "nationalDexNumber": 182,
+    "descKey": "cobblemon.species.bellossom.desc"
+  },
+  {
+    "speciesId": "marill",
+    "nationalDexNumber": 183,
+    "descKey": "cobblemon.species.marill.desc"
+  },
+  {
+    "speciesId": "azumarill",
+    "nationalDexNumber": 184,
+    "descKey": "cobblemon.species.azumarill.desc"
+  },
+  {
+    "speciesId": "sudowoodo",
+    "nationalDexNumber": 185,
+    "descKey": "cobblemon.species.sudowoodo.desc"
+  },
+  {
+    "speciesId": "politoed",
+    "nationalDexNumber": 186,
+    "descKey": "cobblemon.species.politoed.desc"
+  },
+  {
+    "speciesId": "hoppip",
+    "nationalDexNumber": 187,
+    "descKey": "cobblemon.species.hoppip.desc"
+  },
+  {
+    "speciesId": "skiploom",
+    "nationalDexNumber": 188,
+    "descKey": "cobblemon.species.skiploom.desc"
+  },
+  {
+    "speciesId": "jumpluff",
+    "nationalDexNumber": 189,
+    "descKey": "cobblemon.species.jumpluff.desc"
+  },
+  {
+    "speciesId": "aipom",
+    "nationalDexNumber": 190,
+    "descKey": "cobblemon.species.aipom.desc"
+  },
+  {
+    "speciesId": "sunkern",
+    "nationalDexNumber": 191,
+    "descKey": "cobblemon.species.sunkern.desc"
+  },
+  {
+    "speciesId": "sunflora",
+    "nationalDexNumber": 192,
+    "descKey": "cobblemon.species.sunflora.desc"
+  },
+  {
+    "speciesId": "yanma",
+    "nationalDexNumber": 193,
+    "descKey": "cobblemon.species.yanma.desc"
+  },
+  {
+    "speciesId": "wooper",
+    "nationalDexNumber": 194,
+    "descKey": "cobblemon.species.wooper.desc"
+  },
+  {
+    "speciesId": "quagsire",
+    "nationalDexNumber": 195,
+    "descKey": "cobblemon.species.quagsire.desc"
+  },
+  {
+    "speciesId": "espeon",
+    "nationalDexNumber": 196,
+    "descKey": "cobblemon.species.espeon.desc"
+  },
+  {
+    "speciesId": "umbreon",
+    "nationalDexNumber": 197,
+    "descKey": "cobblemon.species.umbreon.desc"
+  },
+  {
+    "speciesId": "murkrow",
+    "nationalDexNumber": 198,
+    "descKey": "cobblemon.species.murkrow.desc"
+  },
+  {
+    "speciesId": "slowking",
+    "nationalDexNumber": 199,
+    "descKey": "cobblemon.species.slowking.desc"
+  },
+  {
+    "speciesId": "misdreavus",
+    "nationalDexNumber": 200,
+    "descKey": "cobblemon.species.misdreavus.desc"
+  },
+  {
+    "speciesId": "unown",
+    "nationalDexNumber": 201,
+    "descKey": "cobblemon.species.unown.desc"
+  },
+  {
+    "speciesId": "wobbuffet",
+    "nationalDexNumber": 202,
+    "descKey": "cobblemon.species.wobbuffet.desc"
+  },
+  {
+    "speciesId": "girafarig",
+    "nationalDexNumber": 203,
+    "descKey": "cobblemon.species.girafarig.desc"
+  },
+  {
+    "speciesId": "pineco",
+    "nationalDexNumber": 204,
+    "descKey": "cobblemon.species.pineco.desc"
+  },
+  {
+    "speciesId": "forretress",
+    "nationalDexNumber": 205,
+    "descKey": "cobblemon.species.forretress.desc"
+  },
+  {
+    "speciesId": "dunsparce",
+    "nationalDexNumber": 206,
+    "descKey": "cobblemon.species.dunsparce.desc"
+  },
+  {
+    "speciesId": "gligar",
+    "nationalDexNumber": 207,
+    "descKey": "cobblemon.species.gligar.desc"
+  },
+  {
+    "speciesId": "steelix",
+    "nationalDexNumber": 208,
+    "descKey": "cobblemon.species.steelix.desc"
+  },
+  {
+    "speciesId": "snubbull",
+    "nationalDexNumber": 209,
+    "descKey": "cobblemon.species.snubbull.desc"
+  },
+  {
+    "speciesId": "granbull",
+    "nationalDexNumber": 210,
+    "descKey": "cobblemon.species.granbull.desc"
+  },
+  {
+    "speciesId": "qwilfish",
+    "nationalDexNumber": 211,
+    "descKey": "cobblemon.species.qwilfish.desc"
+  },
+  {
+    "speciesId": "scizor",
+    "nationalDexNumber": 212,
+    "descKey": "cobblemon.species.scizor.desc"
+  },
+  {
+    "speciesId": "shuckle",
+    "nationalDexNumber": 213,
+    "descKey": "cobblemon.species.shuckle.desc"
+  },
+  {
+    "speciesId": "heracross",
+    "nationalDexNumber": 214,
+    "descKey": "cobblemon.species.heracross.desc"
+  },
+  {
+    "speciesId": "sneasel",
+    "nationalDexNumber": 215,
+    "descKey": "cobblemon.species.sneasel.desc"
+  },
+  {
+    "speciesId": "teddiursa",
+    "nationalDexNumber": 216,
+    "descKey": "cobblemon.species.teddiursa.desc"
+  },
+  {
+    "speciesId": "ursaring",
+    "nationalDexNumber": 217,
+    "descKey": "cobblemon.species.ursaring.desc"
+  },
+  {
+    "speciesId": "slugma",
+    "nationalDexNumber": 218,
+    "descKey": "cobblemon.species.slugma.desc"
+  },
+  {
+    "speciesId": "magcargo",
+    "nationalDexNumber": 219,
+    "descKey": "cobblemon.species.magcargo.desc"
+  },
+  {
+    "speciesId": "swinub",
+    "nationalDexNumber": 220,
+    "descKey": "cobblemon.species.swinub.desc"
+  },
+  {
+    "speciesId": "piloswine",
+    "nationalDexNumber": 221,
+    "descKey": "cobblemon.species.piloswine.desc"
+  },
+  {
+    "speciesId": "corsola",
+    "nationalDexNumber": 222,
+    "descKey": "cobblemon.species.corsola.desc"
+  },
+  {
+    "speciesId": "remoraid",
+    "nationalDexNumber": 223,
+    "descKey": "cobblemon.species.remoraid.desc"
+  },
+  {
+    "speciesId": "octillery",
+    "nationalDexNumber": 224,
+    "descKey": "cobblemon.species.octillery.desc"
+  },
+  {
+    "speciesId": "delibird",
+    "nationalDexNumber": 225,
+    "descKey": "cobblemon.species.delibird.desc"
+  },
+  {
+    "speciesId": "mantine",
+    "nationalDexNumber": 226,
+    "descKey": "cobblemon.species.mantine.desc"
+  },
+  {
+    "speciesId": "skarmory",
+    "nationalDexNumber": 227,
+    "descKey": "cobblemon.species.skarmory.desc"
+  },
+  {
+    "speciesId": "houndour",
+    "nationalDexNumber": 228,
+    "descKey": "cobblemon.species.houndour.desc"
+  },
+  {
+    "speciesId": "houndoom",
+    "nationalDexNumber": 229,
+    "descKey": "cobblemon.species.houndoom.desc"
+  },
+  {
+    "speciesId": "kingdra",
+    "nationalDexNumber": 230,
+    "descKey": "cobblemon.species.kingdra.desc"
+  },
+  {
+    "speciesId": "phanpy",
+    "nationalDexNumber": 231,
+    "descKey": "cobblemon.species.phanpy.desc"
+  },
+  {
+    "speciesId": "donphan",
+    "nationalDexNumber": 232,
+    "descKey": "cobblemon.species.donphan.desc"
+  },
+  {
+    "speciesId": "porygon2",
+    "nationalDexNumber": 233,
+    "descKey": "cobblemon.species.porygon2.desc"
+  },
+  {
+    "speciesId": "stantler",
+    "nationalDexNumber": 234,
+    "descKey": "cobblemon.species.stantler.desc"
+  },
+  {
+    "speciesId": "smeargle",
+    "nationalDexNumber": 235,
+    "descKey": "cobblemon.species.smeargle.desc"
+  },
+  {
+    "speciesId": "tyrogue",
+    "nationalDexNumber": 236,
+    "descKey": "cobblemon.species.tyrogue.desc"
+  },
+  {
+    "speciesId": "hitmontop",
+    "nationalDexNumber": 237,
+    "descKey": "cobblemon.species.hitmontop.desc"
+  },
+  {
+    "speciesId": "smoochum",
+    "nationalDexNumber": 238,
+    "descKey": "cobblemon.species.smoochum.desc"
+  },
+  {
+    "speciesId": "elekid",
+    "nationalDexNumber": 239,
+    "descKey": "cobblemon.species.elekid.desc"
+  },
+  {
+    "speciesId": "magby",
+    "nationalDexNumber": 240,
+    "descKey": "cobblemon.species.magby.desc"
+  },
+  {
+    "speciesId": "miltank",
+    "nationalDexNumber": 241,
+    "descKey": "cobblemon.species.miltank.desc"
+  },
+  {
+    "speciesId": "blissey",
+    "nationalDexNumber": 242,
+    "descKey": "cobblemon.species.blissey.desc"
+  },
+  {
+    "speciesId": "raikou",
+    "nationalDexNumber": 243,
+    "descKey": "cobblemon.species.raikou.desc"
+  },
+  {
+    "speciesId": "entei",
+    "nationalDexNumber": 244,
+    "descKey": "cobblemon.species.entei.desc"
+  },
+  {
+    "speciesId": "suicune",
+    "nationalDexNumber": 245,
+    "descKey": "cobblemon.species.suicune.desc"
+  },
+  {
+    "speciesId": "larvitar",
+    "nationalDexNumber": 246,
+    "descKey": "cobblemon.species.larvitar.desc"
+  },
+  {
+    "speciesId": "pupitar",
+    "nationalDexNumber": 247,
+    "descKey": "cobblemon.species.pupitar.desc"
+  },
+  {
+    "speciesId": "tyranitar",
+    "nationalDexNumber": 248,
+    "descKey": "cobblemon.species.tyranitar.desc"
+  },
+  {
+    "speciesId": "lugia",
+    "nationalDexNumber": 249,
+    "descKey": "cobblemon.species.lugia.desc"
+  },
+  {
+    "speciesId": "ho-oh",
+    "nationalDexNumber": 250,
+    "descKey": "cobblemon.species.ho-oh.desc"
+  },
+  {
+    "speciesId": "celebi",
+    "nationalDexNumber": 251,
+    "descKey": "cobblemon.species.celebi.desc"
+  },
+  {
+    "speciesId": "treecko",
+    "nationalDexNumber": 252,
+    "descKey": "cobblemon.species.treecko.desc"
+  },
+  {
+    "speciesId": "grovyle",
+    "nationalDexNumber": 253,
+    "descKey": "cobblemon.species.grovyle.desc"
+  },
+  {
+    "speciesId": "sceptile",
+    "nationalDexNumber": 254,
+    "descKey": "cobblemon.species.sceptile.desc"
+  },
+  {
+    "speciesId": "torchic",
+    "nationalDexNumber": 255,
+    "descKey": "cobblemon.species.torchic.desc"
+  },
+  {
+    "speciesId": "combusken",
+    "nationalDexNumber": 256,
+    "descKey": "cobblemon.species.combusken.desc"
+  },
+  {
+    "speciesId": "blaziken",
+    "nationalDexNumber": 257,
+    "descKey": "cobblemon.species.blaziken.desc"
+  },
+  {
+    "speciesId": "mudkip",
+    "nationalDexNumber": 258,
+    "descKey": "cobblemon.species.mudkip.desc"
+  },
+  {
+    "speciesId": "marshtomp",
+    "nationalDexNumber": 259,
+    "descKey": "cobblemon.species.marshtomp.desc"
+  },
+  {
+    "speciesId": "swampert",
+    "nationalDexNumber": 260,
+    "descKey": "cobblemon.species.swampert.desc"
+  },
+  {
+    "speciesId": "poochyena",
+    "nationalDexNumber": 261,
+    "descKey": "cobblemon.species.poochyena.desc"
+  },
+  {
+    "speciesId": "mightyena",
+    "nationalDexNumber": 262,
+    "descKey": "cobblemon.species.mightyena.desc"
+  },
+  {
+    "speciesId": "zigzagoon",
+    "nationalDexNumber": 263,
+    "descKey": "cobblemon.species.zigzagoon.desc"
+  },
+  {
+    "speciesId": "linoone",
+    "nationalDexNumber": 264,
+    "descKey": "cobblemon.species.linoone.desc"
+  },
+  {
+    "speciesId": "wurmple",
+    "nationalDexNumber": 265,
+    "descKey": "cobblemon.species.wurmple.desc"
+  },
+  {
+    "speciesId": "silcoon",
+    "nationalDexNumber": 266,
+    "descKey": "cobblemon.species.silcoon.desc"
+  },
+  {
+    "speciesId": "beautifly",
+    "nationalDexNumber": 267,
+    "descKey": "cobblemon.species.beautifly.desc"
+  },
+  {
+    "speciesId": "cascoon",
+    "nationalDexNumber": 268,
+    "descKey": "cobblemon.species.cascoon.desc"
+  },
+  {
+    "speciesId": "dustox",
+    "nationalDexNumber": 269,
+    "descKey": "cobblemon.species.dustox.desc"
+  },
+  {
+    "speciesId": "lotad",
+    "nationalDexNumber": 270,
+    "descKey": "cobblemon.species.lotad.desc"
+  },
+  {
+    "speciesId": "lombre",
+    "nationalDexNumber": 271,
+    "descKey": "cobblemon.species.lombre.desc"
+  },
+  {
+    "speciesId": "ludicolo",
+    "nationalDexNumber": 272,
+    "descKey": "cobblemon.species.ludicolo.desc"
+  },
+  {
+    "speciesId": "seedot",
+    "nationalDexNumber": 273,
+    "descKey": "cobblemon.species.seedot.desc"
+  },
+  {
+    "speciesId": "nuzleaf",
+    "nationalDexNumber": 274,
+    "descKey": "cobblemon.species.nuzleaf.desc"
+  },
+  {
+    "speciesId": "shiftry",
+    "nationalDexNumber": 275,
+    "descKey": "cobblemon.species.shiftry.desc"
+  },
+  {
+    "speciesId": "taillow",
+    "nationalDexNumber": 276,
+    "descKey": "cobblemon.species.taillow.desc"
+  },
+  {
+    "speciesId": "swellow",
+    "nationalDexNumber": 277,
+    "descKey": "cobblemon.species.swellow.desc"
+  },
+  {
+    "speciesId": "wingull",
+    "nationalDexNumber": 278,
+    "descKey": "cobblemon.species.wingull.desc"
+  },
+  {
+    "speciesId": "pelipper",
+    "nationalDexNumber": 279,
+    "descKey": "cobblemon.species.pelipper.desc"
+  },
+  {
+    "speciesId": "ralts",
+    "nationalDexNumber": 280,
+    "descKey": "cobblemon.species.ralts.desc"
+  },
+  {
+    "speciesId": "kirlia",
+    "nationalDexNumber": 281,
+    "descKey": "cobblemon.species.kirlia.desc"
+  },
+  {
+    "speciesId": "gardevoir",
+    "nationalDexNumber": 282,
+    "descKey": "cobblemon.species.gardevoir.desc"
+  },
+  {
+    "speciesId": "surskit",
+    "nationalDexNumber": 283,
+    "descKey": "cobblemon.species.surskit.desc"
+  },
+  {
+    "speciesId": "masquerain",
+    "nationalDexNumber": 284,
+    "descKey": "cobblemon.species.masquerain.desc"
+  },
+  {
+    "speciesId": "shroomish",
+    "nationalDexNumber": 285,
+    "descKey": "cobblemon.species.shroomish.desc"
+  },
+  {
+    "speciesId": "breloom",
+    "nationalDexNumber": 286,
+    "descKey": "cobblemon.species.breloom.desc"
+  },
+  {
+    "speciesId": "slakoth",
+    "nationalDexNumber": 287,
+    "descKey": "cobblemon.species.slakoth.desc"
+  },
+  {
+    "speciesId": "vigoroth",
+    "nationalDexNumber": 288,
+    "descKey": "cobblemon.species.vigoroth.desc"
+  },
+  {
+    "speciesId": "slaking",
+    "nationalDexNumber": 289,
+    "descKey": "cobblemon.species.slaking.desc"
+  },
+  {
+    "speciesId": "nincada",
+    "nationalDexNumber": 290,
+    "descKey": "cobblemon.species.nincada.desc"
+  },
+  {
+    "speciesId": "ninjask",
+    "nationalDexNumber": 291,
+    "descKey": "cobblemon.species.ninjask.desc"
+  },
+  {
+    "speciesId": "shedinja",
+    "nationalDexNumber": 292,
+    "descKey": "cobblemon.species.shedinja.desc"
+  },
+  {
+    "speciesId": "whismur",
+    "nationalDexNumber": 293,
+    "descKey": "cobblemon.species.whismur.desc"
+  },
+  {
+    "speciesId": "loudred",
+    "nationalDexNumber": 294,
+    "descKey": "cobblemon.species.loudred.desc"
+  },
+  {
+    "speciesId": "exploud",
+    "nationalDexNumber": 295,
+    "descKey": "cobblemon.species.exploud.desc"
+  },
+  {
+    "speciesId": "makuhita",
+    "nationalDexNumber": 296,
+    "descKey": "cobblemon.species.makuhita.desc"
+  },
+  {
+    "speciesId": "hariyama",
+    "nationalDexNumber": 297,
+    "descKey": "cobblemon.species.hariyama.desc"
+  },
+  {
+    "speciesId": "azurill",
+    "nationalDexNumber": 298,
+    "descKey": "cobblemon.species.azurill.desc"
+  },
+  {
+    "speciesId": "nosepass",
+    "nationalDexNumber": 299,
+    "descKey": "cobblemon.species.nosepass.desc"
+  },
+  {
+    "speciesId": "skitty",
+    "nationalDexNumber": 300,
+    "descKey": "cobblemon.species.skitty.desc"
+  },
+  {
+    "speciesId": "delcatty",
+    "nationalDexNumber": 301,
+    "descKey": "cobblemon.species.delcatty.desc"
+  },
+  {
+    "speciesId": "sableye",
+    "nationalDexNumber": 302,
+    "descKey": "cobblemon.species.sableye.desc"
+  },
+  {
+    "speciesId": "mawile",
+    "nationalDexNumber": 303,
+    "descKey": "cobblemon.species.mawile.desc"
+  },
+  {
+    "speciesId": "aron",
+    "nationalDexNumber": 304,
+    "descKey": "cobblemon.species.aron.desc"
+  },
+  {
+    "speciesId": "lairon",
+    "nationalDexNumber": 305,
+    "descKey": "cobblemon.species.lairon.desc"
+  },
+  {
+    "speciesId": "aggron",
+    "nationalDexNumber": 306,
+    "descKey": "cobblemon.species.aggron.desc"
+  },
+  {
+    "speciesId": "meditite",
+    "nationalDexNumber": 307,
+    "descKey": "cobblemon.species.meditite.desc"
+  },
+  {
+    "speciesId": "medicham",
+    "nationalDexNumber": 308,
+    "descKey": "cobblemon.species.medicham.desc"
+  },
+  {
+    "speciesId": "electrike",
+    "nationalDexNumber": 309,
+    "descKey": "cobblemon.species.electrike.desc"
+  },
+  {
+    "speciesId": "manectric",
+    "nationalDexNumber": 310,
+    "descKey": "cobblemon.species.manectric.desc"
+  },
+  {
+    "speciesId": "plusle",
+    "nationalDexNumber": 311,
+    "descKey": "cobblemon.species.plusle.desc"
+  },
+  {
+    "speciesId": "minun",
+    "nationalDexNumber": 312,
+    "descKey": "cobblemon.species.minun.desc"
+  },
+  {
+    "speciesId": "volbeat",
+    "nationalDexNumber": 313,
+    "descKey": "cobblemon.species.volbeat.desc"
+  },
+  {
+    "speciesId": "illumise",
+    "nationalDexNumber": 314,
+    "descKey": "cobblemon.species.illumise.desc"
+  },
+  {
+    "speciesId": "roselia",
+    "nationalDexNumber": 315,
+    "descKey": "cobblemon.species.roselia.desc"
+  },
+  {
+    "speciesId": "gulpin",
+    "nationalDexNumber": 316,
+    "descKey": "cobblemon.species.gulpin.desc"
+  },
+  {
+    "speciesId": "swalot",
+    "nationalDexNumber": 317,
+    "descKey": "cobblemon.species.swalot.desc"
+  },
+  {
+    "speciesId": "carvanha",
+    "nationalDexNumber": 318,
+    "descKey": "cobblemon.species.carvanha.desc"
+  },
+  {
+    "speciesId": "sharpedo",
+    "nationalDexNumber": 319,
+    "descKey": "cobblemon.species.sharpedo.desc"
+  },
+  {
+    "speciesId": "wailmer",
+    "nationalDexNumber": 320,
+    "descKey": "cobblemon.species.wailmer.desc"
+  },
+  {
+    "speciesId": "wailord",
+    "nationalDexNumber": 321,
+    "descKey": "cobblemon.species.wailord.desc"
+  },
+  {
+    "speciesId": "numel",
+    "nationalDexNumber": 322,
+    "descKey": "cobblemon.species.numel.desc"
+  },
+  {
+    "speciesId": "camerupt",
+    "nationalDexNumber": 323,
+    "descKey": "cobblemon.species.camerupt.desc"
+  },
+  {
+    "speciesId": "torkoal",
+    "nationalDexNumber": 324,
+    "descKey": "cobblemon.species.torkoal.desc"
+  },
+  {
+    "speciesId": "spoink",
+    "nationalDexNumber": 325,
+    "descKey": "cobblemon.species.spoink.desc"
+  },
+  {
+    "speciesId": "grumpig",
+    "nationalDexNumber": 326,
+    "descKey": "cobblemon.species.grumpig.desc"
+  },
+  {
+    "speciesId": "spinda",
+    "nationalDexNumber": 327,
+    "descKey": "cobblemon.species.spinda.desc"
+  },
+  {
+    "speciesId": "trapinch",
+    "nationalDexNumber": 328,
+    "descKey": "cobblemon.species.trapinch.desc"
+  },
+  {
+    "speciesId": "vibrava",
+    "nationalDexNumber": 329,
+    "descKey": "cobblemon.species.vibrava.desc"
+  },
+  {
+    "speciesId": "flygon",
+    "nationalDexNumber": 330,
+    "descKey": "cobblemon.species.flygon.desc"
+  },
+  {
+    "speciesId": "cacnea",
+    "nationalDexNumber": 331,
+    "descKey": "cobblemon.species.cacnea.desc"
+  },
+  {
+    "speciesId": "cacturne",
+    "nationalDexNumber": 332,
+    "descKey": "cobblemon.species.cacturne.desc"
+  },
+  {
+    "speciesId": "swablu",
+    "nationalDexNumber": 333,
+    "descKey": "cobblemon.species.swablu.desc"
+  },
+  {
+    "speciesId": "altaria",
+    "nationalDexNumber": 334,
+    "descKey": "cobblemon.species.altaria.desc"
+  },
+  {
+    "speciesId": "zangoose",
+    "nationalDexNumber": 335,
+    "descKey": "cobblemon.species.zangoose.desc"
+  },
+  {
+    "speciesId": "seviper",
+    "nationalDexNumber": 336,
+    "descKey": "cobblemon.species.seviper.desc"
+  },
+  {
+    "speciesId": "lunatone",
+    "nationalDexNumber": 337,
+    "descKey": "cobblemon.species.lunatone.desc"
+  },
+  {
+    "speciesId": "solrock",
+    "nationalDexNumber": 338,
+    "descKey": "cobblemon.species.solrock.desc"
+  },
+  {
+    "speciesId": "barboach",
+    "nationalDexNumber": 339,
+    "descKey": "cobblemon.species.barboach.desc"
+  },
+  {
+    "speciesId": "whiscash",
+    "nationalDexNumber": 340,
+    "descKey": "cobblemon.species.whiscash.desc"
+  },
+  {
+    "speciesId": "corphish",
+    "nationalDexNumber": 341,
+    "descKey": "cobblemon.species.corphish.desc"
+  },
+  {
+    "speciesId": "crawdaunt",
+    "nationalDexNumber": 342,
+    "descKey": "cobblemon.species.crawdaunt.desc"
+  },
+  {
+    "speciesId": "baltoy",
+    "nationalDexNumber": 343,
+    "descKey": "cobblemon.species.baltoy.desc"
+  },
+  {
+    "speciesId": "claydol",
+    "nationalDexNumber": 344,
+    "descKey": "cobblemon.species.claydol.desc"
+  },
+  {
+    "speciesId": "lileep",
+    "nationalDexNumber": 345,
+    "descKey": "cobblemon.species.lileep.desc"
+  },
+  {
+    "speciesId": "cradily",
+    "nationalDexNumber": 346,
+    "descKey": "cobblemon.species.cradily.desc"
+  },
+  {
+    "speciesId": "anorith",
+    "nationalDexNumber": 347,
+    "descKey": "cobblemon.species.anorith.desc"
+  },
+  {
+    "speciesId": "armaldo",
+    "nationalDexNumber": 348,
+    "descKey": "cobblemon.species.armaldo.desc"
+  },
+  {
+    "speciesId": "feebas",
+    "nationalDexNumber": 349,
+    "descKey": "cobblemon.species.feebas.desc"
+  },
+  {
+    "speciesId": "milotic",
+    "nationalDexNumber": 350,
+    "descKey": "cobblemon.species.milotic.desc"
+  },
+  {
+    "speciesId": "castform",
+    "nationalDexNumber": 351,
+    "descKey": "cobblemon.species.castform.desc"
+  },
+  {
+    "speciesId": "kecleon",
+    "nationalDexNumber": 352,
+    "descKey": "cobblemon.species.kecleon.desc"
+  },
+  {
+    "speciesId": "shuppet",
+    "nationalDexNumber": 353,
+    "descKey": "cobblemon.species.shuppet.desc"
+  },
+  {
+    "speciesId": "banette",
+    "nationalDexNumber": 354,
+    "descKey": "cobblemon.species.banette.desc"
+  },
+  {
+    "speciesId": "duskull",
+    "nationalDexNumber": 355,
+    "descKey": "cobblemon.species.duskull.desc"
+  },
+  {
+    "speciesId": "dusclops",
+    "nationalDexNumber": 356,
+    "descKey": "cobblemon.species.dusclops.desc"
+  },
+  {
+    "speciesId": "tropius",
+    "nationalDexNumber": 357,
+    "descKey": "cobblemon.species.tropius.desc"
+  },
+  {
+    "speciesId": "chimecho",
+    "nationalDexNumber": 358,
+    "descKey": "cobblemon.species.chimecho.desc"
+  },
+  {
+    "speciesId": "absol",
+    "nationalDexNumber": 359,
+    "descKey": "cobblemon.species.absol.desc"
+  },
+  {
+    "speciesId": "wynaut",
+    "nationalDexNumber": 360,
+    "descKey": "cobblemon.species.wynaut.desc"
+  },
+  {
+    "speciesId": "snorunt",
+    "nationalDexNumber": 361,
+    "descKey": "cobblemon.species.snorunt.desc"
+  },
+  {
+    "speciesId": "glalie",
+    "nationalDexNumber": 362,
+    "descKey": "cobblemon.species.glalie.desc"
+  },
+  {
+    "speciesId": "spheal",
+    "nationalDexNumber": 363,
+    "descKey": "cobblemon.species.spheal.desc"
+  },
+  {
+    "speciesId": "sealeo",
+    "nationalDexNumber": 364,
+    "descKey": "cobblemon.species.sealeo.desc"
+  },
+  {
+    "speciesId": "walrein",
+    "nationalDexNumber": 365,
+    "descKey": "cobblemon.species.walrein.desc"
+  },
+  {
+    "speciesId": "clamperl",
+    "nationalDexNumber": 366,
+    "descKey": "cobblemon.species.clamperl.desc"
+  },
+  {
+    "speciesId": "huntail",
+    "nationalDexNumber": 367,
+    "descKey": "cobblemon.species.huntail.desc"
+  },
+  {
+    "speciesId": "gorebyss",
+    "nationalDexNumber": 368,
+    "descKey": "cobblemon.species.gorebyss.desc"
+  },
+  {
+    "speciesId": "relicanth",
+    "nationalDexNumber": 369,
+    "descKey": "cobblemon.species.relicanth.desc"
+  },
+  {
+    "speciesId": "luvdisc",
+    "nationalDexNumber": 370,
+    "descKey": "cobblemon.species.luvdisc.desc"
+  },
+  {
+    "speciesId": "bagon",
+    "nationalDexNumber": 371,
+    "descKey": "cobblemon.species.bagon.desc"
+  },
+  {
+    "speciesId": "shelgon",
+    "nationalDexNumber": 372,
+    "descKey": "cobblemon.species.shelgon.desc"
+  },
+  {
+    "speciesId": "salamence",
+    "nationalDexNumber": 373,
+    "descKey": "cobblemon.species.salamence.desc"
+  },
+  {
+    "speciesId": "beldum",
+    "nationalDexNumber": 374,
+    "descKey": "cobblemon.species.beldum.desc"
+  },
+  {
+    "speciesId": "metang",
+    "nationalDexNumber": 375,
+    "descKey": "cobblemon.species.metang.desc"
+  },
+  {
+    "speciesId": "metagross",
+    "nationalDexNumber": 376,
+    "descKey": "cobblemon.species.metagross.desc"
+  },
+  {
+    "speciesId": "regirock",
+    "nationalDexNumber": 377,
+    "descKey": "cobblemon.species.regirock.desc"
+  },
+  {
+    "speciesId": "regice",
+    "nationalDexNumber": 378,
+    "descKey": "cobblemon.species.regice.desc"
+  },
+  {
+    "speciesId": "registeel",
+    "nationalDexNumber": 379,
+    "descKey": "cobblemon.species.registeel.desc"
+  },
+  {
+    "speciesId": "latias",
+    "nationalDexNumber": 380,
+    "descKey": "cobblemon.species.latias.desc"
+  },
+  {
+    "speciesId": "latios",
+    "nationalDexNumber": 381,
+    "descKey": "cobblemon.species.latios.desc"
+  },
+  {
+    "speciesId": "kyogre",
+    "nationalDexNumber": 382,
+    "descKey": "cobblemon.species.kyogre.desc"
+  },
+  {
+    "speciesId": "groudon",
+    "nationalDexNumber": 383,
+    "descKey": "cobblemon.species.groudon.desc"
+  },
+  {
+    "speciesId": "rayquaza",
+    "nationalDexNumber": 384,
+    "descKey": "cobblemon.species.rayquaza.desc"
+  },
+  {
+    "speciesId": "jirachi",
+    "nationalDexNumber": 385,
+    "descKey": "cobblemon.species.jirachi.desc"
+  },
+  {
+    "speciesId": "deoxys",
+    "nationalDexNumber": 386,
+    "descKey": "cobblemon.species.deoxys.desc"
+  },
+  {
+    "speciesId": "turtwig",
+    "nationalDexNumber": 387,
+    "descKey": "cobblemon.species.turtwig.desc"
+  },
+  {
+    "speciesId": "grotle",
+    "nationalDexNumber": 388,
+    "descKey": "cobblemon.species.grotle.desc"
+  },
+  {
+    "speciesId": "torterra",
+    "nationalDexNumber": 389,
+    "descKey": "cobblemon.species.torterra.desc"
+  },
+  {
+    "speciesId": "chimchar",
+    "nationalDexNumber": 390,
+    "descKey": "cobblemon.species.chimchar.desc"
+  },
+  {
+    "speciesId": "monferno",
+    "nationalDexNumber": 391,
+    "descKey": "cobblemon.species.monferno.desc"
+  },
+  {
+    "speciesId": "infernape",
+    "nationalDexNumber": 392,
+    "descKey": "cobblemon.species.infernape.desc"
+  },
+  {
+    "speciesId": "piplup",
+    "nationalDexNumber": 393,
+    "descKey": "cobblemon.species.piplup.desc"
+  },
+  {
+    "speciesId": "prinplup",
+    "nationalDexNumber": 394,
+    "descKey": "cobblemon.species.prinplup.desc"
+  },
+  {
+    "speciesId": "empoleon",
+    "nationalDexNumber": 395,
+    "descKey": "cobblemon.species.empoleon.desc"
+  },
+  {
+    "speciesId": "starly",
+    "nationalDexNumber": 396,
+    "descKey": "cobblemon.species.starly.desc"
+  },
+  {
+    "speciesId": "staravia",
+    "nationalDexNumber": 397,
+    "descKey": "cobblemon.species.staravia.desc"
+  },
+  {
+    "speciesId": "staraptor",
+    "nationalDexNumber": 398,
+    "descKey": "cobblemon.species.staraptor.desc"
+  },
+  {
+    "speciesId": "bidoof",
+    "nationalDexNumber": 399,
+    "descKey": "cobblemon.species.bidoof.desc"
+  },
+  {
+    "speciesId": "bibarel",
+    "nationalDexNumber": 400,
+    "descKey": "cobblemon.species.bibarel.desc"
+  },
+  {
+    "speciesId": "kricketot",
+    "nationalDexNumber": 401,
+    "descKey": "cobblemon.species.kricketot.desc"
+  },
+  {
+    "speciesId": "kricketune",
+    "nationalDexNumber": 402,
+    "descKey": "cobblemon.species.kricketune.desc"
+  },
+  {
+    "speciesId": "shinx",
+    "nationalDexNumber": 403,
+    "descKey": "cobblemon.species.shinx.desc"
+  },
+  {
+    "speciesId": "luxio",
+    "nationalDexNumber": 404,
+    "descKey": "cobblemon.species.luxio.desc"
+  },
+  {
+    "speciesId": "luxray",
+    "nationalDexNumber": 405,
+    "descKey": "cobblemon.species.luxray.desc"
+  },
+  {
+    "speciesId": "budew",
+    "nationalDexNumber": 406,
+    "descKey": "cobblemon.species.budew.desc"
+  },
+  {
+    "speciesId": "roserade",
+    "nationalDexNumber": 407,
+    "descKey": "cobblemon.species.roserade.desc"
+  },
+  {
+    "speciesId": "cranidos",
+    "nationalDexNumber": 408,
+    "descKey": "cobblemon.species.cranidos.desc"
+  },
+  {
+    "speciesId": "rampardos",
+    "nationalDexNumber": 409,
+    "descKey": "cobblemon.species.rampardos.desc"
+  },
+  {
+    "speciesId": "shieldon",
+    "nationalDexNumber": 410,
+    "descKey": "cobblemon.species.shieldon.desc"
+  },
+  {
+    "speciesId": "bastiodon",
+    "nationalDexNumber": 411,
+    "descKey": "cobblemon.species.bastiodon.desc"
+  },
+  {
+    "speciesId": "burmy",
+    "nationalDexNumber": 412,
+    "descKey": "cobblemon.species.burmy.desc"
+  },
+  {
+    "speciesId": "wormadam",
+    "nationalDexNumber": 413,
+    "descKey": "cobblemon.species.wormadam.desc"
+  },
+  {
+    "speciesId": "mothim",
+    "nationalDexNumber": 414,
+    "descKey": "cobblemon.species.mothim.desc"
+  },
+  {
+    "speciesId": "combee",
+    "nationalDexNumber": 415,
+    "descKey": "cobblemon.species.combee.desc"
+  },
+  {
+    "speciesId": "vespiquen",
+    "nationalDexNumber": 416,
+    "descKey": "cobblemon.species.vespiquen.desc"
+  },
+  {
+    "speciesId": "pachirisu",
+    "nationalDexNumber": 417,
+    "descKey": "cobblemon.species.pachirisu.desc"
+  },
+  {
+    "speciesId": "buizel",
+    "nationalDexNumber": 418,
+    "descKey": "cobblemon.species.buizel.desc"
+  },
+  {
+    "speciesId": "floatzel",
+    "nationalDexNumber": 419,
+    "descKey": "cobblemon.species.floatzel.desc"
+  },
+  {
+    "speciesId": "cherubi",
+    "nationalDexNumber": 420,
+    "descKey": "cobblemon.species.cherubi.desc"
+  },
+  {
+    "speciesId": "cherrim",
+    "nationalDexNumber": 421,
+    "descKey": "cobblemon.species.cherrim.desc"
+  },
+  {
+    "speciesId": "shellos",
+    "nationalDexNumber": 422,
+    "descKey": "cobblemon.species.shellos.desc"
+  },
+  {
+    "speciesId": "gastrodon",
+    "nationalDexNumber": 423,
+    "descKey": "cobblemon.species.gastrodon.desc"
+  },
+  {
+    "speciesId": "ambipom",
+    "nationalDexNumber": 424,
+    "descKey": "cobblemon.species.ambipom.desc"
+  },
+  {
+    "speciesId": "drifloon",
+    "nationalDexNumber": 425,
+    "descKey": "cobblemon.species.drifloon.desc"
+  },
+  {
+    "speciesId": "drifblim",
+    "nationalDexNumber": 426,
+    "descKey": "cobblemon.species.drifblim.desc"
+  },
+  {
+    "speciesId": "buneary",
+    "nationalDexNumber": 427,
+    "descKey": "cobblemon.species.buneary.desc"
+  },
+  {
+    "speciesId": "lopunny",
+    "nationalDexNumber": 428,
+    "descKey": "cobblemon.species.lopunny.desc"
+  },
+  {
+    "speciesId": "mismagius",
+    "nationalDexNumber": 429,
+    "descKey": "cobblemon.species.mismagius.desc"
+  },
+  {
+    "speciesId": "honchkrow",
+    "nationalDexNumber": 430,
+    "descKey": "cobblemon.species.honchkrow.desc"
+  },
+  {
+    "speciesId": "glameow",
+    "nationalDexNumber": 431,
+    "descKey": "cobblemon.species.glameow.desc"
+  },
+  {
+    "speciesId": "purugly",
+    "nationalDexNumber": 432,
+    "descKey": "cobblemon.species.purugly.desc"
+  },
+  {
+    "speciesId": "chingling",
+    "nationalDexNumber": 433,
+    "descKey": "cobblemon.species.chingling.desc"
+  },
+  {
+    "speciesId": "stunky",
+    "nationalDexNumber": 434,
+    "descKey": "cobblemon.species.stunky.desc"
+  },
+  {
+    "speciesId": "skuntank",
+    "nationalDexNumber": 435,
+    "descKey": "cobblemon.species.skuntank.desc"
+  },
+  {
+    "speciesId": "bronzor",
+    "nationalDexNumber": 436,
+    "descKey": "cobblemon.species.bronzor.desc"
+  },
+  {
+    "speciesId": "bronzong",
+    "nationalDexNumber": 437,
+    "descKey": "cobblemon.species.bronzong.desc"
+  },
+  {
+    "speciesId": "bonsly",
+    "nationalDexNumber": 438,
+    "descKey": "cobblemon.species.bonsly.desc"
+  },
+  {
+    "speciesId": "mime_jr.",
+    "nationalDexNumber": 439,
+    "descKey": "cobblemon.species.mime_jr..desc"
+  },
+  {
+    "speciesId": "happiny",
+    "nationalDexNumber": 440,
+    "descKey": "cobblemon.species.happiny.desc"
+  },
+  {
+    "speciesId": "chatot",
+    "nationalDexNumber": 441,
+    "descKey": "cobblemon.species.chatot.desc"
+  },
+  {
+    "speciesId": "spiritomb",
+    "nationalDexNumber": 442,
+    "descKey": "cobblemon.species.spiritomb.desc"
+  },
+  {
+    "speciesId": "gible",
+    "nationalDexNumber": 443,
+    "descKey": "cobblemon.species.gible.desc"
+  },
+  {
+    "speciesId": "gabite",
+    "nationalDexNumber": 444,
+    "descKey": "cobblemon.species.gabite.desc"
+  },
+  {
+    "speciesId": "garchomp",
+    "nationalDexNumber": 445,
+    "descKey": "cobblemon.species.garchomp.desc"
+  },
+  {
+    "speciesId": "munchlax",
+    "nationalDexNumber": 446,
+    "descKey": "cobblemon.species.munchlax.desc"
+  },
+  {
+    "speciesId": "riolu",
+    "nationalDexNumber": 447,
+    "descKey": "cobblemon.species.riolu.desc"
+  },
+  {
+    "speciesId": "lucario",
+    "nationalDexNumber": 448,
+    "descKey": "cobblemon.species.lucario.desc"
+  },
+  {
+    "speciesId": "hippopotas",
+    "nationalDexNumber": 449,
+    "descKey": "cobblemon.species.hippopotas.desc"
+  },
+  {
+    "speciesId": "hippowdon",
+    "nationalDexNumber": 450,
+    "descKey": "cobblemon.species.hippowdon.desc"
+  },
+  {
+    "speciesId": "skorupi",
+    "nationalDexNumber": 451,
+    "descKey": "cobblemon.species.skorupi.desc"
+  },
+  {
+    "speciesId": "drapion",
+    "nationalDexNumber": 452,
+    "descKey": "cobblemon.species.drapion.desc"
+  },
+  {
+    "speciesId": "croagunk",
+    "nationalDexNumber": 453,
+    "descKey": "cobblemon.species.croagunk.desc"
+  },
+  {
+    "speciesId": "toxicroak",
+    "nationalDexNumber": 454,
+    "descKey": "cobblemon.species.toxicroak.desc"
+  },
+  {
+    "speciesId": "carnivine",
+    "nationalDexNumber": 455,
+    "descKey": "cobblemon.species.carnivine.desc"
+  },
+  {
+    "speciesId": "finneon",
+    "nationalDexNumber": 456,
+    "descKey": "cobblemon.species.finneon.desc"
+  },
+  {
+    "speciesId": "lumineon",
+    "nationalDexNumber": 457,
+    "descKey": "cobblemon.species.lumineon.desc"
+  },
+  {
+    "speciesId": "mantyke",
+    "nationalDexNumber": 458,
+    "descKey": "cobblemon.species.mantyke.desc"
+  },
+  {
+    "speciesId": "snover",
+    "nationalDexNumber": 459,
+    "descKey": "cobblemon.species.snover.desc"
+  },
+  {
+    "speciesId": "abomasnow",
+    "nationalDexNumber": 460,
+    "descKey": "cobblemon.species.abomasnow.desc"
+  },
+  {
+    "speciesId": "weavile",
+    "nationalDexNumber": 461,
+    "descKey": "cobblemon.species.weavile.desc"
+  },
+  {
+    "speciesId": "magnezone",
+    "nationalDexNumber": 462,
+    "descKey": "cobblemon.species.magnezone.desc"
+  },
+  {
+    "speciesId": "lickilicky",
+    "nationalDexNumber": 463,
+    "descKey": "cobblemon.species.lickilicky.desc"
+  },
+  {
+    "speciesId": "rhyperior",
+    "nationalDexNumber": 464,
+    "descKey": "cobblemon.species.rhyperior.desc"
+  },
+  {
+    "speciesId": "tangrowth",
+    "nationalDexNumber": 465,
+    "descKey": "cobblemon.species.tangrowth.desc"
+  },
+  {
+    "speciesId": "electivire",
+    "nationalDexNumber": 466,
+    "descKey": "cobblemon.species.electivire.desc"
+  },
+  {
+    "speciesId": "magmortar",
+    "nationalDexNumber": 467,
+    "descKey": "cobblemon.species.magmortar.desc"
+  },
+  {
+    "speciesId": "togekiss",
+    "nationalDexNumber": 468,
+    "descKey": "cobblemon.species.togekiss.desc"
+  },
+  {
+    "speciesId": "yanmega",
+    "nationalDexNumber": 469,
+    "descKey": "cobblemon.species.yanmega.desc"
+  },
+  {
+    "speciesId": "leafeon",
+    "nationalDexNumber": 470,
+    "descKey": "cobblemon.species.leafeon.desc"
+  },
+  {
+    "speciesId": "glaceon",
+    "nationalDexNumber": 471,
+    "descKey": "cobblemon.species.glaceon.desc"
+  },
+  {
+    "speciesId": "gliscor",
+    "nationalDexNumber": 472,
+    "descKey": "cobblemon.species.gliscor.desc"
+  },
+  {
+    "speciesId": "mamoswine",
+    "nationalDexNumber": 473,
+    "descKey": "cobblemon.species.mamoswine.desc"
+  },
+  {
+    "speciesId": "porygon-z",
+    "nationalDexNumber": 474,
+    "descKey": "cobblemon.species.porygon-z.desc"
+  },
+  {
+    "speciesId": "gallade",
+    "nationalDexNumber": 475,
+    "descKey": "cobblemon.species.gallade.desc"
+  },
+  {
+    "speciesId": "probopass",
+    "nationalDexNumber": 476,
+    "descKey": "cobblemon.species.probopass.desc"
+  },
+  {
+    "speciesId": "dusknoir",
+    "nationalDexNumber": 477,
+    "descKey": "cobblemon.species.dusknoir.desc"
+  },
+  {
+    "speciesId": "froslass",
+    "nationalDexNumber": 478,
+    "descKey": "cobblemon.species.froslass.desc"
+  },
+  {
+    "speciesId": "rotom",
+    "nationalDexNumber": 479,
+    "descKey": "cobblemon.species.rotom.desc"
+  },
+  {
+    "speciesId": "uxie",
+    "nationalDexNumber": 480,
+    "descKey": "cobblemon.species.uxie.desc"
+  },
+  {
+    "speciesId": "mesprit",
+    "nationalDexNumber": 481,
+    "descKey": "cobblemon.species.mesprit.desc"
+  },
+  {
+    "speciesId": "azelf",
+    "nationalDexNumber": 482,
+    "descKey": "cobblemon.species.azelf.desc"
+  },
+  {
+    "speciesId": "dialga",
+    "nationalDexNumber": 483,
+    "descKey": "cobblemon.species.dialga.desc"
+  },
+  {
+    "speciesId": "palkia",
+    "nationalDexNumber": 484,
+    "descKey": "cobblemon.species.palkia.desc"
+  },
+  {
+    "speciesId": "heatran",
+    "nationalDexNumber": 485,
+    "descKey": "cobblemon.species.heatran.desc"
+  },
+  {
+    "speciesId": "regigigas",
+    "nationalDexNumber": 486,
+    "descKey": "cobblemon.species.regigigas.desc"
+  },
+  {
+    "speciesId": "giratina",
+    "nationalDexNumber": 487,
+    "descKey": "cobblemon.species.giratina.desc"
+  },
+  {
+    "speciesId": "cresselia",
+    "nationalDexNumber": 488,
+    "descKey": "cobblemon.species.cresselia.desc"
+  },
+  {
+    "speciesId": "phione",
+    "nationalDexNumber": 489,
+    "descKey": "cobblemon.species.phione.desc"
+  },
+  {
+    "speciesId": "manaphy",
+    "nationalDexNumber": 490,
+    "descKey": "cobblemon.species.manaphy.desc"
+  },
+  {
+    "speciesId": "darkrai",
+    "nationalDexNumber": 491,
+    "descKey": "cobblemon.species.darkrai.desc"
+  },
+  {
+    "speciesId": "shaymin",
+    "nationalDexNumber": 492,
+    "descKey": "cobblemon.species.shaymin.desc"
+  },
+  {
+    "speciesId": "arceus",
+    "nationalDexNumber": 493,
+    "descKey": "cobblemon.species.arceus.desc"
+  },
+  {
+    "speciesId": "victini",
+    "nationalDexNumber": 494,
+    "descKey": "cobblemon.species.victini.desc"
+  },
+  {
+    "speciesId": "snivy",
+    "nationalDexNumber": 495,
+    "descKey": "cobblemon.species.snivy.desc"
+  },
+  {
+    "speciesId": "servine",
+    "nationalDexNumber": 496,
+    "descKey": "cobblemon.species.servine.desc"
+  },
+  {
+    "speciesId": "serperior",
+    "nationalDexNumber": 497,
+    "descKey": "cobblemon.species.serperior.desc"
+  },
+  {
+    "speciesId": "tepig",
+    "nationalDexNumber": 498,
+    "descKey": "cobblemon.species.tepig.desc"
+  },
+  {
+    "speciesId": "pignite",
+    "nationalDexNumber": 499,
+    "descKey": "cobblemon.species.pignite.desc"
+  },
+  {
+    "speciesId": "emboar",
+    "nationalDexNumber": 500,
+    "descKey": "cobblemon.species.emboar.desc"
+  },
+  {
+    "speciesId": "oshawott",
+    "nationalDexNumber": 501,
+    "descKey": "cobblemon.species.oshawott.desc"
+  },
+  {
+    "speciesId": "dewott",
+    "nationalDexNumber": 502,
+    "descKey": "cobblemon.species.dewott.desc"
+  },
+  {
+    "speciesId": "samurott",
+    "nationalDexNumber": 503,
+    "descKey": "cobblemon.species.samurott.desc"
+  },
+  {
+    "speciesId": "patrat",
+    "nationalDexNumber": 504,
+    "descKey": "cobblemon.species.patrat.desc"
+  },
+  {
+    "speciesId": "watchog",
+    "nationalDexNumber": 505,
+    "descKey": "cobblemon.species.watchog.desc"
+  },
+  {
+    "speciesId": "lillipup",
+    "nationalDexNumber": 506,
+    "descKey": "cobblemon.species.lillipup.desc"
+  },
+  {
+    "speciesId": "herdier",
+    "nationalDexNumber": 507,
+    "descKey": "cobblemon.species.herdier.desc"
+  },
+  {
+    "speciesId": "stoutland",
+    "nationalDexNumber": 508,
+    "descKey": "cobblemon.species.stoutland.desc"
+  },
+  {
+    "speciesId": "purrloin",
+    "nationalDexNumber": 509,
+    "descKey": "cobblemon.species.purrloin.desc"
+  },
+  {
+    "speciesId": "liepard",
+    "nationalDexNumber": 510,
+    "descKey": "cobblemon.species.liepard.desc"
+  },
+  {
+    "speciesId": "pansage",
+    "nationalDexNumber": 511,
+    "descKey": "cobblemon.species.pansage.desc"
+  },
+  {
+    "speciesId": "simisage",
+    "nationalDexNumber": 512,
+    "descKey": "cobblemon.species.simisage.desc"
+  },
+  {
+    "speciesId": "pansear",
+    "nationalDexNumber": 513,
+    "descKey": "cobblemon.species.pansear.desc"
+  },
+  {
+    "speciesId": "simisear",
+    "nationalDexNumber": 514,
+    "descKey": "cobblemon.species.simisear.desc"
+  },
+  {
+    "speciesId": "panpour",
+    "nationalDexNumber": 515,
+    "descKey": "cobblemon.species.panpour.desc"
+  },
+  {
+    "speciesId": "simipour",
+    "nationalDexNumber": 516,
+    "descKey": "cobblemon.species.simipour.desc"
+  },
+  {
+    "speciesId": "munna",
+    "nationalDexNumber": 517,
+    "descKey": "cobblemon.species.munna.desc"
+  },
+  {
+    "speciesId": "musharna",
+    "nationalDexNumber": 518,
+    "descKey": "cobblemon.species.musharna.desc"
+  },
+  {
+    "speciesId": "pidove",
+    "nationalDexNumber": 519,
+    "descKey": "cobblemon.species.pidove.desc"
+  },
+  {
+    "speciesId": "tranquill",
+    "nationalDexNumber": 520,
+    "descKey": "cobblemon.species.tranquill.desc"
+  },
+  {
+    "speciesId": "unfezant",
+    "nationalDexNumber": 521,
+    "descKey": "cobblemon.species.unfezant.desc"
+  },
+  {
+    "speciesId": "blitzle",
+    "nationalDexNumber": 522,
+    "descKey": "cobblemon.species.blitzle.desc"
+  },
+  {
+    "speciesId": "zebstrika",
+    "nationalDexNumber": 523,
+    "descKey": "cobblemon.species.zebstrika.desc"
+  },
+  {
+    "speciesId": "roggenrola",
+    "nationalDexNumber": 524,
+    "descKey": "cobblemon.species.roggenrola.desc"
+  },
+  {
+    "speciesId": "boldore",
+    "nationalDexNumber": 525,
+    "descKey": "cobblemon.species.boldore.desc"
+  },
+  {
+    "speciesId": "gigalith",
+    "nationalDexNumber": 526,
+    "descKey": "cobblemon.species.gigalith.desc"
+  },
+  {
+    "speciesId": "woobat",
+    "nationalDexNumber": 527,
+    "descKey": "cobblemon.species.woobat.desc"
+  },
+  {
+    "speciesId": "swoobat",
+    "nationalDexNumber": 528,
+    "descKey": "cobblemon.species.swoobat.desc"
+  },
+  {
+    "speciesId": "drilbur",
+    "nationalDexNumber": 529,
+    "descKey": "cobblemon.species.drilbur.desc"
+  },
+  {
+    "speciesId": "excadrill",
+    "nationalDexNumber": 530,
+    "descKey": "cobblemon.species.excadrill.desc"
+  },
+  {
+    "speciesId": "audino",
+    "nationalDexNumber": 531,
+    "descKey": "cobblemon.species.audino.desc"
+  },
+  {
+    "speciesId": "timburr",
+    "nationalDexNumber": 532,
+    "descKey": "cobblemon.species.timburr.desc"
+  },
+  {
+    "speciesId": "gurdurr",
+    "nationalDexNumber": 533,
+    "descKey": "cobblemon.species.gurdurr.desc"
+  },
+  {
+    "speciesId": "conkeldurr",
+    "nationalDexNumber": 534,
+    "descKey": "cobblemon.species.conkeldurr.desc"
+  },
+  {
+    "speciesId": "tympole",
+    "nationalDexNumber": 535,
+    "descKey": "cobblemon.species.tympole.desc"
+  },
+  {
+    "speciesId": "palpitoad",
+    "nationalDexNumber": 536,
+    "descKey": "cobblemon.species.palpitoad.desc"
+  },
+  {
+    "speciesId": "seismitoad",
+    "nationalDexNumber": 537,
+    "descKey": "cobblemon.species.seismitoad.desc"
+  },
+  {
+    "speciesId": "throh",
+    "nationalDexNumber": 538,
+    "descKey": "cobblemon.species.throh.desc"
+  },
+  {
+    "speciesId": "sawk",
+    "nationalDexNumber": 539,
+    "descKey": "cobblemon.species.sawk.desc"
+  },
+  {
+    "speciesId": "sewaddle",
+    "nationalDexNumber": 540,
+    "descKey": "cobblemon.species.sewaddle.desc"
+  },
+  {
+    "speciesId": "swadloon",
+    "nationalDexNumber": 541,
+    "descKey": "cobblemon.species.swadloon.desc"
+  },
+  {
+    "speciesId": "leavanny",
+    "nationalDexNumber": 542,
+    "descKey": "cobblemon.species.leavanny.desc"
+  },
+  {
+    "speciesId": "venipede",
+    "nationalDexNumber": 543,
+    "descKey": "cobblemon.species.venipede.desc"
+  },
+  {
+    "speciesId": "whirlipede",
+    "nationalDexNumber": 544,
+    "descKey": "cobblemon.species.whirlipede.desc"
+  },
+  {
+    "speciesId": "scolipede",
+    "nationalDexNumber": 545,
+    "descKey": "cobblemon.species.scolipede.desc"
+  },
+  {
+    "speciesId": "cottonee",
+    "nationalDexNumber": 546,
+    "descKey": "cobblemon.species.cottonee.desc"
+  },
+  {
+    "speciesId": "whimsicott",
+    "nationalDexNumber": 547,
+    "descKey": "cobblemon.species.whimsicott.desc"
+  },
+  {
+    "speciesId": "petilil",
+    "nationalDexNumber": 548,
+    "descKey": "cobblemon.species.petilil.desc"
+  },
+  {
+    "speciesId": "lilligant",
+    "nationalDexNumber": 549,
+    "descKey": "cobblemon.species.lilligant.desc"
+  },
+  {
+    "speciesId": "basculin",
+    "nationalDexNumber": 550,
+    "descKey": "cobblemon.species.basculin.desc"
+  },
+  {
+    "speciesId": "sandile",
+    "nationalDexNumber": 551,
+    "descKey": "cobblemon.species.sandile.desc"
+  },
+  {
+    "speciesId": "krokorok",
+    "nationalDexNumber": 552,
+    "descKey": "cobblemon.species.krokorok.desc"
+  },
+  {
+    "speciesId": "krookodile",
+    "nationalDexNumber": 553,
+    "descKey": "cobblemon.species.krookodile.desc"
+  },
+  {
+    "speciesId": "darumaka",
+    "nationalDexNumber": 554,
+    "descKey": "cobblemon.species.darumaka.desc"
+  },
+  {
+    "speciesId": "darmanitan",
+    "nationalDexNumber": 555,
+    "descKey": "cobblemon.species.darmanitan.desc"
+  },
+  {
+    "speciesId": "maractus",
+    "nationalDexNumber": 556,
+    "descKey": "cobblemon.species.maractus.desc"
+  },
+  {
+    "speciesId": "dwebble",
+    "nationalDexNumber": 557,
+    "descKey": "cobblemon.species.dwebble.desc"
+  },
+  {
+    "speciesId": "crustle",
+    "nationalDexNumber": 558,
+    "descKey": "cobblemon.species.crustle.desc"
+  },
+  {
+    "speciesId": "scraggy",
+    "nationalDexNumber": 559,
+    "descKey": "cobblemon.species.scraggy.desc"
+  },
+  {
+    "speciesId": "scrafty",
+    "nationalDexNumber": 560,
+    "descKey": "cobblemon.species.scrafty.desc"
+  },
+  {
+    "speciesId": "sigilyph",
+    "nationalDexNumber": 561,
+    "descKey": "cobblemon.species.sigilyph.desc"
+  },
+  {
+    "speciesId": "yamask",
+    "nationalDexNumber": 562,
+    "descKey": "cobblemon.species.yamask.desc"
+  },
+  {
+    "speciesId": "cofagrigus",
+    "nationalDexNumber": 563,
+    "descKey": "cobblemon.species.cofagrigus.desc"
+  },
+  {
+    "speciesId": "tirtouga",
+    "nationalDexNumber": 564,
+    "descKey": "cobblemon.species.tirtouga.desc"
+  },
+  {
+    "speciesId": "carracosta",
+    "nationalDexNumber": 565,
+    "descKey": "cobblemon.species.carracosta.desc"
+  },
+  {
+    "speciesId": "archen",
+    "nationalDexNumber": 566,
+    "descKey": "cobblemon.species.archen.desc"
+  },
+  {
+    "speciesId": "archeops",
+    "nationalDexNumber": 567,
+    "descKey": "cobblemon.species.archeops.desc"
+  },
+  {
+    "speciesId": "trubbish",
+    "nationalDexNumber": 568,
+    "descKey": "cobblemon.species.trubbish.desc"
+  },
+  {
+    "speciesId": "garbodor",
+    "nationalDexNumber": 569,
+    "descKey": "cobblemon.species.garbodor.desc"
+  },
+  {
+    "speciesId": "zorua",
+    "nationalDexNumber": 570,
+    "descKey": "cobblemon.species.zorua.desc"
+  },
+  {
+    "speciesId": "zoroark",
+    "nationalDexNumber": 571,
+    "descKey": "cobblemon.species.zoroark.desc"
+  },
+  {
+    "speciesId": "minccino",
+    "nationalDexNumber": 572,
+    "descKey": "cobblemon.species.minccino.desc"
+  },
+  {
+    "speciesId": "cinccino",
+    "nationalDexNumber": 573,
+    "descKey": "cobblemon.species.cinccino.desc"
+  },
+  {
+    "speciesId": "gothita",
+    "nationalDexNumber": 574,
+    "descKey": "cobblemon.species.gothita.desc"
+  },
+  {
+    "speciesId": "gothorita",
+    "nationalDexNumber": 575,
+    "descKey": "cobblemon.species.gothorita.desc"
+  },
+  {
+    "speciesId": "gothitelle",
+    "nationalDexNumber": 576,
+    "descKey": "cobblemon.species.gothitelle.desc"
+  },
+  {
+    "speciesId": "solosis",
+    "nationalDexNumber": 577,
+    "descKey": "cobblemon.species.solosis.desc"
+  },
+  {
+    "speciesId": "duosion",
+    "nationalDexNumber": 578,
+    "descKey": "cobblemon.species.duosion.desc"
+  },
+  {
+    "speciesId": "reuniclus",
+    "nationalDexNumber": 579,
+    "descKey": "cobblemon.species.reuniclus.desc"
+  },
+  {
+    "speciesId": "ducklett",
+    "nationalDexNumber": 580,
+    "descKey": "cobblemon.species.ducklett.desc"
+  },
+  {
+    "speciesId": "swanna",
+    "nationalDexNumber": 581,
+    "descKey": "cobblemon.species.swanna.desc"
+  },
+  {
+    "speciesId": "vanillite",
+    "nationalDexNumber": 582,
+    "descKey": "cobblemon.species.vanillite.desc"
+  },
+  {
+    "speciesId": "vanillish",
+    "nationalDexNumber": 583,
+    "descKey": "cobblemon.species.vanillish.desc"
+  },
+  {
+    "speciesId": "vanilluxe",
+    "nationalDexNumber": 584,
+    "descKey": "cobblemon.species.vanilluxe.desc"
+  },
+  {
+    "speciesId": "deerling",
+    "nationalDexNumber": 585,
+    "descKey": "cobblemon.species.deerling.desc"
+  },
+  {
+    "speciesId": "sawsbuck",
+    "nationalDexNumber": 586,
+    "descKey": "cobblemon.species.sawsbuck.desc"
+  },
+  {
+    "speciesId": "emolga",
+    "nationalDexNumber": 587,
+    "descKey": "cobblemon.species.emolga.desc"
+  },
+  {
+    "speciesId": "karrablast",
+    "nationalDexNumber": 588,
+    "descKey": "cobblemon.species.karrablast.desc"
+  },
+  {
+    "speciesId": "escavalier",
+    "nationalDexNumber": 589,
+    "descKey": "cobblemon.species.escavalier.desc"
+  },
+  {
+    "speciesId": "foongus",
+    "nationalDexNumber": 590,
+    "descKey": "cobblemon.species.foongus.desc"
+  },
+  {
+    "speciesId": "amoonguss",
+    "nationalDexNumber": 591,
+    "descKey": "cobblemon.species.amoonguss.desc"
+  },
+  {
+    "speciesId": "frillish",
+    "nationalDexNumber": 592,
+    "descKey": "cobblemon.species.frillish.desc"
+  },
+  {
+    "speciesId": "jellicent",
+    "nationalDexNumber": 593,
+    "descKey": "cobblemon.species.jellicent.desc"
+  },
+  {
+    "speciesId": "alomomola",
+    "nationalDexNumber": 594,
+    "descKey": "cobblemon.species.alomomola.desc"
+  },
+  {
+    "speciesId": "joltik",
+    "nationalDexNumber": 595,
+    "descKey": "cobblemon.species.joltik.desc"
+  },
+  {
+    "speciesId": "galvantula",
+    "nationalDexNumber": 596,
+    "descKey": "cobblemon.species.galvantula.desc"
+  },
+  {
+    "speciesId": "ferroseed",
+    "nationalDexNumber": 597,
+    "descKey": "cobblemon.species.ferroseed.desc"
+  },
+  {
+    "speciesId": "ferrothorn",
+    "nationalDexNumber": 598,
+    "descKey": "cobblemon.species.ferrothorn.desc"
+  },
+  {
+    "speciesId": "klink",
+    "nationalDexNumber": 599,
+    "descKey": "cobblemon.species.klink.desc"
+  },
+  {
+    "speciesId": "klang",
+    "nationalDexNumber": 600,
+    "descKey": "cobblemon.species.klang.desc"
+  },
+  {
+    "speciesId": "klinklang",
+    "nationalDexNumber": 601,
+    "descKey": "cobblemon.species.klinklang.desc"
+  },
+  {
+    "speciesId": "tynamo",
+    "nationalDexNumber": 602,
+    "descKey": "cobblemon.species.tynamo.desc"
+  },
+  {
+    "speciesId": "eelektrik",
+    "nationalDexNumber": 603,
+    "descKey": "cobblemon.species.eelektrik.desc"
+  },
+  {
+    "speciesId": "eelektross",
+    "nationalDexNumber": 604,
+    "descKey": "cobblemon.species.eelektross.desc"
+  },
+  {
+    "speciesId": "elgyem",
+    "nationalDexNumber": 605,
+    "descKey": "cobblemon.species.elgyem.desc"
+  },
+  {
+    "speciesId": "beheeyem",
+    "nationalDexNumber": 606,
+    "descKey": "cobblemon.species.beheeyem.desc"
+  },
+  {
+    "speciesId": "litwick",
+    "nationalDexNumber": 607,
+    "descKey": "cobblemon.species.litwick.desc"
+  },
+  {
+    "speciesId": "lampent",
+    "nationalDexNumber": 608,
+    "descKey": "cobblemon.species.lampent.desc"
+  },
+  {
+    "speciesId": "chandelure",
+    "nationalDexNumber": 609,
+    "descKey": "cobblemon.species.chandelure.desc"
+  },
+  {
+    "speciesId": "axew",
+    "nationalDexNumber": 610,
+    "descKey": "cobblemon.species.axew.desc"
+  },
+  {
+    "speciesId": "fraxure",
+    "nationalDexNumber": 611,
+    "descKey": "cobblemon.species.fraxure.desc"
+  },
+  {
+    "speciesId": "haxorus",
+    "nationalDexNumber": 612,
+    "descKey": "cobblemon.species.haxorus.desc"
+  },
+  {
+    "speciesId": "cubchoo",
+    "nationalDexNumber": 613,
+    "descKey": "cobblemon.species.cubchoo.desc"
+  },
+  {
+    "speciesId": "beartic",
+    "nationalDexNumber": 614,
+    "descKey": "cobblemon.species.beartic.desc"
+  },
+  {
+    "speciesId": "cryogonal",
+    "nationalDexNumber": 615,
+    "descKey": "cobblemon.species.cryogonal.desc"
+  },
+  {
+    "speciesId": "shelmet",
+    "nationalDexNumber": 616,
+    "descKey": "cobblemon.species.shelmet.desc"
+  },
+  {
+    "speciesId": "accelgor",
+    "nationalDexNumber": 617,
+    "descKey": "cobblemon.species.accelgor.desc"
+  },
+  {
+    "speciesId": "stunfisk",
+    "nationalDexNumber": 618,
+    "descKey": "cobblemon.species.stunfisk.desc"
+  },
+  {
+    "speciesId": "mienfoo",
+    "nationalDexNumber": 619,
+    "descKey": "cobblemon.species.mienfoo.desc"
+  },
+  {
+    "speciesId": "mienshao",
+    "nationalDexNumber": 620,
+    "descKey": "cobblemon.species.mienshao.desc"
+  },
+  {
+    "speciesId": "druddigon",
+    "nationalDexNumber": 621,
+    "descKey": "cobblemon.species.druddigon.desc"
+  },
+  {
+    "speciesId": "golett",
+    "nationalDexNumber": 622,
+    "descKey": "cobblemon.species.golett.desc"
+  },
+  {
+    "speciesId": "golurk",
+    "nationalDexNumber": 623,
+    "descKey": "cobblemon.species.golurk.desc"
+  },
+  {
+    "speciesId": "pawniard",
+    "nationalDexNumber": 624,
+    "descKey": "cobblemon.species.pawniard.desc"
+  },
+  {
+    "speciesId": "bisharp",
+    "nationalDexNumber": 625,
+    "descKey": "cobblemon.species.bisharp.desc"
+  },
+  {
+    "speciesId": "bouffalant",
+    "nationalDexNumber": 626,
+    "descKey": "cobblemon.species.bouffalant.desc"
+  },
+  {
+    "speciesId": "rufflet",
+    "nationalDexNumber": 627,
+    "descKey": "cobblemon.species.rufflet.desc"
+  },
+  {
+    "speciesId": "braviary",
+    "nationalDexNumber": 628,
+    "descKey": "cobblemon.species.braviary.desc"
+  },
+  {
+    "speciesId": "vullaby",
+    "nationalDexNumber": 629,
+    "descKey": "cobblemon.species.vullaby.desc"
+  },
+  {
+    "speciesId": "mandibuzz",
+    "nationalDexNumber": 630,
+    "descKey": "cobblemon.species.mandibuzz.desc"
+  },
+  {
+    "speciesId": "heatmor",
+    "nationalDexNumber": 631,
+    "descKey": "cobblemon.species.heatmor.desc"
+  },
+  {
+    "speciesId": "durant",
+    "nationalDexNumber": 632,
+    "descKey": "cobblemon.species.durant.desc"
+  },
+  {
+    "speciesId": "deino",
+    "nationalDexNumber": 633,
+    "descKey": "cobblemon.species.deino.desc"
+  },
+  {
+    "speciesId": "zweilous",
+    "nationalDexNumber": 634,
+    "descKey": "cobblemon.species.zweilous.desc"
+  },
+  {
+    "speciesId": "hydreigon",
+    "nationalDexNumber": 635,
+    "descKey": "cobblemon.species.hydreigon.desc"
+  },
+  {
+    "speciesId": "larvesta",
+    "nationalDexNumber": 636,
+    "descKey": "cobblemon.species.larvesta.desc"
+  },
+  {
+    "speciesId": "volcarona",
+    "nationalDexNumber": 637,
+    "descKey": "cobblemon.species.volcarona.desc"
+  },
+  {
+    "speciesId": "cobalion",
+    "nationalDexNumber": 638,
+    "descKey": "cobblemon.species.cobalion.desc"
+  },
+  {
+    "speciesId": "terrakion",
+    "nationalDexNumber": 639,
+    "descKey": "cobblemon.species.terrakion.desc"
+  },
+  {
+    "speciesId": "virizion",
+    "nationalDexNumber": 640,
+    "descKey": "cobblemon.species.virizion.desc"
+  },
+  {
+    "speciesId": "tornadus",
+    "nationalDexNumber": 641,
+    "descKey": "cobblemon.species.tornadus.desc"
+  },
+  {
+    "speciesId": "thundurus",
+    "nationalDexNumber": 642,
+    "descKey": "cobblemon.species.thundurus.desc"
+  },
+  {
+    "speciesId": "reshiram",
+    "nationalDexNumber": 643,
+    "descKey": "cobblemon.species.reshiram.desc"
+  },
+  {
+    "speciesId": "zekrom",
+    "nationalDexNumber": 644,
+    "descKey": "cobblemon.species.zekrom.desc"
+  },
+  {
+    "speciesId": "landorus",
+    "nationalDexNumber": 645,
+    "descKey": "cobblemon.species.landorus.desc"
+  },
+  {
+    "speciesId": "kyurem",
+    "nationalDexNumber": 646,
+    "descKey": "cobblemon.species.kyurem.desc"
+  },
+  {
+    "speciesId": "keldeo",
+    "nationalDexNumber": 647,
+    "descKey": "cobblemon.species.keldeo.desc"
+  },
+  {
+    "speciesId": "meloetta",
+    "nationalDexNumber": 648,
+    "descKey": "cobblemon.species.meloetta.desc"
+  },
+  {
+    "speciesId": "genesect",
+    "nationalDexNumber": 649,
+    "descKey": "cobblemon.species.genesect.desc"
+  },
+  {
+    "speciesId": "chespin",
+    "nationalDexNumber": 650,
+    "descKey": "cobblemon.species.chespin.desc"
+  },
+  {
+    "speciesId": "quilladin",
+    "nationalDexNumber": 651,
+    "descKey": "cobblemon.species.quilladin.desc"
+  },
+  {
+    "speciesId": "chesnaught",
+    "nationalDexNumber": 652,
+    "descKey": "cobblemon.species.chesnaught.desc"
+  },
+  {
+    "speciesId": "fennekin",
+    "nationalDexNumber": 653,
+    "descKey": "cobblemon.species.fennekin.desc"
+  },
+  {
+    "speciesId": "braixen",
+    "nationalDexNumber": 654,
+    "descKey": "cobblemon.species.braixen.desc"
+  },
+  {
+    "speciesId": "delphox",
+    "nationalDexNumber": 655,
+    "descKey": "cobblemon.species.delphox.desc"
+  },
+  {
+    "speciesId": "froakie",
+    "nationalDexNumber": 656,
+    "descKey": "cobblemon.species.froakie.desc"
+  },
+  {
+    "speciesId": "frogadier",
+    "nationalDexNumber": 657,
+    "descKey": "cobblemon.species.frogadier.desc"
+  },
+  {
+    "speciesId": "greninja",
+    "nationalDexNumber": 658,
+    "descKey": "cobblemon.species.greninja.desc"
+  },
+  {
+    "speciesId": "bunnelby",
+    "nationalDexNumber": 659,
+    "descKey": "cobblemon.species.bunnelby.desc"
+  },
+  {
+    "speciesId": "diggersby",
+    "nationalDexNumber": 660,
+    "descKey": "cobblemon.species.diggersby.desc"
+  },
+  {
+    "speciesId": "fletchling",
+    "nationalDexNumber": 661,
+    "descKey": "cobblemon.species.fletchling.desc"
+  },
+  {
+    "speciesId": "fletchinder",
+    "nationalDexNumber": 662,
+    "descKey": "cobblemon.species.fletchinder.desc"
+  },
+  {
+    "speciesId": "talonflame",
+    "nationalDexNumber": 663,
+    "descKey": "cobblemon.species.talonflame.desc"
+  },
+  {
+    "speciesId": "scatterbug",
+    "nationalDexNumber": 664,
+    "descKey": "cobblemon.species.scatterbug.desc"
+  },
+  {
+    "speciesId": "spewpa",
+    "nationalDexNumber": 665,
+    "descKey": "cobblemon.species.spewpa.desc"
+  },
+  {
+    "speciesId": "vivillon",
+    "nationalDexNumber": 666,
+    "descKey": "cobblemon.species.vivillon.desc"
+  },
+  {
+    "speciesId": "litleo",
+    "nationalDexNumber": 667,
+    "descKey": "cobblemon.species.litleo.desc"
+  },
+  {
+    "speciesId": "pyroar",
+    "nationalDexNumber": 668,
+    "descKey": "cobblemon.species.pyroar.desc"
+  },
+  {
+    "speciesId": "flabebe",
+    "nationalDexNumber": 669,
+    "descKey": "cobblemon.species.flabebe.desc"
+  },
+  {
+    "speciesId": "floette",
+    "nationalDexNumber": 670,
+    "descKey": "cobblemon.species.floette.desc"
+  },
+  {
+    "speciesId": "florges",
+    "nationalDexNumber": 671,
+    "descKey": "cobblemon.species.florges.desc"
+  },
+  {
+    "speciesId": "skiddo",
+    "nationalDexNumber": 672,
+    "descKey": "cobblemon.species.skiddo.desc"
+  },
+  {
+    "speciesId": "gogoat",
+    "nationalDexNumber": 673,
+    "descKey": "cobblemon.species.gogoat.desc"
+  },
+  {
+    "speciesId": "pancham",
+    "nationalDexNumber": 674,
+    "descKey": "cobblemon.species.pancham.desc"
+  },
+  {
+    "speciesId": "pangoro",
+    "nationalDexNumber": 675,
+    "descKey": "cobblemon.species.pangoro.desc"
+  },
+  {
+    "speciesId": "furfrou",
+    "nationalDexNumber": 676,
+    "descKey": "cobblemon.species.furfrou.desc"
+  },
+  {
+    "speciesId": "espurr",
+    "nationalDexNumber": 677,
+    "descKey": "cobblemon.species.espurr.desc"
+  },
+  {
+    "speciesId": "meowstic",
+    "nationalDexNumber": 678,
+    "descKey": "cobblemon.species.meowstic.desc"
+  },
+  {
+    "speciesId": "honedge",
+    "nationalDexNumber": 679,
+    "descKey": "cobblemon.species.honedge.desc"
+  },
+  {
+    "speciesId": "doublade",
+    "nationalDexNumber": 680,
+    "descKey": "cobblemon.species.doublade.desc"
+  },
+  {
+    "speciesId": "aegislash",
+    "nationalDexNumber": 681,
+    "descKey": "cobblemon.species.aegislash.desc"
+  },
+  {
+    "speciesId": "spritzee",
+    "nationalDexNumber": 682,
+    "descKey": "cobblemon.species.spritzee.desc"
+  },
+  {
+    "speciesId": "aromatisse",
+    "nationalDexNumber": 683,
+    "descKey": "cobblemon.species.aromatisse.desc"
+  },
+  {
+    "speciesId": "swirlix",
+    "nationalDexNumber": 684,
+    "descKey": "cobblemon.species.swirlix.desc"
+  },
+  {
+    "speciesId": "slurpuff",
+    "nationalDexNumber": 685,
+    "descKey": "cobblemon.species.slurpuff.desc"
+  },
+  {
+    "speciesId": "inkay",
+    "nationalDexNumber": 686,
+    "descKey": "cobblemon.species.inkay.desc"
+  },
+  {
+    "speciesId": "malamar",
+    "nationalDexNumber": 687,
+    "descKey": "cobblemon.species.malamar.desc"
+  },
+  {
+    "speciesId": "binacle",
+    "nationalDexNumber": 688,
+    "descKey": "cobblemon.species.binacle.desc"
+  },
+  {
+    "speciesId": "barbaracle",
+    "nationalDexNumber": 689,
+    "descKey": "cobblemon.species.barbaracle.desc"
+  },
+  {
+    "speciesId": "skrelp",
+    "nationalDexNumber": 690,
+    "descKey": "cobblemon.species.skrelp.desc"
+  },
+  {
+    "speciesId": "dragalge",
+    "nationalDexNumber": 691,
+    "descKey": "cobblemon.species.dragalge.desc"
+  },
+  {
+    "speciesId": "clauncher",
+    "nationalDexNumber": 692,
+    "descKey": "cobblemon.species.clauncher.desc"
+  },
+  {
+    "speciesId": "clawitzer",
+    "nationalDexNumber": 693,
+    "descKey": "cobblemon.species.clawitzer.desc"
+  },
+  {
+    "speciesId": "helioptile",
+    "nationalDexNumber": 694,
+    "descKey": "cobblemon.species.helioptile.desc"
+  },
+  {
+    "speciesId": "heliolisk",
+    "nationalDexNumber": 695,
+    "descKey": "cobblemon.species.heliolisk.desc"
+  },
+  {
+    "speciesId": "tyrunt",
+    "nationalDexNumber": 696,
+    "descKey": "cobblemon.species.tyrunt.desc"
+  },
+  {
+    "speciesId": "tyrantrum",
+    "nationalDexNumber": 697,
+    "descKey": "cobblemon.species.tyrantrum.desc"
+  },
+  {
+    "speciesId": "amaura",
+    "nationalDexNumber": 698,
+    "descKey": "cobblemon.species.amaura.desc"
+  },
+  {
+    "speciesId": "aurorus",
+    "nationalDexNumber": 699,
+    "descKey": "cobblemon.species.aurorus.desc"
+  },
+  {
+    "speciesId": "sylveon",
+    "nationalDexNumber": 700,
+    "descKey": "cobblemon.species.sylveon.desc"
+  },
+  {
+    "speciesId": "hawlucha",
+    "nationalDexNumber": 701,
+    "descKey": "cobblemon.species.hawlucha.desc"
+  },
+  {
+    "speciesId": "dedenne",
+    "nationalDexNumber": 702,
+    "descKey": "cobblemon.species.dedenne.desc"
+  },
+  {
+    "speciesId": "carbink",
+    "nationalDexNumber": 703,
+    "descKey": "cobblemon.species.carbink.desc"
+  },
+  {
+    "speciesId": "goomy",
+    "nationalDexNumber": 704,
+    "descKey": "cobblemon.species.goomy.desc"
+  },
+  {
+    "speciesId": "sliggoo",
+    "nationalDexNumber": 705,
+    "descKey": "cobblemon.species.sliggoo.desc"
+  },
+  {
+    "speciesId": "goodra",
+    "nationalDexNumber": 706,
+    "descKey": "cobblemon.species.goodra.desc"
+  },
+  {
+    "speciesId": "klefki",
+    "nationalDexNumber": 707,
+    "descKey": "cobblemon.species.klefki.desc"
+  },
+  {
+    "speciesId": "phantump",
+    "nationalDexNumber": 708,
+    "descKey": "cobblemon.species.phantump.desc"
+  },
+  {
+    "speciesId": "trevenant",
+    "nationalDexNumber": 709,
+    "descKey": "cobblemon.species.trevenant.desc"
+  },
+  {
+    "speciesId": "pumpkaboo",
+    "nationalDexNumber": 710,
+    "descKey": "cobblemon.species.pumpkaboo.desc"
+  },
+  {
+    "speciesId": "gourgeist",
+    "nationalDexNumber": 711,
+    "descKey": "cobblemon.species.gourgeist.desc"
+  },
+  {
+    "speciesId": "bergmite",
+    "nationalDexNumber": 712,
+    "descKey": "cobblemon.species.bergmite.desc"
+  },
+  {
+    "speciesId": "avalugg",
+    "nationalDexNumber": 713,
+    "descKey": "cobblemon.species.avalugg.desc"
+  },
+  {
+    "speciesId": "noibat",
+    "nationalDexNumber": 714,
+    "descKey": "cobblemon.species.noibat.desc"
+  },
+  {
+    "speciesId": "noivern",
+    "nationalDexNumber": 715,
+    "descKey": "cobblemon.species.noivern.desc"
+  },
+  {
+    "speciesId": "xerneas",
+    "nationalDexNumber": 716,
+    "descKey": "cobblemon.species.xerneas.desc"
+  },
+  {
+    "speciesId": "yveltal",
+    "nationalDexNumber": 717,
+    "descKey": "cobblemon.species.yveltal.desc"
+  },
+  {
+    "speciesId": "zygarde",
+    "nationalDexNumber": 718,
+    "descKey": "cobblemon.species.zygarde.desc"
+  },
+  {
+    "speciesId": "diancie",
+    "nationalDexNumber": 719,
+    "descKey": "cobblemon.species.diancie.desc"
+  },
+  {
+    "speciesId": "hoopa",
+    "nationalDexNumber": 720,
+    "descKey": "cobblemon.species.hoopa.desc"
+  },
+  {
+    "speciesId": "volcanion",
+    "nationalDexNumber": 721,
+    "descKey": "cobblemon.species.volcanion.desc"
+  },
+  {
+    "speciesId": "rowlet",
+    "nationalDexNumber": 722,
+    "descKey": "cobblemon.species.rowlet.desc"
+  },
+  {
+    "speciesId": "dartrix",
+    "nationalDexNumber": 723,
+    "descKey": "cobblemon.species.dartrix.desc"
+  },
+  {
+    "speciesId": "decidueye",
+    "nationalDexNumber": 724,
+    "descKey": "cobblemon.species.decidueye.desc"
+  },
+  {
+    "speciesId": "litten",
+    "nationalDexNumber": 725,
+    "descKey": "cobblemon.species.litten.desc"
+  },
+  {
+    "speciesId": "torracat",
+    "nationalDexNumber": 726,
+    "descKey": "cobblemon.species.torracat.desc"
+  },
+  {
+    "speciesId": "incineroar",
+    "nationalDexNumber": 727,
+    "descKey": "cobblemon.species.incineroar.desc"
+  },
+  {
+    "speciesId": "popplio",
+    "nationalDexNumber": 728,
+    "descKey": "cobblemon.species.popplio.desc"
+  },
+  {
+    "speciesId": "brionne",
+    "nationalDexNumber": 729,
+    "descKey": "cobblemon.species.brionne.desc"
+  },
+  {
+    "speciesId": "primarina",
+    "nationalDexNumber": 730,
+    "descKey": "cobblemon.species.primarina.desc"
+  },
+  {
+    "speciesId": "pikipek",
+    "nationalDexNumber": 731,
+    "descKey": "cobblemon.species.pikipek.desc"
+  },
+  {
+    "speciesId": "trumbeak",
+    "nationalDexNumber": 732,
+    "descKey": "cobblemon.species.trumbeak.desc"
+  },
+  {
+    "speciesId": "toucannon",
+    "nationalDexNumber": 733,
+    "descKey": "cobblemon.species.toucannon.desc"
+  },
+  {
+    "speciesId": "yungoos",
+    "nationalDexNumber": 734,
+    "descKey": "cobblemon.species.yungoos.desc"
+  },
+  {
+    "speciesId": "gumshoos",
+    "nationalDexNumber": 735,
+    "descKey": "cobblemon.species.gumshoos.desc"
+  },
+  {
+    "speciesId": "grubbin",
+    "nationalDexNumber": 736,
+    "descKey": "cobblemon.species.grubbin.desc"
+  },
+  {
+    "speciesId": "charjabug",
+    "nationalDexNumber": 737,
+    "descKey": "cobblemon.species.charjabug.desc"
+  },
+  {
+    "speciesId": "vikavolt",
+    "nationalDexNumber": 738,
+    "descKey": "cobblemon.species.vikavolt.desc"
+  },
+  {
+    "speciesId": "crabrawler",
+    "nationalDexNumber": 739,
+    "descKey": "cobblemon.species.crabrawler.desc"
+  },
+  {
+    "speciesId": "crabominable",
+    "nationalDexNumber": 740,
+    "descKey": "cobblemon.species.crabominable.desc"
+  },
+  {
+    "speciesId": "oricorio",
+    "nationalDexNumber": 741,
+    "descKey": "cobblemon.species.oricorio.desc"
+  },
+  {
+    "speciesId": "cutiefly",
+    "nationalDexNumber": 742,
+    "descKey": "cobblemon.species.cutiefly.desc"
+  },
+  {
+    "speciesId": "ribombee",
+    "nationalDexNumber": 743,
+    "descKey": "cobblemon.species.ribombee.desc"
+  },
+  {
+    "speciesId": "rockruff",
+    "nationalDexNumber": 744,
+    "descKey": "cobblemon.species.rockruff.desc"
+  },
+  {
+    "speciesId": "lycanroc",
+    "nationalDexNumber": 745,
+    "descKey": "cobblemon.species.lycanroc.desc"
+  },
+  {
+    "speciesId": "wishiwashi",
+    "nationalDexNumber": 746,
+    "descKey": "cobblemon.species.wishiwashi.desc"
+  },
+  {
+    "speciesId": "mareanie",
+    "nationalDexNumber": 747,
+    "descKey": "cobblemon.species.mareanie.desc"
+  },
+  {
+    "speciesId": "toxapex",
+    "nationalDexNumber": 748,
+    "descKey": "cobblemon.species.toxapex.desc"
+  },
+  {
+    "speciesId": "mudbray",
+    "nationalDexNumber": 749,
+    "descKey": "cobblemon.species.mudbray.desc"
+  },
+  {
+    "speciesId": "mudsdale",
+    "nationalDexNumber": 750,
+    "descKey": "cobblemon.species.mudsdale.desc"
+  },
+  {
+    "speciesId": "dewpider",
+    "nationalDexNumber": 751,
+    "descKey": "cobblemon.species.dewpider.desc"
+  },
+  {
+    "speciesId": "araquanid",
+    "nationalDexNumber": 752,
+    "descKey": "cobblemon.species.araquanid.desc"
+  },
+  {
+    "speciesId": "fomantis",
+    "nationalDexNumber": 753,
+    "descKey": "cobblemon.species.fomantis.desc"
+  },
+  {
+    "speciesId": "lurantis",
+    "nationalDexNumber": 754,
+    "descKey": "cobblemon.species.lurantis.desc"
+  },
+  {
+    "speciesId": "morelull",
+    "nationalDexNumber": 755,
+    "descKey": "cobblemon.species.morelull.desc"
+  },
+  {
+    "speciesId": "shiinotic",
+    "nationalDexNumber": 756,
+    "descKey": "cobblemon.species.shiinotic.desc"
+  },
+  {
+    "speciesId": "salandit",
+    "nationalDexNumber": 757,
+    "descKey": "cobblemon.species.salandit.desc"
+  },
+  {
+    "speciesId": "salazzle",
+    "nationalDexNumber": 758,
+    "descKey": "cobblemon.species.salazzle.desc"
+  },
+  {
+    "speciesId": "stufful",
+    "nationalDexNumber": 759,
+    "descKey": "cobblemon.species.stufful.desc"
+  },
+  {
+    "speciesId": "bewear",
+    "nationalDexNumber": 760,
+    "descKey": "cobblemon.species.bewear.desc"
+  },
+  {
+    "speciesId": "bounsweet",
+    "nationalDexNumber": 761,
+    "descKey": "cobblemon.species.bounsweet.desc"
+  },
+  {
+    "speciesId": "steenee",
+    "nationalDexNumber": 762,
+    "descKey": "cobblemon.species.steenee.desc"
+  },
+  {
+    "speciesId": "tsareena",
+    "nationalDexNumber": 763,
+    "descKey": "cobblemon.species.tsareena.desc"
+  },
+  {
+    "speciesId": "comfey",
+    "nationalDexNumber": 764,
+    "descKey": "cobblemon.species.comfey.desc"
+  },
+  {
+    "speciesId": "oranguru",
+    "nationalDexNumber": 765,
+    "descKey": "cobblemon.species.oranguru.desc"
+  },
+  {
+    "speciesId": "passimian",
+    "nationalDexNumber": 766,
+    "descKey": "cobblemon.species.passimian.desc"
+  },
+  {
+    "speciesId": "wimpod",
+    "nationalDexNumber": 767,
+    "descKey": "cobblemon.species.wimpod.desc"
+  },
+  {
+    "speciesId": "golisopod",
+    "nationalDexNumber": 768,
+    "descKey": "cobblemon.species.golisopod.desc"
+  },
+  {
+    "speciesId": "sandygast",
+    "nationalDexNumber": 769,
+    "descKey": "cobblemon.species.sandygast.desc"
+  },
+  {
+    "speciesId": "palossand",
+    "nationalDexNumber": 770,
+    "descKey": "cobblemon.species.palossand.desc"
+  },
+  {
+    "speciesId": "pyukumuku",
+    "nationalDexNumber": 771,
+    "descKey": "cobblemon.species.pyukumuku.desc"
+  },
+  {
+    "speciesId": "type:_null",
+    "nationalDexNumber": 772,
+    "descKey": "cobblemon.species.type:_null.desc"
+  },
+  {
+    "speciesId": "silvally",
+    "nationalDexNumber": 773,
+    "descKey": "cobblemon.species.silvally.desc"
+  },
+  {
+    "speciesId": "minior",
+    "nationalDexNumber": 774,
+    "descKey": "cobblemon.species.minior.desc"
+  },
+  {
+    "speciesId": "komala",
+    "nationalDexNumber": 775,
+    "descKey": "cobblemon.species.komala.desc"
+  },
+  {
+    "speciesId": "turtonator",
+    "nationalDexNumber": 776,
+    "descKey": "cobblemon.species.turtonator.desc"
+  },
+  {
+    "speciesId": "togedemaru",
+    "nationalDexNumber": 777,
+    "descKey": "cobblemon.species.togedemaru.desc"
+  },
+  {
+    "speciesId": "mimikyu",
+    "nationalDexNumber": 778,
+    "descKey": "cobblemon.species.mimikyu.desc"
+  },
+  {
+    "speciesId": "bruxish",
+    "nationalDexNumber": 779,
+    "descKey": "cobblemon.species.bruxish.desc"
+  },
+  {
+    "speciesId": "drampa",
+    "nationalDexNumber": 780,
+    "descKey": "cobblemon.species.drampa.desc"
+  },
+  {
+    "speciesId": "dhelmise",
+    "nationalDexNumber": 781,
+    "descKey": "cobblemon.species.dhelmise.desc"
+  },
+  {
+    "speciesId": "jangmo-o",
+    "nationalDexNumber": 782,
+    "descKey": "cobblemon.species.jangmo-o.desc"
+  },
+  {
+    "speciesId": "hakamo-o",
+    "nationalDexNumber": 783,
+    "descKey": "cobblemon.species.hakamo-o.desc"
+  },
+  {
+    "speciesId": "kommo-o",
+    "nationalDexNumber": 784,
+    "descKey": "cobblemon.species.kommo-o.desc"
+  },
+  {
+    "speciesId": "tapu_koko",
+    "nationalDexNumber": 785,
+    "descKey": "cobblemon.species.tapu_koko.desc"
+  },
+  {
+    "speciesId": "tapu_lele",
+    "nationalDexNumber": 786,
+    "descKey": "cobblemon.species.tapu_lele.desc"
+  },
+  {
+    "speciesId": "tapu_bulu",
+    "nationalDexNumber": 787,
+    "descKey": "cobblemon.species.tapu_bulu.desc"
+  },
+  {
+    "speciesId": "tapu_fini",
+    "nationalDexNumber": 788,
+    "descKey": "cobblemon.species.tapu_fini.desc"
+  },
+  {
+    "speciesId": "cosmog",
+    "nationalDexNumber": 789,
+    "descKey": "cobblemon.species.cosmog.desc"
+  },
+  {
+    "speciesId": "cosmoem",
+    "nationalDexNumber": 790,
+    "descKey": "cobblemon.species.cosmoem.desc"
+  },
+  {
+    "speciesId": "solgaleo",
+    "nationalDexNumber": 791,
+    "descKey": "cobblemon.species.solgaleo.desc"
+  },
+  {
+    "speciesId": "lunala",
+    "nationalDexNumber": 792,
+    "descKey": "cobblemon.species.lunala.desc"
+  },
+  {
+    "speciesId": "nihilego",
+    "nationalDexNumber": 793,
+    "descKey": "cobblemon.species.nihilego.desc"
+  },
+  {
+    "speciesId": "buzzwole",
+    "nationalDexNumber": 794,
+    "descKey": "cobblemon.species.buzzwole.desc"
+  },
+  {
+    "speciesId": "pheromosa",
+    "nationalDexNumber": 795,
+    "descKey": "cobblemon.species.pheromosa.desc"
+  },
+  {
+    "speciesId": "xurkitree",
+    "nationalDexNumber": 796,
+    "descKey": "cobblemon.species.xurkitree.desc"
+  },
+  {
+    "speciesId": "celesteela",
+    "nationalDexNumber": 797,
+    "descKey": "cobblemon.species.celesteela.desc"
+  },
+  {
+    "speciesId": "kartana",
+    "nationalDexNumber": 798,
+    "descKey": "cobblemon.species.kartana.desc"
+  },
+  {
+    "speciesId": "guzzlord",
+    "nationalDexNumber": 799,
+    "descKey": "cobblemon.species.guzzlord.desc"
+  },
+  {
+    "speciesId": "necrozma",
+    "nationalDexNumber": 800,
+    "descKey": "cobblemon.species.necrozma.desc"
+  },
+  {
+    "speciesId": "magearna",
+    "nationalDexNumber": 801,
+    "descKey": "cobblemon.species.magearna.desc"
+  },
+  {
+    "speciesId": "marshadow",
+    "nationalDexNumber": 802,
+    "descKey": "cobblemon.species.marshadow.desc"
+  },
+  {
+    "speciesId": "poipole",
+    "nationalDexNumber": 803,
+    "descKey": "cobblemon.species.poipole.desc"
+  },
+  {
+    "speciesId": "naganadel",
+    "nationalDexNumber": 804,
+    "descKey": "cobblemon.species.naganadel.desc"
+  },
+  {
+    "speciesId": "stakataka",
+    "nationalDexNumber": 805,
+    "descKey": "cobblemon.species.stakataka.desc"
+  },
+  {
+    "speciesId": "blacephalon",
+    "nationalDexNumber": 806,
+    "descKey": "cobblemon.species.blacephalon.desc"
+  },
+  {
+    "speciesId": "zeraora",
+    "nationalDexNumber": 807,
+    "descKey": "cobblemon.species.zeraora.desc"
+  },
+  {
+    "speciesId": "meltan",
+    "nationalDexNumber": 808,
+    "descKey": "cobblemon.species.meltan.desc"
+  },
+  {
+    "speciesId": "melmetal",
+    "nationalDexNumber": 809,
+    "descKey": "cobblemon.species.melmetal.desc"
+  },
+  {
+    "speciesId": "grookey",
+    "nationalDexNumber": 810,
+    "descKey": "cobblemon.species.grookey.desc"
+  },
+  {
+    "speciesId": "thwackey",
+    "nationalDexNumber": 811,
+    "descKey": "cobblemon.species.thwackey.desc"
+  },
+  {
+    "speciesId": "rillaboom",
+    "nationalDexNumber": 812,
+    "descKey": "cobblemon.species.rillaboom.desc"
+  },
+  {
+    "speciesId": "scorbunny",
+    "nationalDexNumber": 813,
+    "descKey": "cobblemon.species.scorbunny.desc"
+  },
+  {
+    "speciesId": "raboot",
+    "nationalDexNumber": 814,
+    "descKey": "cobblemon.species.raboot.desc"
+  },
+  {
+    "speciesId": "cinderace",
+    "nationalDexNumber": 815,
+    "descKey": "cobblemon.species.cinderace.desc"
+  },
+  {
+    "speciesId": "sobble",
+    "nationalDexNumber": 816,
+    "descKey": "cobblemon.species.sobble.desc"
+  },
+  {
+    "speciesId": "drizzile",
+    "nationalDexNumber": 817,
+    "descKey": "cobblemon.species.drizzile.desc"
+  },
+  {
+    "speciesId": "inteleon",
+    "nationalDexNumber": 818,
+    "descKey": "cobblemon.species.inteleon.desc"
+  },
+  {
+    "speciesId": "skwovet",
+    "nationalDexNumber": 819,
+    "descKey": "cobblemon.species.skwovet.desc"
+  },
+  {
+    "speciesId": "greedent",
+    "nationalDexNumber": 820,
+    "descKey": "cobblemon.species.greedent.desc"
+  },
+  {
+    "speciesId": "rookidee",
+    "nationalDexNumber": 821,
+    "descKey": "cobblemon.species.rookidee.desc"
+  },
+  {
+    "speciesId": "corvisquire",
+    "nationalDexNumber": 822,
+    "descKey": "cobblemon.species.corvisquire.desc"
+  },
+  {
+    "speciesId": "corviknight",
+    "nationalDexNumber": 823,
+    "descKey": "cobblemon.species.corviknight.desc"
+  },
+  {
+    "speciesId": "blipbug",
+    "nationalDexNumber": 824,
+    "descKey": "cobblemon.species.blipbug.desc"
+  },
+  {
+    "speciesId": "dottler",
+    "nationalDexNumber": 825,
+    "descKey": "cobblemon.species.dottler.desc"
+  },
+  {
+    "speciesId": "orbeetle",
+    "nationalDexNumber": 826,
+    "descKey": "cobblemon.species.orbeetle.desc"
+  },
+  {
+    "speciesId": "nickit",
+    "nationalDexNumber": 827,
+    "descKey": "cobblemon.species.nickit.desc"
+  },
+  {
+    "speciesId": "thievul",
+    "nationalDexNumber": 828,
+    "descKey": "cobblemon.species.thievul.desc"
+  },
+  {
+    "speciesId": "gossifleur",
+    "nationalDexNumber": 829,
+    "descKey": "cobblemon.species.gossifleur.desc"
+  },
+  {
+    "speciesId": "eldegoss",
+    "nationalDexNumber": 830,
+    "descKey": "cobblemon.species.eldegoss.desc"
+  },
+  {
+    "speciesId": "wooloo",
+    "nationalDexNumber": 831,
+    "descKey": "cobblemon.species.wooloo.desc"
+  },
+  {
+    "speciesId": "dubwool",
+    "nationalDexNumber": 832,
+    "descKey": "cobblemon.species.dubwool.desc"
+  },
+  {
+    "speciesId": "chewtle",
+    "nationalDexNumber": 833,
+    "descKey": "cobblemon.species.chewtle.desc"
+  },
+  {
+    "speciesId": "drednaw",
+    "nationalDexNumber": 834,
+    "descKey": "cobblemon.species.drednaw.desc"
+  },
+  {
+    "speciesId": "yamper",
+    "nationalDexNumber": 835,
+    "descKey": "cobblemon.species.yamper.desc"
+  },
+  {
+    "speciesId": "boltund",
+    "nationalDexNumber": 836,
+    "descKey": "cobblemon.species.boltund.desc"
+  },
+  {
+    "speciesId": "rolycoly",
+    "nationalDexNumber": 837,
+    "descKey": "cobblemon.species.rolycoly.desc"
+  },
+  {
+    "speciesId": "carkol",
+    "nationalDexNumber": 838,
+    "descKey": "cobblemon.species.carkol.desc"
+  },
+  {
+    "speciesId": "coalossal",
+    "nationalDexNumber": 839,
+    "descKey": "cobblemon.species.coalossal.desc"
+  },
+  {
+    "speciesId": "applin",
+    "nationalDexNumber": 840,
+    "descKey": "cobblemon.species.applin.desc"
+  },
+  {
+    "speciesId": "flapple",
+    "nationalDexNumber": 841,
+    "descKey": "cobblemon.species.flapple.desc"
+  },
+  {
+    "speciesId": "appletun",
+    "nationalDexNumber": 842,
+    "descKey": "cobblemon.species.appletun.desc"
+  },
+  {
+    "speciesId": "silicobra",
+    "nationalDexNumber": 843,
+    "descKey": "cobblemon.species.silicobra.desc"
+  },
+  {
+    "speciesId": "sandaconda",
+    "nationalDexNumber": 844,
+    "descKey": "cobblemon.species.sandaconda.desc"
+  },
+  {
+    "speciesId": "cramorant",
+    "nationalDexNumber": 845,
+    "descKey": "cobblemon.species.cramorant.desc"
+  },
+  {
+    "speciesId": "arrokuda",
+    "nationalDexNumber": 846,
+    "descKey": "cobblemon.species.arrokuda.desc"
+  },
+  {
+    "speciesId": "barraskewda",
+    "nationalDexNumber": 847,
+    "descKey": "cobblemon.species.barraskewda.desc"
+  },
+  {
+    "speciesId": "toxel",
+    "nationalDexNumber": 848,
+    "descKey": "cobblemon.species.toxel.desc"
+  },
+  {
+    "speciesId": "toxtricity",
+    "nationalDexNumber": 849,
+    "descKey": "cobblemon.species.toxtricity.desc"
+  },
+  {
+    "speciesId": "sizzlipede",
+    "nationalDexNumber": 850,
+    "descKey": "cobblemon.species.sizzlipede.desc"
+  },
+  {
+    "speciesId": "centiskorch",
+    "nationalDexNumber": 851,
+    "descKey": "cobblemon.species.centiskorch.desc"
+  },
+  {
+    "speciesId": "clobbopus",
+    "nationalDexNumber": 852,
+    "descKey": "cobblemon.species.clobbopus.desc"
+  },
+  {
+    "speciesId": "grapploct",
+    "nationalDexNumber": 853,
+    "descKey": "cobblemon.species.grapploct.desc"
+  },
+  {
+    "speciesId": "sinistea",
+    "nationalDexNumber": 854,
+    "descKey": "cobblemon.species.sinistea.desc"
+  },
+  {
+    "speciesId": "polteageist",
+    "nationalDexNumber": 855,
+    "descKey": "cobblemon.species.polteageist.desc"
+  },
+  {
+    "speciesId": "hatenna",
+    "nationalDexNumber": 856,
+    "descKey": "cobblemon.species.hatenna.desc"
+  },
+  {
+    "speciesId": "hattrem",
+    "nationalDexNumber": 857,
+    "descKey": "cobblemon.species.hattrem.desc"
+  },
+  {
+    "speciesId": "hatterene",
+    "nationalDexNumber": 858,
+    "descKey": "cobblemon.species.hatterene.desc"
+  },
+  {
+    "speciesId": "impidimp",
+    "nationalDexNumber": 859,
+    "descKey": "cobblemon.species.impidimp.desc"
+  },
+  {
+    "speciesId": "morgrem",
+    "nationalDexNumber": 860,
+    "descKey": "cobblemon.species.morgrem.desc"
+  },
+  {
+    "speciesId": "grimmsnarl",
+    "nationalDexNumber": 861,
+    "descKey": "cobblemon.species.grimmsnarl.desc"
+  },
+  {
+    "speciesId": "obstagoon",
+    "nationalDexNumber": 862,
+    "descKey": "cobblemon.species.obstagoon.desc"
+  },
+  {
+    "speciesId": "perrserker",
+    "nationalDexNumber": 863,
+    "descKey": "cobblemon.species.perrserker.desc"
+  },
+  {
+    "speciesId": "cursola",
+    "nationalDexNumber": 864,
+    "descKey": "cobblemon.species.cursola.desc"
+  },
+  {
+    "speciesId": "sirfetch’d",
+    "nationalDexNumber": 865,
+    "descKey": "cobblemon.species.sirfetch’d.desc"
+  },
+  {
+    "speciesId": "mr._rime",
+    "nationalDexNumber": 866,
+    "descKey": "cobblemon.species.mr._rime.desc"
+  },
+  {
+    "speciesId": "runerigus",
+    "nationalDexNumber": 867,
+    "descKey": "cobblemon.species.runerigus.desc"
+  },
+  {
+    "speciesId": "milcery",
+    "nationalDexNumber": 868,
+    "descKey": "cobblemon.species.milcery.desc"
+  },
+  {
+    "speciesId": "alcremie",
+    "nationalDexNumber": 869,
+    "descKey": "cobblemon.species.alcremie.desc"
+  },
+  {
+    "speciesId": "falinks",
+    "nationalDexNumber": 870,
+    "descKey": "cobblemon.species.falinks.desc"
+  },
+  {
+    "speciesId": "pincurchin",
+    "nationalDexNumber": 871,
+    "descKey": "cobblemon.species.pincurchin.desc"
+  },
+  {
+    "speciesId": "snom",
+    "nationalDexNumber": 872,
+    "descKey": "cobblemon.species.snom.desc"
+  },
+  {
+    "speciesId": "frosmoth",
+    "nationalDexNumber": 873,
+    "descKey": "cobblemon.species.frosmoth.desc"
+  },
+  {
+    "speciesId": "stonjourner",
+    "nationalDexNumber": 874,
+    "descKey": "cobblemon.species.stonjourner.desc"
+  },
+  {
+    "speciesId": "eiscue",
+    "nationalDexNumber": 875,
+    "descKey": "cobblemon.species.eiscue.desc"
+  },
+  {
+    "speciesId": "indeedee",
+    "nationalDexNumber": 876,
+    "descKey": "cobblemon.species.indeedee.desc"
+  },
+  {
+    "speciesId": "morpeko",
+    "nationalDexNumber": 877,
+    "descKey": "cobblemon.species.morpeko.desc"
+  },
+  {
+    "speciesId": "cufant",
+    "nationalDexNumber": 878,
+    "descKey": "cobblemon.species.cufant.desc"
+  },
+  {
+    "speciesId": "copperajah",
+    "nationalDexNumber": 879,
+    "descKey": "cobblemon.species.copperajah.desc"
+  },
+  {
+    "speciesId": "dracozolt",
+    "nationalDexNumber": 880,
+    "descKey": "cobblemon.species.dracozolt.desc"
+  },
+  {
+    "speciesId": "arctozolt",
+    "nationalDexNumber": 881,
+    "descKey": "cobblemon.species.arctozolt.desc"
+  },
+  {
+    "speciesId": "dracovish",
+    "nationalDexNumber": 882,
+    "descKey": "cobblemon.species.dracovish.desc"
+  },
+  {
+    "speciesId": "arctovish",
+    "nationalDexNumber": 883,
+    "descKey": "cobblemon.species.arctovish.desc"
+  },
+  {
+    "speciesId": "duraludon",
+    "nationalDexNumber": 884,
+    "descKey": "cobblemon.species.duraludon.desc"
+  },
+  {
+    "speciesId": "dreepy",
+    "nationalDexNumber": 885,
+    "descKey": "cobblemon.species.dreepy.desc"
+  },
+  {
+    "speciesId": "drakloak",
+    "nationalDexNumber": 886,
+    "descKey": "cobblemon.species.drakloak.desc"
+  },
+  {
+    "speciesId": "dragapult",
+    "nationalDexNumber": 887,
+    "descKey": "cobblemon.species.dragapult.desc"
+  },
+  {
+    "speciesId": "zacian",
+    "nationalDexNumber": 888,
+    "descKey": "cobblemon.species.zacian.desc"
+  },
+  {
+    "speciesId": "zamazenta",
+    "nationalDexNumber": 889,
+    "descKey": "cobblemon.species.zamazenta.desc"
+  },
+  {
+    "speciesId": "eternatus",
+    "nationalDexNumber": 890,
+    "descKey": "cobblemon.species.eternatus.desc"
+  },
+  {
+    "speciesId": "kubfu",
+    "nationalDexNumber": 891,
+    "descKey": "cobblemon.species.kubfu.desc"
+  },
+  {
+    "speciesId": "urshifu",
+    "nationalDexNumber": 892,
+    "descKey": "cobblemon.species.urshifu.desc"
+  },
+  {
+    "speciesId": "zarude",
+    "nationalDexNumber": 893,
+    "descKey": "cobblemon.species.zarude.desc"
+  },
+  {
+    "speciesId": "regieleki",
+    "nationalDexNumber": 894,
+    "descKey": "cobblemon.species.regieleki.desc"
+  },
+  {
+    "speciesId": "regidrago",
+    "nationalDexNumber": 895,
+    "descKey": "cobblemon.species.regidrago.desc"
+  },
+  {
+    "speciesId": "glastrier",
+    "nationalDexNumber": 896,
+    "descKey": "cobblemon.species.glastrier.desc"
+  },
+  {
+    "speciesId": "spectrier",
+    "nationalDexNumber": 897,
+    "descKey": "cobblemon.species.spectrier.desc"
+  },
+  {
+    "speciesId": "calyrex",
+    "nationalDexNumber": 898,
+    "descKey": "cobblemon.species.calyrex.desc"
+  },
+  {
+    "speciesId": "wyrdeer",
+    "nationalDexNumber": 899,
+    "descKey": "cobblemon.species.wyrdeer.desc"
+  },
+  {
+    "speciesId": "kleavor",
+    "nationalDexNumber": 900,
+    "descKey": "cobblemon.species.kleavor.desc"
+  },
+  {
+    "speciesId": "ursaluna",
+    "nationalDexNumber": 901,
+    "descKey": "cobblemon.species.ursaluna.desc"
+  },
+  {
+    "speciesId": "basculegion",
+    "nationalDexNumber": 902,
+    "descKey": "cobblemon.species.basculegion.desc"
+  },
+  {
+    "speciesId": "sneasler",
+    "nationalDexNumber": 903,
+    "descKey": "cobblemon.species.sneasler.desc"
+  },
+  {
+    "speciesId": "overqwil",
+    "nationalDexNumber": 904,
+    "descKey": "cobblemon.species.overqwil.desc"
+  },
+  {
+    "speciesId": "enamorus",
+    "nationalDexNumber": 905,
+    "descKey": "cobblemon.species.enamorus.desc"
+  },
+  {
+    "speciesId": "sprigatito",
+    "nationalDexNumber": 906,
+    "descKey": "cobblemon.species.sprigatito.desc"
+  },
+  {
+    "speciesId": "floragato",
+    "nationalDexNumber": 907,
+    "descKey": "cobblemon.species.floragato.desc"
+  },
+  {
+    "speciesId": "meowscarada",
+    "nationalDexNumber": 908,
+    "descKey": "cobblemon.species.meowscarada.desc"
+  },
+  {
+    "speciesId": "fuecoco",
+    "nationalDexNumber": 909,
+    "descKey": "cobblemon.species.fuecoco.desc"
+  },
+  {
+    "speciesId": "crocalor",
+    "nationalDexNumber": 910,
+    "descKey": "cobblemon.species.crocalor.desc"
+  },
+  {
+    "speciesId": "skeledirge",
+    "nationalDexNumber": 911,
+    "descKey": "cobblemon.species.skeledirge.desc"
+  },
+  {
+    "speciesId": "quaxly",
+    "nationalDexNumber": 912,
+    "descKey": "cobblemon.species.quaxly.desc"
+  },
+  {
+    "speciesId": "quaxwell",
+    "nationalDexNumber": 913,
+    "descKey": "cobblemon.species.quaxwell.desc"
+  },
+  {
+    "speciesId": "quaquaval",
+    "nationalDexNumber": 914,
+    "descKey": "cobblemon.species.quaquaval.desc"
+  },
+  {
+    "speciesId": "lechonk",
+    "nationalDexNumber": 915,
+    "descKey": "cobblemon.species.lechonk.desc"
+  },
+  {
+    "speciesId": "oinkologne",
+    "nationalDexNumber": 916,
+    "descKey": "cobblemon.species.oinkologne.desc"
+  },
+  {
+    "speciesId": "tarountula",
+    "nationalDexNumber": 917,
+    "descKey": "cobblemon.species.tarountula.desc"
+  },
+  {
+    "speciesId": "spidops",
+    "nationalDexNumber": 918,
+    "descKey": "cobblemon.species.spidops.desc"
+  },
+  {
+    "speciesId": "nymble",
+    "nationalDexNumber": 919,
+    "descKey": "cobblemon.species.nymble.desc"
+  },
+  {
+    "speciesId": "lokix",
+    "nationalDexNumber": 920,
+    "descKey": "cobblemon.species.lokix.desc"
+  },
+  {
+    "speciesId": "pawmi",
+    "nationalDexNumber": 921,
+    "descKey": "cobblemon.species.pawmi.desc"
+  },
+  {
+    "speciesId": "pawmo",
+    "nationalDexNumber": 922,
+    "descKey": "cobblemon.species.pawmo.desc"
+  },
+  {
+    "speciesId": "pawmot",
+    "nationalDexNumber": 923,
+    "descKey": "cobblemon.species.pawmot.desc"
+  },
+  {
+    "speciesId": "tandemaus",
+    "nationalDexNumber": 924,
+    "descKey": "cobblemon.species.tandemaus.desc"
+  },
+  {
+    "speciesId": "maushold",
+    "nationalDexNumber": 925,
+    "descKey": "cobblemon.species.maushold.desc"
+  },
+  {
+    "speciesId": "fidough",
+    "nationalDexNumber": 926,
+    "descKey": "cobblemon.species.fidough.desc"
+  },
+  {
+    "speciesId": "dachsbun",
+    "nationalDexNumber": 927,
+    "descKey": "cobblemon.species.dachsbun.desc"
+  },
+  {
+    "speciesId": "smoliv",
+    "nationalDexNumber": 928,
+    "descKey": "cobblemon.species.smoliv.desc"
+  },
+  {
+    "speciesId": "dolliv",
+    "nationalDexNumber": 929,
+    "descKey": "cobblemon.species.dolliv.desc"
+  },
+  {
+    "speciesId": "arboliva",
+    "nationalDexNumber": 930,
+    "descKey": "cobblemon.species.arboliva.desc"
+  },
+  {
+    "speciesId": "squawkabilly",
+    "nationalDexNumber": 931,
+    "descKey": "cobblemon.species.squawkabilly.desc"
+  },
+  {
+    "speciesId": "nacli",
+    "nationalDexNumber": 932,
+    "descKey": "cobblemon.species.nacli.desc"
+  },
+  {
+    "speciesId": "naclstack",
+    "nationalDexNumber": 933,
+    "descKey": "cobblemon.species.naclstack.desc"
+  },
+  {
+    "speciesId": "garganacl",
+    "nationalDexNumber": 934,
+    "descKey": "cobblemon.species.garganacl.desc"
+  },
+  {
+    "speciesId": "charcadet",
+    "nationalDexNumber": 935,
+    "descKey": "cobblemon.species.charcadet.desc"
+  },
+  {
+    "speciesId": "armarouge",
+    "nationalDexNumber": 936,
+    "descKey": "cobblemon.species.armarouge.desc"
+  },
+  {
+    "speciesId": "ceruledge",
+    "nationalDexNumber": 937,
+    "descKey": "cobblemon.species.ceruledge.desc"
+  },
+  {
+    "speciesId": "tadbulb",
+    "nationalDexNumber": 938,
+    "descKey": "cobblemon.species.tadbulb.desc"
+  },
+  {
+    "speciesId": "bellibolt",
+    "nationalDexNumber": 939,
+    "descKey": "cobblemon.species.bellibolt.desc"
+  },
+  {
+    "speciesId": "wattrel",
+    "nationalDexNumber": 940,
+    "descKey": "cobblemon.species.wattrel.desc"
+  },
+  {
+    "speciesId": "kilowattrel",
+    "nationalDexNumber": 941,
+    "descKey": "cobblemon.species.kilowattrel.desc"
+  },
+  {
+    "speciesId": "maschiff",
+    "nationalDexNumber": 942,
+    "descKey": "cobblemon.species.maschiff.desc"
+  },
+  {
+    "speciesId": "mabosstiff",
+    "nationalDexNumber": 943,
+    "descKey": "cobblemon.species.mabosstiff.desc"
+  },
+  {
+    "speciesId": "shroodle",
+    "nationalDexNumber": 944,
+    "descKey": "cobblemon.species.shroodle.desc"
+  },
+  {
+    "speciesId": "grafaiai",
+    "nationalDexNumber": 945,
+    "descKey": "cobblemon.species.grafaiai.desc"
+  },
+  {
+    "speciesId": "bramblin",
+    "nationalDexNumber": 946,
+    "descKey": "cobblemon.species.bramblin.desc"
+  },
+  {
+    "speciesId": "brambleghast",
+    "nationalDexNumber": 947,
+    "descKey": "cobblemon.species.brambleghast.desc"
+  },
+  {
+    "speciesId": "toedscool",
+    "nationalDexNumber": 948,
+    "descKey": "cobblemon.species.toedscool.desc"
+  },
+  {
+    "speciesId": "toedscruel",
+    "nationalDexNumber": 949,
+    "descKey": "cobblemon.species.toedscruel.desc"
+  },
+  {
+    "speciesId": "klawf",
+    "nationalDexNumber": 950,
+    "descKey": "cobblemon.species.klawf.desc"
+  },
+  {
+    "speciesId": "capsakid",
+    "nationalDexNumber": 951,
+    "descKey": "cobblemon.species.capsakid.desc"
+  },
+  {
+    "speciesId": "scovillain",
+    "nationalDexNumber": 952,
+    "descKey": "cobblemon.species.scovillain.desc"
+  },
+  {
+    "speciesId": "rellor",
+    "nationalDexNumber": 953,
+    "descKey": "cobblemon.species.rellor.desc"
+  },
+  {
+    "speciesId": "rabsca",
+    "nationalDexNumber": 954,
+    "descKey": "cobblemon.species.rabsca.desc"
+  },
+  {
+    "speciesId": "flittle",
+    "nationalDexNumber": 955,
+    "descKey": "cobblemon.species.flittle.desc"
+  },
+  {
+    "speciesId": "espathra",
+    "nationalDexNumber": 956,
+    "descKey": "cobblemon.species.espathra.desc"
+  },
+  {
+    "speciesId": "tinkatink",
+    "nationalDexNumber": 957,
+    "descKey": "cobblemon.species.tinkatink.desc"
+  },
+  {
+    "speciesId": "tinkatuff",
+    "nationalDexNumber": 958,
+    "descKey": "cobblemon.species.tinkatuff.desc"
+  },
+  {
+    "speciesId": "tinkaton",
+    "nationalDexNumber": 959,
+    "descKey": "cobblemon.species.tinkaton.desc"
+  },
+  {
+    "speciesId": "wiglett",
+    "nationalDexNumber": 960,
+    "descKey": "cobblemon.species.wiglett.desc"
+  },
+  {
+    "speciesId": "wugtrio",
+    "nationalDexNumber": 961,
+    "descKey": "cobblemon.species.wugtrio.desc"
+  },
+  {
+    "speciesId": "bombirdier",
+    "nationalDexNumber": 962,
+    "descKey": "cobblemon.species.bombirdier.desc"
+  },
+  {
+    "speciesId": "finizen",
+    "nationalDexNumber": 963,
+    "descKey": "cobblemon.species.finizen.desc"
+  },
+  {
+    "speciesId": "palafin",
+    "nationalDexNumber": 964,
+    "descKey": "cobblemon.species.palafin.desc"
+  },
+  {
+    "speciesId": "varoom",
+    "nationalDexNumber": 965,
+    "descKey": "cobblemon.species.varoom.desc"
+  },
+  {
+    "speciesId": "revavroom",
+    "nationalDexNumber": 966,
+    "descKey": "cobblemon.species.revavroom.desc"
+  },
+  {
+    "speciesId": "cyclizar",
+    "nationalDexNumber": 967,
+    "descKey": "cobblemon.species.cyclizar.desc"
+  },
+  {
+    "speciesId": "orthworm",
+    "nationalDexNumber": 968,
+    "descKey": "cobblemon.species.orthworm.desc"
+  },
+  {
+    "speciesId": "glimmet",
+    "nationalDexNumber": 969,
+    "descKey": "cobblemon.species.glimmet.desc"
+  },
+  {
+    "speciesId": "glimmora",
+    "nationalDexNumber": 970,
+    "descKey": "cobblemon.species.glimmora.desc"
+  },
+  {
+    "speciesId": "greavard",
+    "nationalDexNumber": 971,
+    "descKey": "cobblemon.species.greavard.desc"
+  },
+  {
+    "speciesId": "houndstone",
+    "nationalDexNumber": 972,
+    "descKey": "cobblemon.species.houndstone.desc"
+  },
+  {
+    "speciesId": "flamigo",
+    "nationalDexNumber": 973,
+    "descKey": "cobblemon.species.flamigo.desc"
+  },
+  {
+    "speciesId": "cetoddle",
+    "nationalDexNumber": 974,
+    "descKey": "cobblemon.species.cetoddle.desc"
+  },
+  {
+    "speciesId": "cetitan",
+    "nationalDexNumber": 975,
+    "descKey": "cobblemon.species.cetitan.desc"
+  },
+  {
+    "speciesId": "veluza",
+    "nationalDexNumber": 976,
+    "descKey": "cobblemon.species.veluza.desc"
+  },
+  {
+    "speciesId": "dondozo",
+    "nationalDexNumber": 977,
+    "descKey": "cobblemon.species.dondozo.desc"
+  },
+  {
+    "speciesId": "tatsugiri",
+    "nationalDexNumber": 978,
+    "descKey": "cobblemon.species.tatsugiri.desc"
+  },
+  {
+    "speciesId": "annihilape",
+    "nationalDexNumber": 979,
+    "descKey": "cobblemon.species.annihilape.desc"
+  },
+  {
+    "speciesId": "clodsire",
+    "nationalDexNumber": 980,
+    "descKey": "cobblemon.species.clodsire.desc"
+  },
+  {
+    "speciesId": "farigiraf",
+    "nationalDexNumber": 981,
+    "descKey": "cobblemon.species.farigiraf.desc"
+  },
+  {
+    "speciesId": "dudunsparce",
+    "nationalDexNumber": 982,
+    "descKey": "cobblemon.species.dudunsparce.desc"
+  },
+  {
+    "speciesId": "kingambit",
+    "nationalDexNumber": 983,
+    "descKey": "cobblemon.species.kingambit.desc"
+  },
+  {
+    "speciesId": "great_tusk",
+    "nationalDexNumber": 984,
+    "descKey": "cobblemon.species.great_tusk.desc"
+  },
+  {
+    "speciesId": "scream_tail",
+    "nationalDexNumber": 985,
+    "descKey": "cobblemon.species.scream_tail.desc"
+  },
+  {
+    "speciesId": "brute_bonnet",
+    "nationalDexNumber": 986,
+    "descKey": "cobblemon.species.brute_bonnet.desc"
+  },
+  {
+    "speciesId": "flutter_mane",
+    "nationalDexNumber": 987,
+    "descKey": "cobblemon.species.flutter_mane.desc"
+  },
+  {
+    "speciesId": "slither_wing",
+    "nationalDexNumber": 988,
+    "descKey": "cobblemon.species.slither_wing.desc"
+  },
+  {
+    "speciesId": "sandy_shocks",
+    "nationalDexNumber": 989,
+    "descKey": "cobblemon.species.sandy_shocks.desc"
+  },
+  {
+    "speciesId": "iron_treads",
+    "nationalDexNumber": 990,
+    "descKey": "cobblemon.species.iron_treads.desc"
+  },
+  {
+    "speciesId": "iron_bundle",
+    "nationalDexNumber": 991,
+    "descKey": "cobblemon.species.iron_bundle.desc"
+  },
+  {
+    "speciesId": "iron_hands",
+    "nationalDexNumber": 992,
+    "descKey": "cobblemon.species.iron_hands.desc"
+  },
+  {
+    "speciesId": "iron_jugulis",
+    "nationalDexNumber": 993,
+    "descKey": "cobblemon.species.iron_jugulis.desc"
+  },
+  {
+    "speciesId": "iron_moth",
+    "nationalDexNumber": 994,
+    "descKey": "cobblemon.species.iron_moth.desc"
+  },
+  {
+    "speciesId": "iron_thorns",
+    "nationalDexNumber": 995,
+    "descKey": "cobblemon.species.iron_thorns.desc"
+  },
+  {
+    "speciesId": "frigibax",
+    "nationalDexNumber": 996,
+    "descKey": "cobblemon.species.frigibax.desc"
+  },
+  {
+    "speciesId": "arctibax",
+    "nationalDexNumber": 997,
+    "descKey": "cobblemon.species.arctibax.desc"
+  },
+  {
+    "speciesId": "baxcalibur",
+    "nationalDexNumber": 998,
+    "descKey": "cobblemon.species.baxcalibur.desc"
+  },
+  {
+    "speciesId": "gimmighoul",
+    "nationalDexNumber": 999,
+    "descKey": "cobblemon.species.gimmighoul.desc"
+  },
+  {
+    "speciesId": "gholdengo",
+    "nationalDexNumber": 1000,
+    "descKey": "cobblemon.species.gholdengo.desc"
+  },
+  {
+    "speciesId": "wo-chien",
+    "nationalDexNumber": 1001,
+    "descKey": "cobblemon.species.wo-chien.desc"
+  },
+  {
+    "speciesId": "chien-pao",
+    "nationalDexNumber": 1002,
+    "descKey": "cobblemon.species.chien-pao.desc"
+  },
+  {
+    "speciesId": "ting-lu",
+    "nationalDexNumber": 1003,
+    "descKey": "cobblemon.species.ting-lu.desc"
+  },
+  {
+    "speciesId": "chi-yu",
+    "nationalDexNumber": 1004,
+    "descKey": "cobblemon.species.chi-yu.desc"
+  },
+  {
+    "speciesId": "roaring_moon",
+    "nationalDexNumber": 1005,
+    "descKey": "cobblemon.species.roaring_moon.desc"
+  },
+  {
+    "speciesId": "iron_valiant",
+    "nationalDexNumber": 1006,
+    "descKey": "cobblemon.species.iron_valiant.desc"
+  },
+  {
+    "speciesId": "koraidon",
+    "nationalDexNumber": 1007,
+    "descKey": "cobblemon.species.koraidon.desc"
+  },
+  {
+    "speciesId": "miraidon",
+    "nationalDexNumber": 1008,
+    "descKey": "cobblemon.species.miraidon.desc"
+  },
+  {
+    "speciesId": "walking_wake",
+    "nationalDexNumber": 1009,
+    "descKey": "cobblemon.species.walking_wake.desc"
+  },
+  {
+    "speciesId": "iron_leaves",
+    "nationalDexNumber": 1010,
+    "descKey": "cobblemon.species.iron_leaves.desc"
+  },
+  {
+    "speciesId": "dipplin",
+    "nationalDexNumber": 1011,
+    "descKey": "cobblemon.species.dipplin.desc"
+  },
+  {
+    "speciesId": "poltchageist",
+    "nationalDexNumber": 1012,
+    "descKey": "cobblemon.species.poltchageist.desc"
+  },
+  {
+    "speciesId": "sinistcha",
+    "nationalDexNumber": 1013,
+    "descKey": "cobblemon.species.sinistcha.desc"
+  },
+  {
+    "speciesId": "okidogi",
+    "nationalDexNumber": 1014,
+    "descKey": "cobblemon.species.okidogi.desc"
+  },
+  {
+    "speciesId": "munkidori",
+    "nationalDexNumber": 1015,
+    "descKey": "cobblemon.species.munkidori.desc"
+  },
+  {
+    "speciesId": "fezandipiti",
+    "nationalDexNumber": 1016,
+    "descKey": "cobblemon.species.fezandipiti.desc"
+  },
+  {
+    "speciesId": "ogerpon",
+    "nationalDexNumber": 1017,
+    "descKey": "cobblemon.species.ogerpon.desc"
+  },
+  {
+    "speciesId": "archaludon",
+    "nationalDexNumber": 1018,
+    "descKey": "cobblemon.species.archaludon.desc"
+  },
+  {
+    "speciesId": "hydrapple",
+    "nationalDexNumber": 1019,
+    "descKey": "cobblemon.species.hydrapple.desc"
+  },
+  {
+    "speciesId": "gouging_fire",
+    "nationalDexNumber": 1020,
+    "descKey": "cobblemon.species.gouging_fire.desc"
+  },
+  {
+    "speciesId": "raging_bolt",
+    "nationalDexNumber": 1021,
+    "descKey": "cobblemon.species.raging_bolt.desc"
+  },
+  {
+    "speciesId": "iron_boulder",
+    "nationalDexNumber": 1022,
+    "descKey": "cobblemon.species.iron_boulder.desc"
+  },
+  {
+    "speciesId": "iron_crown",
+    "nationalDexNumber": 1023,
+    "descKey": "cobblemon.species.iron_crown.desc"
+  },
+  {
+    "speciesId": "terapagos",
+    "nationalDexNumber": 1024,
+    "descKey": "cobblemon.species.terapagos.desc"
+  },
+  {
+    "speciesId": "pecharunt",
+    "nationalDexNumber": 1025,
+    "descKey": "cobblemon.species.pecharunt.desc"
+  }
+]

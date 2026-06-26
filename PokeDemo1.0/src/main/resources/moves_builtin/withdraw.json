@@ -1,0 +1,13 @@
+{
+  "id": "withdraw",
+  "name": "Withdraw",
+  "type": "water",
+  "category": "status",
+  "power": 0,
+  "accuracy": 1.0,
+  "pp": 40,
+  "priority": 0,
+  "effects": [
+    { "kind": "stat_stage", "target": "self", "stat": "def", "stages": 1 }
+  ]
+}

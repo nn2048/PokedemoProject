@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:milotic",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:milotic",
+      "model": "cobblemon:milotic_male.geo",
+      "texture": "cobblemon:textures/pokemon/0350_milotic/milotic.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0350_milotic/milotic_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "poser": "cobblemon:milotic_female",
+      "model": "cobblemon:milotic_female.geo"
+    }
+  ]
+}

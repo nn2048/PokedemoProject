@@ -1,0 +1,36 @@
+{
+  "species": "cobblemon:zorua",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:zorua",
+      "model": "cobblemon:zorua.geo",
+      "texture": "cobblemon:textures/pokemon/0570_zorua/zorua.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0570_zorua/zorua_shiny.png"
+    },
+    {
+      "aspects": [
+        "hisuian"
+      ],
+      "poser": "cobblemon:zorua_hisuian",
+      "model": "cobblemon:zorua_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/0570_zorua/zorua_hisuian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0570_zorua/zorua_hisuian_shiny.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "venusaur",
+  "name": "妙蛙花",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "spa": 100,
+    "spd": 100,
+    "spe": 80
+  },
+  "catchRate": 45,
+  "levelRange": [
+    32,
+    60
+  ],
+  "baseExpYield": 236,
+  "expGroup": "MEDIUM_SLOW",
+  "evYields": {
+    "spa": 2
+  },
+  "evolutions": []
+}

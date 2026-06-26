@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pokedemo:item/held/luminous_moss"
+  }
+}

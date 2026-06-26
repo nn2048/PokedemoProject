@@ -1,0 +1,42 @@
+{
+  "id": "bulbasaur",
+  "name": "妙蛙种子",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "atk": 49,
+    "def": 49,
+    "spa": 65,
+    "spd": 65,
+    "spe": 45
+  },
+  "catchRate": 45,
+  "levelRange": [
+    2,
+    8
+  ],
+  "evYields": {
+    "spa": 1
+  },
+  "baseExpYield": 64,
+  "expGroup": "MEDIUM_SLOW",
+  "levelUpMoves": {
+    "1": ["tackle", "growl"],
+    "3": ["vine_whip"],
+    "6": ["growth"],
+    "7": ["leech_seed"],
+    "9": ["razor_leaf"],
+    "10": ["poison_powder"],
+    "12": ["sleep_powder"]
+  },
+  "evolutions": [
+    {
+      "variant": "level_up",
+      "minLevel": 16,
+      "result": "ivysaur"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:ninetales",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ninetales",
+      "model": "cobblemon:ninetales.geo",
+      "texture": "cobblemon:textures/pokemon/0038_ninetales/ninetales.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0038_ninetales/ninetales_shiny.png"
+    },
+    {
+      "aspects": [
+        "alolan"
+      ],
+      "poser": "cobblemon:ninetales_alolan",
+      "model": "cobblemon:ninetales_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/0038_ninetales/ninetales_alolan.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0038_ninetales/ninetales_alolan_shiny.png"
+    }
+  ]
+}

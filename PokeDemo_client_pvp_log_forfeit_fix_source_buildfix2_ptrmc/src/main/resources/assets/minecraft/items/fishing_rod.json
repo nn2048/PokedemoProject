@@ -1,0 +1,48 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/fishing_rod"
+    },
+    "entries": [
+      {
+        "threshold": 39001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/rods/poke_rod"
+        }
+      },
+      {
+        "threshold": 39002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/rods/great_rod"
+        }
+      },
+      {
+        "threshold": 39003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/rods/ultra_rod"
+        }
+      },
+      {
+        "threshold": 39004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/rods/master_rod"
+        }
+      },
+      {
+        "threshold": 39005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/rods/love_rod"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:unfezant",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:unfezant_male",
+      "model": "cobblemon:unfezant_male.geo",
+      "texture": "cobblemon:textures/pokemon/0521_unfezant/unfezant_male.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0521_unfezant/unfezant_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "poser": "cobblemon:unfezant_female",
+      "model": "cobblemon:unfezant_female.geo",
+      "texture": "cobblemon:textures/pokemon/0521_unfezant/unfezant_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0521_unfezant/unfezant_female_shiny.png"
+    }
+  ]
+}

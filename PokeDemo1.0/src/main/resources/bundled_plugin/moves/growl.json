@@ -1,0 +1,15 @@
+{
+  "id": "growl",
+  "name": "Growl",
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": 1.0,
+  "pp": 40,
+  "priority": 0,
+  "effect": {
+    "kind": "stat",
+    "stat": "atk",
+    "stage": -1
+  }
+}

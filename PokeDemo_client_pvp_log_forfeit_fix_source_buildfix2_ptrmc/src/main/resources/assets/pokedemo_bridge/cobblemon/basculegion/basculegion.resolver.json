@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:basculegion",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:basculegion",
+      "model": "cobblemon:basculegion_male.geo",
+      "texture": "cobblemon:textures/pokemon/0902_basculegion/basculegion_male.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0902_basculegion/basculegion_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:basculegion_female.geo",
+      "texture": "cobblemon:textures/pokemon/0902_basculegion/basculegion_female.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0902_basculegion/basculegion_female_shiny.png"
+    }
+  ]
+}

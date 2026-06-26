@@ -1,0 +1,82 @@
+books:
+  welcome:
+    title: PokeDemo Guide
+    author: PtrMC
+    pages:
+    - |
+      §d§lWelcome, Trainer!§r
+
+      §7This plugin is open-source and free.§r
+      §4§lDo NOT buy this plugin from paid channels.§r
+      §4§lNo paid redistribution of modified versions.§r
+
+      §7Get this book:§r
+      §2Craft with 3 sticks (shapeless)§r
+
+      §7Controls:§r
+      §3Right-click to open§r
+      §3Left-click to open the “Guide Switch” menu§r
+      §7(Shift+Left: quick cycle)§r
+    - |-
+      §e§lImportant§r
+      §cWhen the server lags, do NOT move your gear into GUIs!§r
+      §7(Inventory / PC / machines, etc.)§r
+      §cLosses caused by this are not compensated.§r
+
+      §e§lCommon§r
+      §a/recipes§r §fOpen crafting recipes§r
+
+      §3§lSummon Pokémon§r
+      §fHold §bShift§f + §bF§f (swap offhand) to enter summon mode§r
+      §fThen use §bmouse wheel§f / §bhotbar number keys§f to summon your party§r
+
+      §7Type: §a/poke guide§7 to get the guide again§r
+    - |-
+      §e§lParty Details§r
+
+      §a/party§r §fOpen your party details§r
+
+      §7View your party Pokémon, HP, status, and more.§r
+
+      §7The sidebar party panel also syncs with your current party.§r
+  stones:
+    title: World & Resources
+    author: PtrMC
+    pages:
+    - |
+      §e§lEvolution Stones§r
+      Fire Stone: Nether
+      Leaf Stone: Leaves
+      Water Stone: Ocean floor
+      Thunder Stone: High mountains
+      Moon Stone: The End
+  breeding:
+    title: Breeding & Preferences
+    author: PtrMC
+    pages:
+    - |
+      §e§lBasics§r
+      Breeding depends on gender and egg groups.
+      Pokémon may prefer certain blocks.
+  devices:
+    title: Device Research
+    author: PtrMC
+    pages:
+    - |
+      §e§lResearch§r
+      Strange stones may appear while mining...
+  legends:
+    title: Legends
+    author: PtrMC
+    pages:
+    - |
+      §e§lLegends§r
+      Build altars in extreme places and charge them with energy...
+  community:
+    title: Community
+    author: PtrMC
+    pages:
+    - |
+      §e§lCommunity§r
+      §7Visit:§r
+      §ahttps://nn2048.github.io/pokedemo-website/§r

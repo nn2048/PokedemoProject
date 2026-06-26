@@ -1,0 +1,13 @@
+{
+  "id": "bubble",
+  "name": "Bubble",
+  "type": "water",
+  "category": "special",
+  "power": 40,
+  "accuracy": 1.0,
+  "pp": 30,
+  "priority": 0,
+  "effects": [
+    { "kind": "stat_stage", "target": "target", "stat": "spe", "stages": -1, "chance": 0.1 }
+  ]
+}

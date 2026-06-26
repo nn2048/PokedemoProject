@@ -1,0 +1,13 @@
+{
+  "id": "poison_powder",
+  "name": "Poison Powder",
+  "type": "poison",
+  "category": "status",
+  "power": 0,
+  "accuracy": 0.75,
+  "pp": 35,
+  "priority": 0,
+  "effects": [
+    { "kind": "set_status", "status": "poison", "chance": 1.0 }
+  ]
+}

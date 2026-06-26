@@ -1,0 +1,40 @@
+{
+  "species": "cobblemon:raticate",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:raticate",
+      "model": "cobblemon:raticate_male.geo",
+      "texture": "cobblemon:textures/pokemon/0020_raticate/raticate.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0020_raticate/raticate_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:raticate_female.geo"
+    },
+    {
+      "aspects": [
+        "alolan"
+      ],
+      "poser": "cobblemon:raticate_alolan",
+      "model": "cobblemon:raticate_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/0020_raticate/raticate_alolan.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0020_raticate/raticate_alolan_shiny.png"
+    }
+  ]
+}

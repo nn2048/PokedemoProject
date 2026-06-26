@@ -1,0 +1,82 @@
+# PokeDemo plugin UI/messages (English)
+# You can override any key by editing: plugins/PokeDemo/lang/en_us.yml
+
+pokedemo:
+  common:
+    empty: "(Empty)"
+    none: "(None)"
+
+  guide:
+    join_hint: "§2Tip§8: Use §3/poke guide §8to get the Guide Book"
+    join_hint_summon: "§2Tip§8: §3Shift+F §8+ §3Hotbar/Mouse Wheel §8to send out Pokémon"
+
+  gui:
+    common:
+      back: "§eBack"
+      close: "§cClose"
+      next: "§eNext Page"
+      prev: "§ePrevious Page"
+
+    recipes:
+      title: "§6Recipes"
+
+    starter:
+      title: "§2Choose Your Starter"
+
+    phone:
+      title: "§5Poké Phone"
+      party: "§aParty"
+      party.lore: "§7View & manage your party"
+      pc: "§bPC"
+      pc.lore: "§7Open PC boxes"
+      healer: "§dHeal"
+      healer.lore: "§7Restore your party's HP and PP"
+      healer.machine: "§dHeal"
+      healer.machine.lore: "§7Use near a Healing Machine"
+      dex: "§cPokédex"
+      dex.lore: "§7View caught Pokémon info"
+
+    dex:
+      title: "§cPokédex"
+      entry.title: "§cPokédex"
+
+    summary:
+      title: "§8Pokémon Summary"
+      tab:
+        overview: "Overview"
+        overview.lore: "§7View basic info"
+        moves: "Moves"
+        moves.lore: "§7View moves and PP"
+        stats: "Stats"
+        stats.lore: "§7View stat values"
+        iv_ev: "IV/EV"
+        iv_ev.lore: "§7View IV/EV"
+      back:
+        party: "§7Back to Party"
+        pc: "§7Back to PC"
+
+  label:
+    uuid: "UUID"
+    species: "Species"
+    nature: "Nature"
+    types: "Types"
+    type: "Type"
+    status: "Status"
+    hp: "§cHP"
+    nickname: "§fNickname"
+    ot: "§fOT"
+    accuracy: "Accuracy"
+    category: "Category"
+    held_item: "§fHeld Item"
+
+  summary:
+    nickname.hint: "§8Rename will be available here later"
+    ot.placeholder: "§7(Server player)"
+    ot.hint: "§8Bind OT later"
+
+    held_item:
+      has: "§7Holding"
+      set: "§aSet"
+      replace: "§eReplace"
+      remove: "§cRemove"
+      only_pokedemo: "§8Only PokeDemo items are supported for now"

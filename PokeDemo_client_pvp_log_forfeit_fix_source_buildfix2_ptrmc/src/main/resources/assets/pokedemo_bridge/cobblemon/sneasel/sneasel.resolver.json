@@ -1,0 +1,48 @@
+{
+  "species": "cobblemon:sneasel",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:sneasel",
+      "model": "cobblemon:sneasel_male.geo",
+      "texture": "cobblemon:textures/pokemon/0215_sneasel/sneasel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0215_sneasel/sneasel_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:sneasel_female.geo"
+    },
+    {
+      "aspects": [
+        "hisuian"
+      ],
+      "poser": "cobblemon:sneasel_hisuian",
+      "model": "cobblemon:sneasel_hisuian_male.geo",
+      "texture": "cobblemon:textures/pokemon/0215_sneasel/sneasel_hisuian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0215_sneasel/sneasel_hisuian_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "hisuian"
+      ],
+      "model": "cobblemon:sneasel_hisuian_female.geo"
+    }
+  ]
+}

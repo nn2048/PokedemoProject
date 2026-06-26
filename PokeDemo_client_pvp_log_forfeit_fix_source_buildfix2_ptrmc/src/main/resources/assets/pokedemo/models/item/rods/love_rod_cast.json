@@ -1,0 +1,6 @@
+{
+  "parent": "pokedemo:item/rods/love_rod",
+  "textures": {
+    "layer0": "pokedemo:item/rods/love_rod_cast"
+  }
+}

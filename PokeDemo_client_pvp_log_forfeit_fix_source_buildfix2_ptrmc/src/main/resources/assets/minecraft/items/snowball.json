@@ -1,0 +1,349 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/snowball"
+    },
+    "entries": [
+      {
+        "threshold": 32001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/poke_ball"
+        }
+      },
+      {
+        "threshold": 32002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/great_ball"
+        }
+      },
+      {
+        "threshold": 32003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ultra_ball"
+        }
+      },
+      {
+        "threshold": 32004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/master_ball"
+        }
+      },
+      {
+        "threshold": 32005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/premier_ball"
+        }
+      },
+      {
+        "threshold": 32006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/quick_ball"
+        }
+      },
+      {
+        "threshold": 32007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/timer_ball"
+        }
+      },
+      {
+        "threshold": 32008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/dusk_ball"
+        }
+      },
+      {
+        "threshold": 32009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/net_ball"
+        }
+      },
+      {
+        "threshold": 32010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/nest_ball"
+        }
+      },
+      {
+        "threshold": 32011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/repeat_ball"
+        }
+      },
+      {
+        "threshold": 32012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/luxury_ball"
+        }
+      },
+      {
+        "threshold": 32013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/heal_ball"
+        }
+      },
+      {
+        "threshold": 32014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/dive_ball"
+        }
+      },
+      {
+        "threshold": 32015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/dream_ball"
+        }
+      },
+      {
+        "threshold": 32016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/fast_ball"
+        }
+      },
+      {
+        "threshold": 32017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/friend_ball"
+        }
+      },
+      {
+        "threshold": 32018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/heavy_ball"
+        }
+      },
+      {
+        "threshold": 32019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/level_ball"
+        }
+      },
+      {
+        "threshold": 32020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/love_ball"
+        }
+      },
+      {
+        "threshold": 32021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/lure_ball"
+        }
+      },
+      {
+        "threshold": 32022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/moon_ball"
+        }
+      },
+      {
+        "threshold": 32023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/safari_ball"
+        }
+      },
+      {
+        "threshold": 32024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/sport_ball"
+        }
+      },
+      {
+        "threshold": 32025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/park_ball"
+        }
+      },
+      {
+        "threshold": 32026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/beast_ball"
+        }
+      },
+      {
+        "threshold": 32027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/iron_ball"
+        }
+      },
+      {
+        "threshold": 32028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/azure_ball"
+        }
+      },
+      {
+        "threshold": 32029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/citrine_ball"
+        }
+      },
+      {
+        "threshold": 32030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/roseate_ball"
+        }
+      },
+      {
+        "threshold": 32031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/slate_ball"
+        }
+      },
+      {
+        "threshold": 32032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/verdant_ball"
+        }
+      },
+      {
+        "threshold": 32033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ivory_ball"
+        }
+      },
+      {
+        "threshold": 32034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_poke_ball"
+        }
+      },
+      {
+        "threshold": 32035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_great_ball"
+        }
+      },
+      {
+        "threshold": 32036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_ultra_ball"
+        }
+      },
+      {
+        "threshold": 32037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_feather_ball"
+        }
+      },
+      {
+        "threshold": 32038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_wing_ball"
+        }
+      },
+      {
+        "threshold": 32039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_jet_ball"
+        }
+      },
+      {
+        "threshold": 32040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_leaden_ball"
+        }
+      },
+      {
+        "threshold": 32041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_heavy_ball"
+        }
+      },
+      {
+        "threshold": 32042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_gigaton_ball"
+        }
+      },
+      {
+        "threshold": 32043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_azure_ball"
+        }
+      },
+      {
+        "threshold": 32044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_citrine_ball"
+        }
+      },
+      {
+        "threshold": 32045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_roseate_ball"
+        }
+      },
+      {
+        "threshold": 32046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_slate_ball"
+        }
+      },
+      {
+        "threshold": 32047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_verdant_ball"
+        }
+      },
+      {
+        "threshold": 32048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/balls/ancient_ivory_ball"
+        }
+      }
+    ]
+  }
+}

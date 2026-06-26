@@ -1,0 +1,81 @@
+# PokeDemo 플러그인 UI/메시지 (한국어)
+
+pokedemo:
+  common:
+    empty: "(비어 있음)"
+    none: "(없음)"
+
+  guide:
+    join_hint: "§2안내§8: §3/poke guide §8로 안내서를 받을 수 있어요"
+    join_hint_summon: "§2안내§8: §3Shift+F §8+ §3단축바/마우스휠 §8로 소환"
+
+  gui:
+    common:
+      back: "§e뒤로"
+      close: "§c닫기"
+      next: "§e다음 페이지"
+      prev: "§e이전 페이지"
+
+    recipes:
+      title: "§6제작법"
+
+    starter:
+      title: "§2스타터 선택"
+
+    phone:
+      title: "§5포켓폰"
+      party: "§a파티"
+      party.lore: "§7파티 관리"
+      pc: "§bPC"
+      pc.lore: "§7PC 박스 열기"
+      healer: "§d치료"
+      healer.lore: "§7파티의 HP와 PP 회복"
+      healer.machine: "§d치료"
+      healer.machine.lore: "§7치료기 근처에서 사용"
+      dex: "§c도감"
+      dex.lore: "§7잡은 포켓몬 정보 보기"
+
+    dex:
+      title: "§c포켓몬 도감"
+      entry.title: "§c도감"
+
+    summary:
+      title: "§8포켓몬 상세"
+      tab:
+        overview: "개요"
+        overview.lore: "§7기본 정보 보기"
+        moves: "기술"
+        moves.lore: "§7기술과 PP 보기"
+        stats: "능력치"
+        stats.lore: "§7능력치 보기"
+        iv_ev: "개체/노력"
+        iv_ev.lore: "§7IV/EV 보기"
+      back:
+        party: "§7파티로 돌아가기"
+        pc: "§7PC로 돌아가기"
+
+  label:
+    uuid: "UUID"
+    species: "종족"
+    nature: "성격"
+    types: "타입"
+    type: "타입"
+    status: "상태"
+    hp: "§cHP"
+    nickname: "§f별명"
+    ot: "§fOT"
+    accuracy: "명중"
+    category: "분류"
+    held_item: "§f지닌 물건"
+
+  summary:
+    nickname.hint: "§8나중에 여기서 이름 변경"
+    ot.placeholder: "§7(서버 플레이어)"
+    ot.hint: "§8나중에 OT 연동"
+
+    held_item:
+      has: "§7지님"
+      set: "§a설정"
+      replace: "§e교체"
+      remove: "§c해제"
+      only_pokedemo: "§8현재는 PokeDemo 아이템만 지원"

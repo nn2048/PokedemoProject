@@ -1,0 +1,181 @@
+
+package win.pokedemo.bridge.client.hud;
+
+import net.fabricmc.fabric.api.client.rendering.v1.HudRenderCallback;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.font.TextRenderer;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.gl.RenderPipelines;
+import net.minecraft.client.render.RenderTickCounter;
+import net.minecraft.text.Text;
+import net.minecraft.util.Formatting;
+import net.minecraft.util.Identifier;
+import win.pokedemo.bridge.common.PartySlotState;
+import win.pokedemo.bridge.common.PokemonStatus;
+
+import java.util.List;
+
+public final class PartyHudRenderer implements HudRenderCallback {
+    private static final Identifier SLOT = Identifier.of("pokedemo_bridge", "textures/hud/party_slot.png");
+    private static final Identifier SLOT_FAINTED = Identifier.of("pokedemo_bridge", "textures/hud/party_slot_fainted.png");
+    private static final Identifier SLOT_EMPTY = Identifier.of("pokedemo_bridge", "textures/hud/party_slot_empty.png");
+    private static final Identifier POKE_BALL = Identifier.of("pokedemo_bridge", "textures/hud/poke_ball.png");
+    private static final Identifier SHINY = Identifier.of("pokedemo_bridge", "textures/hud/icon_shiny.png");
+    private static final Identifier STATUS_PSN = Identifier.of("pokedemo_bridge", "textures/hud/status_psn.png");
+    private static final Identifier STATUS_BRN = Identifier.of("pokedemo_bridge", "textures/hud/status_brn.png");
+    private static final Identifier STATUS_PAR = Identifier.of("pokedemo_bridge", "textures/hud/status_par.png");
+    private static final Identifier STATUS_SLP = Identifier.of("pokedemo_bridge", "textures/hud/status_slp.png");
+    private static final Identifier STATUS_FRZ = Identifier.of("pokedemo_bridge", "textures/hud/status_frz.png");
+    private static final Identifier STATUS_TOX = Identifier.of("pokedemo_bridge", "textures/hud/status_tox.png");
+
+    private static final int BASE_X = 6;
+    private static final int BASE_Y = 10;
+    private static final int SLOT_W = 46;
+    private static final int SLOT_H = 54;
+    private static final int STEP_Y = 54;
+
+    private final PartyHudState state;
+
+    public PartyHudRenderer(PartyHudState state) {
+        this.state = state;
+    }
+
+    @Override
+    public void onHudRender(DrawContext dc, RenderTickCounter tickCounter) {
+        if (!state.enabled()) return;
+        MinecraftClient client = MinecraftClient.getInstance();
+        TextRenderer tr = client.textRenderer;
+        List<PartySlotState> slots = state.shouldUseDebugSlots() ? state.debugSlots() : state.slots();
+        if (slots.isEmpty()) return;
+
+        for (int i = 0; i < 6; i++) {
+            PartySlotState slot = i < slots.size() ? slots.get(i) : new PartySlotState(i, false, "", "", 0, 0, 0, PokemonStatus.NONE, false, "N", false);
+            drawSlot(dc, tr, BASE_X, BASE_Y + STEP_Y * i, slot);
+        }
+    }
+
+    private void drawSlot(DrawContext dc, TextRenderer tr, int x, int y, PartySlotState slot) {
+        Identifier bg = backgroundFor(slot);
+        dc.drawTexture(RenderPipelines.GUI_TEXTURED, bg, x, y, 0.0f, 0.0f, SLOT_W, SLOT_H, SLOT_W, SLOT_H);
+
+        if (slot.active()) {
+            dc.drawStrokedRectangle(x, y, SLOT_W, SLOT_H, 0xFF7FEAFF);
+        }
+
+        if (!slot.occupied()) {
+            drawLevel(tr, dc, x, y, 0);
+            dc.drawText(tr, Text.translatable("hud.pokedemo_bridge.empty").formatted(Formatting.DARK_GRAY), x + 8, y + 23, 0x8C8C8C, false);
+            return;
+        }
+
+        drawLevel(tr, dc, x, y, slot.level());
+        drawPortrait(dc, tr, x + 16, y + 4, slot);
+        dc.drawText(tr, Text.literal(trimName(slot.displayName())).formatted(slot.hp() <= 0 ? Formatting.GRAY : Formatting.WHITE), x + 4, y + 25, 0xFFFFFF, false);
+
+        String gender = genderMarker(slot.gender());
+        if (!gender.isEmpty()) {
+            Formatting genderFmt = "F".equalsIgnoreCase(slot.gender()) ? Formatting.LIGHT_PURPLE : Formatting.AQUA;
+            dc.drawText(tr, Text.literal(gender).formatted(genderFmt), x + 4, y + 35, 0xFFFFFF, false);
+        }
+        if (slot.shiny()) {
+            dc.drawTexture(RenderPipelines.GUI_TEXTURED, SHINY, x + 14, y + 35, 0.0f, 0.0f, 7, 7, 16, 16);
+        }
+
+        drawVerticalHp(dc, x + 41, y + 4, slot);
+        dc.drawTexture(RenderPipelines.GUI_TEXTURED, POKE_BALL, x + 33, y + 38, 0.0f, 0.0f, 13, 13, 18, 44);
+
+        int barX = x + 4;
+        int barY = y + 44;
+        int barW = 27;
+        int barH = 4;
+        dc.fill(barX, barY, barX + barW, barY + barH, 0xFF3D434D);
+        int fillW = hpFillWidth(slot, barW - 2);
+        dc.fill(barX + 1, barY + 1, barX + 1 + fillW, barY + barH - 1, hpColor(slot));
+
+        Identifier statusTex = statusTexture(slot.status());
+        if (statusTex != null) {
+            dc.drawTexture(RenderPipelines.GUI_TEXTURED, statusTex, x + 4, y + 37, 0.0f, 0.0f, 18, 5, 37, 5);
+        }
+    }
+
+    private void drawLevel(TextRenderer tr, DrawContext dc, int x, int y, int level) {
+        dc.drawText(tr, Text.literal("Lv.").formatted(Formatting.WHITE), x + 3, y + 5, 0xFFFFFF, false);
+        dc.drawText(tr, Text.literal(String.valueOf(level)).formatted(Formatting.WHITE), x + 3, y + 13, 0xFFFFFF, false);
+    }
+
+    private void drawPortrait(DrawContext dc, TextRenderer tr, int x, int y, PartySlotState slot) {
+        dc.fill(x, y, x + 17, y + 17, 0xFF6C6F76);
+        dc.fill(x + 1, y + 1, x + 16, y + 16, speciesColor(slot.species()));
+        String abbrev = speciesAbbrev(slot.displayName(), slot.species());
+        int w = tr.getWidth(abbrev);
+        dc.drawText(tr, Text.literal(abbrev).formatted(Formatting.WHITE), x + (17 - w) / 2, y + 5, 0xFFFFFF, false);
+    }
+
+    private void drawVerticalHp(DrawContext dc, int x, int y, PartySlotState slot) {
+        int h = 26;
+        dc.fill(x, y, x + 3, y + h, 0xFF3D434D);
+        int fill = hpFillWidth(slot, h - 2);
+        dc.fill(x + 1, y + (h - 1 - fill), x + 2, y + h - 1, hpColor(slot));
+    }
+
+    private Identifier backgroundFor(PartySlotState slot) {
+        if (!slot.occupied()) return SLOT_EMPTY;
+        if (slot.status() == PokemonStatus.FNT || slot.hp() <= 0) return SLOT_FAINTED;
+        return SLOT;
+    }
+
+    private int hpFillWidth(PartySlotState slot, int maxWidth) {
+        if (slot.maxHp() <= 0) return 0;
+        float ratio = Math.max(0f, Math.min(1f, slot.hp() / (float) slot.maxHp()));
+        return Math.max(0, Math.round(ratio * maxWidth));
+    }
+
+    private int hpColor(PartySlotState slot) {
+        if (slot.status() == PokemonStatus.FNT || slot.hp() <= 0 || slot.maxHp() <= 0) return 0xFF6D6D6D;
+        float ratio = slot.hp() / (float) slot.maxHp();
+        if (ratio > 0.5f) return 0xFF49E06C;
+        if (ratio > 0.2f) return 0xFFE8C552;
+        return 0xFFE65C5C;
+    }
+
+    private Identifier statusTexture(PokemonStatus status) {
+        return switch (status) {
+            case PSN -> STATUS_PSN;
+            case BRN -> STATUS_BRN;
+            case PAR -> STATUS_PAR;
+            case SLP -> STATUS_SLP;
+            case FRZ -> STATUS_FRZ;
+            case TOX -> STATUS_TOX;
+            default -> null;
+        };
+    }
+
+    private String genderMarker(String value) {
+        if (value == null || value.isBlank()) return "";
+        return switch (value.toUpperCase()) {
+            case "M" -> "♂";
+            case "F" -> "♀";
+            default -> "";
+        };
+    }
+
+    private String trimName(String value) {
+        if (value == null || value.isBlank()) return "---";
+        return value.length() > 5 ? value.substring(0, 5) : value;
+    }
+
+    private String speciesAbbrev(String displayName, String species) {
+        String source = (displayName != null && !displayName.isBlank()) ? displayName : species;
+        if (source == null || source.isBlank()) return "?";
+        return source.length() <= 2 ? source : source.substring(0, 2);
+    }
+
+    private int speciesColor(String species) {
+        if (species == null) return 0xFF596D7A;
+        int h = Math.abs(species.hashCode());
+        int r = 80 + (h & 0x5F);
+        int g = 80 + ((h >> 7) & 0x5F);
+        int b = 80 + ((h >> 14) & 0x5F);
+        return 0xFF000000 | (r << 16) | (g << 8) | b;
+    }
+}

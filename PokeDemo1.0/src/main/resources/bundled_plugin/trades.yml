@@ -1,0 +1,13 @@
+world:2172,96,-2020:
+  left:
+    partySlot: -1
+    confirm: false
+  right:
+    confirm: false
+world:1892,72,-4779:
+  left:
+    partySlot: -1
+    confirm: false
+  right:
+    confirm: false
+    partySlot: -1

@@ -1,0 +1,1070 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/carved_pumpkin"
+    },
+    "entries": [
+      {
+        "threshold": 100001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/bulbasaur"
+        }
+      },
+      {
+        "threshold": 100002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/charizard"
+        }
+      },
+      {
+        "threshold": 100003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/pikachu"
+        }
+      },
+      {
+        "threshold": 100004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/blastoise"
+        }
+      },
+      {
+        "threshold": 100005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/butterfree"
+        }
+      },
+      {
+        "threshold": 100006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/caterpie"
+        }
+      },
+      {
+        "threshold": 100007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/charmander"
+        }
+      },
+      {
+        "threshold": 100008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/charmeleon"
+        }
+      },
+      {
+        "threshold": 100009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/ivysaur"
+        }
+      },
+      {
+        "threshold": 100010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/kakuna"
+        }
+      },
+      {
+        "threshold": 100011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/metapod"
+        }
+      },
+      {
+        "threshold": 100012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/squirtle"
+        }
+      },
+      {
+        "threshold": 100013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/venusaur"
+        }
+      },
+      {
+        "threshold": 100014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/wartortle"
+        }
+      },
+      {
+        "threshold": 100015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/weedle"
+        }
+      },
+      {
+        "threshold": 100016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/arbok"
+        }
+      },
+      {
+        "threshold": 100017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/beedrill"
+        }
+      },
+      {
+        "threshold": 100018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/clefable"
+        }
+      },
+      {
+        "threshold": 100019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/clefairy"
+        }
+      },
+      {
+        "threshold": 100020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/ekans"
+        }
+      },
+      {
+        "threshold": 100021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/fearow"
+        }
+      },
+      {
+        "threshold": 100022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/gloom"
+        }
+      },
+      {
+        "threshold": 100023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/golbat"
+        }
+      },
+      {
+        "threshold": 100024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/jigglypuff"
+        }
+      },
+      {
+        "threshold": 100025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/nidoking"
+        }
+      },
+      {
+        "threshold": 100026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/nidoqueen"
+        }
+      },
+      {
+        "threshold": 100027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/nidoranf"
+        }
+      },
+      {
+        "threshold": 100028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/nidoranm"
+        }
+      },
+      {
+        "threshold": 100029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/nidorina"
+        }
+      },
+      {
+        "threshold": 100030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/nidorino"
+        }
+      },
+      {
+        "threshold": 100031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/ninetales"
+        }
+      },
+      {
+        "threshold": 100032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/oddish"
+        }
+      },
+      {
+        "threshold": 100033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/pidgeot"
+        }
+      },
+      {
+        "threshold": 100034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/pidgeotto"
+        }
+      },
+      {
+        "threshold": 100035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/pidgey"
+        }
+      },
+      {
+        "threshold": 100036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/raichu"
+        }
+      },
+      {
+        "threshold": 100037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/raticate"
+        }
+      },
+      {
+        "threshold": 100038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/rattata"
+        }
+      },
+      {
+        "threshold": 100039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/sandshrew"
+        }
+      },
+      {
+        "threshold": 100040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/sandslash"
+        }
+      },
+      {
+        "threshold": 100041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/spearow"
+        }
+      },
+      {
+        "threshold": 100042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/vulpix"
+        }
+      },
+      {
+        "threshold": 100043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/wigglytuff"
+        }
+      },
+      {
+        "threshold": 100044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/zubat"
+        }
+      },
+      {
+        "threshold": 100045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/abra"
+        }
+      },
+      {
+        "threshold": 100046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/aerodactyl"
+        }
+      },
+      {
+        "threshold": 100047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/alakazam"
+        }
+      },
+      {
+        "threshold": 100048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/arcanine"
+        }
+      },
+      {
+        "threshold": 100049,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/articuno"
+        }
+      },
+      {
+        "threshold": 100050,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/bellsprout"
+        }
+      },
+      {
+        "threshold": 100051,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/chansey"
+        }
+      },
+      {
+        "threshold": 100052,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/cloyster"
+        }
+      },
+      {
+        "threshold": 100053,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/cubone"
+        }
+      },
+      {
+        "threshold": 100054,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/dewgong"
+        }
+      },
+      {
+        "threshold": 100055,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/diglett_alolan"
+        }
+      },
+      {
+        "threshold": 100056,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/ditto"
+        }
+      },
+      {
+        "threshold": 100057,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/dodrio"
+        }
+      },
+      {
+        "threshold": 100058,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/doduo"
+        }
+      },
+      {
+        "threshold": 100059,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/dragonair"
+        }
+      },
+      {
+        "threshold": 100060,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/dragonite"
+        }
+      },
+      {
+        "threshold": 100061,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/dratini"
+        }
+      },
+      {
+        "threshold": 100062,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/drowzee"
+        }
+      },
+      {
+        "threshold": 100063,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/dugtrio"
+        }
+      },
+      {
+        "threshold": 100064,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/eevee"
+        }
+      },
+      {
+        "threshold": 100065,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/electabuzz"
+        }
+      },
+      {
+        "threshold": 100066,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/electrode"
+        }
+      },
+      {
+        "threshold": 100067,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/exeggcute"
+        }
+      },
+      {
+        "threshold": 100068,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/exeggutor"
+        }
+      },
+      {
+        "threshold": 100069,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/farfetchd"
+        }
+      },
+      {
+        "threshold": 100070,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/flareon"
+        }
+      },
+      {
+        "threshold": 100071,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/gastly"
+        }
+      },
+      {
+        "threshold": 100072,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/gengar"
+        }
+      },
+      {
+        "threshold": 100073,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/geodude"
+        }
+      },
+      {
+        "threshold": 100074,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/goldeen"
+        }
+      },
+      {
+        "threshold": 100075,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/golduck"
+        }
+      },
+      {
+        "threshold": 100076,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/golem"
+        }
+      },
+      {
+        "threshold": 100077,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/graveler"
+        }
+      },
+      {
+        "threshold": 100078,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/grimer"
+        }
+      },
+      {
+        "threshold": 100079,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/growlithe"
+        }
+      },
+      {
+        "threshold": 100080,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/gyarados"
+        }
+      },
+      {
+        "threshold": 100081,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/haunter"
+        }
+      },
+      {
+        "threshold": 100082,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/hitmonchan"
+        }
+      },
+      {
+        "threshold": 100083,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/hitmonlee"
+        }
+      },
+      {
+        "threshold": 100084,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/horsea"
+        }
+      },
+      {
+        "threshold": 100085,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/hypno"
+        }
+      },
+      {
+        "threshold": 100086,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/jolteon"
+        }
+      },
+      {
+        "threshold": 100087,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/jynx"
+        }
+      },
+      {
+        "threshold": 100088,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/kabuto"
+        }
+      },
+      {
+        "threshold": 100089,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/kabutops"
+        }
+      },
+      {
+        "threshold": 100090,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/kadabra"
+        }
+      },
+      {
+        "threshold": 100091,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/kangaskhan"
+        }
+      },
+      {
+        "threshold": 100092,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/kingler"
+        }
+      },
+      {
+        "threshold": 100093,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/koffing"
+        }
+      },
+      {
+        "threshold": 100094,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/krabby"
+        }
+      },
+      {
+        "threshold": 100095,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/lapras"
+        }
+      },
+      {
+        "threshold": 100096,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/lickitung"
+        }
+      },
+      {
+        "threshold": 100097,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/machamp"
+        }
+      },
+      {
+        "threshold": 100098,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/machoke"
+        }
+      },
+      {
+        "threshold": 100099,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/machop"
+        }
+      },
+      {
+        "threshold": 100100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/magikarp"
+        }
+      },
+      {
+        "threshold": 100101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/magmar"
+        }
+      },
+      {
+        "threshold": 100102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/magnemite"
+        }
+      },
+      {
+        "threshold": 100103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/magneton"
+        }
+      },
+      {
+        "threshold": 100104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/mankey"
+        }
+      },
+      {
+        "threshold": 100105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/marowak"
+        }
+      },
+      {
+        "threshold": 100106,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/meowth"
+        }
+      },
+      {
+        "threshold": 100107,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/mew"
+        }
+      },
+      {
+        "threshold": 100108,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/mewtwo"
+        }
+      },
+      {
+        "threshold": 100109,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/moltres"
+        }
+      },
+      {
+        "threshold": 100110,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/mr_mime"
+        }
+      },
+      {
+        "threshold": 100111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/muk"
+        }
+      },
+      {
+        "threshold": 100112,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/omanyte"
+        }
+      },
+      {
+        "threshold": 100113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/omastar"
+        }
+      },
+      {
+        "threshold": 100114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/onix"
+        }
+      },
+      {
+        "threshold": 100115,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/paras"
+        }
+      },
+      {
+        "threshold": 100116,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/parasect"
+        }
+      },
+      {
+        "threshold": 100117,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/persian"
+        }
+      },
+      {
+        "threshold": 100118,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/pinsir"
+        }
+      },
+      {
+        "threshold": 100119,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/poliwag"
+        }
+      },
+      {
+        "threshold": 100120,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/poliwhirl"
+        }
+      },
+      {
+        "threshold": 100121,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/poliwrath"
+        }
+      },
+      {
+        "threshold": 100122,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/ponyta_full"
+        }
+      },
+      {
+        "threshold": 100123,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/porygon"
+        }
+      },
+      {
+        "threshold": 100124,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/primeape"
+        }
+      },
+      {
+        "threshold": 100125,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/psyduck"
+        }
+      },
+      {
+        "threshold": 100126,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/rapidash"
+        }
+      },
+      {
+        "threshold": 100127,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/rhydon"
+        }
+      },
+      {
+        "threshold": 100128,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/rhyhorn"
+        }
+      },
+      {
+        "threshold": 100129,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/scyther"
+        }
+      },
+      {
+        "threshold": 100130,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/seadra"
+        }
+      },
+      {
+        "threshold": 100131,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/seaking"
+        }
+      },
+      {
+        "threshold": 100132,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/seel"
+        }
+      },
+      {
+        "threshold": 100133,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/shellder"
+        }
+      },
+      {
+        "threshold": 100134,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/slowbro"
+        }
+      },
+      {
+        "threshold": 100135,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/slowpoke"
+        }
+      },
+      {
+        "threshold": 100136,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/snorlax"
+        }
+      },
+      {
+        "threshold": 100137,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/starmie"
+        }
+      },
+      {
+        "threshold": 100138,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/staryu"
+        }
+      },
+      {
+        "threshold": 100139,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/tangela"
+        }
+      },
+      {
+        "threshold": 100140,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/tauros"
+        }
+      },
+      {
+        "threshold": 100141,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/tentacool"
+        }
+      },
+      {
+        "threshold": 100142,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/tentacruel"
+        }
+      },
+      {
+        "threshold": 100143,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/vaporeon"
+        }
+      },
+      {
+        "threshold": 100144,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/venomoth"
+        }
+      },
+      {
+        "threshold": 100145,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/venonat"
+        }
+      },
+      {
+        "threshold": 100146,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/victreebel"
+        }
+      },
+      {
+        "threshold": 100147,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/vileplume_male"
+        }
+      },
+      {
+        "threshold": 100148,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/voltorb"
+        }
+      },
+      {
+        "threshold": 100149,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/weepinbell"
+        }
+      },
+      {
+        "threshold": 100150,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/weezing"
+        }
+      },
+      {
+        "threshold": 100151,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:pokemon/zapdos"
+        }
+      }
+    ]
+  }
+}

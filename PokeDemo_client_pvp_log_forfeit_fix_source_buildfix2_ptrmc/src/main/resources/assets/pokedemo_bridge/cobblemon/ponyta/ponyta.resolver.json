@@ -1,0 +1,79 @@
+{
+  "species": "cobblemon:ponyta",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ponyta",
+      "model": "cobblemon:ponyta.geo",
+      "texture": "cobblemon:textures/pokemon/0077_ponyta/ponyta.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0077_ponyta/fire/normal/1.png",
+              "cobblemon:textures/pokemon/0077_ponyta/fire/normal/2.png",
+              "cobblemon:textures/pokemon/0077_ponyta/fire/normal/3.png",
+              "cobblemon:textures/pokemon/0077_ponyta/fire/normal/4.png"
+            ],
+            "fps": 10,
+            "loop": true
+          },
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0077_ponyta/ponyta_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0077_ponyta/fire/shiny/1.png",
+              "cobblemon:textures/pokemon/0077_ponyta/fire/shiny/2.png",
+              "cobblemon:textures/pokemon/0077_ponyta/fire/shiny/3.png",
+              "cobblemon:textures/pokemon/0077_ponyta/fire/shiny/4.png"
+            ],
+            "fps": 10,
+            "loop": true
+          },
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "galarian"
+      ],
+      "poser": "cobblemon:ponyta_galarian",
+      "model": "cobblemon:ponyta_galar.geo",
+      "texture": "cobblemon:textures/pokemon/0077_ponyta/ponyta_galar.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0077_ponyta/ponyta_galar_emissive.png",
+          "emissive": "true"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "galarian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0077_ponyta/ponyta_galar_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0077_ponyta/ponyta_galar_emissive_shiny.png",
+          "emissive": "true"
+        }
+      ]
+    }
+  ]
+}

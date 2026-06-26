@@ -1,0 +1,47 @@
+name: PokeDemo
+version: 1.0.0
+main: win.pokedemo.PokeDemoPlugin
+api-version: '1.21'
+author: PtrMC
+description: Pokemon-like demo (server-side) with wolves as placeholders. Party/PC,
+  spawns, capture, basic turn GUI.
+commands:
+  pokedemo:
+    description: Main command
+    usage: /pokedemo
+    permission: pokedemo.admin
+  party:
+    description: Open party GUI
+    usage: /party
+  pc:
+    description: Open PC GUI
+    usage: /pc
+    permission: pokedemo.command.pc
+  battle:
+    description: Reopen current battle GUI
+    usage: /battle
+  poke:
+    description: Get control wand
+    usage: /poke control
+  heal:
+    description: Heal all party Pokemon (admin)
+    usage: /heal
+    permission: pokedemo.admin.heal
+  health:
+    description: Heal all party Pokemon (admin)
+    usage: /health
+    permission: pokedemo.admin.heal
+  recipes:
+    description: Open crafting recipe browser
+    usage: /recipes
+  nurse:
+    description: Spawn a nurse NPC that heals like the healing machine (admin)
+    usage: /nurse
+    permission: pokedemo.admin
+permissions:
+  pokedemo.admin:
+    default: op
+  pokedebugblock:
+    description: Debug target block data
+    usage: /pokedebugblock
+    permission: pokedemo.admin

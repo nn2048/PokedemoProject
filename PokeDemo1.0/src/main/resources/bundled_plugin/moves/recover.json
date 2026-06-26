@@ -1,0 +1,14 @@
+{
+  "id": "recover",
+  "name": "Recover",
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": 1.0,
+  "pp": 10,
+  "priority": 0,
+  "effect": {
+    "kind": "heal",
+    "percent": 0.5
+  }
+}

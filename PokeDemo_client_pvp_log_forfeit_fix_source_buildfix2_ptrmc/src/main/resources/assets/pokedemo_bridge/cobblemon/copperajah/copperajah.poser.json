@@ -1,0 +1,68 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1.0,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "copperajah",
+  "animations": {
+    "cry": "q.bedrock_primary('copperajah', 'cry', q.curve('one'))",
+    "recoil": "q.bedrock_primary('copperajah', 'recoil', q.curve('one'))",
+    "physical": "q.bedrock_primary('copperajah', 'physical', q.curve('one'))",
+    "special": "q.bedrock_primary('copperajah', 'special', q.curve('one'))",
+    "status": "q.bedrock_primary('copperajah', 'status', q.curve('one'))"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "q.bedrock('copperajah', 'ground_idle')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('copperajah', 'ground_walk')"
+      ]
+    },
+    "running": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('copperajah', 'ground_run')"
+      ]
+    },
+    "battle-standing": {
+      "poseTypes": [
+        "STAND"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('copperajah', 'battle_idle')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('copperajah', 'sleep')"
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "species": "cobblemon:wooper",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:wooper",
+      "model": "cobblemon:wooper_male.geo",
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "wooper_heart"
+      ],
+      "model": "cobblemon:wooper_heart_male.geo"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:wooper_female.geo"
+    },
+    {
+      "aspects": [
+        "wooper_heart",
+        "female"
+      ],
+      "model": "cobblemon:wooper_heart_female.geo"
+    },
+    {
+      "aspects": [
+        "paldean"
+      ],
+      "poser": "cobblemon:wooper_paldean",
+      "model": "cobblemon:wooper_paldean.geo",
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_paldean.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "paldean",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_paldean_shiny.png"
+    }
+  ]
+}

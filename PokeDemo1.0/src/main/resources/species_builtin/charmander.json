@@ -1,0 +1,37 @@
+{
+  "id": "charmander",
+  "name": "小火龙",
+  "types": [
+    "fire"
+  ],
+  "baseStats": {
+    "hp": 39,
+    "atk": 52,
+    "def": 43,
+    "spa": 60,
+    "spd": 50,
+    "spe": 65
+  },
+  "catchRate": 45,
+  "levelRange": [
+    2,
+    8
+  ],
+  "evYields": {
+    "spe": 1
+  },
+  "baseExpYield": 62,
+  "expGroup": "MEDIUM_SLOW",
+  "levelUpMoves": {
+    "1": ["scratch", "growl"],
+    "4": ["ember"],
+    "8": ["smokescreen"]
+  },
+  "evolutions": [
+    {
+      "variant": "level_up",
+      "minLevel": 16,
+      "result": "charmeleon"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:slowpoke",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:slowpoke",
+      "model": "cobblemon:slowpoke.geo",
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_shiny.png"
+    },
+    {
+      "aspects": [
+        "galarian"
+      ],
+      "poser": "cobblemon:slowpoke_galarian",
+      "model": "cobblemon:slowpoke_galarian.geo",
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_galarian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "galarian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_galarian_shiny.png"
+    }
+  ]
+}

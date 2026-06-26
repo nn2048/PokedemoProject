@@ -1,0 +1,38 @@
+{
+  "species": "cobblemon:gloom",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gloom",
+      "model": "cobblemon:gloom_male.geo",
+      "texture": "cobblemon:textures/pokemon/0044_gloom/gloom.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0044_gloom/gloom_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:gloom_female.geo"
+    },
+    {
+      "aspects": [
+        "valencian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0044_gloom/gloom_valencian.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0044_gloom/gloom_valencian_shiny.png"
+    }
+  ]
+}

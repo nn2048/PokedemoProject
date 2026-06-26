@@ -1,0 +1,33 @@
+{
+  "id": "ivysaur",
+  "name": "妙蛙草",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 63,
+    "spa": 80,
+    "spd": 80,
+    "spe": 60
+  },
+  "catchRate": 45,
+  "levelRange": [
+    16,
+    30
+  ],
+  "baseExpYield": 142,
+  "expGroup": "MEDIUM_SLOW",
+  "evYields": {
+    "spa": 1
+  },
+  "evolutions": [
+    {
+      "variant": "level_up",
+      "minLevel": 32,
+      "result": "venusaur"
+    }
+  ]
+}

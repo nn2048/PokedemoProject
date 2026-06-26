@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:oinkologne",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:oinkologne_male",
+      "model": "cobblemon:oinkologne_male.geo",
+      "texture": "cobblemon:textures/pokemon/0916_oinkologne/oinkologne_male.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0916_oinkologne/oinkologne_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "poser": "cobblemon:oinkologne_female",
+      "model": "cobblemon:oinkologne_female.geo",
+      "texture": "cobblemon:textures/pokemon/0916_oinkologne/oinkologne_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0916_oinkologne/oinkologne_female_shiny.png"
+    }
+  ]
+}

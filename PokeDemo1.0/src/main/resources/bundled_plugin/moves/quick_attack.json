@@ -1,0 +1,13 @@
+{
+  "id": "quick_attack",
+  "name": "Quick Attack",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 1.0,
+  "pp": 30,
+  "priority": 1,
+  "effect": {
+    "kind": "damage"
+  }
+}

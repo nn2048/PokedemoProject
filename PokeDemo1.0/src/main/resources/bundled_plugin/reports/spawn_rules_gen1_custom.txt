@@ -1,0 +1,279 @@
+PokeDemo Gen1 刷新地点表（中英对照）
+来源：spawns_gen1_custom.yml（原创规则表）
+
+字段：维度 | 群系组 | 位置 | 桶 | 权重 | 等级 | 额外条件
+
+【凯西 / Abra】(abra)
+  - minecraft:overworld,minecraft:the_end | mountain | land | rare | w=3 | Lv6~31 | 时间:night
+  - minecraft:overworld,minecraft:the_end | forest,plains | land | uncommon | w=3 | Lv6~31 | 时间:night
+  - minecraft:the_end | plains | land | uncommon | w=10 | Lv10~40 | 无
+
+【胡地 / Alakazam】(alakazam)
+  - minecraft:the_end | plains | land | rare | w=2 | Lv35~55 | 无
+
+【喇叭芽 / Bellsprout】(bellsprout)
+  - minecraft:overworld | jungle | land | common | w=3 | Lv5~30 | 无
+
+【妙蛙种子 / Bulbasaur】(bulbasaur)
+  - minecraft:overworld | forest,jungle | land | ultra_rare | w=1 | Lv5~12 | 无
+
+【绿毛虫 / Caterpie】(caterpie)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv1~20 | 无
+  - minecraft:overworld | jungle | land | common | w=3 | Lv1~20 | 无
+
+【吉利蛋 / Chansey】(chansey)
+  - minecraft:overworld | urban | land | rare | w=1 | Lv17~45 | 无
+  - minecraft:overworld | forest,plains | land | rare | w=1 | Lv17~45 | 附近结构:VILLAGE r=128
+
+【小火龙 / Charmander】(charmander)
+  - minecraft:overworld | arid,mountain | land | ultra_rare | w=1 | Lv5~12 | 天气:clear
+
+【皮皮 / Clefairy】(clefairy)
+  - minecraft:the_end | plains | land | rare | w=3 | Lv20~40 | 无
+  - minecraft:overworld,minecraft:the_end | forest,plains | land | uncommon | w=1 | Lv17~32 | 时间:night
+  - minecraft:overworld,minecraft:the_end | mountain | land | uncommon | w=1 | Lv17~32 | 时间:night
+
+【卡拉卡拉 / Cubone】(cubone)
+  - minecraft:the_nether | arid | land | common | w=3 | Lv7~32 | 无
+  - minecraft:overworld | forest,plains | land | common | w=2 | Lv7~32 | 无
+
+【地鼠 / Diglett】(diglett)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv2~27 | 无
+
+【嘟嘟 / Doduo】(doduo)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv6~31 | 无
+
+【迷你龙 / Dratini】(dratini)
+  - minecraft:overworld | ocean | water | ultra_rare | w=1 | Lv10~20 | 时间:night；高度:20~55；附近结构:OCEAN_RUIN r=160
+
+【催眠貘 / Drowzee】(drowzee)
+  - minecraft:overworld,minecraft:the_end | urban | land | common | w=3 | Lv8~33 | 时间:night
+  - minecraft:overworld,minecraft:the_end | forest,plains | land | common | w=3 | Lv8~33 | 时间:night；附近结构:VILLAGE r=128
+  - minecraft:the_end | plains | land | uncommon | w=4 | Lv12~35 | 无
+
+【伊布 / Eevee】(eevee)
+  - minecraft:overworld | forest,urban,plains | land | rare | w=1 | Lv8~16 | 附近结构:VILLAGE r=128
+
+【阿柏蛇 / Ekans】(ekans)
+  - minecraft:the_nether | arid | land | common | w=2 | Lv4~29 | 无
+  - minecraft:overworld | arid | land | common | w=2 | Lv4~29 | 无
+
+【电击兽 / Electabuzz】(electabuzz)
+  - minecraft:overworld | mountain,plains | land | uncommon | w=1 | Lv30~50 | 无
+
+【蛋蛋 / Exeggcute】(exeggcute)
+  - minecraft:overworld | jungle | land | common | w=1 | Lv8~33 | 无
+  - minecraft:overworld | beach | land | uncommon | w=3 | Lv8~33 | 无
+
+【farfetch’d / farfetch’d】(farfetch’d)
+  - minecraft:overworld | forest,plains,river_lake | land | special | w=1 | Lv10~18 | 附近方块:minecraft:sugar_cane r=16
+
+【火伊布 / Flareon】(flareon)
+  - minecraft:overworld,minecraft:the_nether | arid,nether | land | ultra_rare | w=1 | Lv18~30 | 天气:clear
+
+【鬼斯 / Gastly】(gastly)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv6~31 | 无
+  - minecraft:the_nether | forest,plains | land | common | w=3 | Lv6~31 | 无
+
+【小拳石 / Geodude】(geodude)
+  - minecraft:overworld | mountain | land | common | w=3 | Lv5~30 | 无
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv5~30 | 无
+
+【角金鱼 / Goldeen】(goldeen)
+  - minecraft:overworld | river_lake | water | common | w=3 | Lv7~32 | 无
+  - minecraft:overworld | forest,mountain,jungle | land | common | w=3 | Lv7~32 | 无
+
+【臭泥 / Grimer】(grimer)
+  - minecraft:the_nether | forest,plains | land | common | w=3 | Lv8~33 | 无
+  - minecraft:overworld | swamp | water | common | w=1 | Lv8~33 | 无
+
+【卡蒂狗 / Growlithe】(growlithe)
+  - minecraft:overworld | arid,urban | land | uncommon | w=3 | Lv10~35 | 无
+  - minecraft:overworld | arid | land | uncommon | w=3 | Lv10~35 | 附近结构:VILLAGE r=128
+
+【快拳郎 / Hitmonchan】(hitmonchan)
+  - minecraft:overworld | arid,mountain | land | rare | w=1 | Lv18~30 | 无
+
+【飞腿郎 / Hitmonlee】(hitmonlee)
+  - minecraft:overworld | arid,mountain | land | rare | w=1 | Lv18~30 | 无
+
+【墨海马 / Horsea】(horsea)
+  - minecraft:overworld | forest,plains | water | common | w=1 | Lv5~30 | 无
+  - minecraft:overworld | ocean,cold | land | common | w=1 | Lv5~30 | 无
+
+【引梦貘人 / Hypno】(hypno)
+  - minecraft:the_end | plains | land | uncommon | w=2 | Lv18~40 | 无
+
+【胖丁 / Jigglypuff】(jigglypuff)
+  - minecraft:overworld,minecraft:the_end | forest,plains | land | common | w=1 | Lv16~27 | 无
+  - minecraft:overworld,minecraft:the_end | plains | land | common | w=1 | Lv16~27 | 无
+  - minecraft:the_end | plains | land | rare | w=3 | Lv18~35 | 无
+
+【雷伊布 / Jolteon】(jolteon)
+  - minecraft:overworld | mountain | land | ultra_rare | w=1 | Lv18~30 | 天气:thunder
+
+【迷唇姐 / Jynx】(jynx)
+  - minecraft:overworld | cold | land | uncommon | w=1 | Lv25~50 | 无
+  - minecraft:overworld | urban | land | uncommon | w=1 | Lv30~46 | 无
+  - minecraft:overworld | forest,plains | land | uncommon | w=1 | Lv30~46 | 附近结构:VILLAGE r=128
+
+【袋兽 / Kangaskhan】(kangaskhan)
+  - minecraft:overworld | forest,plains | land | rare | w=3 | Lv24~49 | 无
+
+【瓦斯弹 / Koffing】(koffing)
+  - minecraft:the_nether | forest,plains | land | common | w=3 | Lv9~34 | 无
+  - minecraft:overworld | urban | land | common | w=1 | Lv9~34 | 无
+
+【大钳蟹 / Krabby】(krabby)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv8~33 | 无
+  - minecraft:overworld | ocean | land | common | w=3 | Lv8~33 | 无
+
+【拉普拉斯 / Lapras】(lapras)
+  - minecraft:overworld | cold | water | ultra_rare | w=1 | Lv30~55 | 无
+  - minecraft:overworld | ocean | water | ultra_rare | w=3 | Lv29~54 | 无
+  - minecraft:overworld | ocean | land | ultra_rare | w=3 | Lv29~54 | 无
+
+【大舌头 / Lickitung】(lickitung)
+  - minecraft:overworld | forest,plains | land | uncommon | w=1 | Lv14~39 | 无
+
+【腕力 / Machop】(machop)
+  - minecraft:overworld | mountain | land | common | w=2 | Lv6~31 | 无
+
+【鲤鱼王 / Magikarp】(magikarp)
+  - minecraft:overworld | ocean | water | common | w=3 | Lv1~20 | 无
+  - minecraft:overworld | forest,plains | land | uncommon | w=3 | Lv1~20 | 无
+
+【鸭嘴火兽 / Magmar】(magmar)
+  - minecraft:overworld | mountain | land | common | w=1 | Lv30~50 | 附近方块:minecraft:lava r=24
+  - minecraft:overworld | forest,plains | land | common | w=1 | Lv30~50 | 无
+
+【小磁怪 / Magnemite】(magnemite)
+  - minecraft:overworld | forest,mountain,urban,plains | land | uncommon | w=4 | Lv8~18 | 附近方块:minecraft:lightning_rod r=22
+
+【猴怪 / Mankey】(mankey)
+  - minecraft:overworld | mountain,jungle | land | common | w=2 | Lv6~31 | 无
+
+【喵喵 / Meowth】(meowth)
+  - minecraft:overworld | arid | land | common | w=7 | Lv4~29 | 无
+  - minecraft:overworld | forest,plains | land | uncommon | w=7 | Lv4~29 | 无
+
+【mr. mime / mr. mime】(mr. mime)
+  - minecraft:the_end | plains | land | rare | w=1 | Lv20~45 | 无
+  - minecraft:overworld | urban | land | uncommon | w=1 | Lv26~46 | 无
+  - minecraft:overworld | forest,plains | land | uncommon | w=1 | Lv26~46 | 附近结构:VILLAGE r=128
+
+【走路草 / Oddish】(oddish)
+  - minecraft:overworld | jungle | land | common | w=3 | Lv7~32 | 无
+  - minecraft:overworld | forest,plains | land | common | w=1 | Lv7~32 | 无
+
+【大岩蛇 / Onix】(onix)
+  - minecraft:overworld | forest,plains | land | uncommon | w=2 | Lv14~39 | 无
+  - minecraft:the_nether | forest,plains | land | uncommon | w=1 | Lv14~39 | 无
+
+【派拉斯 / Paras】(paras)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv4~29 | 无
+  - minecraft:the_nether | forest,plains | land | common | w=3 | Lv4~29 | 无
+
+【波波 / Pidgey】(pidgey)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv1~25 | 时间:day
+
+【皮卡丘 / Pikachu】(pikachu)
+  - minecraft:overworld | forest | land | uncommon | w=1 | Lv16~32 | 无
+  - minecraft:overworld | beach | land | uncommon | w=1 | Lv16~32 | 无
+
+【凯罗斯 / Pinsir】(pinsir)
+  - minecraft:overworld | jungle | land | rare | w=3 | Lv25~50 | 无
+  - minecraft:overworld | forest,plains | land | uncommon | w=1 | Lv25~50 | 附近方块:#cobblemon:saccharine_trees r=24
+
+【蚊香蝌蚪 / Poliwag】(poliwag)
+  - minecraft:overworld | swamp | land | common | w=3 | Lv5~30 | 无
+  - minecraft:overworld | swamp | water | common | w=3 | Lv5~30 | 附近方块:minecraft:lily_pad r=24
+
+【小火马 / Ponyta】(ponyta)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv16~41 | 无
+  - minecraft:the_nether | forest,plains | land | common | w=2 | Lv16~41 | 无
+
+【多边兽 / Porygon】(porygon)
+  - minecraft:overworld,minecraft:the_nether,minecraft:the_end | forest,urban,plains | land | special | w=1 | Lv12~20 | 附近方块:POKEDEMO_PC r=24
+
+【可达鸭 / Psyduck】(psyduck)
+  - minecraft:overworld | swamp | land | common | w=2 | Lv7~32 | 无
+  - minecraft:overworld | forest,swamp | land | common | w=2 | Lv7~32 | 附近方块:minecraft:water r=24
+
+【小拉达 / Rattata】(rattata)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv1~25 | 时间:night
+
+【独角犀牛 / Rhyhorn】(rhyhorn)
+  - minecraft:overworld | mountain,cold | land | common | w=1 | Lv10~35 | 无
+
+【穿山鼠 / Sandshrew】(sandshrew)
+  - minecraft:overworld | arid | land | common | w=3 | Lv5~30 | 无
+
+【飞天螳螂 / Scyther】(scyther)
+  - minecraft:overworld | forest,mountain | land | rare | w=1 | Lv25~50 | 时间:day
+  - minecraft:overworld | jungle | land | uncommon | w=1 | Lv25~50 | 时间:day
+
+【小海狮 / Seel】(seel)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv8~33 | 无
+  - minecraft:overworld | forest,plains | water | common | w=3 | Lv8~33 | 无
+  - minecraft:overworld | cold | water | common | w=2 | Lv10~35 | 无
+  - minecraft:overworld | cold | land | common | w=2 | Lv10~35 | 无
+
+【大舌贝 / Shellder】(shellder)
+  - minecraft:overworld | cold | water | common | w=3 | Lv6~31 | 无
+  - minecraft:overworld | cold | land | common | w=3 | Lv6~31 | 无
+
+【呆呆兽 / Slowpoke】(slowpoke)
+  - minecraft:overworld | river_lake | land | common | w=2 | Lv7~32 | 无
+  - minecraft:overworld | beach | land | common | w=2 | Lv7~32 | 无
+
+【卡比兽 / Snorlax】(snorlax)
+  - minecraft:overworld | forest,mountain,plains | land | special | w=1 | Lv15~30 | 附近方块:POKEDEMO_RIPE_BERRY_BUSH r=20
+
+【烈雀 / Spearow】(spearow)
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv1~26 | 时间:day
+
+【杰尼龟 / Squirtle】(squirtle)
+  - minecraft:overworld | river_lake | land | ultra_rare | w=1 | Lv5~12 | 靠近水边
+
+【海星星 / Staryu】(staryu)
+  - minecraft:overworld | cold | water | uncommon | w=1 | Lv15~40 | 无
+  - minecraft:overworld | forest,plains | land | uncommon | w=3 | Lv9~34 | 时间:night
+  - minecraft:overworld | ocean | water | uncommon | w=2 | Lv9~34 | 无
+
+【蔓藤怪 / Tangela】(tangela)
+  - minecraft:overworld | jungle | land | common | w=1 | Lv19~44 | 无
+
+【肯泰罗 / Tauros】(tauros)
+  - minecraft:overworld | mountain | land | common | w=1 | Lv24~49 | 无
+  - minecraft:overworld | forest,plains | land | common | w=1 | Lv24~49 | 无
+
+【玛瑙水母 / Tentacool】(tentacool)
+  - minecraft:overworld | ocean | water | common | w=3 | Lv9~34 | 无
+  - minecraft:overworld | ocean | land | common | w=3 | Lv9~34 | 无
+
+【水伊布 / Vaporeon】(vaporeon)
+  - minecraft:overworld | river_lake | land | ultra_rare | w=1 | Lv18~30 | 靠近水边
+
+【毛球 / Venonat】(venonat)
+  - minecraft:overworld | swamp | land | common | w=2 | Lv6~31 | 时间:night
+
+【霹雳电球 / Voltorb】(voltorb)
+  - minecraft:overworld | urban | land | common | w=1 | Lv8~33 | 无
+  - minecraft:overworld | forest,plains | land | uncommon | w=10 | Lv8~33 | 附近方块:#cobblemon:apricorns r=24
+
+【六尾 / Vulpix】(vulpix)
+  - minecraft:overworld | forest | land | uncommon | w=2 | Lv5~30 | 无
+  - minecraft:overworld | forest,plains | land | uncommon | w=2 | Lv5~30 | 无
+
+【独角虫 / Weedle】(weedle)
+  - minecraft:overworld | forest,jungle | land | common | w=3 | Lv1~20 | 无
+  - minecraft:overworld | forest,plains | land | common | w=2 | Lv1~20 | 无
+
+【胖可丁 / Wigglytuff】(wigglytuff)
+  - minecraft:the_end | plains | land | rare | w=2 | Lv25~45 | 无
+
+【超音蝠 / Zubat】(zubat)
+  - minecraft:overworld | forest,swamp | land | common | w=3 | Lv1~25 | 无
+  - minecraft:overworld | forest,plains | land | common | w=3 | Lv1~25 | 无
+

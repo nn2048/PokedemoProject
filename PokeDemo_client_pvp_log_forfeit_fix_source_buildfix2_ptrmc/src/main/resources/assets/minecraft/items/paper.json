@@ -1,0 +1,3163 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "threshold": 30001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/potion"
+        }
+      },
+      {
+        "threshold": 30002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/super_potion"
+        }
+      },
+      {
+        "threshold": 30003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hyper_potion"
+        }
+      },
+      {
+        "threshold": 30004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/max_potion"
+        }
+      },
+      {
+        "threshold": 30005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/full_restore"
+        }
+      },
+      {
+        "threshold": 30006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/fresh_water"
+        }
+      },
+      {
+        "threshold": 30007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/soda_pop"
+        }
+      },
+      {
+        "threshold": 30008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/lemonade"
+        }
+      },
+      {
+        "threshold": 30010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/antidote"
+        }
+      },
+      {
+        "threshold": 30011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/awakening"
+        }
+      },
+      {
+        "threshold": 30012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/burn_heal"
+        }
+      },
+      {
+        "threshold": 30013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/ice_heal"
+        }
+      },
+      {
+        "threshold": 30014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/paralyze_heal"
+        }
+      },
+      {
+        "threshold": 30015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/full_heal"
+        }
+      },
+      {
+        "threshold": 30020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/revive"
+        }
+      },
+      {
+        "threshold": 30021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/max_revive"
+        }
+      },
+      {
+        "threshold": 30030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/ether"
+        }
+      },
+      {
+        "threshold": 30031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/max_ether"
+        }
+      },
+      {
+        "threshold": 30032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/elixir"
+        }
+      },
+      {
+        "threshold": 30033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/max_elixir"
+        }
+      },
+      {
+        "threshold": 30034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pp_up"
+        }
+      },
+      {
+        "threshold": 30035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pp_max"
+        }
+      },
+      {
+        "threshold": 30101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/x_attack"
+        }
+      },
+      {
+        "threshold": 30102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/x_defend"
+        }
+      },
+      {
+        "threshold": 30103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/x_speed"
+        }
+      },
+      {
+        "threshold": 30104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/x_accuracy"
+        }
+      },
+      {
+        "threshold": 30105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/dire_hit"
+        }
+      },
+      {
+        "threshold": 30106,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/guard_spec"
+        }
+      },
+      {
+        "threshold": 30107,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/x_special"
+        }
+      },
+      {
+        "threshold": 30108,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/x_evasion"
+        }
+      },
+      {
+        "threshold": 30109,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/poke_doll"
+        }
+      },
+      {
+        "threshold": 30201,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/repel"
+        }
+      },
+      {
+        "threshold": 30202,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/super_repel"
+        }
+      },
+      {
+        "threshold": 30203,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/max_repel"
+        }
+      },
+      {
+        "threshold": 30210,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/escape_rope"
+        }
+      },
+      {
+        "threshold": 30301,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/rare_candy"
+        }
+      },
+      {
+        "threshold": 30311,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/fire_stone"
+        }
+      },
+      {
+        "threshold": 30312,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/water_stone"
+        }
+      },
+      {
+        "threshold": 30313,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/thunder_stone"
+        }
+      },
+      {
+        "threshold": 30314,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/leaf_stone"
+        }
+      },
+      {
+        "threshold": 30315,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/moon_stone"
+        }
+      },
+      {
+        "threshold": 30321,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hp_up"
+        }
+      },
+      {
+        "threshold": 30322,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/protein"
+        }
+      },
+      {
+        "threshold": 30323,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/iron"
+        }
+      },
+      {
+        "threshold": 30324,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/calcium"
+        }
+      },
+      {
+        "threshold": 30325,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/carbos"
+        }
+      },
+      {
+        "threshold": 30331,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/poke_flute"
+        }
+      },
+      {
+        "threshold": 30401,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/red_apricorn"
+        }
+      },
+      {
+        "threshold": 30402,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/blue_apricorn"
+        }
+      },
+      {
+        "threshold": 30403,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/yellow_apricorn"
+        }
+      },
+      {
+        "threshold": 30404,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/green_apricorn"
+        }
+      },
+      {
+        "threshold": 30405,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pink_apricorn"
+        }
+      },
+      {
+        "threshold": 30406,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/black_apricorn"
+        }
+      },
+      {
+        "threshold": 30407,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/white_apricorn"
+        }
+      },
+      {
+        "threshold": 30411,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/seed_red_apricorn"
+        }
+      },
+      {
+        "threshold": 30412,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/seed_blue_apricorn"
+        }
+      },
+      {
+        "threshold": 30413,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/seed_yellow_apricorn"
+        }
+      },
+      {
+        "threshold": 30414,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/seed_green_apricorn"
+        }
+      },
+      {
+        "threshold": 30415,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/seed_pink_apricorn"
+        }
+      },
+      {
+        "threshold": 30416,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/seed_black_apricorn"
+        }
+      },
+      {
+        "threshold": 30417,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/seed_white_apricorn"
+        }
+      },
+      {
+        "threshold": 30420,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/ability_capsule"
+        }
+      },
+      {
+        "threshold": 30421,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tumblestone"
+        }
+      },
+      {
+        "threshold": 30422,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/black_tumblestone"
+        }
+      },
+      {
+        "threshold": 30423,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/sky_tumblestone"
+        }
+      },
+      {
+        "threshold": 30424,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/ability_patch"
+        }
+      },
+      {
+        "threshold": 30450,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/lonely_mint"
+        }
+      },
+      {
+        "threshold": 30451,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/adamant_mint"
+        }
+      },
+      {
+        "threshold": 30452,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/naughty_mint"
+        }
+      },
+      {
+        "threshold": 30453,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/brave_mint"
+        }
+      },
+      {
+        "threshold": 30454,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/bold_mint"
+        }
+      },
+      {
+        "threshold": 30455,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/impish_mint"
+        }
+      },
+      {
+        "threshold": 30456,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/lax_mint"
+        }
+      },
+      {
+        "threshold": 30457,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/relaxed_mint"
+        }
+      },
+      {
+        "threshold": 30458,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/modest_mint"
+        }
+      },
+      {
+        "threshold": 30459,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/mild_mint"
+        }
+      },
+      {
+        "threshold": 30460,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/rash_mint"
+        }
+      },
+      {
+        "threshold": 30461,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/quiet_mint"
+        }
+      },
+      {
+        "threshold": 30462,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/calm_mint"
+        }
+      },
+      {
+        "threshold": 30463,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/gentle_mint"
+        }
+      },
+      {
+        "threshold": 30464,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/careful_mint"
+        }
+      },
+      {
+        "threshold": 30465,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/sassy_mint"
+        }
+      },
+      {
+        "threshold": 30466,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/timid_mint"
+        }
+      },
+      {
+        "threshold": 30467,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hasty_mint"
+        }
+      },
+      {
+        "threshold": 30468,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/jolly_mint"
+        }
+      },
+      {
+        "threshold": 30469,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/naive_mint"
+        }
+      },
+      {
+        "threshold": 30470,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/serious_mint"
+        }
+      },
+      {
+        "threshold": 30480,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/gold_bottle_cap"
+        }
+      },
+      {
+        "threshold": 30481,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/silver_bottle_cap"
+        }
+      },
+      {
+        "threshold": 30500,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/cheri_berry"
+        }
+      },
+      {
+        "threshold": 30501,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/chesto_berry"
+        }
+      },
+      {
+        "threshold": 30502,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pecha_berry"
+        }
+      },
+      {
+        "threshold": 30503,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/rawst_berry"
+        }
+      },
+      {
+        "threshold": 30504,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/aspear_berry"
+        }
+      },
+      {
+        "threshold": 30505,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/leppa_berry"
+        }
+      },
+      {
+        "threshold": 30506,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/oran_berry"
+        }
+      },
+      {
+        "threshold": 30507,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/persim_berry"
+        }
+      },
+      {
+        "threshold": 30508,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/lum_berry"
+        }
+      },
+      {
+        "threshold": 30509,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/sitrus_berry"
+        }
+      },
+      {
+        "threshold": 30510,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/figy_berry"
+        }
+      },
+      {
+        "threshold": 30511,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/wiki_berry"
+        }
+      },
+      {
+        "threshold": 30512,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/mago_berry"
+        }
+      },
+      {
+        "threshold": 30513,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/aguav_berry"
+        }
+      },
+      {
+        "threshold": 30514,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/iapapa_berry"
+        }
+      },
+      {
+        "threshold": 30515,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/razz_berry"
+        }
+      },
+      {
+        "threshold": 30516,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/bluk_berry"
+        }
+      },
+      {
+        "threshold": 30517,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/nanab_berry"
+        }
+      },
+      {
+        "threshold": 30518,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/wepear_berry"
+        }
+      },
+      {
+        "threshold": 30519,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pinap_berry"
+        }
+      },
+      {
+        "threshold": 30520,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pomeg_berry"
+        }
+      },
+      {
+        "threshold": 30521,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/kelpsy_berry"
+        }
+      },
+      {
+        "threshold": 30522,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/qualot_berry"
+        }
+      },
+      {
+        "threshold": 30523,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hondew_berry"
+        }
+      },
+      {
+        "threshold": 30524,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/grepa_berry"
+        }
+      },
+      {
+        "threshold": 30525,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tamato_berry"
+        }
+      },
+      {
+        "threshold": 30526,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/cornn_berry"
+        }
+      },
+      {
+        "threshold": 30527,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/magost_berry"
+        }
+      },
+      {
+        "threshold": 30528,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/rabuta_berry"
+        }
+      },
+      {
+        "threshold": 30529,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/nomel_berry"
+        }
+      },
+      {
+        "threshold": 30530,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/spelon_berry"
+        }
+      },
+      {
+        "threshold": 30531,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pamtre_berry"
+        }
+      },
+      {
+        "threshold": 30532,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/watmel_berry"
+        }
+      },
+      {
+        "threshold": 30533,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/durin_berry"
+        }
+      },
+      {
+        "threshold": 30534,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/belue_berry"
+        }
+      },
+      {
+        "threshold": 30535,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/occa_berry"
+        }
+      },
+      {
+        "threshold": 30536,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/passho_berry"
+        }
+      },
+      {
+        "threshold": 30537,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/wacan_berry"
+        }
+      },
+      {
+        "threshold": 30538,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/rindo_berry"
+        }
+      },
+      {
+        "threshold": 30539,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/yache_berry"
+        }
+      },
+      {
+        "threshold": 30540,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/chople_berry"
+        }
+      },
+      {
+        "threshold": 30541,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/kebia_berry"
+        }
+      },
+      {
+        "threshold": 30542,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/shuca_berry"
+        }
+      },
+      {
+        "threshold": 30543,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/coba_berry"
+        }
+      },
+      {
+        "threshold": 30544,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/payapa_berry"
+        }
+      },
+      {
+        "threshold": 30545,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tanga_berry"
+        }
+      },
+      {
+        "threshold": 30546,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/charti_berry"
+        }
+      },
+      {
+        "threshold": 30547,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/kasib_berry"
+        }
+      },
+      {
+        "threshold": 30548,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/haban_berry"
+        }
+      },
+      {
+        "threshold": 30549,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/colbur_berry"
+        }
+      },
+      {
+        "threshold": 30550,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/babiri_berry"
+        }
+      },
+      {
+        "threshold": 30551,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/chilan_berry"
+        }
+      },
+      {
+        "threshold": 30552,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/liechi_berry"
+        }
+      },
+      {
+        "threshold": 30553,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/ganlon_berry"
+        }
+      },
+      {
+        "threshold": 30554,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/salac_berry"
+        }
+      },
+      {
+        "threshold": 30555,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/petaya_berry"
+        }
+      },
+      {
+        "threshold": 30556,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/apicot_berry"
+        }
+      },
+      {
+        "threshold": 30557,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/lansat_berry"
+        }
+      },
+      {
+        "threshold": 30558,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/starf_berry"
+        }
+      },
+      {
+        "threshold": 30559,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/enigma_berry"
+        }
+      },
+      {
+        "threshold": 30560,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/micle_berry"
+        }
+      },
+      {
+        "threshold": 30561,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/custap_berry"
+        }
+      },
+      {
+        "threshold": 30562,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/jaboca_berry"
+        }
+      },
+      {
+        "threshold": 30563,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/rowap_berry"
+        }
+      },
+      {
+        "threshold": 30564,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/roseli_berry"
+        }
+      },
+      {
+        "threshold": 30565,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/kee_berry"
+        }
+      },
+      {
+        "threshold": 30566,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/maranga_berry"
+        }
+      },
+      {
+        "threshold": 30567,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hopo_berry"
+        }
+      },
+      {
+        "threshold": 30568,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/eggant_berry"
+        }
+      },
+      {
+        "threshold": 30569,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/touga_berry"
+        }
+      },
+      {
+        "threshold": 30590,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/health_wing"
+        }
+      },
+      {
+        "threshold": 30591,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/muscle_wing"
+        }
+      },
+      {
+        "threshold": 30592,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/resist_wing"
+        }
+      },
+      {
+        "threshold": 30593,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/genius_wing"
+        }
+      },
+      {
+        "threshold": 30594,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/clever_wing"
+        }
+      },
+      {
+        "threshold": 30595,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/swift_wing"
+        }
+      },
+      {
+        "threshold": 33001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm01"
+        }
+      },
+      {
+        "threshold": 33002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm02"
+        }
+      },
+      {
+        "threshold": 33003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm03"
+        }
+      },
+      {
+        "threshold": 33004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm04"
+        }
+      },
+      {
+        "threshold": 33005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm05"
+        }
+      },
+      {
+        "threshold": 33006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm06"
+        }
+      },
+      {
+        "threshold": 33007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm07"
+        }
+      },
+      {
+        "threshold": 33008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm08"
+        }
+      },
+      {
+        "threshold": 33009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm09"
+        }
+      },
+      {
+        "threshold": 33010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm10"
+        }
+      },
+      {
+        "threshold": 33011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm11"
+        }
+      },
+      {
+        "threshold": 33012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm12"
+        }
+      },
+      {
+        "threshold": 33013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm13"
+        }
+      },
+      {
+        "threshold": 33014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm14"
+        }
+      },
+      {
+        "threshold": 33015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm15"
+        }
+      },
+      {
+        "threshold": 33016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm16"
+        }
+      },
+      {
+        "threshold": 33017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm17"
+        }
+      },
+      {
+        "threshold": 33018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm18"
+        }
+      },
+      {
+        "threshold": 33019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm19"
+        }
+      },
+      {
+        "threshold": 33020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm20"
+        }
+      },
+      {
+        "threshold": 33021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm21"
+        }
+      },
+      {
+        "threshold": 33022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm22"
+        }
+      },
+      {
+        "threshold": 33023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm23"
+        }
+      },
+      {
+        "threshold": 33024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm24"
+        }
+      },
+      {
+        "threshold": 33025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm25"
+        }
+      },
+      {
+        "threshold": 33026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm26"
+        }
+      },
+      {
+        "threshold": 33027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm27"
+        }
+      },
+      {
+        "threshold": 33028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm28"
+        }
+      },
+      {
+        "threshold": 33029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm29"
+        }
+      },
+      {
+        "threshold": 33030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm30"
+        }
+      },
+      {
+        "threshold": 33031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm31"
+        }
+      },
+      {
+        "threshold": 33032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm32"
+        }
+      },
+      {
+        "threshold": 33033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm33"
+        }
+      },
+      {
+        "threshold": 33034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm34"
+        }
+      },
+      {
+        "threshold": 33035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm35"
+        }
+      },
+      {
+        "threshold": 33036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm36"
+        }
+      },
+      {
+        "threshold": 33037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm37"
+        }
+      },
+      {
+        "threshold": 33038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm38"
+        }
+      },
+      {
+        "threshold": 33039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm39"
+        }
+      },
+      {
+        "threshold": 33040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm40"
+        }
+      },
+      {
+        "threshold": 33041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm41"
+        }
+      },
+      {
+        "threshold": 33042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm42"
+        }
+      },
+      {
+        "threshold": 33043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm43"
+        }
+      },
+      {
+        "threshold": 33044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm44"
+        }
+      },
+      {
+        "threshold": 33045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm45"
+        }
+      },
+      {
+        "threshold": 33046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm46"
+        }
+      },
+      {
+        "threshold": 33047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm47"
+        }
+      },
+      {
+        "threshold": 33048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm48"
+        }
+      },
+      {
+        "threshold": 33049,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm49"
+        }
+      },
+      {
+        "threshold": 33050,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/tm50"
+        }
+      },
+      {
+        "threshold": 33101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hm01"
+        }
+      },
+      {
+        "threshold": 33102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hm02"
+        }
+      },
+      {
+        "threshold": 33103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hm03"
+        }
+      },
+      {
+        "threshold": 33104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hm04"
+        }
+      },
+      {
+        "threshold": 33105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/hm05"
+        }
+      },
+      {
+        "threshold": 36000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pasture_machine"
+        }
+      },
+      {
+        "threshold": 36001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pc_machine"
+        }
+      },
+      {
+        "threshold": 36002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/healer_machine"
+        }
+      },
+      {
+        "threshold": 36003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/pokedex"
+        }
+      },
+      {
+        "threshold": 36004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/poke_phone"
+        }
+      },
+      {
+        "threshold": 36005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ability_shield"
+        }
+      },
+      {
+        "threshold": 36006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/absorb_bulb"
+        }
+      },
+      {
+        "threshold": 36007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/adamant_crystal"
+        }
+      },
+      {
+        "threshold": 36008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/adamant_orb"
+        }
+      },
+      {
+        "threshold": 36009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/adrenaline_orb"
+        }
+      },
+      {
+        "threshold": 36010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/air_balloon"
+        }
+      },
+      {
+        "threshold": 36011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/amulet_coin"
+        }
+      },
+      {
+        "threshold": 36012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/assault_vest"
+        }
+      },
+      {
+        "threshold": 36013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/berry_sweet"
+        }
+      },
+      {
+        "threshold": 36014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/berserk_gene"
+        }
+      },
+      {
+        "threshold": 36015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/big_root"
+        }
+      },
+      {
+        "threshold": 36016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/binding_band"
+        }
+      },
+      {
+        "threshold": 36017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/black_belt"
+        }
+      },
+      {
+        "threshold": 36018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/black_glasses"
+        }
+      },
+      {
+        "threshold": 36019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/black_sludge"
+        }
+      },
+      {
+        "threshold": 36020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/blue_orb"
+        }
+      },
+      {
+        "threshold": 36021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/blue_scarf"
+        }
+      },
+      {
+        "threshold": 36022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/blunder_policy"
+        }
+      },
+      {
+        "threshold": 36023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/booster_energy"
+        }
+      },
+      {
+        "threshold": 36024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/bright_powder"
+        }
+      },
+      {
+        "threshold": 36025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/bug_gem"
+        }
+      },
+      {
+        "threshold": 36026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/bug_memory"
+        }
+      },
+      {
+        "threshold": 36027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/burn_drive"
+        }
+      },
+      {
+        "threshold": 36028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/cell_battery"
+        }
+      },
+      {
+        "threshold": 36029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/charcoal"
+        }
+      },
+      {
+        "threshold": 36030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/chill_drive"
+        }
+      },
+      {
+        "threshold": 36031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/choice_band"
+        }
+      },
+      {
+        "threshold": 36032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/choice_scarf"
+        }
+      },
+      {
+        "threshold": 36033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/choice_specs"
+        }
+      },
+      {
+        "threshold": 36034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/cleanse_tag"
+        }
+      },
+      {
+        "threshold": 36035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/clear_amulet"
+        }
+      },
+      {
+        "threshold": 36036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/clover_sweet"
+        }
+      },
+      {
+        "threshold": 36037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/cornerstone_mask"
+        }
+      },
+      {
+        "threshold": 36038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/covert_cloak"
+        }
+      },
+      {
+        "threshold": 36039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/damp_rock"
+        }
+      },
+      {
+        "threshold": 36040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/dark_gem"
+        }
+      },
+      {
+        "threshold": 36041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/dark_memory"
+        }
+      },
+      {
+        "threshold": 36042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/deep_sea_scale"
+        }
+      },
+      {
+        "threshold": 36043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/deep_sea_tooth"
+        }
+      },
+      {
+        "threshold": 36044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/destiny_knot"
+        }
+      },
+      {
+        "threshold": 36045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/douse_drive"
+        }
+      },
+      {
+        "threshold": 36046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/draco_plate"
+        }
+      },
+      {
+        "threshold": 36047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/dragon_fang"
+        }
+      },
+      {
+        "threshold": 36048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/dragon_gem"
+        }
+      },
+      {
+        "threshold": 36049,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/dragon_memory"
+        }
+      },
+      {
+        "threshold": 36050,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/dragon_scale"
+        }
+      },
+      {
+        "threshold": 36051,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/dread_plate"
+        }
+      },
+      {
+        "threshold": 36052,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/dubious_disc"
+        }
+      },
+      {
+        "threshold": 36053,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/earth_plate"
+        }
+      },
+      {
+        "threshold": 36054,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/eject_button"
+        }
+      },
+      {
+        "threshold": 36055,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/eject_pack"
+        }
+      },
+      {
+        "threshold": 36056,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/electirizer"
+        }
+      },
+      {
+        "threshold": 36057,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/electric_gem"
+        }
+      },
+      {
+        "threshold": 36058,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/electric_memory"
+        }
+      },
+      {
+        "threshold": 36059,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/electric_seed"
+        }
+      },
+      {
+        "threshold": 36060,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/everstone"
+        }
+      },
+      {
+        "threshold": 36061,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/eviolite"
+        }
+      },
+      {
+        "threshold": 36062,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/expert_belt"
+        }
+      },
+      {
+        "threshold": 36063,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/fairy_feather"
+        }
+      },
+      {
+        "threshold": 36064,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/fairy_gem"
+        }
+      },
+      {
+        "threshold": 36065,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/fairy_memory"
+        }
+      },
+      {
+        "threshold": 36066,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/fighting_gem"
+        }
+      },
+      {
+        "threshold": 36067,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/fighting_memory"
+        }
+      },
+      {
+        "threshold": 36068,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/fire_gem"
+        }
+      },
+      {
+        "threshold": 36069,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/fire_memory"
+        }
+      },
+      {
+        "threshold": 36070,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/fist_plate"
+        }
+      },
+      {
+        "threshold": 36071,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/flame_orb"
+        }
+      },
+      {
+        "threshold": 36072,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/flame_plate"
+        }
+      },
+      {
+        "threshold": 36073,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/float_stone"
+        }
+      },
+      {
+        "threshold": 36074,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/flower_sweet"
+        }
+      },
+      {
+        "threshold": 36075,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/flying_gem"
+        }
+      },
+      {
+        "threshold": 36076,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/flying_memory"
+        }
+      },
+      {
+        "threshold": 36077,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/focus_band"
+        }
+      },
+      {
+        "threshold": 36078,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/focus_sash"
+        }
+      },
+      {
+        "threshold": 36079,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/full_incense"
+        }
+      },
+      {
+        "threshold": 36080,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ghost_gem"
+        }
+      },
+      {
+        "threshold": 36081,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ghost_memory"
+        }
+      },
+      {
+        "threshold": 36082,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/grass_gem"
+        }
+      },
+      {
+        "threshold": 36083,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/grass_memory"
+        }
+      },
+      {
+        "threshold": 36084,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/grassy_seed"
+        }
+      },
+      {
+        "threshold": 36085,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/green_scarf"
+        }
+      },
+      {
+        "threshold": 36086,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/grip_claw"
+        }
+      },
+      {
+        "threshold": 36087,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/griseous_core"
+        }
+      },
+      {
+        "threshold": 36088,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/griseous_orb"
+        }
+      },
+      {
+        "threshold": 36089,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ground_gem"
+        }
+      },
+      {
+        "threshold": 36090,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ground_memory"
+        }
+      },
+      {
+        "threshold": 36091,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/hard_stone"
+        }
+      },
+      {
+        "threshold": 36092,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/hearthflame_mask"
+        }
+      },
+      {
+        "threshold": 36093,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/heat_rock"
+        }
+      },
+      {
+        "threshold": 36094,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/heavy_duty_boots"
+        }
+      },
+      {
+        "threshold": 36095,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ice_gem"
+        }
+      },
+      {
+        "threshold": 36096,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ice_memory"
+        }
+      },
+      {
+        "threshold": 36097,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/icicle_plate"
+        }
+      },
+      {
+        "threshold": 36098,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/icy_rock"
+        }
+      },
+      {
+        "threshold": 36099,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/insect_plate"
+        }
+      },
+      {
+        "threshold": 36100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/iron_ball"
+        }
+      },
+      {
+        "threshold": 36101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/iron_plate"
+        }
+      },
+      {
+        "threshold": 36102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/kings_rock"
+        }
+      },
+      {
+        "threshold": 36103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/lagging_tail"
+        }
+      },
+      {
+        "threshold": 36104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/lax_incense"
+        }
+      },
+      {
+        "threshold": 36105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/leaders_crest"
+        }
+      },
+      {
+        "threshold": 36106,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/leftovers"
+        }
+      },
+      {
+        "threshold": 36107,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/life_orb"
+        }
+      },
+      {
+        "threshold": 36108,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/light_ball"
+        }
+      },
+      {
+        "threshold": 36109,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/light_clay"
+        }
+      },
+      {
+        "threshold": 36110,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/loaded_dice"
+        }
+      },
+      {
+        "threshold": 36111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/love_sweet"
+        }
+      },
+      {
+        "threshold": 36112,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/luck_incense"
+        }
+      },
+      {
+        "threshold": 36113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/lucky_egg"
+        }
+      },
+      {
+        "threshold": 36114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/lucky_punch"
+        }
+      },
+      {
+        "threshold": 36115,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/luminous_moss"
+        }
+      },
+      {
+        "threshold": 36116,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/lustrous_globe"
+        }
+      },
+      {
+        "threshold": 36117,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/lustrous_orb"
+        }
+      },
+      {
+        "threshold": 36118,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/macho_brace"
+        }
+      },
+      {
+        "threshold": 36119,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/magmarizer"
+        }
+      },
+      {
+        "threshold": 36120,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/magnet"
+        }
+      },
+      {
+        "threshold": 36121,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/meadow_plate"
+        }
+      },
+      {
+        "threshold": 36122,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/mental_herb"
+        }
+      },
+      {
+        "threshold": 36123,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/metal_coat"
+        }
+      },
+      {
+        "threshold": 36124,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/metal_powder"
+        }
+      },
+      {
+        "threshold": 36125,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/metronome"
+        }
+      },
+      {
+        "threshold": 36126,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/mind_plate"
+        }
+      },
+      {
+        "threshold": 36127,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/miracle_seed"
+        }
+      },
+      {
+        "threshold": 36128,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/mirror_herb"
+        }
+      },
+      {
+        "threshold": 36129,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/misty_seed"
+        }
+      },
+      {
+        "threshold": 36130,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/muscle_band"
+        }
+      },
+      {
+        "threshold": 36131,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/mystic_water"
+        }
+      },
+      {
+        "threshold": 36132,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/never_melt_ice"
+        }
+      },
+      {
+        "threshold": 36133,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/normal_gem"
+        }
+      },
+      {
+        "threshold": 36134,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/odd_incense"
+        }
+      },
+      {
+        "threshold": 36135,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/oval_stone"
+        }
+      },
+      {
+        "threshold": 36136,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/pink_bow"
+        }
+      },
+      {
+        "threshold": 36137,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/pink_scarf"
+        }
+      },
+      {
+        "threshold": 36138,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/pixie_plate"
+        }
+      },
+      {
+        "threshold": 36139,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/poison_barb"
+        }
+      },
+      {
+        "threshold": 36140,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/poison_gem"
+        }
+      },
+      {
+        "threshold": 36141,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/poison_memory"
+        }
+      },
+      {
+        "threshold": 36142,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/power_anklet"
+        }
+      },
+      {
+        "threshold": 36143,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/power_band"
+        }
+      },
+      {
+        "threshold": 36144,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/power_belt"
+        }
+      },
+      {
+        "threshold": 36145,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/power_bracer"
+        }
+      },
+      {
+        "threshold": 36146,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/power_herb"
+        }
+      },
+      {
+        "threshold": 36147,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/power_lens"
+        }
+      },
+      {
+        "threshold": 36148,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/power_weight"
+        }
+      },
+      {
+        "threshold": 36149,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/prism_scale"
+        }
+      },
+      {
+        "threshold": 36150,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/protective_pads"
+        }
+      },
+      {
+        "threshold": 36151,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/protector"
+        }
+      },
+      {
+        "threshold": 36152,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/psychic_gem"
+        }
+      },
+      {
+        "threshold": 36153,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/psychic_memory"
+        }
+      },
+      {
+        "threshold": 36154,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/psychic_seed"
+        }
+      },
+      {
+        "threshold": 36155,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/punching_glove"
+        }
+      },
+      {
+        "threshold": 36156,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/pure_incense"
+        }
+      },
+      {
+        "threshold": 36157,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/quick_claw"
+        }
+      },
+      {
+        "threshold": 36158,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/quick_powder"
+        }
+      },
+      {
+        "threshold": 36159,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/razor_claw"
+        }
+      },
+      {
+        "threshold": 36160,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/razor_fang"
+        }
+      },
+      {
+        "threshold": 36161,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/reaper_cloth"
+        }
+      },
+      {
+        "threshold": 36162,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/red_card"
+        }
+      },
+      {
+        "threshold": 36163,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/red_orb"
+        }
+      },
+      {
+        "threshold": 36164,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/red_scarf"
+        }
+      },
+      {
+        "threshold": 36165,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ribbon_sweet"
+        }
+      },
+      {
+        "threshold": 36166,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/ring_target"
+        }
+      },
+      {
+        "threshold": 36167,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/rock_gem"
+        }
+      },
+      {
+        "threshold": 36168,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/rock_incense"
+        }
+      },
+      {
+        "threshold": 36169,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/rock_memory"
+        }
+      },
+      {
+        "threshold": 36170,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/rocky_helmet"
+        }
+      },
+      {
+        "threshold": 36171,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/room_service"
+        }
+      },
+      {
+        "threshold": 36172,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/rose_incense"
+        }
+      },
+      {
+        "threshold": 36173,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/rusted_shield"
+        }
+      },
+      {
+        "threshold": 36174,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/rusted_sword"
+        }
+      },
+      {
+        "threshold": 36175,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/sachet"
+        }
+      },
+      {
+        "threshold": 36176,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/safety_goggles"
+        }
+      },
+      {
+        "threshold": 36177,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/scope_lens"
+        }
+      },
+      {
+        "threshold": 36178,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/sea_incense"
+        }
+      },
+      {
+        "threshold": 36179,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/sharp_beak"
+        }
+      },
+      {
+        "threshold": 36180,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/shed_shell"
+        }
+      },
+      {
+        "threshold": 36181,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/shell_bell"
+        }
+      },
+      {
+        "threshold": 36182,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/shock_drive"
+        }
+      },
+      {
+        "threshold": 36183,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/silk_scarf"
+        }
+      },
+      {
+        "threshold": 36184,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/silver_powder"
+        }
+      },
+      {
+        "threshold": 36185,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/sky_plate"
+        }
+      },
+      {
+        "threshold": 36186,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/smoke_ball"
+        }
+      },
+      {
+        "threshold": 36187,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/smooth_rock"
+        }
+      },
+      {
+        "threshold": 36188,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/snowball"
+        }
+      },
+      {
+        "threshold": 36189,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/soft_sand"
+        }
+      },
+      {
+        "threshold": 36190,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/soothe_bell"
+        }
+      },
+      {
+        "threshold": 36191,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/soul_dew"
+        }
+      },
+      {
+        "threshold": 36192,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/spell_tag"
+        }
+      },
+      {
+        "threshold": 36193,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/splash_plate"
+        }
+      },
+      {
+        "threshold": 36194,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/spooky_plate"
+        }
+      },
+      {
+        "threshold": 36195,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/star_sweet"
+        }
+      },
+      {
+        "threshold": 36196,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/steel_gem"
+        }
+      },
+      {
+        "threshold": 36197,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/steel_memory"
+        }
+      },
+      {
+        "threshold": 36198,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/stick"
+        }
+      },
+      {
+        "threshold": 36199,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/sticky_barb"
+        }
+      },
+      {
+        "threshold": 36200,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/stone_plate"
+        }
+      },
+      {
+        "threshold": 36201,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/strawberry_sweet"
+        }
+      },
+      {
+        "threshold": 36202,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/terrain_extender"
+        }
+      },
+      {
+        "threshold": 36203,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/thick_club"
+        }
+      },
+      {
+        "threshold": 36204,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/throat_spray"
+        }
+      },
+      {
+        "threshold": 36205,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/toxic_orb"
+        }
+      },
+      {
+        "threshold": 36206,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/toxic_plate"
+        }
+      },
+      {
+        "threshold": 36207,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/twisted_spoon"
+        }
+      },
+      {
+        "threshold": 36208,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/up_grade"
+        }
+      },
+      {
+        "threshold": 36209,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/utility_umbrella"
+        }
+      },
+      {
+        "threshold": 36210,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/water_gem"
+        }
+      },
+      {
+        "threshold": 36211,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/water_memory"
+        }
+      },
+      {
+        "threshold": 36212,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/wave_incense"
+        }
+      },
+      {
+        "threshold": 36213,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/weakness_policy"
+        }
+      },
+      {
+        "threshold": 36214,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/wellspring_mask"
+        }
+      },
+      {
+        "threshold": 36215,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/whipped_dream"
+        }
+      },
+      {
+        "threshold": 36216,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/white_herb"
+        }
+      },
+      {
+        "threshold": 36217,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/wide_lens"
+        }
+      },
+      {
+        "threshold": 36218,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/wise_glasses"
+        }
+      },
+      {
+        "threshold": 36219,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/yellow_scarf"
+        }
+      },
+      {
+        "threshold": 36220,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/zap_plate"
+        }
+      },
+      {
+        "threshold": 36221,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/held/zoom_lens"
+        }
+      },
+      {
+        "threshold": 36222,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/machines/fossil_machine"
+        }
+      },
+      {
+        "threshold": 36223,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/helix_fossil"
+        }
+      },
+      {
+        "threshold": 36224,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/dome_fossil"
+        }
+      },
+      {
+        "threshold": 36225,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/old_amber"
+        }
+      },
+      {
+        "threshold": 36226,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/machines/trade_machine"
+        }
+      },
+      {
+        "threshold": 36227,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/machines/clone_machine"
+        }
+      },
+      {
+        "threshold": 36228,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/items/suspicious_stone"
+        }
+      },
+      {
+        "threshold": 36229,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/machines/fossil_analyzer"
+        }
+      }
+    ]
+  }
+}

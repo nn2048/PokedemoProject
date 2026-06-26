@@ -1,0 +1,30 @@
+{
+  "id": "pikachu",
+  "name": "皮卡丘",
+  "types": [
+    "electric"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "spa": 50,
+    "spd": 50,
+    "spe": 90
+  },
+  "catchRate": 190,
+  "levelRange": [
+    4,
+    12
+  ],
+  "evYields": {
+    "spe": 2
+  },
+  "baseExpYield": 112,
+  "expGroup": "MEDIUM_FAST",
+  "levelUpMoves": {
+    "1": ["thundershock", "growl", "tail_whip", "quick_attack"],
+    "4": ["thunder_wave"],
+    "8": ["double_team"]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hud": {
+    "enabled": true,
+    "x": 8,
+    "y": 24,
+    "lineHeight": 16,
+    "showWhenEmpty": true
+  },
+  "render": {
+    "enabled": false,
+    "mode": "scaffold",
+    "hideWolfBase": false
+  }
+}

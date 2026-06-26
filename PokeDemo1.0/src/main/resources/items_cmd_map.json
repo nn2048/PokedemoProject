@@ -1,0 +1,12 @@
+{
+  "carrier": "PAPER",
+  "cmd": {
+    "potion": 30001,
+    "super_potion": 30002,
+    "hyper_potion": 30003,
+    "max_potion": 30004,
+    "antidote": 30010,
+    "revive": 30020,
+    "max_revive": 30021
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:samurott",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:samurott",
+      "model": "cobblemon:samurott.geo",
+      "texture": "cobblemon:textures/pokemon/0503_samurott/samurott.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0503_samurott/samurott_shiny.png"
+    },
+    {
+      "aspects": [
+        "hisuian"
+      ],
+      "poser": "cobblemon:samurott_hisuian",
+      "model": "cobblemon:samurott_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/0503_samurott/samurott_hisuian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "hisuian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0503_samurott/samurott_hisuian_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sleep_powder",
+  "name": "Sleep Powder",
+  "type": "grass",
+  "category": "status",
+  "power": 0,
+  "accuracy": 0.75,
+  "pp": 15,
+  "priority": 0,
+  "effects": [
+    { "kind": "set_status", "status": "sleep", "chance": 1.0 }
+  ]
+}

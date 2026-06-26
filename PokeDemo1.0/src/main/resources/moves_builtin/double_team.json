@@ -1,0 +1,13 @@
+{
+  "id": "double_team",
+  "name": "Double Team",
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": 1.0,
+  "pp": 15,
+  "priority": 0,
+  "effects": [
+    { "kind": "stat_stage", "target": "self", "stat": "evasion", "stages": 1 }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "pokedemo_bridge",
+  "version": "${version}",
+  "name": "PokeDemo Bridge Client",
+  "description": "Client bridge mod for PokeDemo. Provides party HUD, payload protocol, and a scaffold for Cobblemon asset-backed rendering.",
+  "authors": [
+    "PtrMC"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "win.pokedemo.bridge.client.PokeDemoBridgeClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "fabric-api": "*"
+  }
+}

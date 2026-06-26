@@ -1,0 +1,82 @@
+# PokeDemo 插件 UI/提示（简体中文）
+# 你可以在：plugins/PokeDemo/lang/zh_cn.yml 覆盖任意键
+
+pokedemo:
+  common:
+    empty: "(空)"
+    none: "(无)"
+
+  guide:
+    join_hint: "§2提示§8：输入 §3/poke guide §8获取教学之书"
+    join_hint_summon: "§2提示§8：§3Shift+F §8+ §3物品栏/鼠标滚轮 §8召唤精灵"
+
+  gui:
+    common:
+      back: "§e返回"
+      close: "§c关闭"
+      next: "§e下一页"
+      prev: "§e上一页"
+
+    recipes:
+      title: "§6合成配方"
+
+    starter:
+      title: "§2选择初始伙伴"
+
+    phone:
+      title: "§5精灵手机"
+      party: "§a队伍"
+      party.lore: "§7查看与管理队伍"
+      pc: "§bPC"
+      pc.lore: "§7打开电脑盒子"
+      healer: "§d治疗"
+      healer.lore: "§7远程恢复队伍血量与PP"
+      healer.machine: "§d治疗机"
+      healer.machine.lore: "§7靠近治疗机后点击使用"
+      dex: "§c图鉴"
+      dex.lore: "§7查看已捕捉精灵信息"
+
+    dex:
+      title: "§c精灵图鉴"
+      entry.title: "§c图鉴"
+
+    summary:
+      title: "§8精灵详情"
+      tab:
+        overview: "概览"
+        overview.lore: "§7查看基本信息"
+        moves: "技能"
+        moves.lore: "§7查看技能与PP"
+        stats: "能力"
+        stats.lore: "§7查看能力值"
+        iv_ev: "个体/努力"
+        iv_ev.lore: "§7查看IV/EV"
+      back:
+        party: "§7返回队伍"
+        pc: "§7返回电脑盒子"
+
+  label:
+    uuid: "UUID"
+    species: "物种"
+    nature: "性格"
+    types: "属性"
+    type: "属性"
+    status: "状态"
+    hp: "§cHP"
+    nickname: "§f昵称"
+    ot: "§f初训家"
+    accuracy: "命中"
+    category: "分类"
+    held_item: "§f携带物品"
+
+  summary:
+    nickname.hint: "§8以后可在这里改名"
+    ot.placeholder: "§7(服务器玩家)"
+    ot.hint: "§8后续可绑定OT"
+
+    held_item:
+      has: "§7已携带"
+      set: "§a设置"
+      replace: "§e替换"
+      remove: "§c移除"
+      only_pokedemo: "§8暂仅支持 PokeDemo 道具"

@@ -1,0 +1,914 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/carved_pumpkin"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 100001
+      },
+      "model": "pokedemo:pokemon/bulbasaur"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100002
+      },
+      "model": "pokedemo:pokemon/charizard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100003
+      },
+      "model": "pokedemo:pokemon/pikachu"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100004
+      },
+      "model": "pokedemo:pokemon/blastoise"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100005
+      },
+      "model": "pokedemo:pokemon/butterfree"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100006
+      },
+      "model": "pokedemo:pokemon/caterpie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100007
+      },
+      "model": "pokedemo:pokemon/charmander"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100008
+      },
+      "model": "pokedemo:pokemon/charmeleon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100009
+      },
+      "model": "pokedemo:pokemon/ivysaur"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100010
+      },
+      "model": "pokedemo:pokemon/kakuna"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100011
+      },
+      "model": "pokedemo:pokemon/metapod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100012
+      },
+      "model": "pokedemo:pokemon/squirtle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100013
+      },
+      "model": "pokedemo:pokemon/venusaur"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100014
+      },
+      "model": "pokedemo:pokemon/wartortle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100015
+      },
+      "model": "pokedemo:pokemon/weedle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100016
+      },
+      "model": "pokedemo:pokemon/arbok"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100017
+      },
+      "model": "pokedemo:pokemon/beedrill"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100018
+      },
+      "model": "pokedemo:pokemon/clefable"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100019
+      },
+      "model": "pokedemo:pokemon/clefairy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100020
+      },
+      "model": "pokedemo:pokemon/ekans"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100021
+      },
+      "model": "pokedemo:pokemon/fearow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100022
+      },
+      "model": "pokedemo:pokemon/gloom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100023
+      },
+      "model": "pokedemo:pokemon/golbat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100024
+      },
+      "model": "pokedemo:pokemon/jigglypuff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100025
+      },
+      "model": "pokedemo:pokemon/nidoking"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100026
+      },
+      "model": "pokedemo:pokemon/nidoqueen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100027
+      },
+      "model": "pokedemo:pokemon/nidoranf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100028
+      },
+      "model": "pokedemo:pokemon/nidoranm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100029
+      },
+      "model": "pokedemo:pokemon/nidorina"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100030
+      },
+      "model": "pokedemo:pokemon/nidorino"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100031
+      },
+      "model": "pokedemo:pokemon/ninetales"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100032
+      },
+      "model": "pokedemo:pokemon/oddish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100033
+      },
+      "model": "pokedemo:pokemon/pidgeot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100034
+      },
+      "model": "pokedemo:pokemon/pidgeotto"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100035
+      },
+      "model": "pokedemo:pokemon/pidgey"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100036
+      },
+      "model": "pokedemo:pokemon/raichu"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100037
+      },
+      "model": "pokedemo:pokemon/raticate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100038
+      },
+      "model": "pokedemo:pokemon/rattata"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100039
+      },
+      "model": "pokedemo:pokemon/sandshrew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100040
+      },
+      "model": "pokedemo:pokemon/sandslash"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100041
+      },
+      "model": "pokedemo:pokemon/spearow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100042
+      },
+      "model": "pokedemo:pokemon/vulpix"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100043
+      },
+      "model": "pokedemo:pokemon/wigglytuff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100044
+      },
+      "model": "pokedemo:pokemon/zubat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100045
+      },
+      "model": "pokedemo:pokemon/abra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100046
+      },
+      "model": "pokedemo:pokemon/aerodactyl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100047
+      },
+      "model": "pokedemo:pokemon/alakazam"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100048
+      },
+      "model": "pokedemo:pokemon/arcanine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100049
+      },
+      "model": "pokedemo:pokemon/articuno"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100050
+      },
+      "model": "pokedemo:pokemon/bellsprout"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100051
+      },
+      "model": "pokedemo:pokemon/chansey"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100052
+      },
+      "model": "pokedemo:pokemon/cloyster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100053
+      },
+      "model": "pokedemo:pokemon/cubone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100054
+      },
+      "model": "pokedemo:pokemon/dewgong"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100055
+      },
+      "model": "pokedemo:pokemon/diglett_alolan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100056
+      },
+      "model": "pokedemo:pokemon/ditto"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100057
+      },
+      "model": "pokedemo:pokemon/dodrio"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100058
+      },
+      "model": "pokedemo:pokemon/doduo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100059
+      },
+      "model": "pokedemo:pokemon/dragonair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100060
+      },
+      "model": "pokedemo:pokemon/dragonite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100061
+      },
+      "model": "pokedemo:pokemon/dratini"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100062
+      },
+      "model": "pokedemo:pokemon/drowzee"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100063
+      },
+      "model": "pokedemo:pokemon/dugtrio"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100064
+      },
+      "model": "pokedemo:pokemon/eevee"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100065
+      },
+      "model": "pokedemo:pokemon/electabuzz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100066
+      },
+      "model": "pokedemo:pokemon/electrode"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100067
+      },
+      "model": "pokedemo:pokemon/exeggcute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100068
+      },
+      "model": "pokedemo:pokemon/exeggutor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100069
+      },
+      "model": "pokedemo:pokemon/farfetchd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100070
+      },
+      "model": "pokedemo:pokemon/flareon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100071
+      },
+      "model": "pokedemo:pokemon/gastly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100072
+      },
+      "model": "pokedemo:pokemon/gengar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100073
+      },
+      "model": "pokedemo:pokemon/geodude"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100074
+      },
+      "model": "pokedemo:pokemon/goldeen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100075
+      },
+      "model": "pokedemo:pokemon/golduck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100076
+      },
+      "model": "pokedemo:pokemon/golem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100077
+      },
+      "model": "pokedemo:pokemon/graveler"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100078
+      },
+      "model": "pokedemo:pokemon/grimer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100079
+      },
+      "model": "pokedemo:pokemon/growlithe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100080
+      },
+      "model": "pokedemo:pokemon/gyarados"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100081
+      },
+      "model": "pokedemo:pokemon/haunter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100082
+      },
+      "model": "pokedemo:pokemon/hitmonchan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100083
+      },
+      "model": "pokedemo:pokemon/hitmonlee"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100084
+      },
+      "model": "pokedemo:pokemon/horsea"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100085
+      },
+      "model": "pokedemo:pokemon/hypno"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100086
+      },
+      "model": "pokedemo:pokemon/jolteon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100087
+      },
+      "model": "pokedemo:pokemon/jynx"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100088
+      },
+      "model": "pokedemo:pokemon/kabuto"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100089
+      },
+      "model": "pokedemo:pokemon/kabutops"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100090
+      },
+      "model": "pokedemo:pokemon/kadabra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100091
+      },
+      "model": "pokedemo:pokemon/kangaskhan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100092
+      },
+      "model": "pokedemo:pokemon/kingler"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100093
+      },
+      "model": "pokedemo:pokemon/koffing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100094
+      },
+      "model": "pokedemo:pokemon/krabby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100095
+      },
+      "model": "pokedemo:pokemon/lapras"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100096
+      },
+      "model": "pokedemo:pokemon/lickitung"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100097
+      },
+      "model": "pokedemo:pokemon/machamp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100098
+      },
+      "model": "pokedemo:pokemon/machoke"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100099
+      },
+      "model": "pokedemo:pokemon/machop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100100
+      },
+      "model": "pokedemo:pokemon/magikarp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100101
+      },
+      "model": "pokedemo:pokemon/magmar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100102
+      },
+      "model": "pokedemo:pokemon/magnemite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100103
+      },
+      "model": "pokedemo:pokemon/magneton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100104
+      },
+      "model": "pokedemo:pokemon/mankey"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100105
+      },
+      "model": "pokedemo:pokemon/marowak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100106
+      },
+      "model": "pokedemo:pokemon/meowth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100107
+      },
+      "model": "pokedemo:pokemon/mew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100108
+      },
+      "model": "pokedemo:pokemon/mewtwo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100109
+      },
+      "model": "pokedemo:pokemon/moltres"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100110
+      },
+      "model": "pokedemo:pokemon/mr_mime"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100111
+      },
+      "model": "pokedemo:pokemon/muk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100112
+      },
+      "model": "pokedemo:pokemon/omanyte"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100113
+      },
+      "model": "pokedemo:pokemon/omastar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100114
+      },
+      "model": "pokedemo:pokemon/onix"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100115
+      },
+      "model": "pokedemo:pokemon/paras"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100116
+      },
+      "model": "pokedemo:pokemon/parasect"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100117
+      },
+      "model": "pokedemo:pokemon/persian"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100118
+      },
+      "model": "pokedemo:pokemon/pinsir"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100119
+      },
+      "model": "pokedemo:pokemon/poliwag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100120
+      },
+      "model": "pokedemo:pokemon/poliwhirl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100121
+      },
+      "model": "pokedemo:pokemon/poliwrath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100122
+      },
+      "model": "pokedemo:pokemon/ponyta_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100123
+      },
+      "model": "pokedemo:pokemon/porygon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100124
+      },
+      "model": "pokedemo:pokemon/primeape"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100125
+      },
+      "model": "pokedemo:pokemon/psyduck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100126
+      },
+      "model": "pokedemo:pokemon/rapidash"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100127
+      },
+      "model": "pokedemo:pokemon/rhydon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100128
+      },
+      "model": "pokedemo:pokemon/rhyhorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100129
+      },
+      "model": "pokedemo:pokemon/scyther"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100130
+      },
+      "model": "pokedemo:pokemon/seadra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100131
+      },
+      "model": "pokedemo:pokemon/seaking"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100132
+      },
+      "model": "pokedemo:pokemon/seel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100133
+      },
+      "model": "pokedemo:pokemon/shellder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100134
+      },
+      "model": "pokedemo:pokemon/slowbro"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100135
+      },
+      "model": "pokedemo:pokemon/slowpoke"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100136
+      },
+      "model": "pokedemo:pokemon/snorlax"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100137
+      },
+      "model": "pokedemo:pokemon/starmie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100138
+      },
+      "model": "pokedemo:pokemon/staryu"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100139
+      },
+      "model": "pokedemo:pokemon/tangela"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100140
+      },
+      "model": "pokedemo:pokemon/tauros"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100141
+      },
+      "model": "pokedemo:pokemon/tentacool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100142
+      },
+      "model": "pokedemo:pokemon/tentacruel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100143
+      },
+      "model": "pokedemo:pokemon/vaporeon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100144
+      },
+      "model": "pokedemo:pokemon/venomoth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100145
+      },
+      "model": "pokedemo:pokemon/venonat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100146
+      },
+      "model": "pokedemo:pokemon/victreebel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100147
+      },
+      "model": "pokedemo:pokemon/vileplume_male"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100148
+      },
+      "model": "pokedemo:pokemon/voltorb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100149
+      },
+      "model": "pokedemo:pokemon/weepinbell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100150
+      },
+      "model": "pokedemo:pokemon/weezing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100151
+      },
+      "model": "pokedemo:pokemon/zapdos"
+    }
+  ]
+}

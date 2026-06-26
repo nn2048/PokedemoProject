@@ -1,0 +1,308 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_cat"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 20001
+      },
+      "model": "pokedemo:item/tm/tm01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20002
+      },
+      "model": "pokedemo:item/tm/tm02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20003
+      },
+      "model": "pokedemo:item/tm/tm03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20004
+      },
+      "model": "pokedemo:item/tm/tm04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20005
+      },
+      "model": "pokedemo:item/tm/tm05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20006
+      },
+      "model": "pokedemo:item/tm/tm06"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20007
+      },
+      "model": "pokedemo:item/tm/tm07"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20008
+      },
+      "model": "pokedemo:item/tm/tm08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20009
+      },
+      "model": "pokedemo:item/tm/tm09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20010
+      },
+      "model": "pokedemo:item/tm/tm10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20011
+      },
+      "model": "pokedemo:item/tm/tm11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20012
+      },
+      "model": "pokedemo:item/tm/tm12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20013
+      },
+      "model": "pokedemo:item/tm/tm13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20014
+      },
+      "model": "pokedemo:item/tm/tm14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20015
+      },
+      "model": "pokedemo:item/tm/tm15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20016
+      },
+      "model": "pokedemo:item/tm/tm16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20017
+      },
+      "model": "pokedemo:item/tm/tm17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20018
+      },
+      "model": "pokedemo:item/tm/tm18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20019
+      },
+      "model": "pokedemo:item/tm/tm19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20020
+      },
+      "model": "pokedemo:item/tm/tm20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20021
+      },
+      "model": "pokedemo:item/tm/tm21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20022
+      },
+      "model": "pokedemo:item/tm/tm22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20023
+      },
+      "model": "pokedemo:item/tm/tm23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20024
+      },
+      "model": "pokedemo:item/tm/tm24"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20025
+      },
+      "model": "pokedemo:item/tm/tm25"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20026
+      },
+      "model": "pokedemo:item/tm/tm26"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20027
+      },
+      "model": "pokedemo:item/tm/tm27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20028
+      },
+      "model": "pokedemo:item/tm/tm28"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20029
+      },
+      "model": "pokedemo:item/tm/tm29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20030
+      },
+      "model": "pokedemo:item/tm/tm30"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20031
+      },
+      "model": "pokedemo:item/tm/tm31"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20032
+      },
+      "model": "pokedemo:item/tm/tm32"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20033
+      },
+      "model": "pokedemo:item/tm/tm33"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20034
+      },
+      "model": "pokedemo:item/tm/tm34"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20035
+      },
+      "model": "pokedemo:item/tm/tm35"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20036
+      },
+      "model": "pokedemo:item/tm/tm36"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20037
+      },
+      "model": "pokedemo:item/tm/tm37"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20038
+      },
+      "model": "pokedemo:item/tm/tm38"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20039
+      },
+      "model": "pokedemo:item/tm/tm39"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20040
+      },
+      "model": "pokedemo:item/tm/tm40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20041
+      },
+      "model": "pokedemo:item/tm/tm41"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20042
+      },
+      "model": "pokedemo:item/tm/tm42"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20043
+      },
+      "model": "pokedemo:item/tm/tm43"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20044
+      },
+      "model": "pokedemo:item/tm/tm44"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20045
+      },
+      "model": "pokedemo:item/tm/tm45"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20046
+      },
+      "model": "pokedemo:item/tm/tm46"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20047
+      },
+      "model": "pokedemo:item/tm/tm47"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20048
+      },
+      "model": "pokedemo:item/tm/tm48"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20049
+      },
+      "model": "pokedemo:item/tm/tm49"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20050
+      },
+      "model": "pokedemo:item/tm/tm50"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1.0,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "durant",
+  "animations": {
+    "cry": "q.bedrock_primary('durant', 'cry', q.curve('one'))"
+  },
+  "poses": {
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('durant', 'ground_walk')"
+      ]
+    },
+    "running": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('durant', 'ground_walk')"
+      ]
+    }
+  }
+}

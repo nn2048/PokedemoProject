@@ -1,0 +1,10 @@
+generatedAt: "2026-03-01T22:42:11.093321100+08:00"
+importRoot: "D:\\pokedemo\\plugins\\PokeDemo\\moves_raw"
+parsedShowdownMoves: 165
+parsedInternalMoves: 0
+failedFiles: 0
+notes:
+  - "showdownMissingNum: 3"
+  - "showdownFile: plugins\\PokeDemo\\moves_raw\\moves.json"
+  - "skipped-showdown-map-file: plugins\\PokeDemo\\moves_raw\\learnsets.json"
+  - "skipped-showdown-map-file: plugins\\PokeDemo\\moves_raw\\pokedex.json"

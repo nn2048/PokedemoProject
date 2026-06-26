@@ -1,0 +1,3460 @@
+{
+  "variants": {
+    "instrument=harp,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=harp,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=basedrum,note=0,powered=false": {
+      "model": "pokedemo:block/berry/lansat_young"
+    },
+    "instrument=basedrum,note=0,powered=true": {
+      "model": "pokedemo:block/berry/lansat_young"
+    },
+    "instrument=basedrum,note=1,powered=false": {
+      "model": "pokedemo:block/berry/lansat_mature"
+    },
+    "instrument=basedrum,note=1,powered=true": {
+      "model": "pokedemo:block/berry/lansat_mature"
+    },
+    "instrument=basedrum,note=2,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=2,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=3,powered=false": {
+      "model": "pokedemo:block/berry/starf_young"
+    },
+    "instrument=basedrum,note=3,powered=true": {
+      "model": "pokedemo:block/berry/starf_young"
+    },
+    "instrument=basedrum,note=4,powered=false": {
+      "model": "pokedemo:block/berry/starf_mature"
+    },
+    "instrument=basedrum,note=4,powered=true": {
+      "model": "pokedemo:block/berry/starf_mature"
+    },
+    "instrument=basedrum,note=5,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=5,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=6,powered=false": {
+      "model": "pokedemo:block/berry/enigma_young"
+    },
+    "instrument=basedrum,note=6,powered=true": {
+      "model": "pokedemo:block/berry/enigma_young"
+    },
+    "instrument=basedrum,note=7,powered=false": {
+      "model": "pokedemo:block/berry/enigma_mature"
+    },
+    "instrument=basedrum,note=7,powered=true": {
+      "model": "pokedemo:block/berry/enigma_mature"
+    },
+    "instrument=basedrum,note=8,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=8,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=9,powered=false": {
+      "model": "pokedemo:block/berry/micle_young"
+    },
+    "instrument=basedrum,note=9,powered=true": {
+      "model": "pokedemo:block/berry/micle_young"
+    },
+    "instrument=basedrum,note=10,powered=false": {
+      "model": "pokedemo:block/berry/micle_mature"
+    },
+    "instrument=basedrum,note=10,powered=true": {
+      "model": "pokedemo:block/berry/micle_mature"
+    },
+    "instrument=basedrum,note=11,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=11,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=12,powered=false": {
+      "model": "pokedemo:block/berry/custap_young"
+    },
+    "instrument=basedrum,note=12,powered=true": {
+      "model": "pokedemo:block/berry/custap_young"
+    },
+    "instrument=basedrum,note=13,powered=false": {
+      "model": "pokedemo:block/berry/custap_mature"
+    },
+    "instrument=basedrum,note=13,powered=true": {
+      "model": "pokedemo:block/berry/custap_mature"
+    },
+    "instrument=basedrum,note=14,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=14,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=15,powered=false": {
+      "model": "pokedemo:block/berry/jaboca_young"
+    },
+    "instrument=basedrum,note=15,powered=true": {
+      "model": "pokedemo:block/berry/jaboca_young"
+    },
+    "instrument=basedrum,note=16,powered=false": {
+      "model": "pokedemo:block/berry/jaboca_mature"
+    },
+    "instrument=basedrum,note=16,powered=true": {
+      "model": "pokedemo:block/berry/jaboca_mature"
+    },
+    "instrument=basedrum,note=17,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=17,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=18,powered=false": {
+      "model": "pokedemo:block/berry/rowap_young"
+    },
+    "instrument=basedrum,note=18,powered=true": {
+      "model": "pokedemo:block/berry/rowap_young"
+    },
+    "instrument=basedrum,note=19,powered=false": {
+      "model": "pokedemo:block/berry/rowap_mature"
+    },
+    "instrument=basedrum,note=19,powered=true": {
+      "model": "pokedemo:block/berry/rowap_mature"
+    },
+    "instrument=basedrum,note=20,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=20,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=21,powered=false": {
+      "model": "pokedemo:block/berry/roseli_young"
+    },
+    "instrument=basedrum,note=21,powered=true": {
+      "model": "pokedemo:block/berry/roseli_young"
+    },
+    "instrument=basedrum,note=22,powered=false": {
+      "model": "pokedemo:block/berry/roseli_mature"
+    },
+    "instrument=basedrum,note=22,powered=true": {
+      "model": "pokedemo:block/berry/roseli_mature"
+    },
+    "instrument=basedrum,note=23,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=23,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=basedrum,note=24,powered=false": {
+      "model": "pokedemo:block/berry/kee_young"
+    },
+    "instrument=basedrum,note=24,powered=true": {
+      "model": "pokedemo:block/berry/kee_young"
+    },
+    "instrument=snare,note=0,powered=false": {
+      "model": "pokedemo:block/berry/kee_mature"
+    },
+    "instrument=snare,note=0,powered=true": {
+      "model": "pokedemo:block/berry/kee_mature"
+    },
+    "instrument=snare,note=1,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=snare,note=1,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=snare,note=2,powered=false": {
+      "model": "pokedemo:block/berry/maranga_young"
+    },
+    "instrument=snare,note=2,powered=true": {
+      "model": "pokedemo:block/berry/maranga_young"
+    },
+    "instrument=snare,note=3,powered=false": {
+      "model": "pokedemo:block/berry/maranga_mature"
+    },
+    "instrument=snare,note=3,powered=true": {
+      "model": "pokedemo:block/berry/maranga_mature"
+    },
+    "instrument=snare,note=4,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=snare,note=4,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=snare,note=5,powered=false": {
+      "model": "pokedemo:block/berry/hopo_young"
+    },
+    "instrument=snare,note=5,powered=true": {
+      "model": "pokedemo:block/berry/hopo_young"
+    },
+    "instrument=snare,note=6,powered=false": {
+      "model": "pokedemo:block/berry/hopo_mature"
+    },
+    "instrument=snare,note=6,powered=true": {
+      "model": "pokedemo:block/berry/hopo_mature"
+    },
+    "instrument=snare,note=7,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=snare,note=7,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=snare,note=8,powered=false": {
+      "model": "pokedemo:block/berry/eggant_young"
+    },
+    "instrument=snare,note=8,powered=true": {
+      "model": "pokedemo:block/berry/eggant_young"
+    },
+    "instrument=snare,note=9,powered=false": {
+      "model": "pokedemo:block/berry/eggant_mature"
+    },
+    "instrument=snare,note=9,powered=true": {
+      "model": "pokedemo:block/berry/eggant_mature"
+    },
+    "instrument=snare,note=10,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=snare,note=10,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=snare,note=11,powered=false": {
+      "model": "pokedemo:block/berry/touga_young"
+    },
+    "instrument=snare,note=11,powered=true": {
+      "model": "pokedemo:block/berry/touga_young"
+    },
+    "instrument=snare,note=12,powered=false": {
+      "model": "pokedemo:block/berry/touga_mature"
+    },
+    "instrument=snare,note=12,powered=true": {
+      "model": "pokedemo:block/berry/touga_mature"
+    },
+    "instrument=snare,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=snare,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=hat,note=0,powered=false": {
+      "model": "pokedemo:block/berry/watmel_young"
+    },
+    "instrument=hat,note=0,powered=true": {
+      "model": "pokedemo:block/berry/watmel_young"
+    },
+    "instrument=hat,note=1,powered=false": {
+      "model": "pokedemo:block/berry/watmel_mature"
+    },
+    "instrument=hat,note=1,powered=true": {
+      "model": "pokedemo:block/berry/watmel_mature"
+    },
+    "instrument=hat,note=2,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=2,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=3,powered=false": {
+      "model": "pokedemo:block/berry/durin_young"
+    },
+    "instrument=hat,note=3,powered=true": {
+      "model": "pokedemo:block/berry/durin_young"
+    },
+    "instrument=hat,note=4,powered=false": {
+      "model": "pokedemo:block/berry/durin_mature"
+    },
+    "instrument=hat,note=4,powered=true": {
+      "model": "pokedemo:block/berry/durin_mature"
+    },
+    "instrument=hat,note=5,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=5,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=6,powered=false": {
+      "model": "pokedemo:block/berry/belue_young"
+    },
+    "instrument=hat,note=6,powered=true": {
+      "model": "pokedemo:block/berry/belue_young"
+    },
+    "instrument=hat,note=7,powered=false": {
+      "model": "pokedemo:block/berry/belue_mature"
+    },
+    "instrument=hat,note=7,powered=true": {
+      "model": "pokedemo:block/berry/belue_mature"
+    },
+    "instrument=hat,note=8,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=8,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=9,powered=false": {
+      "model": "pokedemo:block/berry/occa_young"
+    },
+    "instrument=hat,note=9,powered=true": {
+      "model": "pokedemo:block/berry/occa_young"
+    },
+    "instrument=hat,note=10,powered=false": {
+      "model": "pokedemo:block/berry/occa_mature"
+    },
+    "instrument=hat,note=10,powered=true": {
+      "model": "pokedemo:block/berry/occa_mature"
+    },
+    "instrument=hat,note=11,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=11,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=12,powered=false": {
+      "model": "pokedemo:block/berry/passho_young"
+    },
+    "instrument=hat,note=12,powered=true": {
+      "model": "pokedemo:block/berry/passho_young"
+    },
+    "instrument=hat,note=13,powered=false": {
+      "model": "pokedemo:block/berry/passho_mature"
+    },
+    "instrument=hat,note=13,powered=true": {
+      "model": "pokedemo:block/berry/passho_mature"
+    },
+    "instrument=hat,note=14,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=14,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=15,powered=false": {
+      "model": "pokedemo:block/berry/wacan_young"
+    },
+    "instrument=hat,note=15,powered=true": {
+      "model": "pokedemo:block/berry/wacan_young"
+    },
+    "instrument=hat,note=16,powered=false": {
+      "model": "pokedemo:block/berry/wacan_mature"
+    },
+    "instrument=hat,note=16,powered=true": {
+      "model": "pokedemo:block/berry/wacan_mature"
+    },
+    "instrument=hat,note=17,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=17,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=18,powered=false": {
+      "model": "pokedemo:block/berry/rindo_young"
+    },
+    "instrument=hat,note=18,powered=true": {
+      "model": "pokedemo:block/berry/rindo_young"
+    },
+    "instrument=hat,note=19,powered=false": {
+      "model": "pokedemo:block/berry/rindo_mature"
+    },
+    "instrument=hat,note=19,powered=true": {
+      "model": "pokedemo:block/berry/rindo_mature"
+    },
+    "instrument=hat,note=20,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=20,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=21,powered=false": {
+      "model": "pokedemo:block/berry/yache_young"
+    },
+    "instrument=hat,note=21,powered=true": {
+      "model": "pokedemo:block/berry/yache_young"
+    },
+    "instrument=hat,note=22,powered=false": {
+      "model": "pokedemo:block/berry/yache_mature"
+    },
+    "instrument=hat,note=22,powered=true": {
+      "model": "pokedemo:block/berry/yache_mature"
+    },
+    "instrument=hat,note=23,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=23,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=hat,note=24,powered=false": {
+      "model": "pokedemo:block/berry/chople_young"
+    },
+    "instrument=hat,note=24,powered=true": {
+      "model": "pokedemo:block/berry/chople_young"
+    },
+    "instrument=bass,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=flute,note=0,powered=false": {
+      "model": "pokedemo:block/berry/razz_mature"
+    },
+    "instrument=flute,note=0,powered=true": {
+      "model": "pokedemo:block/berry/razz_mature"
+    },
+    "instrument=flute,note=1,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=1,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=2,powered=false": {
+      "model": "pokedemo:block/berry/bluk_young"
+    },
+    "instrument=flute,note=2,powered=true": {
+      "model": "pokedemo:block/berry/bluk_young"
+    },
+    "instrument=flute,note=3,powered=false": {
+      "model": "pokedemo:block/berry/bluk_mature"
+    },
+    "instrument=flute,note=3,powered=true": {
+      "model": "pokedemo:block/berry/bluk_mature"
+    },
+    "instrument=flute,note=4,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=4,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=5,powered=false": {
+      "model": "pokedemo:block/evo_ore_leaf"
+    },
+    "instrument=flute,note=5,powered=true": {
+      "model": "pokedemo:block/evo_ore_leaf"
+    },
+    "instrument=flute,note=6,powered=false": {
+      "model": "pokedemo:block/berry/nanab_mature"
+    },
+    "instrument=flute,note=6,powered=true": {
+      "model": "pokedemo:block/berry/nanab_mature"
+    },
+    "instrument=flute,note=7,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=7,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=8,powered=false": {
+      "model": "pokedemo:block/berry/wepear_young"
+    },
+    "instrument=flute,note=8,powered=true": {
+      "model": "pokedemo:block/berry/wepear_young"
+    },
+    "instrument=flute,note=9,powered=false": {
+      "model": "pokedemo:block/berry/wepear_mature"
+    },
+    "instrument=flute,note=9,powered=true": {
+      "model": "pokedemo:block/berry/wepear_mature"
+    },
+    "instrument=flute,note=10,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=10,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=11,powered=false": {
+      "model": "pokedemo:block/berry/pinap_young"
+    },
+    "instrument=flute,note=11,powered=true": {
+      "model": "pokedemo:block/berry/pinap_young"
+    },
+    "instrument=flute,note=12,powered=false": {
+      "model": "pokedemo:block/berry/pinap_mature"
+    },
+    "instrument=flute,note=12,powered=true": {
+      "model": "pokedemo:block/berry/pinap_mature"
+    },
+    "instrument=flute,note=13,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=13,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=14,powered=false": {
+      "model": "pokedemo:block/berry/pomeg_young"
+    },
+    "instrument=flute,note=14,powered=true": {
+      "model": "pokedemo:block/berry/pomeg_young"
+    },
+    "instrument=flute,note=15,powered=false": {
+      "model": "pokedemo:block/berry/pomeg_mature"
+    },
+    "instrument=flute,note=15,powered=true": {
+      "model": "pokedemo:block/berry/pomeg_mature"
+    },
+    "instrument=flute,note=16,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=16,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=17,powered=false": {
+      "model": "pokedemo:block/berry/kelpsy_young"
+    },
+    "instrument=flute,note=17,powered=true": {
+      "model": "pokedemo:block/berry/kelpsy_young"
+    },
+    "instrument=flute,note=18,powered=false": {
+      "model": "pokedemo:block/berry/kelpsy_mature"
+    },
+    "instrument=flute,note=18,powered=true": {
+      "model": "pokedemo:block/berry/kelpsy_mature"
+    },
+    "instrument=flute,note=19,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=19,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=20,powered=false": {
+      "model": "pokedemo:block/berry/qualot_young"
+    },
+    "instrument=flute,note=20,powered=true": {
+      "model": "pokedemo:block/berry/qualot_young"
+    },
+    "instrument=flute,note=21,powered=false": {
+      "model": "pokedemo:block/berry/qualot_mature"
+    },
+    "instrument=flute,note=21,powered=true": {
+      "model": "pokedemo:block/berry/qualot_mature"
+    },
+    "instrument=flute,note=22,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=22,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=flute,note=23,powered=false": {
+      "model": "pokedemo:block/berry/hondew_young"
+    },
+    "instrument=flute,note=23,powered=true": {
+      "model": "pokedemo:block/berry/hondew_young"
+    },
+    "instrument=flute,note=24,powered=false": {
+      "model": "pokedemo:block/berry/hondew_mature"
+    },
+    "instrument=flute,note=24,powered=true": {
+      "model": "pokedemo:block/berry/hondew_mature"
+    },
+    "instrument=bell,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=4,powered=false": {
+      "model": "pokedemo:block/evo_ore_thunder"
+    },
+    "instrument=bell,note=4,powered=true": {
+      "model": "pokedemo:block/evo_ore_thunder"
+    },
+    "instrument=bell,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bell,note=24,powered=false": {
+      "model": "pokedemo:block/machines/fossil_analyzer"
+    },
+    "instrument=bell,note=24,powered=true": {
+      "model": "pokedemo:block/machines/fossil_analyzer"
+    },
+    "instrument=guitar,note=0,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=0,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=1,powered=false": {
+      "model": "pokedemo:block/berry/grepa_young"
+    },
+    "instrument=guitar,note=1,powered=true": {
+      "model": "pokedemo:block/berry/grepa_young"
+    },
+    "instrument=guitar,note=2,powered=false": {
+      "model": "pokedemo:block/berry/grepa_mature"
+    },
+    "instrument=guitar,note=2,powered=true": {
+      "model": "pokedemo:block/berry/grepa_mature"
+    },
+    "instrument=guitar,note=3,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=3,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=4,powered=false": {
+      "model": "pokedemo:block/berry/tamato_young"
+    },
+    "instrument=guitar,note=4,powered=true": {
+      "model": "pokedemo:block/berry/tamato_young"
+    },
+    "instrument=guitar,note=5,powered=false": {
+      "model": "pokedemo:block/berry/tamato_mature"
+    },
+    "instrument=guitar,note=5,powered=true": {
+      "model": "pokedemo:block/berry/tamato_mature"
+    },
+    "instrument=guitar,note=6,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=6,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=7,powered=false": {
+      "model": "pokedemo:block/berry/cornn_young"
+    },
+    "instrument=guitar,note=7,powered=true": {
+      "model": "pokedemo:block/berry/cornn_young"
+    },
+    "instrument=guitar,note=8,powered=false": {
+      "model": "pokedemo:block/berry/cornn_mature"
+    },
+    "instrument=guitar,note=8,powered=true": {
+      "model": "pokedemo:block/berry/cornn_mature"
+    },
+    "instrument=guitar,note=9,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=9,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=10,powered=false": {
+      "model": "pokedemo:block/berry/magost_young"
+    },
+    "instrument=guitar,note=10,powered=true": {
+      "model": "pokedemo:block/berry/magost_young"
+    },
+    "instrument=guitar,note=11,powered=false": {
+      "model": "pokedemo:block/berry/magost_mature"
+    },
+    "instrument=guitar,note=11,powered=true": {
+      "model": "pokedemo:block/berry/magost_mature"
+    },
+    "instrument=guitar,note=12,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=12,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=13,powered=false": {
+      "model": "pokedemo:block/berry/rabuta_young"
+    },
+    "instrument=guitar,note=13,powered=true": {
+      "model": "pokedemo:block/berry/rabuta_young"
+    },
+    "instrument=guitar,note=14,powered=false": {
+      "model": "pokedemo:block/berry/rabuta_mature"
+    },
+    "instrument=guitar,note=14,powered=true": {
+      "model": "pokedemo:block/berry/rabuta_mature"
+    },
+    "instrument=guitar,note=15,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=15,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=16,powered=false": {
+      "model": "pokedemo:block/berry/nomel_young"
+    },
+    "instrument=guitar,note=16,powered=true": {
+      "model": "pokedemo:block/berry/nomel_young"
+    },
+    "instrument=guitar,note=17,powered=false": {
+      "model": "pokedemo:block/berry/nomel_mature"
+    },
+    "instrument=guitar,note=17,powered=true": {
+      "model": "pokedemo:block/berry/nomel_mature"
+    },
+    "instrument=guitar,note=18,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=18,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=19,powered=false": {
+      "model": "pokedemo:block/berry/spelon_young"
+    },
+    "instrument=guitar,note=19,powered=true": {
+      "model": "pokedemo:block/berry/spelon_young"
+    },
+    "instrument=guitar,note=20,powered=false": {
+      "model": "pokedemo:block/berry/spelon_mature"
+    },
+    "instrument=guitar,note=20,powered=true": {
+      "model": "pokedemo:block/berry/spelon_mature"
+    },
+    "instrument=guitar,note=21,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=21,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=22,powered=false": {
+      "model": "pokedemo:block/berry/pamtre_young"
+    },
+    "instrument=guitar,note=22,powered=true": {
+      "model": "pokedemo:block/berry/pamtre_young"
+    },
+    "instrument=guitar,note=23,powered=false": {
+      "model": "pokedemo:block/berry/pamtre_mature"
+    },
+    "instrument=guitar,note=23,powered=true": {
+      "model": "pokedemo:block/berry/pamtre_mature"
+    },
+    "instrument=guitar,note=24,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=guitar,note=24,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=0,powered=false": {
+      "model": "pokedemo:block/berry/persim_young"
+    },
+    "instrument=chime,note=0,powered=true": {
+      "model": "pokedemo:block/berry/persim_young"
+    },
+    "instrument=chime,note=1,powered=false": {
+      "model": "pokedemo:block/berry/persim_mature"
+    },
+    "instrument=chime,note=1,powered=true": {
+      "model": "pokedemo:block/berry/persim_mature"
+    },
+    "instrument=chime,note=2,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=2,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=3,powered=false": {
+      "model": "pokedemo:block/berry/lum_young"
+    },
+    "instrument=chime,note=3,powered=true": {
+      "model": "pokedemo:block/berry/lum_young"
+    },
+    "instrument=chime,note=4,powered=false": {
+      "model": "pokedemo:block/berry/lum_mature"
+    },
+    "instrument=chime,note=4,powered=true": {
+      "model": "pokedemo:block/berry/lum_mature"
+    },
+    "instrument=chime,note=5,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=5,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=6,powered=false": {
+      "model": "pokedemo:block/berry/sitrus_young"
+    },
+    "instrument=chime,note=6,powered=true": {
+      "model": "pokedemo:block/berry/sitrus_young"
+    },
+    "instrument=chime,note=7,powered=false": {
+      "model": "pokedemo:block/evo_ore_moon"
+    },
+    "instrument=chime,note=7,powered=true": {
+      "model": "pokedemo:block/evo_ore_moon"
+    },
+    "instrument=chime,note=8,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=8,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=9,powered=false": {
+      "model": "pokedemo:block/berry/figy_young"
+    },
+    "instrument=chime,note=9,powered=true": {
+      "model": "pokedemo:block/berry/figy_young"
+    },
+    "instrument=chime,note=10,powered=false": {
+      "model": "pokedemo:block/berry/figy_mature"
+    },
+    "instrument=chime,note=10,powered=true": {
+      "model": "pokedemo:block/berry/figy_mature"
+    },
+    "instrument=chime,note=11,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=11,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=12,powered=false": {
+      "model": "pokedemo:block/berry/wiki_young"
+    },
+    "instrument=chime,note=12,powered=true": {
+      "model": "pokedemo:block/berry/wiki_young"
+    },
+    "instrument=chime,note=13,powered=false": {
+      "model": "pokedemo:block/berry/wiki_mature"
+    },
+    "instrument=chime,note=13,powered=true": {
+      "model": "pokedemo:block/berry/wiki_mature"
+    },
+    "instrument=chime,note=14,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=14,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=15,powered=false": {
+      "model": "pokedemo:block/berry/mago_young"
+    },
+    "instrument=chime,note=15,powered=true": {
+      "model": "pokedemo:block/berry/mago_young"
+    },
+    "instrument=chime,note=16,powered=false": {
+      "model": "pokedemo:block/berry/mago_mature"
+    },
+    "instrument=chime,note=16,powered=true": {
+      "model": "pokedemo:block/berry/mago_mature"
+    },
+    "instrument=chime,note=17,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=17,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=18,powered=false": {
+      "model": "pokedemo:block/berry/aguav_young"
+    },
+    "instrument=chime,note=18,powered=true": {
+      "model": "pokedemo:block/berry/aguav_young"
+    },
+    "instrument=chime,note=19,powered=false": {
+      "model": "pokedemo:block/berry/aguav_mature"
+    },
+    "instrument=chime,note=19,powered=true": {
+      "model": "pokedemo:block/berry/aguav_mature"
+    },
+    "instrument=chime,note=20,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=20,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=21,powered=false": {
+      "model": "pokedemo:block/berry/iapapa_young"
+    },
+    "instrument=chime,note=21,powered=true": {
+      "model": "pokedemo:block/berry/iapapa_young"
+    },
+    "instrument=chime,note=22,powered=false": {
+      "model": "pokedemo:block/berry/iapapa_mature"
+    },
+    "instrument=chime,note=22,powered=true": {
+      "model": "pokedemo:block/berry/iapapa_mature"
+    },
+    "instrument=chime,note=23,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=23,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=chime,note=24,powered=false": {
+      "model": "pokedemo:block/berry/razz_young"
+    },
+    "instrument=chime,note=24,powered=true": {
+      "model": "pokedemo:block/berry/razz_young"
+    },
+    "instrument=xylophone,note=0,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=0,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=1,powered=false": {
+      "model": "pokedemo:block/berry/colbur_young"
+    },
+    "instrument=xylophone,note=1,powered=true": {
+      "model": "pokedemo:block/berry/colbur_young"
+    },
+    "instrument=xylophone,note=2,powered=false": {
+      "model": "pokedemo:block/berry/colbur_mature"
+    },
+    "instrument=xylophone,note=2,powered=true": {
+      "model": "pokedemo:block/berry/colbur_mature"
+    },
+    "instrument=xylophone,note=3,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=3,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=4,powered=false": {
+      "model": "pokedemo:block/berry/babiri_young"
+    },
+    "instrument=xylophone,note=4,powered=true": {
+      "model": "pokedemo:block/berry/babiri_young"
+    },
+    "instrument=xylophone,note=5,powered=false": {
+      "model": "pokedemo:block/berry/babiri_mature"
+    },
+    "instrument=xylophone,note=5,powered=true": {
+      "model": "pokedemo:block/berry/babiri_mature"
+    },
+    "instrument=xylophone,note=6,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=6,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=7,powered=false": {
+      "model": "pokedemo:block/berry/chilan_young"
+    },
+    "instrument=xylophone,note=7,powered=true": {
+      "model": "pokedemo:block/berry/chilan_young"
+    },
+    "instrument=xylophone,note=8,powered=false": {
+      "model": "pokedemo:block/berry/chilan_mature"
+    },
+    "instrument=xylophone,note=8,powered=true": {
+      "model": "pokedemo:block/berry/chilan_mature"
+    },
+    "instrument=xylophone,note=9,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=9,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=10,powered=false": {
+      "model": "pokedemo:block/berry/liechi_young"
+    },
+    "instrument=xylophone,note=10,powered=true": {
+      "model": "pokedemo:block/berry/liechi_young"
+    },
+    "instrument=xylophone,note=11,powered=false": {
+      "model": "pokedemo:block/berry/liechi_mature"
+    },
+    "instrument=xylophone,note=11,powered=true": {
+      "model": "pokedemo:block/berry/liechi_mature"
+    },
+    "instrument=xylophone,note=12,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=12,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=13,powered=false": {
+      "model": "pokedemo:block/berry/ganlon_young"
+    },
+    "instrument=xylophone,note=13,powered=true": {
+      "model": "pokedemo:block/berry/ganlon_young"
+    },
+    "instrument=xylophone,note=14,powered=false": {
+      "model": "pokedemo:block/berry/ganlon_mature"
+    },
+    "instrument=xylophone,note=14,powered=true": {
+      "model": "pokedemo:block/berry/ganlon_mature"
+    },
+    "instrument=xylophone,note=15,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=15,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=16,powered=false": {
+      "model": "pokedemo:block/berry/salac_young"
+    },
+    "instrument=xylophone,note=16,powered=true": {
+      "model": "pokedemo:block/berry/salac_young"
+    },
+    "instrument=xylophone,note=17,powered=false": {
+      "model": "pokedemo:block/berry/salac_mature"
+    },
+    "instrument=xylophone,note=17,powered=true": {
+      "model": "pokedemo:block/berry/salac_mature"
+    },
+    "instrument=xylophone,note=18,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=18,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=19,powered=false": {
+      "model": "pokedemo:block/berry/petaya_young"
+    },
+    "instrument=xylophone,note=19,powered=true": {
+      "model": "pokedemo:block/berry/petaya_young"
+    },
+    "instrument=xylophone,note=20,powered=false": {
+      "model": "pokedemo:block/berry/petaya_mature"
+    },
+    "instrument=xylophone,note=20,powered=true": {
+      "model": "pokedemo:block/berry/petaya_mature"
+    },
+    "instrument=xylophone,note=21,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=21,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=22,powered=false": {
+      "model": "pokedemo:block/berry/apicot_young"
+    },
+    "instrument=xylophone,note=22,powered=true": {
+      "model": "pokedemo:block/berry/apicot_young"
+    },
+    "instrument=xylophone,note=23,powered=false": {
+      "model": "pokedemo:block/berry/apicot_mature"
+    },
+    "instrument=xylophone,note=23,powered=true": {
+      "model": "pokedemo:block/berry/apicot_mature"
+    },
+    "instrument=xylophone,note=24,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=xylophone,note=24,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=0,powered=false": {
+      "model": "pokedemo:block/berry/chople_mature"
+    },
+    "instrument=iron_xylophone,note=0,powered=true": {
+      "model": "pokedemo:block/berry/chople_mature"
+    },
+    "instrument=iron_xylophone,note=1,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=1,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=2,powered=false": {
+      "model": "pokedemo:block/berry/kebia_young"
+    },
+    "instrument=iron_xylophone,note=2,powered=true": {
+      "model": "pokedemo:block/berry/kebia_young"
+    },
+    "instrument=iron_xylophone,note=3,powered=false": {
+      "model": "pokedemo:block/berry/kebia_mature"
+    },
+    "instrument=iron_xylophone,note=3,powered=true": {
+      "model": "pokedemo:block/berry/kebia_mature"
+    },
+    "instrument=iron_xylophone,note=4,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=4,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=5,powered=false": {
+      "model": "pokedemo:block/berry/shuca_young"
+    },
+    "instrument=iron_xylophone,note=5,powered=true": {
+      "model": "pokedemo:block/berry/shuca_young"
+    },
+    "instrument=iron_xylophone,note=6,powered=false": {
+      "model": "pokedemo:block/berry/shuca_mature"
+    },
+    "instrument=iron_xylophone,note=6,powered=true": {
+      "model": "pokedemo:block/berry/shuca_mature"
+    },
+    "instrument=iron_xylophone,note=7,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=7,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=8,powered=false": {
+      "model": "pokedemo:block/berry/coba_young"
+    },
+    "instrument=iron_xylophone,note=8,powered=true": {
+      "model": "pokedemo:block/berry/coba_young"
+    },
+    "instrument=iron_xylophone,note=9,powered=false": {
+      "model": "pokedemo:block/berry/coba_mature"
+    },
+    "instrument=iron_xylophone,note=9,powered=true": {
+      "model": "pokedemo:block/berry/coba_mature"
+    },
+    "instrument=iron_xylophone,note=10,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=10,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=11,powered=false": {
+      "model": "pokedemo:block/berry/payapa_young"
+    },
+    "instrument=iron_xylophone,note=11,powered=true": {
+      "model": "pokedemo:block/berry/payapa_young"
+    },
+    "instrument=iron_xylophone,note=12,powered=false": {
+      "model": "pokedemo:block/berry/payapa_mature"
+    },
+    "instrument=iron_xylophone,note=12,powered=true": {
+      "model": "pokedemo:block/berry/payapa_mature"
+    },
+    "instrument=iron_xylophone,note=13,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=13,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=14,powered=false": {
+      "model": "pokedemo:block/berry/tanga_young"
+    },
+    "instrument=iron_xylophone,note=14,powered=true": {
+      "model": "pokedemo:block/berry/tanga_young"
+    },
+    "instrument=iron_xylophone,note=15,powered=false": {
+      "model": "pokedemo:block/berry/tanga_mature"
+    },
+    "instrument=iron_xylophone,note=15,powered=true": {
+      "model": "pokedemo:block/berry/tanga_mature"
+    },
+    "instrument=iron_xylophone,note=16,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=16,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=17,powered=false": {
+      "model": "pokedemo:block/berry/charti_young"
+    },
+    "instrument=iron_xylophone,note=17,powered=true": {
+      "model": "pokedemo:block/berry/charti_young"
+    },
+    "instrument=iron_xylophone,note=18,powered=false": {
+      "model": "pokedemo:block/berry/charti_mature"
+    },
+    "instrument=iron_xylophone,note=18,powered=true": {
+      "model": "pokedemo:block/berry/charti_mature"
+    },
+    "instrument=iron_xylophone,note=19,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=19,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=20,powered=false": {
+      "model": "pokedemo:block/berry/kasib_young"
+    },
+    "instrument=iron_xylophone,note=20,powered=true": {
+      "model": "pokedemo:block/berry/kasib_young"
+    },
+    "instrument=iron_xylophone,note=21,powered=false": {
+      "model": "pokedemo:block/berry/kasib_mature"
+    },
+    "instrument=iron_xylophone,note=21,powered=true": {
+      "model": "pokedemo:block/berry/kasib_mature"
+    },
+    "instrument=iron_xylophone,note=22,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=22,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=iron_xylophone,note=23,powered=false": {
+      "model": "pokedemo:block/berry/haban_young"
+    },
+    "instrument=iron_xylophone,note=23,powered=true": {
+      "model": "pokedemo:block/berry/haban_young"
+    },
+    "instrument=iron_xylophone,note=24,powered=false": {
+      "model": "pokedemo:block/machines/fossil_machine"
+    },
+    "instrument=iron_xylophone,note=24,powered=true": {
+      "model": "pokedemo:block/machines/fossil_machine"
+    },
+    "instrument=cow_bell,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=cow_bell,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=didgeridoo,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bit,note=0,powered=false": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=bit,note=0,powered=true": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=bit,note=1,powered=false": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=bit,note=1,powered=true": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=bit,note=2,powered=false": {
+      "model": "pokedemo:block/evo_ore_water"
+    },
+    "instrument=bit,note=2,powered=true": {
+      "model": "pokedemo:block/evo_ore_water"
+    },
+    "instrument=bit,note=3,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=3,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=4,powered=false": {
+      "model": "pokedemo:block/berry/cheri_young"
+    },
+    "instrument=bit,note=4,powered=true": {
+      "model": "pokedemo:block/berry/cheri_young"
+    },
+    "instrument=bit,note=5,powered=false": {
+      "model": "pokedemo:block/berry/cheri_mature"
+    },
+    "instrument=bit,note=5,powered=true": {
+      "model": "pokedemo:block/berry/cheri_mature"
+    },
+    "instrument=bit,note=6,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=6,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=7,powered=false": {
+      "model": "pokedemo:block/berry/chesto_young"
+    },
+    "instrument=bit,note=7,powered=true": {
+      "model": "pokedemo:block/berry/chesto_young"
+    },
+    "instrument=bit,note=8,powered=false": {
+      "model": "pokedemo:block/berry/chesto_mature"
+    },
+    "instrument=bit,note=8,powered=true": {
+      "model": "pokedemo:block/berry/chesto_mature"
+    },
+    "instrument=bit,note=9,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=9,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=10,powered=false": {
+      "model": "pokedemo:block/berry/pecha_young"
+    },
+    "instrument=bit,note=10,powered=true": {
+      "model": "pokedemo:block/berry/pecha_young"
+    },
+    "instrument=bit,note=11,powered=false": {
+      "model": "pokedemo:block/berry/pecha_mature"
+    },
+    "instrument=bit,note=11,powered=true": {
+      "model": "pokedemo:block/berry/pecha_mature"
+    },
+    "instrument=bit,note=12,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=12,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=13,powered=false": {
+      "model": "pokedemo:block/berry/rawst_young"
+    },
+    "instrument=bit,note=13,powered=true": {
+      "model": "pokedemo:block/berry/rawst_young"
+    },
+    "instrument=bit,note=14,powered=false": {
+      "model": "pokedemo:block/berry/rawst_mature"
+    },
+    "instrument=bit,note=14,powered=true": {
+      "model": "pokedemo:block/berry/rawst_mature"
+    },
+    "instrument=bit,note=15,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=15,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=16,powered=false": {
+      "model": "pokedemo:block/berry/aspear_young"
+    },
+    "instrument=bit,note=16,powered=true": {
+      "model": "pokedemo:block/berry/aspear_young"
+    },
+    "instrument=bit,note=17,powered=false": {
+      "model": "pokedemo:block/berry/aspear_mature"
+    },
+    "instrument=bit,note=17,powered=true": {
+      "model": "pokedemo:block/berry/aspear_mature"
+    },
+    "instrument=bit,note=18,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=18,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=19,powered=false": {
+      "model": "pokedemo:block/berry/leppa_young"
+    },
+    "instrument=bit,note=19,powered=true": {
+      "model": "pokedemo:block/berry/leppa_young"
+    },
+    "instrument=bit,note=20,powered=false": {
+      "model": "pokedemo:block/berry/leppa_mature"
+    },
+    "instrument=bit,note=20,powered=true": {
+      "model": "pokedemo:block/berry/leppa_mature"
+    },
+    "instrument=bit,note=21,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=21,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=22,powered=false": {
+      "model": "pokedemo:block/berry/oran_young"
+    },
+    "instrument=bit,note=22,powered=true": {
+      "model": "pokedemo:block/berry/oran_young"
+    },
+    "instrument=bit,note=23,powered=false": {
+      "model": "pokedemo:block/berry/oran_mature"
+    },
+    "instrument=bit,note=23,powered=true": {
+      "model": "pokedemo:block/berry/oran_mature"
+    },
+    "instrument=bit,note=24,powered=false": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=bit,note=24,powered=true": {
+      "model": "pokedemo:block/berry/sprout"
+    },
+    "instrument=banjo,note=0,powered=false": {
+      "model": "pokedemo:block/evo_ore_fire"
+    },
+    "instrument=banjo,note=0,powered=true": {
+      "model": "pokedemo:block/evo_ore_fire"
+    },
+    "instrument=banjo,note=1,powered=false": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=1,powered=true": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=2,powered=false": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=2,powered=true": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=3,powered=false": {
+      "model": "pokedemo:block/apricorn/red_mature"
+    },
+    "instrument=banjo,note=3,powered=true": {
+      "model": "pokedemo:block/apricorn/red_mature"
+    },
+    "instrument=banjo,note=4,powered=false": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=4,powered=true": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=5,powered=false": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=5,powered=true": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=6,powered=false": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=6,powered=true": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=7,powered=false": {
+      "model": "pokedemo:block/apricorn/blue_mature"
+    },
+    "instrument=banjo,note=7,powered=true": {
+      "model": "pokedemo:block/apricorn/blue_mature"
+    },
+    "instrument=banjo,note=8,powered=false": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=8,powered=true": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=9,powered=false": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=9,powered=true": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=10,powered=false": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=10,powered=true": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=11,powered=false": {
+      "model": "pokedemo:block/apricorn/yellow_mature"
+    },
+    "instrument=banjo,note=11,powered=true": {
+      "model": "pokedemo:block/apricorn/yellow_mature"
+    },
+    "instrument=banjo,note=12,powered=false": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=12,powered=true": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=13,powered=false": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=13,powered=true": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=14,powered=false": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=14,powered=true": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=15,powered=false": {
+      "model": "pokedemo:block/apricorn/green_mature"
+    },
+    "instrument=banjo,note=15,powered=true": {
+      "model": "pokedemo:block/apricorn/green_mature"
+    },
+    "instrument=banjo,note=16,powered=false": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=16,powered=true": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=17,powered=false": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=17,powered=true": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=18,powered=false": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=18,powered=true": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=19,powered=false": {
+      "model": "pokedemo:block/apricorn/pink_mature"
+    },
+    "instrument=banjo,note=19,powered=true": {
+      "model": "pokedemo:block/apricorn/pink_mature"
+    },
+    "instrument=banjo,note=20,powered=false": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=20,powered=true": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=21,powered=false": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=21,powered=true": {
+      "model": "pokedemo:block/apricorn/stage1"
+    },
+    "instrument=banjo,note=22,powered=false": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=22,powered=true": {
+      "model": "pokedemo:block/apricorn/stage2"
+    },
+    "instrument=banjo,note=23,powered=false": {
+      "model": "pokedemo:block/apricorn/black_mature"
+    },
+    "instrument=banjo,note=23,powered=true": {
+      "model": "pokedemo:block/apricorn/black_mature"
+    },
+    "instrument=banjo,note=24,powered=false": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=banjo,note=24,powered=true": {
+      "model": "pokedemo:block/apricorn/stage0"
+    },
+    "instrument=pling,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=7,powered=false": {
+      "model": "cobblemon:block/pc_bottom"
+    },
+    "instrument=pling,note=7,powered=true": {
+      "model": "cobblemon:block/pc_bottom"
+    },
+    "instrument=pling,note=8,powered=false": {
+      "model": "cobblemon:block/pc_top"
+    },
+    "instrument=pling,note=8,powered=true": {
+      "model": "cobblemon:block/pc_top"
+    },
+    "instrument=pling,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=13,powered=false": {
+      "model": "cobblemon:block/healing_machine_0"
+    },
+    "instrument=pling,note=13,powered=true": {
+      "model": "cobblemon:block/healing_machine_0"
+    },
+    "instrument=pling,note=14,powered=false": {
+      "model": "pokedemo:block/machines/pasture"
+    },
+    "instrument=pling,note=14,powered=true": {
+      "model": "pokedemo:block/machines/pasture"
+    },
+    "instrument=pling,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=pling,note=22,powered=false": {
+      "model": "pokedemo:block/machines/clone_machine"
+    },
+    "instrument=pling,note=22,powered=true": {
+      "model": "pokedemo:block/machines/clone_machine"
+    },
+    "instrument=pling,note=23,powered=false": {
+      "model": "pokedemo:block/machines/trade_machine"
+    },
+    "instrument=pling,note=23,powered=true": {
+      "model": "pokedemo:block/machines/trade_machine"
+    },
+    "instrument=pling,note=24,powered=false": {
+      "model": "pokedemo:block/machines/fossil_machine"
+    },
+    "instrument=pling,note=24,powered=true": {
+      "model": "pokedemo:block/machines/fossil_machine"
+    },
+    "instrument=zombie,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=zombie,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=skeleton,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=creeper,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=dragon,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=wither_skeleton,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=piglin,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=0,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=0,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=1,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=1,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=2,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=2,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=3,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=3,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=4,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=4,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=5,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=5,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=6,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=6,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=7,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=7,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=8,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=8,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=9,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=9,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=10,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=10,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=11,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=11,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=12,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=12,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=13,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=13,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=14,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=14,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=15,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=15,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=16,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=16,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=17,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=17,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=18,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=18,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=19,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=19,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=20,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=20,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=21,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=21,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=22,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=22,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=23,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=23,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=24,powered=false": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=custom_head,note=24,powered=true": {
+      "model": "minecraft:block/note_block"
+    },
+    "instrument=bass_drum,note=5,powered=false": {
+      "model": "pokedemo:block/machines/fossil_machine"
+    },
+    "instrument=bass_drum,note=5,powered=true": {
+      "model": "pokedemo:block/machines/fossil_machine"
+    }
+  }
+}

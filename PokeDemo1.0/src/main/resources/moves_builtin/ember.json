@@ -1,0 +1,13 @@
+{
+  "id": "ember",
+  "name": "Ember",
+  "type": "fire",
+  "category": "special",
+  "power": 40,
+  "accuracy": 1.0,
+  "pp": 25,
+  "priority": 0,
+  "effects": [
+    { "kind": "set_status", "status": "burn", "chance": 0.1 }
+  ]
+}

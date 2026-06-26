@@ -1,0 +1,85 @@
+generatedAt: "2026-03-01T22:42:11.030829500+08:00"
+importRoot: "plugins\\PokeDemo\\species_raw\\generation1"
+target: "generation1"
+supportedVariants:
+  - level_up
+counts:
+  supportedLevelUp: 55
+  skipped: 44
+skipped:
+  chansey:
+    - {variant: "level_up", result: "blissey", minLevel: 0}
+  clefairy:
+    - {variant: "item_interact", result: "clefable", minLevel: 0}
+  eevee:
+    - {variant: "item_interact", result: "jolteon", minLevel: 0, learn=[thundershock]}
+    - {variant: "item_interact", result: "vaporeon", minLevel: 0, learn=[watergun]}
+    - {variant: "item_interact", result: "flareon", minLevel: 0, learn=[ember]}
+    - {variant: "level_up", result: "espeon", minLevel: 0, learn=[confusion]}
+    - {variant: "level_up", result: "umbreon", minLevel: 0, learn=[pursuit, snarl]}
+    - {variant: "level_up", result: "sylveon", minLevel: 0, learn=[fairywind, disarmingvoice]}
+    - {variant: "item_interact", result: "leafeon", minLevel: 0, learn=[razorleaf]}
+    - {variant: "item_interact", result: "glaceon", minLevel: 0, learn=[icywind]}
+  electabuzz:
+    - {variant: "trade", result: "electivire", minLevel: 0}
+  exeggcute:
+    - {variant: "item_interact", result: "exeggutor", minLevel: 0, learn=[stomp]}
+    - {variant: "item_interact", result: "exeggutor alolan", minLevel: 0, learn=[dragonhammer]}
+  gloom:
+    - {variant: "item_interact", result: "vileplume", minLevel: 0, learn=[petalblizzard]}
+    - {variant: "item_interact", result: "bellossom", minLevel: 0, learn=[magicalleaf, petalblizzard]}
+  golbat:
+    - {variant: "level_up", result: "crobat", minLevel: 0, learn=[crosspoison]}
+  graveler:
+    - {variant: "trade", result: "golem", minLevel: 0}
+  growlithe:
+    - {variant: "item_interact", result: "arcanine", minLevel: 0, learn=[extremespeed]}
+  haunter:
+    - {variant: "trade", result: "gengar", minLevel: 0, learn=[shadowpunch]}
+  jigglypuff:
+    - {variant: "item_interact", result: "wigglytuff", minLevel: 0}
+  kadabra:
+    - {variant: "trade", result: "alakazam", minLevel: 0, learn=[kinesis]}
+  lickitung:
+    - {variant: "level_up", result: "lickilicky", minLevel: 0}
+  machoke:
+    - {variant: "trade", result: "machamp", minLevel: 0, learn=[strength]}
+  magmar:
+    - {variant: "trade", result: "magmortar", minLevel: 0}
+  magneton:
+    - {variant: "item_interact", result: "magnezone", minLevel: 0}
+  nidorina:
+    - {variant: "item_interact", result: "nidoqueen", minLevel: 0, learn=[superpower]}
+  nidorino:
+    - {variant: "item_interact", result: "nidoking", minLevel: 0, learn=[megahorn]}
+  onix:
+    - {variant: "trade", result: "steelix", minLevel: 0}
+  pikachu:
+    - {variant: "item_interact", result: "raichu", minLevel: 0, learn=[thunderpunch]}
+    - {variant: "item_interact", result: "raichu alolan", minLevel: 0, learn=[psychic]}
+  poliwhirl:
+    - {variant: "item_interact", result: "poliwrath", minLevel: 0, learn=[submission, dynamicpunch]}
+    - {variant: "trade", result: "politoed", minLevel: 0, learn=[bounce]}
+  porygon:
+    - {variant: "trade", result: "porygon2", minLevel: 0}
+  primeape:
+    - {variant: "level_up", result: "annihilape", minLevel: 0, learn=[shadowpunch]}
+  rhydon:
+    - {variant: "trade", result: "rhyperior", minLevel: 0}
+  scyther:
+    - {variant: "trade", result: "scizor", minLevel: 0, learn=[bulletpunch]}
+    - {variant: "item_interact", result: "kleavor", minLevel: 0, learn=[stoneaxe]}
+  seadra:
+    - {variant: "trade", result: "kingdra", minLevel: 0}
+  shellder:
+    - {variant: "item_interact", result: "cloyster", minLevel: 0, learn=[iciclespear]}
+  slowpoke:
+    - {variant: "trade", result: "slowking", minLevel: 0}
+  staryu:
+    - {variant: "item_interact", result: "starmie", minLevel: 0}
+  tangela:
+    - {variant: "level_up", result: "tangrowth", minLevel: 0}
+  vulpix:
+    - {variant: "item_interact", result: "ninetales", minLevel: 0}
+  weepinbell:
+    - {variant: "item_interact", result: "victreebel", minLevel: 0, learn=[leaftornado, leafstorm]}

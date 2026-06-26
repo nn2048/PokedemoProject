@@ -1,0 +1,99 @@
+# Plugin-side bridge file for Cobblemon-style spawn rules.
+# You can expand this later when importing more spawn pools.
+
+biomeAliases:
+  minecraft:plains: [temperate, grassy, grassland, plains, overworld]
+  minecraft:sunflower_plains: [temperate, grassy, grassland, plains, floral, overworld]
+  minecraft:meadow: [temperate, grassy, grassland, floral, mountain, overworld]
+  minecraft:forest: [forest, temperate, overworld]
+  minecraft:birch_forest: [forest, temperate, overworld]
+  minecraft:dark_forest: [forest, spooky, overworld]
+  minecraft:jungle: [jungle, tropical, lush, overworld]
+  minecraft:bamboo_jungle: [jungle, tropical, lush, overworld]
+  minecraft:swamp: [swamp, freshwater, spooky, overworld]
+  minecraft:mangrove_swamp: [swamp, freshwater, lush, overworld]
+  minecraft:beach: [shore, coast, overworld]
+  minecraft:stony_shore: [shore, coast, overworld]
+  minecraft:river: [freshwater, river, water, overworld]
+  minecraft:ocean: [ocean, aquatic, water, overworld]
+  minecraft:deep_ocean: [ocean, aquatic, water, deep_ocean, overworld]
+  minecraft:lukewarm_ocean: [ocean, aquatic, tropical, water, overworld]
+  minecraft:deep_lukewarm_ocean: [ocean, aquatic, tropical, water, deep_ocean, overworld]
+  minecraft:cold_ocean: [ocean, aquatic, freezing, water, overworld]
+  minecraft:frozen_ocean: [ocean, aquatic, freezing, water, overworld]
+  minecraft:desert: [arid, desert, overworld]
+  minecraft:savanna: [arid, savanna, overworld]
+  minecraft:windswept_hills: [mountain, hill, overworld]
+  minecraft:jagged_peaks: [mountain, freezing, overworld]
+  minecraft:stony_peaks: [mountain, overworld]
+  minecraft:snowy_taiga: [freezing, forest, taiga, overworld]
+  minecraft:taiga: [forest, taiga, overworld]
+  minecraft:deep_dark: [cave, spooky, deep_dark, overworld]
+  minecraft:dripstone_caves: [cave, dripstone, overworld]
+  minecraft:lush_caves: [cave, lush, overworld]
+  minecraft:nether_wastes: [nether, volcanic]
+  minecraft:basalt_deltas: [nether, volcanic]
+  minecraft:crimson_forest: [nether, spooky]
+  minecraft:warped_forest: [nether, magical]
+  minecraft:the_end: [end, sky]
+
+biomeExtraTags:
+  urban: [#cobblemon:is_urban, urban]
+  village: [#cobblemon:is_urban, urban]
+  spooky: [#cobblemon:is_spooky]
+  floral: [#cobblemon:is_floral]
+  freshwater: [#cobblemon:is_freshwater]
+  ocean: [#cobblemon:is_ocean]
+  shore: [#cobblemon:is_coast, #cobblemon:is_beach]
+  forest: [#cobblemon:is_forest]
+  jungle: [#cobblemon:is_jungle]
+  grassland: [#cobblemon:is_grassland]
+  plains: [#cobblemon:is_plains]
+  mountain: [#cobblemon:is_mountain]
+  arid: [#cobblemon:is_arid]
+  desert: [#cobblemon:is_desert]
+  savanna: [#cobblemon:is_savanna]
+  freezing: [#cobblemon:is_freezing]
+  taiga: [#cobblemon:is_taiga]
+  lush: [#cobblemon:is_lush]
+  deep_dark: [#cobblemon:is_deep_dark]
+  dripstone: [#cobblemon:is_dripstone]
+  mushroom: [#cobblemon:is_mushroom]
+  sky: [#cobblemon:is_sky]
+
+blockAliases:
+  cobblemon:pc: [pokedemo:pc_machine, pc_machine]
+  cobblemon:healer: [pokedemo:healer_machine, healer_machine]
+  cobblemon:pasture: [pokedemo:pasture_machine, pasture_machine]
+  cobblemon:fossil_machine: [pokedemo:fossil_machine, fossil_machine]
+  cobblemon:trade_machine: [pokedemo:trade_machine, trade_machine]
+  cobblemon:clone_machine: [pokedemo:clone_machine, clone_machine]
+  cobblemon:water: [minecraft:water]
+  cobblemon:lava: [minecraft:lava]
+  cobblemon:grass: [minecraft:grass_block, minecraft:tall_grass, minecraft:short_grass]
+  cobblemon:leaves: [minecraft:oak_leaves, minecraft:birch_leaves, minecraft:spruce_leaves, minecraft:jungle_leaves, minecraft:acacia_leaves, minecraft:dark_oak_leaves, minecraft:mangrove_leaves, minecraft:cherry_leaves, minecraft:azalea_leaves, minecraft:flowering_azalea_leaves]
+
+structureAliases:
+  village: VILLAGE
+  pokemon_center: VILLAGE
+  pokecenter: VILLAGE
+  ancient_city: ANCIENT_CITY
+  pillager_outpost: PILLAGER_OUTPOST
+  mineshaft: MINESHAFT
+  stronghold: STRONGHOLD
+  woodland_mansion: WOODLAND_MANSION
+  mansion: WOODLAND_MANSION
+  ruined_portal: RUINED_PORTAL
+  trail_ruins: TRAIL_RUINS
+  igloo: IGLOO
+  jungle_temple: JUNGLE_TEMPLE
+  desert_pyramid: DESERT_PYRAMID
+  ocean_ruins: OCEAN_RUIN
+  ocean_ruin: OCEAN_RUIN
+  ocean_monument: OCEAN_MONUMENT
+  #minecraft:village: VILLAGE
+  #minecraft:shipwreck: SHIPWRECK
+  #cobblemon:shipwreck_cove: SHIPWRECK
+  cobblemon:shipwreck_coves/submerged_shipwreck_cove: SHIPWRECK
+  cobblemon:shipwreck_coves/lush_shipwreck_cove: SHIPWRECK
+  minecraft:monument: OCEAN_MONUMENT

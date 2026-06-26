@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:combusken",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:combusken",
+      "model": "cobblemon:combusken_male.geo",
+      "texture": "cobblemon:textures/pokemon/0256_combusken/combusken.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0256_combusken/combusken_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:combusken_female.geo"
+    }
+  ]
+}

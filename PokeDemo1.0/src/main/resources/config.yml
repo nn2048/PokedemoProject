@@ -1,0 +1,582 @@
+# PokeDemo configuration
+storage:
+  autosave-seconds: 30
+
+# 视觉（资源包模型）参数
+visuals:
+  display-layers-enabled: false
+  # ItemDisplay 相对精灵载体(狼)脚底的偏移（方块单位）
+  # 若模型插进地里，把它调大一些（例如 0.45）
+  model-offset-y: 0.5
+  # 名字/等级 TextDisplay 的高度（方块单位）
+  name-offset-y: 1.35
+  # ItemDisplay 缩放（越大越大）
+  scale: 2.0
+  # 隐藏旧版南瓜头 ItemDisplay，只保留文字层与交互层（客户端桥接模型仍会正常显示）
+  hide-model-display: true
+  # 根据每种精灵的 scale / y-offset 自动抬高名字位置
+  name-auto-height: true
+  name-top-extra-y: 0.18
+  name-min-above-model: 0.55
+  name-scale-factor: 0.42
+  name-large-bonus-start: 1.0
+  name-large-bonus-factor: 0.60
+  name-huge-bonus-start: 2.0
+  name-huge-bonus-factor: 0.55
+  name-visible-range: 5.0
+  name-visible-check-interval-ticks: 20
+
+spawns:
+  same-pass-min-spacing: 3
+  same-pass-vertical-spacing: 6
+
+  natural-spawn-blacklist:
+    - ditto
+  enabled: true
+  # Spawn method: VIRTUAL (encounter triggers GUI) or ENTITY (spawns wolf entities)
+  mode: ENTITY
+  per-player-cap: 8
+  check-interval-ticks: 80
+  spawn-radius: 24
+  despawn-distance: 96
+  # Worlds and dimensions allowed
+  enabled-worlds:
+  - world
+  - world_nether
+  - world_the_end
+  buckets: {}
+  weight-multipliers: {}
+  confidence-multipliers:
+    high: 1.0
+    medium: 0.7
+    low: 0.28
+    unsafe: 0.10
+    unknown: 0.60
+  high-risk:
+    special-preset-multiplier: 0.55
+    ignored-condition-multiplier: 0.70
+    missing-preset-multiplier: 0.40
+  table-file: spawns_all_exact_biomes.yml
+  # Cobblemon spawn import. Default path is fully offline: read the bundled spawn_pool_world data shipped inside this plugin.
+  cobblemon-import:
+    enabled: false
+    prefer-bundled: true
+    # Optional fallback folder under plugins/PokeDemo/ for manually overridden spawn_pool_world json files.
+    merge-folder-after-bundled: false
+    # External Cobblemon jars are disabled by default to keep the server fully offline and deterministic.
+    allow-external-jar: false
+    # Relative to plugins/PokeDemo/ if not absolute. Only used when allow-external-jar=true.
+    jar: ""
+    skip-unsupported: true
+    include-fishing: false
+    degrade-fishing-to-water: true
+    include-structure-presets: false
+  cobblemon-import-folder: cobblemon_spawn_pool_world
+
+capture:
+  # Use a custom item for poke balls
+  ball-material: SNOWBALL
+  ball-custom-model-data: 9001
+  # Base multipliers by ball type key
+  balls:
+    POKE_BALL: 1.0
+    GREAT_BALL: 1.5
+    ULTRA_BALL: 2.0
+
+battle:
+  enabled: true
+  # If true, attacking a wild entity starts a battle GUI instead of normal combat
+  intercept-combat: true
+
+party-sidebar:
+  enabled: true
+  title: "&6✦ 精灵队伍 ✦"
+  update-ticks: 20
+
+# Species data loading:
+# - Put JSON files in plugins/PokeDemo/species/
+# - For demo, we ship a small built-in set in jar resources under /species_builtin/
+#   and copy them on first run if folder is empty.
+
+
+# 调试魔杖：调整模型大小/高度（按精灵种类写入配置并热更新）
+control-wand:
+  scale-step: 0.1
+  y-step: 0.05
+  min-scale: 0.1
+  max-scale: 10.0
+  item:
+    material: STICK
+    # 若你想给魔杖自己也套模型，可设置CMD；0表示不设置
+    custom-model-data: 0
+
+# 每种精灵的模型参数（空表示使用 visuals.* 的全局默认值）
+# 例子：
+# pokemon-visuals:
+#   pikachu:
+#     scale: 1.8
+#     y-offset: 0.55
+pokemon-visuals:
+  bulbasaur:
+    scale: 1.1999999999999993
+    y-offset: 0.6000000000000001
+  charizard:
+    scale: 3.4000000000000012
+    y-offset: 1.750000000000001
+  pikachu:
+    scale: 0.5999999999999993
+    y-offset: 0.20000000000000007
+  metapod:
+    scale: 2.0
+    y-offset: 0.9500000000000004
+  butterfree:
+    scale: 0.49999999999999933
+    y-offset: 1.0000000000000004
+  clefairy:
+    scale: 1.5999999999999996
+    y-offset: 0.8500000000000003
+  charmeleon:
+    scale: 0.49999999999999933
+    y-offset: 0.4
+  squirtle:
+    scale: 0.5999999999999993
+    y-offset: 0.30000000000000004
+  eevee:
+    scale: 0.9999999999999992
+    y-offset: 0.5
+  charmander:
+    scale: 0.6999999999999993
+    y-offset: 0.35000000000000003
+  lapras:
+    scale: 1.5999999999999996
+    y-offset: 0.7000000000000002
+  wartortle:
+    scale: 0.6999999999999993
+    y-offset: 0.5
+  venusaur:
+    scale: 2.5000000000000004
+    y-offset: 1.1000000000000005
+  ekans:
+    scale: 2.7000000000000006
+    y-offset: 1.5000000000000009
+  zubat:
+    scale: 1.9
+    y-offset: 1.600000000000001
+  pidgeotto:
+    scale: 1.0999999999999992
+    y-offset: 2.3000000000000003
+  ninetales:
+    scale: 3.6000000000000014
+    y-offset: 1.750000000000001
+  caterpie:
+    scale: 2.0
+    y-offset: 1.0500000000000005
+  kakuna:
+    scale: 0.7999999999999993
+    y-offset: 0.6500000000000001
+  raichu:
+    scale: 2.0
+    y-offset: 1.1500000000000006
+  fearow:
+    scale: 2.0
+    y-offset: 2.999999999999998
+  spearow:
+    scale: 1.4999999999999996
+    y-offset: 2.5499999999999994
+  arbok:
+    scale: 2.1
+    y-offset: 1.0500000000000005
+  jigglypuff:
+    scale: 2.0
+    y-offset: 1.0000000000000004
+  nidorino:
+    scale: 0.7999999999999993
+    y-offset: 0.55
+  nidoqueen:
+    scale: 2.0
+    y-offset: 1.1000000000000005
+  rattata:
+    scale: 1.5999999999999996
+    y-offset: 0.8000000000000003
+  nidoking:
+    scale: 0.8999999999999992
+    y-offset: 0.45
+  sandslash:
+    scale: 2.0
+    y-offset: 0.9500000000000004
+  nidorina:
+    scale: 0.9999999999999992
+    y-offset: 0.5
+  gloom:
+    scale: 1.7999999999999998
+    y-offset: 0.9000000000000004
+  golbat:
+    scale: 2.0
+    y-offset: 1.8000000000000012
+  weedle:
+    scale: 1.1999999999999993
+    y-offset: 0.6000000000000001
+  vulpix:
+    scale: 1.2999999999999994
+    y-offset: 0.6000000000000001
+  oddish:
+    scale: 2.0
+    y-offset: 1.0000000000000004
+  raticate:
+    scale: 1.9
+    y-offset: 1.0000000000000004
+  pidgeot:
+    scale: 2.0
+    y-offset: 2.4
+  wigglytuff:
+    scale: 0.8999999999999992
+    y-offset: 0.45
+  pidgey:
+    scale: 0.6999999999999993
+    y-offset: 2.4999999999999996
+  ivysaur:
+    scale: 2.0
+    y-offset: 1.0000000000000004
+  vaporeon:
+    scale: 0.7999999999999993
+    y-offset: 0.4
+  dugtrio:
+    scale: 0.6999999999999993
+    y-offset: 0.5
+  kangaskhan:
+    scale: 2.5000000000000004
+    y-offset: 1.4000000000000008
+  starmie:
+    scale: 0.2999999999999994
+    y-offset: 0.5
+  mew:
+    scale: 0.39999999999999936
+    y-offset: 1.0000000000000004
+  venonat:
+    scale: 0.7999999999999993
+    y-offset: 0.5
+  rhydon:
+    scale: 2.0
+    y-offset: 1.0000000000000004
+  gengar:
+    scale: 1.7999999999999998
+    y-offset: 0.8500000000000003
+  mewtwo:
+    scale: 1.6999999999999997
+    y-offset: 0.8500000000000003
+  magnemite:
+    scale: 2.0
+    y-offset: 1.550000000000001
+  graveler:
+    scale: 0.9999999999999992
+    y-offset: 0.5
+  tauros:
+    scale: 2.7000000000000006
+    y-offset: 1.3500000000000008
+  electabuzz:
+    scale: 2.0
+    y-offset: 0.9000000000000004
+  seadra:
+    scale: 0.6999999999999993
+    y-offset: 0.5
+  dragonite:
+    scale: 2.4000000000000004
+    y-offset: 1.2000000000000006
+  machamp:
+    scale: 1.4999999999999996
+    y-offset: 0.8500000000000003
+  moltres:
+    scale: 2.8000000000000007
+    y-offset: 1.4000000000000008
+  zapdos:
+    scale: 5.599999999999996
+    y-offset: 2.8499999999999983
+  articuno:
+    scale: 4.899999999999999
+    y-offset: 2.35
+  seel:
+    scale: 0.9999999999999992
+    y-offset: 0.5
+  tentacool:
+    scale: 0.9999999999999992
+    y-offset: 0.5
+  voltorb:
+    scale: 1.4999999999999996
+    y-offset: 0.7500000000000002
+  machoke:
+    scale: 1.2999999999999994
+    y-offset: 0.8500000000000003
+  tentacruel:
+    scale: 1.0999999999999992
+    y-offset: 0.5
+  scyther:
+    scale: 0.9999999999999992
+    y-offset: 0.5
+  hitmonchan:
+    scale: 1.0999999999999992
+    y-offset: 0.5
+  machop:
+    scale: 0.6999999999999993
+    y-offset: 0.35000000000000003
+  golem:
+    scale: 1.3999999999999995
+    y-offset: 0.6500000000000001
+  gyarados:
+    scale: 3.7000000000000015
+    y-offset: 0.9500000000000004
+  kadabra:
+    scale: 1.0999999999999992
+    y-offset: 0.9000000000000004
+  victreebel:
+    scale: 2.0
+    y-offset: 0.9500000000000004
+  pinsir:
+    scale: 1.2999999999999994
+    y-offset: 0.7000000000000002
+  alakazam:
+    scale: 1.5999999999999996
+    y-offset: 0.7500000000000002
+  primeape:
+    scale: 0.8999999999999992
+    y-offset: 0.5
+  jolteon:
+    scale: 0.6999999999999993
+    y-offset: 0.35000000000000003
+  bellsprout:
+    scale: 0.8999999999999992
+    y-offset: 0.5
+  grimer:
+    scale: 0.8999999999999992
+    y-offset: 0.5
+  poliwag:
+    scale: 1.1999999999999993
+    y-offset: 0.7000000000000002
+  gastly:
+    scale: 1.7999999999999998
+    y-offset: 0.6500000000000001
+  rhyhorn:
+    scale: 1.7999999999999998
+    y-offset: 0.8500000000000003
+  slowbro:
+    scale: 0.8999999999999992
+    y-offset: 0.5
+  kabutops:
+    scale: 2.0
+    y-offset: 0.5
+  dodrio:
+    scale: 1.4999999999999996
+    y-offset: 0.7000000000000002
+  porygon:
+    scale: 0.5999999999999993
+    y-offset: 0.30000000000000004
+  hypno:
+    scale: 0.6999999999999993
+    y-offset: 0.4
+  flareon:
+    scale: 0.8999999999999992
+    y-offset: 0.5
+  horsea:
+    scale: 1.1999999999999993
+    y-offset: 0.5
+  krabby:
+    scale: 0.8999999999999992
+    y-offset: 0.55
+  kingler:
+    scale: 1.5999999999999996
+    y-offset: 0.8000000000000003
+  arcanine:
+    scale: 0.5999999999999993
+    y-offset: 0.30000000000000004
+  drowzee:
+    scale: 0.8999999999999992
+    y-offset: 0.55
+  magikarp:
+    scale: 1.1999999999999993
+    y-offset: 0.5
+  muk:
+    scale: 0.7999999999999993
+    y-offset: 0.4
+  onix:
+    scale: 6.8999999999999915
+    y-offset: 3.249999999999997
+  magneton:
+    scale: 2.0
+    y-offset: 1.650000000000001
+  cubone:
+    scale: 1.3999999999999995
+    y-offset: 0.7000000000000002
+  seaking:
+    scale: 0.6999999999999993
+    y-offset: 0.35000000000000003
+  omanyte:
+    scale: 2.0
+    y-offset: 1.0000000000000004
+  paras:
+    scale: 0.6999999999999993
+    y-offset: 0.55
+  rapidash:
+    scale: 2.0
+    y-offset: 1.0000000000000004
+  dewgong:
+    scale: 1.3999999999999995
+    y-offset: 0.9500000000000004
+  staryu:
+    scale: 0.8999999999999992
+    y-offset: 0.45
+  aerodactyl:
+    scale: 4.100000000000001
+    y-offset: 2.3000000000000003
+  meowth:
+    scale: 0.9999999999999992
+    y-offset: 0.45
+  haunter:
+    scale: 1.1999999999999993
+    y-offset: 1.600000000000001
+  parasect:
+    scale: 0.39999999999999936
+    y-offset: 0.30000000000000004
+  lickitung:
+    scale: 0.7999999999999993
+    y-offset: 0.5
+  persian:
+    scale: 0.8999999999999992
+    y-offset: 0.45
+  poliwhirl:
+    scale: 0.5999999999999993
+    y-offset: 0.5
+  dragonair:
+    scale: 1.1999999999999993
+    y-offset: 0.5
+  cloyster:
+    scale: 0.6999999999999993
+    y-offset: 0.5
+  slowpoke:
+    scale: 1.2999999999999994
+    y-offset: 0.6000000000000001
+  mankey:
+    scale: 2.0
+    y-offset: 1.0000000000000004
+  golduck:
+    scale: 0.8999999999999992
+    y-offset: 0.5
+  tangela:
+    scale: 1.7999999999999998
+    y-offset: 0.9000000000000004
+  jynx:
+    scale: 1.4999999999999996
+    y-offset: 0.7000000000000002
+  blastoise:
+    scale: 1.3999999999999995
+    y-offset: 0.7500000000000002
+  koffing:
+    scale: 0.9999999999999992
+    y-offset: 1.3500000000000008
+  weezing:
+    scale: 1.4999999999999996
+    y-offset: 1.750000000000001
+  marowak:
+    scale: 0.9999999999999992
+    y-offset: 0.5
+  electrode:
+    scale: 0.8999999999999992
+    y-offset: 0.6000000000000001
+  growlithe:
+    scale: 0.9999999999999992
+    y-offset: 0.55
+  exeggcute:
+    scale: 1.2999999999999994
+    y-offset: 0.9000000000000004
+  weepinbell:
+    scale: 1.2999999999999994
+    y-offset: 0.8500000000000003
+  ditto:
+    scale: 0.9999999999999992
+    y-offset: 0.4
+  ponyta:
+    scale: 1.0999999999999992
+    y-offset: 0.5
+  psyduck:
+    scale: 0.7999999999999993
+    y-offset: 0.45
+  goldeen:
+    scale: 0.7999999999999993
+    y-offset: 0.5
+  kabuto:
+    scale: 2.0
+    y-offset: 1.0000000000000004
+  dratini:
+    scale: 0.6999999999999993
+    y-offset: 0.30000000000000004
+  venomoth:
+    scale: 0.6999999999999993
+    y-offset: 0.9500000000000004
+  magmar:
+    scale: 1.0999999999999992
+    y-offset: 0.55
+  omastar:
+    scale: 1.5999999999999996
+    y-offset: 0.8000000000000003
+  poliwrath:
+    scale: 1.1999999999999993
+    y-offset: 0.6500000000000001
+  shellder:
+    scale: 1.2999999999999994
+    y-offset: 0.5
+  vileplume:
+    scale: 1.2999999999999994
+    y-offset: 0.6000000000000001
+  geodude:
+    scale: 1.0999999999999992
+    y-offset: 0.6500000000000001
+  sandshrew:
+    scale: 1.6999999999999997
+    y-offset: 0.9000000000000004
+  abra:
+    scale: 0.7999999999999993
+    y-offset: 0.4
+  diglett:
+    scale: 1.1999999999999993
+    y-offset: 0.6000000000000001
+  doduo:
+    scale: 1.6999999999999997
+    y-offset: 0.8000000000000003
+
+# 召唤热键扩展：
+# - Shift+F（交换副手）仍可用（玩家可在客户端把“交换副手物品”改键为R）
+# - 额外支持：潜行时切换到快捷栏 1-6，会召唤/切换对应队伍格子（无法区分“数字键”还是“滚轮”，因此潜行滚轮也会触发）
+summon:
+  hotbar-keys:
+    enabled: true
+    require-sneak: true
+    cooldown-ms: 250
+config-version: 45
+
+
+# Pokemon Showdown / all-generations import settings
+showdown:
+  # Import bundled learnsets onto loaded species at startup
+  apply-learnsets: true
+  # 0 = accept all generations' learnset tags (recommended for full national dex)
+  learnsets-generation: 0
+  # false = do not restrict moves to Gen1 (#1-#165)
+  gen1-only-moves: false
+
+
+fishing-pokemon:
+  enabled: true
+  encounter-chance: 0.35
+  lure-bonus-per-level: 0.10
+  special-spot-bonus: 0.10
+  night-bonus: 0.05
+  rain-bonus: 0.05
+  allow-vanilla-rod: false
+  bucket-weights:
+    common: 55
+    uncommon: 28
+    rare: 12
+    ultra_rare: 5
+
+  despawn-sweep-interval-ms: 4000
+  nearby-count-cache-ms: 1200
+  expensive-candidate-scans: false
+  candidate-structure-scans: false

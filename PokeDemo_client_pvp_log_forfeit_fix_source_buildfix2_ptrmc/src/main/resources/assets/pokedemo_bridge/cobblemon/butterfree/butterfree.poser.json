@@ -1,0 +1,28 @@
+{
+  "portraitScale": 1.0,
+  "portraitTranslation": [
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1.0,
+  "profileTranslation": [
+    0,
+    0,
+    0
+  ],
+  "rootBone": "butterfree",
+  "animations": {
+    "cry": "q.bedrock_primary('butterfree', 'cry', q.curve('one'))"
+  },
+  "poses": {
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('butterfree', 'sleep')"
+      ]
+    }
+  }
+}

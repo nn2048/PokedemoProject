@@ -1,0 +1,908 @@
+pokedemo: 
+common: 
+empty: §7(空)
+none: (なし)
+no_desc: 説明なし
+no_recipe: レシピなし
+gui: 
+back: 
+close: §c閉じる
+next: §a次へ
+prev: §a前へ
+locked: §cロック中のため操作できません
+shift_click_details: §eShift+クリック：詳細を見る
+shift_click_details_pokemon: §eShift+クリック：ポケモン詳細
+unlockall_hint: §7§f/pokedemo unlockall §7で全開放。
+phone: 
+title: §8ポケモン詳細
+recipes: 
+lore: §7IV/EV
+party: §7パーティへ戻る
+pc: §7PCへ戻る
+healer: 
+machine: 
+dex: 
+cat: 
+balls: 
+devices: 
+items: 
+devices_hint: 上=図鑑 左=PC 右=回復 中=リピーター
+list: 
+prefix: '§6レシピ - '
+page: §7ページ {page}
+left_click_take: §e左クリック：パーティへ
+right_click_release: §c右クリック：逃がす
+right_click_release_confirm: §cもう一度右クリックで確定
+title_compact: §aパーティ
+left_click_select_swap_gray: §7左クリック：選択/並び替え
+left_click_pick_for_swap: §7左クリック：入れ替え対象に選択
+right_click_store_pc: §b右クリック：PCへ入れる
+starter: 
+entry: 
+summary: 
+tab: 
+overview: 
+moves: 
+stats: 
+iv_ev: 
+label: 
+uuid: UUID
+species: 種類
+types: タイプ
+type: タイプ
+nature: 性格
+gender: 性別
+iv: 個体値
+hp: §cHP
+status: 状態
+nickname: 
+ot: 
+held_item: 
+category: 分類
+accuracy: 命中
+locked_tag: ロック
+egg: 
+hint: §8後でOTを設定可能
+placeholder: §7(サーバープレイヤー)
+has: §7所持中
+remove: §8左クリックで外す
+replace: §8インベントリの道具を左クリック→ここをクリックで交換
+set: §8インベントリの道具を左クリック→ここをクリックで持たせる
+only_pokedemo: §8PokeDemo道具のみ対応
+pokedemo.battle.log.attract: "§d{atk} is immobilized by love!"
+pokedemo.battle.log.heal_hp: "§a{mon} restored §c{n}§a HP!"
+pokedemo.battle.log.encore: "§7{atk} keeps using §f{move}§7!"
+pokedemo.battle.log.disable: "§7{atk}'s §f{move}§7 was disabled!"
+pokedemo.battle.log.bide_charging: "§7{atk} is storing energy..."
+pokedemo.battle.log.bide_release: "§c{atk} unleashed energy!"
+pokedemo.battle.log.deal_damage: "§fDealt §c{dmg}§f damage! §7({hp}/{max})"
+pokedemo.battle.log.confused: "§d{atk} became confused!"
+pokedemo.battle.log.confused_hit_self: "§cIt hurt itself in its confusion! §fDealt §c{dmg}§f damage!"
+pokedemo.battle.log.confusion_end: "§a{atk} snapped out of confusion!"
+pokedemo.battle.log.sleeping: "§7{atk} is fast asleep!"
+pokedemo.battle.log.woke_up: "§a{atk} woke up!"
+pokedemo.battle.log.damp: "§6[Damp] §eThe air is too damp—move failed!"
+pokedemo.battle.log.soundproof: "§6[Soundproof] §e{def} is immune to sound-based moves!"
+pokedemo.battle.log.safety_goggles: "§7{def}'s §fSafety Goggles§7 blocked the powder!"
+pokedemo.battle.log.overcoat: "§6[Overcoat] §e{def} blocked the powder!"
+pokedemo.battle.log.miss: "§eBut it missed!"
+pokedemo.battle.log.fail: "§7But it failed."
+pokedemo.battle.log.blunder_policy: "§d{atk}'s §fBlunder Policy§d activated! Speed rose sharply!"
+pokedemo.battle.log.weather.sun: "§eThe sunlight turned harsh! §7({n} turns)"
+pokedemo.battle.log.escape_fail: "§cCouldn't escape!"
+pokedemo.battle.log.escape_try_fail: "§7You tried to run, but couldn't escape..."
+pokedemo.battle.item.error: "§cAn error occurred while using the item: {err}"
+pokedemo.battle.log.mystery_berry: "§a{mon}'s §fMystery Berry§a restored move PP!"
+pokedemo.battle.log.cannot_move_anymore: "§7But it can no longer move!"
+pokedemo.battle.log.defeat_wild: "§aYou defeated the wild Pokémon: §f{wild}§a!"
+pokedemo.battle.log.pickup: "§6[Pickup] §e{mon} found §f{item}§e!"
+pokedemo.battle.log.gain_exp: "§f{mon} §agained §e{exp}§a EXP."
+pokedemo.battle.log.level_up: "§bLevel up! §f{mon} §areached §eLv.{lv}§a!"
+pokedemo.battle.log.forced_switch: "§eYour Pokémon fainted! Choose a replacement from the list."
+pokedemo.battle.log.party_fainted_end: "§cAll your Pokémon have fainted! Battle ended."
+pokedemo.clone.bonus.cap: 
+pokedemo.clone.cleared: 
+pokedemo.clone.invalid_location: 
+pokedemo.clone.select_hint: 
+pokedemo.common.back: §eBack
+pokedemo.common.back_red: §cBack
+pokedemo.common.back_to_machine: §7Back to machine
+pokedemo.common.click_select_paren: §7(ClickSelect)
+pokedemo.common.close: §cClose
+pokedemo.common.empty_slot: §7Empty slot
+pokedemo.common.locked_cannot_select: §cAlready lock，cannotSelect
+pokedemo.common.locked_tag: §c(Locked)
+pokedemo.common.missing_paren: (丢失)
+pokedemo.common.seconds_gray: §7 s
+pokedemo.common.unlockall_hint_short: §7can 用 /pokedemo unlockall one-click remove 
+pokedemo.gui.clone.chance: §e克隆Success率
+pokedemo.gui.clone.chance.cap: §7Cap：§a+50%
+pokedemo.gui.clone.chance.hint: §7You canconsume materialsincrease
+pokedemo.gui.clone.clear: §cUnlock/Clear
+pokedemo.gui.clone.clear.l1: §7remove this 机器对Mew lock
+pokedemo.gui.clone.clear.l2: §7并Clear概率加成
+pokedemo.gui.clone.clear.l3: 
+pokedemo.gui.clone.idle: §7待机
+pokedemo.gui.clone.idle.hint: 
+pokedemo.gui.clone.no_mew: §cNot Select Mew
+pokedemo.gui.clone.no_mew.lore: §7Clickright buttonSelect
+pokedemo.gui.clone.running: §d正在克隆ing...
+pokedemo.gui.clone.running.break: 
+pokedemo.gui.clone.select_mew: §bSelect Mew
+pokedemo.gui.clone.select_mew.l1: 
+pokedemo.gui.clone.select_mew.l2: 
+pokedemo.gui.clone.start: §dStart克隆
+pokedemo.gui.clone.start.fail: 
+pokedemo.gui.clone.start.l1: 
+pokedemo.gui.clone.start.l2: §7结束 after按Success率判定
+pokedemo.gui.clone.start.ok: 
+pokedemo.gui.clone.title: §dPokémon Clone Machine
+pokedemo.machine.analyzer.claim_note: §7If your inventory is full, it will drop on the ground
+pokedemo.machine.analyzer.click_claim: §aClick to get fossil
+pokedemo.machine.analyzer.countdown_prefix: §7Countdown：§e
+pokedemo.machine.analyzer.inject_water_btn: §eInject Water Bucket
+pokedemo.machine.analyzer.inject_water_lore1: §7Click to consume 1 water bucket
+pokedemo.machine.analyzer.inject_water_lore2: §7and return 1 empty bucket
+pokedemo.machine.analyzer.need_stone: §7PleaseInsert Suspicious Stone。
+pokedemo.machine.analyzer.need_water: §7PleaseInject Water Bucket。
+pokedemo.machine.analyzer.no_bucket: §7You don't havea water bucket。
+pokedemo.machine.analyzer.no_stone: §7You don't haveSuspicious Stone。
+pokedemo.machine.analyzer.placed: §6PlacedFossil Analyzer
+pokedemo.machine.analyzer.put_stone_btn: §eInsert Suspicious Stone
+pokedemo.machine.analyzer.put_stone_lore: §7Click to consume 1Suspicious Stone
+pokedemo.machine.analyzer.put_stone_note: §8（After inserting, cannot be taken back）
+pokedemo.machine.analyzer.result_wait: §7Result ready to claim。
+pokedemo.machine.analyzer.running: §eAnalyzing…
+pokedemo.machine.analyzer.running_wait: §7Analyzing，WaitingCountdown结束…
+pokedemo.machine.analyzer.seconds_suffix: 
+pokedemo.machine.analyzer.start_btn: §7StartAnalyze
+pokedemo.machine.analyzer.start_lore: §7Click to start (60s)
+pokedemo.machine.analyzer.starting: §6Starting analysis (60s)…
+pokedemo.machine.analyzer.stone_in: §aAlready Insert：Suspicious Stone
+pokedemo.machine.analyzer.title: §6Fossil Analyzer
+pokedemo.machine.analyzer.water_in: §aWater injected
+pokedemo.machine.clone.added_bonus_prefix: §aAlready 添加Success率：§f+
+pokedemo.machine.clone.back_to_machine: §7Back克隆机界面
+pokedemo.machine.clone.bad_loc: §c机器locationinvalid，please place again。
+pokedemo.machine.clone.bonus_cap: §7Success率加成Already 达Cap：§a+50%§7。
+pokedemo.machine.clone.bonus_prefix: §fCurrent bonus：§a+
+pokedemo.machine.clone.break_unlock_hint: §8挖掉机器will 自动Unlock
+pokedemo.machine.clone.can_clone: §aCloneable
+pokedemo.machine.clone.choose_hint: "§bPlease 在PartyingSelect a Cloneable Mew。\n§7Tip: 被lock Locked Pokémon cannot be selected。\n§7can 用 /pokedemo unlockall one-click Unlock。"
+pokedemo.machine.clone.cleared: §aAlready Unlock并Clear该克隆机设置。
+pokedemo.machine.clone.click_pick: §eClickSelect this Mew
+pokedemo.machine.clone.consume_one_prefix: §7Click to consume 1 
+pokedemo.machine.clone.hint1: §7Select Mew并设置概率 afterStart
+pokedemo.machine.clone.hint2: §7After starting, a 60s countdown will begin
+pokedemo.machine.clone.mat_diamond: 钻石块
+pokedemo.machine.clone.mat_gold: 金块
+pokedemo.machine.clone.mat_iron: 铁块
+pokedemo.machine.clone.mat_netherite: 下界合金块
+pokedemo.machine.clone.no_egg: §cEggs cannot be cloned
+pokedemo.machine.clone.no_mats: §cYouNot enough materials：
+pokedemo.machine.clone.no_more: §cNo more cloning
+pokedemo.machine.clone.only_mew: §7Only Mew can be cloned
+pokedemo.machine.clone.outcome_fail: §cFailed：§fCreate a low-level Ditto; the machine remains
+pokedemo.machine.clone.outcome_note: §8(不会重置Mew Clone count)
+pokedemo.machine.clone.outcome_success: §aSuccess：§fCreate Mewtwo and destroy the clone machine
+pokedemo.machine.clone.party_invalid: §cParty不能只有Mew/Egg
+pokedemo.machine.clone.party_need_other: §7Please 至少携带 1 只其它can 战斗Pokémon
+pokedemo.machine.clone.pick_title: §dSelect Mew §7(Party)
+pokedemo.machine.clone.placed: §dPlacedPokémon Clone Machine
+pokedemo.machine.clone.raise_cap: §7Up to §a+50%
+pokedemo.machine.clone.raise_success: §7Increase clone success
+pokedemo.machine.clone.remaining_prefix: §7Remaining：§f
+pokedemo.machine.clone.select_lore1: §7Open PartySelect a Cloneable Mew
+pokedemo.machine.clone.select_lore2: §7选ing afterwill enter lockstatus
+pokedemo.machine.clone.times_prefix: §7Clone count：§f
+pokedemo.machine.common.cannot_place: §cYou can't place it here。
+pokedemo.machine.fossil.add_fuel_left: §7Left-click：添加 1 Redstone（+1s）
+pokedemo.machine.fossil.add_fuel_right: §7Right-click：添加 64 Redstone（+64s，按Youinventory实际扣除）
+pokedemo.machine.fossil.ball_click_use_prefix: §8Click使用（owned 
+pokedemo.machine.fossil.cannot_add_fuel: §7Current cannot添加燃料。
+pokedemo.machine.fossil.cannot_put_fossil: §7Current cannotInsert fossil。
+pokedemo.machine.fossil.choose_ball_title: Select Poké Ball
+pokedemo.machine.fossil.choose_fossil_title: Select fossil
+pokedemo.machine.fossil.claim_fail: §cClaim failed。
+pokedemo.machine.fossil.claim_ok: §aClaimedFossilEgg！
+pokedemo.machine.fossil.claimable: §aClaimable：
+pokedemo.machine.fossil.click_claim: §7Click to claim the fossil egg
+pokedemo.machine.fossil.click_claim_egg: §7Click to claim the egg（Select Poké Ball）
+pokedemo.machine.fossil.click_start: §7Click to start analysis
+pokedemo.machine.fossil.countdown_prefix: §7Countdown：§e
+pokedemo.machine.fossil.egg: §aEgg
+pokedemo.machine.fossil.fossil_amber: §6Old Amber
+pokedemo.machine.fossil.fossil_amber_plain: Old Amber
+pokedemo.machine.fossil.fossil_change_hint: §7Click to change（FossilAfter inserting, cannot be taken back）
+pokedemo.machine.fossil.fossil_dome: §aDome Fossil
+pokedemo.machine.fossil.fossil_dome_plain: Dome Fossil
+pokedemo.machine.fossil.fossil_helix: §bHelix Fossil
+pokedemo.machine.fossil.fossil_helix_plain: Helix Fossil
+pokedemo.machine.fossil.fossil_label: §eFossil：
+pokedemo.machine.fossil.fuel_btn: §cFuel
+pokedemo.machine.fossil.fuel_now: §8Current 燃料：
+pokedemo.machine.fossil.fuel_prefix: §6Already Fuel §e
+pokedemo.machine.fossil.inject_water_btn: §bInject water
+pokedemo.machine.fossil.left_click_choose: §7Left-clickClickSelect fossil
+pokedemo.machine.fossil.need_fossil: §7PleaseInsert fossil。
+pokedemo.machine.fossil.need_fuel: §7Please addRedstoneFuel。
+pokedemo.machine.fossil.no_ball: §7You don't havecan 用 Poké Balls。
+pokedemo.machine.fossil.no_ball_for_egg: §7You don't havecan 用 Poké Balls。\n§7Please准备Poké BallsagainClaimEgg。
+pokedemo.machine.fossil.no_redstone: §7You don't haveRedstone。
+pokedemo.machine.fossil.no_this_fossil: §7You don't havethis Fossil。
+pokedemo.machine.fossil.not_started: §7Not analyzed
+pokedemo.machine.fossil.placed: §6PlacedFossil Reviver
+pokedemo.machine.fossil.put_fossil_btn: §eInsert fossil
+pokedemo.machine.fossil.put_ok: §6Already Insert fossil
+pokedemo.machine.fossil.put_one: §7ClickInsert（consume  1 ）
+pokedemo.machine.fossil.running: §7Analyzing…
+pokedemo.machine.fossil.seconds_suffix: s
+pokedemo.machine.fossil.seconds_suffix_gold: §6 s
+pokedemo.machine.fossil.seconds_suffix_gray: §7 s
+pokedemo.machine.fossil.start_analyze: §6Starting analysis…
+pokedemo.machine.fossil.status_egg_wait: §7Egg ready to claim。
+pokedemo.machine.fossil.status_not: "§7Status: Not analyzed"
+pokedemo.machine.fossil.status_running: §eAnalyzing
+pokedemo.machine.fossil.status_running_wait: §7Analyzing，WaitingCountdown结束…
+pokedemo.machine.fossil.title: §6Fossil Reviver
+pokedemo.machine.fossil.use_water1: §7Click to consume 1 water bucket
+pokedemo.machine.fossil.use_water2: §7and return 1 empty bucket
+pokedemo.machine.fossil.water_done: §aWater injected
+pokedemo.machine.fossil.water_not: §7No water injected
+pokedemo.machine.healer.broken: §aRemovedHealer
+pokedemo.machine.healer.done: §a治疗机Already 恢复You Party：回满血、清除异常并恢复PP。
+pokedemo.machine.healer.placed: §aPlacedHealer
+pokedemo.machine.pasture.back_to_pasture: §7BackPasture界面
+pokedemo.machine.pasture.ball_click_use_prefix: §8Click使用（owned 
+pokedemo.machine.pasture.broken: §dRemovedPokémon Pasture
+pokedemo.machine.pasture.can_breed: Can breed
+pokedemo.machine.pasture.choose_ball_title: Select Poké Ball
+pokedemo.machine.pasture.claim_fail: §cFailed to claim egg。
+pokedemo.machine.pasture.click_pick_ball: §eClickSelect ball and claim egg
+pokedemo.machine.pasture.disabled: §cPokémon PastureAlready 被管理员禁用。
+pokedemo.machine.pasture.egg_note: §8(完成繁殖 afterClaimableEgg)
+pokedemo.machine.pasture.egg_unknown: §fEgg §7(???)
+pokedemo.machine.pasture.gender_unknown: §7性别：§f?
+pokedemo.machine.pasture.gui_title: §dPokémon Pasture
+pokedemo.machine.pasture.iv: §7体：§f
+pokedemo.machine.pasture.iv_unknown: §7体：§f??????
+pokedemo.machine.pasture.mon_missing: §7所选Pokémon不存在或Already 被移除
+pokedemo.machine.pasture.nature: §7性格：§f
+pokedemo.machine.pasture.nature_unknown: §7性格：§f?
+pokedemo.machine.pasture.no_ball: §7You don't havecan 用 Poké Balls。
+pokedemo.machine.pasture.no_egg: §7No egg to claim yet。
+pokedemo.machine.pasture.open_pc_pick: §7Click afterOpen PCSelect a Pokémon
+pokedemo.machine.pasture.placed: §dPlacedPokémon Pasture
+pokedemo.machine.pasture.remaining_prefix: §7Remaining：§f
+pokedemo.machine.pasture.reselect: §7Click重新Select
+pokedemo.machine.pasture.reselect_note: §eClick：重新Select（will remove 原Pokémonlock）
+pokedemo.machine.pasture.slot_a: PokémonA
+pokedemo.machine.pasture.slot_b: PokémonB
+pokedemo.machine.pasture.speed_group_note: §7 (每9方块=1组)
+pokedemo.machine.pasture.speed_groups: §7加速组：§f
+pokedemo.machine.pasture.status_label: §7status：
+pokedemo.machine.pasture.waiting: Waiting
+pokedemo.machine.pc.broken: §bRemovedPC
+pokedemo.machine.pc.no_space: §cNot enough space above，cannot放置PC。\n§7Please Clear上方一格again放置。
+pokedemo.machine.pc.placed: §bPlacedPC
+pokedemo.machine.trade.choose_hint: "§bPlease 在PartyingSelect a for 交换 Pokémon。\n§7Tip: 被lock Locked Pokémon cannot be selected。\n§7can 用 /pokedemo unlockall one-click Unlock。"
+pokedemo.machine.trade.clear: §cUnlock/Clear
+pokedemo.machine.trade.clear_lore1: §7remove this Trade Machine对Pokémon lock
+pokedemo.machine.trade.clear_lore2: §7并ClearBoth sidesSelect
+pokedemo.machine.trade.cleared: §aCleared and unlocked this trade machine。\n§7如仍有lockcan 用 /pokedemo unlockall
+pokedemo.machine.trade.confirm: §aConfirm
+pokedemo.machine.trade.confirm_lore1: §7Confirm your selected Pokémon
+pokedemo.machine.trade.confirm_lore2: §7Both sides都确认 afterwill trade automatically
+pokedemo.machine.trade.confirm_wait: §aYouconfirmed。Waiting for the other player to confirm…
+pokedemo.machine.trade.fail_changed: §cTrade failed：PokémonstatusAlready 变化或被移动，Please 重新Select。
+pokedemo.machine.trade.in_use: §cThis trade machine is being used by other players。
+pokedemo.machine.trade.left_buttons: §7这是left player 操作 button。
+pokedemo.machine.trade.left_confirmed: §aLeftconfirmed
+pokedemo.machine.trade.left_not_selected: §cLeftNot selected
+pokedemo.machine.trade.left_not_selected_lore: §7Clickright buttonSelect
+pokedemo.machine.trade.left_unconfirmed: §eLeftnot confirmed
+pokedemo.machine.trade.not_participant: §cYou are not a participant of this trade。
+pokedemo.machine.trade.not_selected: §cYou还no Select Pokémon。
+pokedemo.machine.trade.placed: §ePlacedPokémon Trade Machine
+pokedemo.machine.trade.plugin_bad: §ePokémon Trade Machine：§c插件实例异常
+pokedemo.machine.trade.right_buttons: §7这是right player 操作 button。
+pokedemo.machine.trade.right_confirmed: §aRightconfirmed
+pokedemo.machine.trade.right_not_selected: §cRightNot selected
+pokedemo.machine.trade.right_not_selected_lore: §7Clickleft buttonSelect
+pokedemo.machine.trade.right_unconfirmed: §eRightnot confirmed
+pokedemo.machine.trade.select_lore1: §7Open PartySelect a for 交换 Pokémon
+pokedemo.machine.trade.select_lore2: §7选ing afterwill enter lockstatus
+pokedemo.machine.trade.select_other: §7Select Pokémon
+pokedemo.machine.trade.select_you: §bSelect Pokémon(You)
+pokedemo.machine.trade.status: §dstatus
+pokedemo.machine.trade.status_hint: "§8Tip: lockPokémoncan 用 /pokedemo unlockall one-click remove "
+pokedemo.machine.trade.success: §aTrade successful！
+pokedemo.machine.trade.title: §ePokémon Trade Machine
+pokedemo.machine.trade.waiting: §7Waiting for selection…
+itemuse.not_implemented: "§eThis item is not implemented yet: {id}"
+itemuse.no_eligible_party: "§7No Pokémon in your party can use this item."
+itemuse.party_all_cured: "§aUsed {item}: §aCured status conditions on {n} Pokémon."
+itemuse.party_all_not_supported: "§eThis item cannot be used on the whole party: {id}"
+itemuse.repel.used: "§aUsed Repel. You will not encounter wild Pokémon for {min} minute(s)."
+itemuse.escape_rope.used: "§aYou used an Escape Rope and returned to the world spawn."
+item.potion.desc: Restores 20 HP.
+item.super_potion.desc: Restores 50 HP.
+item.hyper_potion.desc: Restores 200 HP.
+item.max_potion.desc: Fully restores HP.
+item.full_restore.desc: Fully restores HP and cures all status conditions.
+item.full_heal.desc: Cures all status conditions.
+item.burn_heal.desc: Heals a burn.
+item.ice_heal.desc: Thaws a frozen Pokémon.
+item.awakening.desc: Wakes a Pokémon up.
+item.paralyze_heal.desc: Cures paralysis.
+item.ether.desc: Restores 10 PP to one move.
+item.max_ether.desc: Fully restores PP for one move.
+item.elixir.desc: Restores 10 PP to all moves.
+item.max_elixir.desc: Fully restores PP for all moves.
+item.fresh_water.desc: Restores 50 HP.
+item.soda_pop.desc: Restores 60 HP.
+item.lemonade.desc: Restores 80 HP.
+item.pp_up.desc: Raises the PP of one move.
+item.pp_max.desc: Maximizes the PP of one move.
+item.antidote.desc: Cures poisoning.
+item.revive.desc: Revives a fainted Pokémon with 50% HP.
+item.max_revive.desc: Revives a fainted Pokémon to full HP.
+item.poke_ball.desc: A device for catching wild Pokémon.
+item.great_ball.desc: A device for catching wild Pokémon. Catch rate ×1.5.
+item.ultra_ball.desc: A device for catching wild Pokémon. Catch rate ×2.
+item.master_ball.desc: Catches any wild Pokémon without fail.
+item.x_attack.desc: Raises atk by 1 stage(s) in battle.
+item.x_defend.desc: Raises def by 1 stage(s) in battle.
+item.x_speed.desc: Raises spe by 1 stage(s) in battle.
+item.x_accuracy.desc: Raises accuracy by 1 stage(s) in battle.
+item.x_special.desc: Raises special by 1 stage(s) in battle.
+item.x_evasion.desc: Raises evasion by 1 stage(s) in battle.
+item.poke_doll.desc: Lets you flee from a wild battle.
+item.leftovers.desc: A held item that takes effect in battle.
+item.black_sludge.desc: A held item that takes effect in battle.
+item.quick_claw.desc: A held item that takes effect in battle.
+item.lagging_tail.desc: A held item that takes effect in battle.
+item.full_incense.desc: A held item that takes effect in battle.
+item.kings_rock.desc: A held item that takes effect in battle.
+item.razor_fang.desc: A held item that takes effect in battle.
+item.bright_powder.desc: A held item that takes effect in battle.
+item.lax_incense.desc: A held item that takes effect in battle.
+item.light_clay.desc: A held item that takes effect in battle.
+item.mental_herb.desc: A held item that takes effect in battle.
+item.fairy_gem.desc: A held item that takes effect in battle.
+item.smoke_ball.desc: A held item that takes effect in battle.
+item.shed_shell.desc: A held item that takes effect in battle.
+item.up_grade.desc: An item.
+item.dubious_disc.desc: An item.
+item.protector.desc: An item.
+item.reaper_cloth.desc: An item.
+item.electirizer.desc: An item.
+item.magmarizer.desc: An item.
+item.dragon_scale.desc: An item.
+item.oval_stone.desc: An item.
+item.leaders_crest.desc: An item.
+item.focus_band.desc: A held item that takes effect in battle.
+item.focus_sash.desc: A held item that takes effect in battle.
+item.scope_lens.desc: A held item that takes effect in battle.
+item.razor_claw.desc: A held item that takes effect in battle.
+item.lucky_punch.desc: A held item that takes effect in battle.
+item.choice_band.desc: A held item that takes effect in battle.
+item.choice_specs.desc: A held item that takes effect in battle.
+item.light_ball.desc: A held item that takes effect in battle.
+item.thick_club.desc: A held item that takes effect in battle.
+item.charcoal.desc: A held item that takes effect in battle.
+item.mystic_water.desc: A held item that takes effect in battle.
+item.magnet.desc: A held item that takes effect in battle.
+item.miracle_seed.desc: A held item that takes effect in battle.
+item.soft_sand.desc: A held item that takes effect in battle.
+item.hard_stone.desc: A held item that takes effect in battle.
+item.never_melt_ice.desc: A held item that takes effect in battle.
+item.black_belt.desc: A held item that takes effect in battle.
+item.poison_barb.desc: A held item that takes effect in battle.
+item.sharp_beak.desc: A held item that takes effect in battle.
+item.spell_tag.desc: A held item that takes effect in battle.
+item.twisted_spoon.desc: A held item that takes effect in battle.
+item.dragon_fang.desc: A held item that takes effect in battle.
+item.metal_coat.desc: A held item that takes effect in battle.
+item.black_glasses.desc: A held item that takes effect in battle.
+item.silk_scarf.desc: A held item that takes effect in battle.
+item.red_scarf.desc: A held item that takes effect in battle.
+item.blue_scarf.desc: A held item that takes effect in battle.
+item.pink_scarf.desc: A held item that takes effect in battle.
+item.green_scarf.desc: A held item that takes effect in battle.
+item.yellow_scarf.desc: A held item that takes effect in battle.
+item.amulet_coin.desc: A held item that takes effect in battle.
+item.luck_incense.desc: A held item that takes effect in battle.
+item.soothe_bell.desc: A held item that takes effect in battle.
+item.destiny_knot.desc: A held item that takes effect in battle.
+item.damp_rock.desc: A held item that takes effect in battle.
+item.heat_rock.desc: A held item that takes effect in battle.
+item.icy_rock.desc: A held item that takes effect in battle.
+item.smooth_rock.desc: A held item that takes effect in battle.
+item.red_orb.desc: A held item that takes effect in battle.
+item.blue_orb.desc: A held item that takes effect in battle.
+item.strawberry_sweet.desc: A held item that takes effect in battle.
+item.berry_sweet.desc: A held item that takes effect in battle.
+item.love_sweet.desc: A held item that takes effect in battle.
+item.clover_sweet.desc: A held item that takes effect in battle.
+item.flower_sweet.desc: A held item that takes effect in battle.
+item.star_sweet.desc: A held item that takes effect in battle.
+item.ribbon_sweet.desc: A held item that takes effect in battle.
+item.burn_drive.desc: A held item that takes effect in battle.
+item.douse_drive.desc: A held item that takes effect in battle.
+item.chill_drive.desc: A held item that takes effect in battle.
+item.shock_drive.desc: A held item that takes effect in battle.
+item.bug_memory.desc: A held item that takes effect in battle.
+item.dark_memory.desc: A held item that takes effect in battle.
+item.dragon_memory.desc: A held item that takes effect in battle.
+item.electric_memory.desc: A held item that takes effect in battle.
+item.fairy_memory.desc: A held item that takes effect in battle.
+item.fighting_memory.desc: A held item that takes effect in battle.
+item.fire_memory.desc: A held item that takes effect in battle.
+item.flying_memory.desc: A held item that takes effect in battle.
+item.ghost_memory.desc: A held item that takes effect in battle.
+item.grass_memory.desc: A held item that takes effect in battle.
+item.ground_memory.desc: A held item that takes effect in battle.
+item.ice_memory.desc: A held item that takes effect in battle.
+item.poison_memory.desc: A held item that takes effect in battle.
+item.psychic_memory.desc: A held item that takes effect in battle.
+item.rock_memory.desc: A held item that takes effect in battle.
+item.steel_memory.desc: A held item that takes effect in battle.
+item.water_memory.desc: A held item that takes effect in battle.
+item.dire_hit.desc: A battle item used in battle.
+item.guard_spec.desc: A battle item used in battle.
+item.repel.desc: An item.
+item.super_repel.desc: An item.
+item.max_repel.desc: An item.
+item.escape_rope.desc: An item.
+item.rare_candy.desc: An item.
+item.fire_stone.desc: An item.
+item.water_stone.desc: An item.
+item.thunder_stone.desc: An item.
+item.leaf_stone.desc: An item.
+item.moon_stone.desc: An item.
+item.hp_up.desc: Raises a Pokémon’s EVs.
+item.protein.desc: Raises a Pokémon’s EVs.
+item.iron.desc: Raises a Pokémon’s EVs.
+item.calcium.desc: Raises a Pokémon’s EVs.
+item.carbos.desc: Raises a Pokémon’s EVs.
+item.health_wing.desc: Raises a Pokémon’s EVs.
+item.muscle_wing.desc: Raises a Pokémon’s EVs.
+item.resist_wing.desc: Raises a Pokémon’s EVs.
+item.genius_wing.desc: Raises a Pokémon’s EVs.
+item.clever_wing.desc: Raises a Pokémon’s EVs.
+item.swift_wing.desc: Raises a Pokémon’s EVs.
+item.ability_capsule.desc: An item.
+item.ability_patch.desc: An item.
+item.silver_bottle_cap.desc: An item.
+item.gold_bottle_cap.desc: An item.
+item.lonely_mint.desc: An item.
+item.adamant_mint.desc: An item.
+item.naughty_mint.desc: An item.
+item.brave_mint.desc: An item.
+item.bold_mint.desc: An item.
+item.impish_mint.desc: An item.
+item.lax_mint.desc: An item.
+item.relaxed_mint.desc: An item.
+item.modest_mint.desc: An item.
+item.mild_mint.desc: An item.
+item.rash_mint.desc: An item.
+item.quiet_mint.desc: An item.
+item.calm_mint.desc: An item.
+item.gentle_mint.desc: An item.
+item.careful_mint.desc: An item.
+item.sassy_mint.desc: An item.
+item.timid_mint.desc: An item.
+item.hasty_mint.desc: An item.
+item.jolly_mint.desc: An item.
+item.naive_mint.desc: An item.
+item.serious_mint.desc: An item.
+item.red_apricorn.desc: An item.
+item.blue_apricorn.desc: An item.
+item.yellow_apricorn.desc: An item.
+item.green_apricorn.desc: An item.
+item.pink_apricorn.desc: An item.
+item.black_apricorn.desc: An item.
+item.white_apricorn.desc: An item.
+item.seed_red_apricorn.desc: An item.
+item.seed_blue_apricorn.desc: An item.
+item.seed_yellow_apricorn.desc: An item.
+item.seed_green_apricorn.desc: An item.
+item.seed_pink_apricorn.desc: An item.
+item.seed_black_apricorn.desc: An item.
+item.seed_white_apricorn.desc: An item.
+item.tumblestone.desc: An item.
+item.black_tumblestone.desc: An item.
+item.sky_tumblestone.desc: An item.
+item.poke_flute.desc: Wakes a Pokémon up.
+item.pc_machine.desc: A key item.
+item.healer_machine.desc: A key item.
+item.pasture_machine.desc: A key item.
+item.fossil_machine.desc: A key item.
+item.fossil_analyzer.desc: A key item.
+item.helix_fossil.desc: An item.
+item.dome_fossil.desc: An item.
+item.old_amber.desc: An item.
+item.suspicious_stone.desc: An item.
+item.trade_machine.desc: A key item.
+item.clone_machine.desc: A key item.
+item.pokedex.desc: A key item.
+item.poke_phone.desc: A key item.
+pokedemo.capture.missing_species: §cThis wild Pokémon is missing species data.
+pokedemo.capture.success: "§aCaptured: §f{mon} §a(Lv.{lv})!"
+pokedemo.capture.break_free: §eThe Pokémon broke free!
+pokedemo.battle.already_in_short: §cYou are already in battle.
+pokedemo.evo.blocked_everstone: §6[Evolution] §e{mon} §7is holding an §fEverstone§7 and cannot evolve.
+pokedemo.evo.success: §6[Evolution] §a{from} §7→ §b{to} §aEvolved!
+pokedemo.evo.ready: §e{mon} §6seems ready to evolve! §7(Open summary and click “Evolve”) §8 -> {to}
+pokedemo.evo.you_evolved: §aYour Pokémon evolved into §e{to}§a!
+pokedemo.exp.gain_levelup: §a{mon} gained §e{exp}§a EXP! §7Lv.{from} → §bLv.{to}
+pokedemo.cmd.player_only: §cPlayers only.
+pokedemo.cmd.heal.no_perm: §cYou don’t have permission to use /heal. §7Use a §aHealer§7 instead.
+pokedemo.cmd.heal.done: "§aHealed {n} Pokémon in your party: restored HP/PP and cleared status."
+pokedemo.battle.log.item_heal_hp: §a{mon}’s §f{item}§a restored {n} HP!
+pokedemo.battle.log.gem_broken: §e{mon}’s §fGem§e shattered!
+pokedemo.common.berry: Berry
+
+# ---- Auto-generated item name keys (do not delete; safe to override in plugins/PokeDemo/lang/*.yml) ----
+item.ability_capsule.name: Ability Capsule
+item.ability_patch.name: Ability Patch
+item.adamant_mint.name: Adamant Mint
+item.amulet_coin.name: Amulet Coin
+item.antidote.name: Antidote
+item.awakening.name: Awakening
+item.berry_sweet.name: Berry Sweet
+item.black_apricorn.name: Black Apricorn
+item.black_belt.name: Black Belt
+item.black_glasses.name: Black Glasses
+item.black_sludge.name: Black Sludge
+item.black_tumblestone.name: Black Tumblestone
+item.blue_apricorn.name: Blue Apricorn
+item.blue_orb.name: Blue Orb
+item.blue_scarf.name: Blue Scarf
+item.bold_mint.name: Bold Mint
+item.brave_mint.name: Brave Mint
+item.bright_powder.name: Bright Powder
+item.bug_memory.name: Bug Memory
+item.burn_drive.name: Burn Drive
+item.burn_heal.name: Burn Heal
+item.calcium.name: Calcium
+item.calcium.name: Calcium
+item.calm_mint.name: Calm Mint
+item.carbos.name: Carbos
+item.carbos.name: Carbos
+item.careful_mint.name: Careful Mint
+item.charcoal.name: Charcoal
+item.chill_drive.name: Chill Drive
+item.choice_band.name: Choice Band
+item.choice_specs.name: Choice Specs
+item.clever_wing.name: Clever Wing
+item.clone_machine.name: Clone Machine
+item.clover_sweet.name: Clover Sweet
+item.damp_rock.name: Damp Rock
+item.dark_memory.name: Dark Memory
+item.destiny_knot.name: Destiny Knot
+item.dire_hit.name: Dire Hit
+item.dire_hit.name: Dire Hit
+item.dome_fossil.name: Dome Fossil
+item.douse_drive.name: Douse Drive
+item.dragon_fang.name: Dragon Fang
+item.dragon_memory.name: Dragon Memory
+item.dragon_scale.name: Dragon Scale
+item.dubious_disc.name: Dubious Disc
+item.electirizer.name: Electirizer
+item.electric_memory.name: Electric Memory
+item.elixir.name: Elixir
+item.escape_rope.name: Escape Rope
+item.escape_rope.name: Escape Rope
+item.ether.name: Ether
+item.fairy_gem.name: Fairy Gem
+item.fairy_memory.name: Fairy Memory
+item.fighting_memory.name: Fighting Memory
+item.fire_memory.name: Fire Memory
+item.fire_stone.name: Fire Stone
+item.fire_stone.name: Fire Stone
+item.flower_sweet.name: Flower Sweet
+item.flying_memory.name: Flying Memory
+item.focus_band.name: Focus Band
+item.focus_sash.name: Focus Sash
+item.fossil_analyzer.name: Fossil Analyzer
+item.fossil_machine.name: Fossil Machine
+item.fresh_water.name: Fresh Water
+item.full_heal.name: Full Heal
+item.full_incense.name: Full Incense
+item.full_restore.name: Full Restore
+item.genius_wing.name: Genius Wing
+item.gentle_mint.name: Gentle Mint
+item.ghost_memory.name: Ghost Memory
+item.gold_bottle_cap.name: Gold Bottle Cap
+item.grass_memory.name: Grass Memory
+item.great_ball.name: Great Ball
+item.green_apricorn.name: Green Apricorn
+item.green_scarf.name: Green Scarf
+item.ground_memory.name: Ground Memory
+item.guard_spec.name: Guard Spec
+item.guard_spec.name: Guard Spec
+item.hard_stone.name: Hard Stone
+item.hasty_mint.name: Hasty Mint
+item.healer_machine.name: Healer Machine
+item.health_wing.name: Health Wing
+item.heat_rock.name: Heat Rock
+item.helix_fossil.name: Helix Fossil
+item.hp_up.name: Hp Up
+item.hp_up.name: Hp Up
+item.hyper_potion.name: Hyper Potion
+item.ice_heal.name: Ice Heal
+item.ice_memory.name: Ice Memory
+item.icy_rock.name: Icy Rock
+item.impish_mint.name: Impish Mint
+item.iron.name: Iron
+item.iron.name: Iron
+item.jolly_mint.name: Jolly Mint
+item.kings_rock.name: Kings Rock
+item.lagging_tail.name: Lagging Tail
+item.lax_incense.name: Lax Incense
+item.lax_mint.name: Lax Mint
+item.leaders_crest.name: Leaders Crest
+item.leaf_stone.name: Leaf Stone
+item.leaf_stone.name: Leaf Stone
+item.leftovers.name: Leftovers
+item.lemonade.name: Lemonade
+item.light_ball.name: Light Ball
+item.light_clay.name: Light Clay
+item.lonely_mint.name: Lonely Mint
+item.love_sweet.name: Love Sweet
+item.luck_incense.name: Luck Incense
+item.lucky_punch.name: Lucky Punch
+item.magmarizer.name: Magmarizer
+item.magnet.name: Magnet
+item.master_ball.name: Master Ball
+item.max_elixir.name: Max Elixir
+item.max_ether.name: Max Ether
+item.max_potion.name: Max Potion
+item.max_repel.name: Max Repel
+item.max_repel.name: Max Repel
+item.max_revive.name: Max Revive
+item.mental_herb.name: Mental Herb
+item.metal_coat.name: Metal Coat
+item.mild_mint.name: Mild Mint
+item.miracle_seed.name: Miracle Seed
+item.modest_mint.name: Modest Mint
+item.moon_stone.name: Moon Stone
+item.moon_stone.name: Moon Stone
+item.muscle_wing.name: Muscle Wing
+item.mystic_water.name: Mystic Water
+item.naive_mint.name: Naive Mint
+item.naughty_mint.name: Naughty Mint
+item.never_melt_ice.name: Never Melt Ice
+item.old_amber.name: Old Amber
+item.oval_stone.name: Oval Stone
+item.paralyze_heal.name: Paralyze Heal
+item.pasture_machine.name: Pasture Machine
+item.pc_machine.name: Pc Machine
+item.pink_apricorn.name: Pink Apricorn
+item.pink_scarf.name: Pink Scarf
+item.poison_barb.name: Poison Barb
+item.poison_memory.name: Poison Memory
+item.poke_ball.name: Poké Ball
+item.poke_doll.name: Poké Doll
+item.poke_doll.name: Poké Doll
+item.poke_flute.name: Poke Flute
+item.poke_phone.name: Poké Phone
+item.pokedex.name: Pokédex
+item.potion.name: Potion
+item.pp_max.name: PP Max
+item.pp_up.name: PP Up
+item.protector.name: Protector
+item.protein.name: Protein
+item.protein.name: Protein
+item.psychic_memory.name: Psychic Memory
+item.quick_claw.name: Quick Claw
+item.quiet_mint.name: Quiet Mint
+item.rare_candy.name: Rare Candy
+item.rare_candy.name: Rare Candy
+item.rash_mint.name: Rash Mint
+item.razor_claw.name: Razor Claw
+item.razor_fang.name: Razor Fang
+item.reaper_cloth.name: Reaper Cloth
+item.red_apricorn.name: Red Apricorn
+item.red_orb.name: Red Orb
+item.red_scarf.name: Red Scarf
+item.relaxed_mint.name: Relaxed Mint
+item.repel.name: Repel
+item.repel.name: Repel
+item.resist_wing.name: Resist Wing
+item.revive.name: Revive
+item.ribbon_sweet.name: Ribbon Sweet
+item.rock_memory.name: Rock Memory
+item.sassy_mint.name: Sassy Mint
+item.scope_lens.name: Scope Lens
+item.seed_black_apricorn.name: Seed Black Apricorn
+item.seed_blue_apricorn.name: Seed Blue Apricorn
+item.seed_green_apricorn.name: Seed Green Apricorn
+item.seed_pink_apricorn.name: Seed Pink Apricorn
+item.seed_red_apricorn.name: Seed Red Apricorn
+item.seed_white_apricorn.name: Seed White Apricorn
+item.seed_yellow_apricorn.name: Seed Yellow Apricorn
+item.serious_mint.name: Serious Mint
+item.sharp_beak.name: Sharp Beak
+item.shed_shell.name: Shed Shell
+item.shock_drive.name: Shock Drive
+item.silk_scarf.name: Silk Scarf
+item.silver_bottle_cap.name: Silver Bottle Cap
+item.sky_tumblestone.name: Sky Tumblestone
+item.smoke_ball.name: Smoke Ball
+item.smooth_rock.name: Smooth Rock
+item.soda_pop.name: Soda Pop
+item.soft_sand.name: Soft Sand
+item.soothe_bell.name: Soothe Bell
+item.spell_tag.name: Spell Tag
+item.star_sweet.name: Star Sweet
+item.steel_memory.name: Steel Memory
+item.strawberry_sweet.name: Strawberry Sweet
+item.super_potion.name: Super Potion
+item.super_repel.name: Super Repel
+item.super_repel.name: Super Repel
+item.suspicious_stone.name: Suspicious Stone
+item.swift_wing.name: Swift Wing
+item.thick_club.name: Thick Club
+item.thunder_stone.name: Thunder Stone
+item.thunder_stone.name: Thunder Stone
+item.timid_mint.name: Timid Mint
+item.trade_machine.name: Trade Machine
+item.tumblestone.name: Tumblestone
+item.twisted_spoon.name: Twisted Spoon
+item.ultra_ball.name: Ultra Ball
+item.up_grade.name: Up Grade
+item.water_memory.name: Water Memory
+item.water_stone.name: Water Stone
+item.water_stone.name: Water Stone
+item.white_apricorn.name: White Apricorn
+item.x_accuracy.name: X Accuracy
+item.x_accuracy.name: X Accuracy
+item.x_attack.name: X Attack
+item.x_attack.name: X Attack
+item.x_defend.name: X Defense
+item.x_defend.name: X Defense
+item.x_evasion.name: X Evasion
+item.x_evasion.name: X Evasion
+item.x_special.name: X Special
+item.x_special.name: X Special
+item.x_speed.name: X Speed
+item.x_speed.name: X Speed
+item.yellow_apricorn.name: Yellow Apricorn
+item.yellow_scarf.name: Yellow Scarf
+
+pokedemo.gui.phone.title: §dPoké Phone
+
+pokedemo.gui.recipes.title: §6Recipes
+
+pokedemo.gui.party.title: §aParty
+
+pokedemo.gui.party.left_click_select: "§7Left-click: Select / swap order"
+
+pokedemo.gui.party.right_click_store: "§bRight-click: Store in PC Box"
+
+pokedemo.gui.party.shift_click_details: "§eShift+Click: View details"
+
+pokedemo.gui.pc.title: §bPC Box ({page})
+
+pokedemo.gui.pc.left_click_take: "§eLeft-click: Move to party"
+
+pokedemo.gui.pc.right_click_release: "§cRight-click: Release (confirm)"
+
+pokedemo.gui.pc.shift_click_details: "§eShift+Click: View details"
+
+pokedemo.pasture.egg.status.running: §dBreeding
+
+pokedemo.pasture.egg.status.ready: §aEgg ready
+
+pokedemo.pasture.egg.status.paused: §ePaused
+
+pokedemo.pasture.egg.label.status: "status:"
+
+pokedemo.pasture.egg.label.remaining: "Remaining:"
+
+pokedemo.pasture.egg.label.group: "Groups:"
+
+pokedemo.pasture.egg.label.gender: "Gender:"
+
+pokedemo.pasture.egg.label.nature: "Nature:"
+
+pokedemo.pasture.egg.label.species: "Species:"
+
+item.ability_shield.desc: A quirky shield. While held, the holder's Ability cannot be changed by the opponent.
+
+item.ability_shield: Ability Shield
+
+pokedemo.gui.phone.recipes: "§aRecipes\n§7View all craftable items"
+
+# --- Guide / Join hints ---
+pokedemo.guide.join_hint: "§2ヒント§8：§3/poke guide §8でガイド本を取得できます"
+pokedemo.guide.join_hint_summon: "§2ヒント§8：§3Shift+F§8＋§3ホットバー/マウスホイール§8で召喚"
+pokedemo.guide.received: "§2ガイド本を受け取りました：§3右クリックで開く§8、§3左クリックで切替"
+pokedemo.guide.disabled: "§4ガイド本は無効です。"
+pokedemo.cmd.poke.header: "§2Poke コマンド："
+pokedemo.cmd.poke.control: "§6/poke control §8調整用ワンド取得（サイズ/高さ、§4OPのみ§8）"
+pokedemo.cmd.poke.guide: "§6/poke guide §8ガイド本取得（右クリックで開く、左クリックで切替）"
+pokedemo.cmd.poke.unknown: "§4不明なサブコマンド。/poke control | /poke guide"
+
+# --- GUI titles & buttons (added) ---
+# --- GUI titles & buttons (added) ---
+gui.guide.switch_title: "§8ガイド"
+gui.guide.tab.welcome: "§eはじめに"
+gui.guide.tab.stones: "§e出現/資源"
+gui.guide.tab.breeding: "§e育て屋/好み"
+gui.guide.tab.devices: "§e装置/研究"
+gui.guide.tab.legends: "§e伝説"
+gui.guide.tab.community: "§eコミュニティ"
+gui.guide.tab.selected: "§a選択中"
+gui.guide.tab.click_to_switch: "§7クリックで切替"
+gui.trade.pick_party_title: "§d交換するポケモンを選択"
+gui.ball_chest.title: "§6ボールチェスト"
+gui.move_learn.title: "§6新しい技を覚える"
+gui.move_learn.none: "§7覚える技はありません。"
+gui.common.cancel: "§cキャンセル"
+gui.pvp.cancel_lore: "§7閉じるとPVP準備をキャンセル"
+gui.pvp.confirmed: "§a確認済み"
+gui.pvp.wait_other: "§7相手の確認待ち..."
+gui.pvp.confirm: "§a出撃確認"
+gui.pvp.both_confirm: "§7両者が確認すると開始"
+gui.pvp.default_first: "§7デフォルト：先頭の使用可能な手持ちを出す"
+
+item.pokemon_fishing_rod.desc: A special fishing rod for Pokémon encounters.
+
+item.poke_rod.desc: A basic Pokémon fishing rod.
+item.great_rod.desc: Better for stronger fishing encounters.
+item.ultra_rod.desc: Used for rarer fishing encounters.
+item.master_rod.desc: A top-tier rod for the rarest fishing rules.
+item.love_rod.desc: Favours love- and sweet-themed fishing encounters.
+# battle UI hint
+battle-reopen-hint: "Press B to return to battle"
+item.sun_stone.name: Sun Stone
+item.sun_stone.desc: An item.
+item.shiny_stone.name: Shiny Stone
+item.shiny_stone.desc: An item.
+item.dusk_stone.name: Dusk Stone
+item.dusk_stone.desc: An item.
+item.dawn_stone.name: Dawn Stone
+item.dawn_stone.desc: An item.
+item.ice_stone.name: Ice Stone
+item.ice_stone.desc: An item.
+item.tart_apple.name: Tart Apple
+item.tart_apple.desc: An item.
+item.sweet_apple.name: Sweet Apple
+item.sweet_apple.desc: An item.
+item.syrupy_apple.name: Syrupy Apple
+item.syrupy_apple.desc: An item.
+item.auspicious_armor.name: Auspicious Armor
+item.auspicious_armor.desc: An item.
+item.malicious_armor.name: Malicious Armor
+item.malicious_armor.desc: An item.
+item.metal_alloy.name: Metal Alloy
+item.metal_alloy.desc: An item.
+item.scroll_of_darkness.name: Scroll of Darkness
+item.scroll_of_darkness.desc: An item.
+item.scroll_of_waters.name: Scroll of Waters
+item.scroll_of_waters.desc: An item.
+item.black_augurite.name: Black Augurite
+item.black_augurite.desc: An item.
+item.peat_block.name: Peat Block
+item.peat_block.desc: An item.
+item.galarica_cuff.name: Galarica Cuff
+item.galarica_cuff.desc: An item.
+item.galarica_wreath.name: Galarica Wreath
+item.galarica_wreath.desc: An item.
+item.cracked_pot.name: Cracked Pot
+item.cracked_pot.desc: An item.
+item.chipped_pot.name: Chipped Pot
+item.chipped_pot.desc: An item.
+item.unremarkable_teacup.name: Unremarkable Teacup
+item.unremarkable_teacup.desc: An item.
+item.masterpiece_teacup.name: Masterpiece Teacup
+item.masterpiece_teacup.desc: An item.
+
+label.move_effect: "§6わざ効果"
+
+item.relic_coin.name: Relic Coin
+item.relic_coin.desc: A special evolution item.

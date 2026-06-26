@@ -1,0 +1,13 @@
+{
+  "id": "thundershock",
+  "name": "ThunderShock",
+  "type": "electric",
+  "category": "special",
+  "power": 40,
+  "accuracy": 1.0,
+  "pp": 30,
+  "priority": 0,
+  "effects": [
+    { "kind": "set_status", "status": "paralyze", "chance": 0.1 }
+  ]
+}

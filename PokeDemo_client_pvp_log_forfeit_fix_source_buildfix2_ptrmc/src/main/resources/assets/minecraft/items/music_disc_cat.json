@@ -1,0 +1,363 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/music_disc_cat"
+    },
+    "entries": [
+      {
+        "threshold": 20001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm01"
+        }
+      },
+      {
+        "threshold": 20002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm02"
+        }
+      },
+      {
+        "threshold": 20003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm03"
+        }
+      },
+      {
+        "threshold": 20004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm04"
+        }
+      },
+      {
+        "threshold": 20005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm05"
+        }
+      },
+      {
+        "threshold": 20006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm06"
+        }
+      },
+      {
+        "threshold": 20007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm07"
+        }
+      },
+      {
+        "threshold": 20008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm08"
+        }
+      },
+      {
+        "threshold": 20009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm09"
+        }
+      },
+      {
+        "threshold": 20010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm10"
+        }
+      },
+      {
+        "threshold": 20011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm11"
+        }
+      },
+      {
+        "threshold": 20012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm12"
+        }
+      },
+      {
+        "threshold": 20013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm13"
+        }
+      },
+      {
+        "threshold": 20014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm14"
+        }
+      },
+      {
+        "threshold": 20015,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm15"
+        }
+      },
+      {
+        "threshold": 20016,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm16"
+        }
+      },
+      {
+        "threshold": 20017,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm17"
+        }
+      },
+      {
+        "threshold": 20018,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm18"
+        }
+      },
+      {
+        "threshold": 20019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm19"
+        }
+      },
+      {
+        "threshold": 20020,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm20"
+        }
+      },
+      {
+        "threshold": 20021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm21"
+        }
+      },
+      {
+        "threshold": 20022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm22"
+        }
+      },
+      {
+        "threshold": 20023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm23"
+        }
+      },
+      {
+        "threshold": 20024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm24"
+        }
+      },
+      {
+        "threshold": 20025,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm25"
+        }
+      },
+      {
+        "threshold": 20026,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm26"
+        }
+      },
+      {
+        "threshold": 20027,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm27"
+        }
+      },
+      {
+        "threshold": 20028,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm28"
+        }
+      },
+      {
+        "threshold": 20029,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm29"
+        }
+      },
+      {
+        "threshold": 20030,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm30"
+        }
+      },
+      {
+        "threshold": 20031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm31"
+        }
+      },
+      {
+        "threshold": 20032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm32"
+        }
+      },
+      {
+        "threshold": 20033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm33"
+        }
+      },
+      {
+        "threshold": 20034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm34"
+        }
+      },
+      {
+        "threshold": 20035,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm35"
+        }
+      },
+      {
+        "threshold": 20036,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm36"
+        }
+      },
+      {
+        "threshold": 20037,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm37"
+        }
+      },
+      {
+        "threshold": 20038,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm38"
+        }
+      },
+      {
+        "threshold": 20039,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm39"
+        }
+      },
+      {
+        "threshold": 20040,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm40"
+        }
+      },
+      {
+        "threshold": 20041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm41"
+        }
+      },
+      {
+        "threshold": 20042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm42"
+        }
+      },
+      {
+        "threshold": 20043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm43"
+        }
+      },
+      {
+        "threshold": 20044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm44"
+        }
+      },
+      {
+        "threshold": 20045,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm45"
+        }
+      },
+      {
+        "threshold": 20046,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm46"
+        }
+      },
+      {
+        "threshold": 20047,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm47"
+        }
+      },
+      {
+        "threshold": 20048,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm48"
+        }
+      },
+      {
+        "threshold": 20049,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm49"
+        }
+      },
+      {
+        "threshold": 20050,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokedemo:item/tm/tm50"
+        }
+      }
+    ]
+  }
+}

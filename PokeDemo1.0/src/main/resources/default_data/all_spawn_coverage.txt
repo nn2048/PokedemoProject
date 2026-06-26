@@ -1,0 +1,13 @@
+PokeDemo 全图鉴自然刷新覆盖说明
+
+规则数: 2156
+物种数: 817
+
+维度规则数:
+- minecraft:overworld: 1739
+- minecraft:the_nether: 316
+- minecraft:the_end: 101
+
+首批物种示例: abra, absol, accelgor, aegislash, aerodactyl, aggron, aipom, alakazam, alcremie, altaria, amaura, ambipom, amoonguss, ampharos, annihilape, anorith, araquanid, arbok, arboliva, arcanine, archen, archeops, ariados, armaldo, armarouge, aromatisse, aron, arrokuda, aurorus, avalugg, axew, azumarill, azurill, bagon, baltoy, banette, barbaracle, barboach, barraskewda, basculegion, basculin, bastiodon, bayleef, beartic, beedrill, beheeyem, beldum, bellibolt, bellossom, bellsprout, bergmite, bewear, bibarel, bidoof, binacle, blastoise, blaziken, blissey, blitzle, boldore
+
+Manual exclusions applied: ditto, omanyte, omastar, kabuto, kabutops, aerodactyl removed from natural spawn tables (special acquisition only).

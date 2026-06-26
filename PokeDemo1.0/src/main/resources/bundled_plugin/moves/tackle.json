@@ -1,0 +1,13 @@
+{
+  "id": "tackle",
+  "name": "Tackle",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 1.0,
+  "pp": 35,
+  "priority": 0,
+  "effect": {
+    "kind": "damage"
+  }
+}

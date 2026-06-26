@@ -1,0 +1,6 @@
+{
+  "message.pokedemo_bridge.battle_reopen_hint": "B 키를 눌러 배틀 화면으로 돌아가기",
+  "message.pokedemo_bridge.hud_on": "왼쪽 포켓몬 목록 표시를 켰습니다",
+  "message.pokedemo_bridge.hud_off": "왼쪽 포켓몬 목록 표시를 껐습니다",
+  "message.pokedemo_bridge.loaded": "클라이언트 모드가 연결되었습니다. \"O\" 키로 왼쪽 포켓몬 목록 표시를 끌 수 있습니다.\n위/아래 키로 슬롯을 선택한 뒤 \"R\" 키로 포켓몬을 꺼내세요."
+}

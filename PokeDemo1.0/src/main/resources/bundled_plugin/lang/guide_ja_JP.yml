@@ -1,0 +1,81 @@
+books:
+  welcome:
+    title: PokeDemo ガイド
+    author: PtrMC
+    pages:
+    - |
+      §d§lようこそ、トレーナー！§r
+
+      §7このプラグインはオープンソースで無料です。§r
+      §4§l有料で入手しないでください。§r
+      §4§l改造版の有料配布も禁止です。§r
+
+      §7入手方法：§r
+      §2棒 3 本（順不同）でクラフト§r
+
+      §7操作：§r
+      §3右クリックで開く§r
+      §3左クリックで「ガイド切替」メニュー§r
+      §7（Shift+左クリック：次へ）§r
+    - |-
+      §e§l重要§r
+      §cサーバーが重い時は、装備をGUIへ移動しないでください！§r
+      §7(インベントリ / PC / 機械など)§r
+      §cこれによる損失は補償されません。§r
+
+      §e§lよく使う§r
+      §a/recipes§r §fレシピを開く§r
+
+      §3§lポケモン召喚§r
+      §f§bShift§f + §bF§f（オフハンド交換）を押しっぱなしで召喚モード§r
+      §f§bマウスホイール§f / §bホットバー数字キー§fで手持ちを召喚§r
+
+      §7もう一度欲しい時：§a/poke guide§r
+    - |-
+      §e§l手持ち詳細§r
+
+      §a/party§r §fで手持ち詳細を開く§r
+
+      §7手持ちポケモン、HP、状態異常などを確認できます。§r
+
+      §7右側の手持ちバーも現在の手持ちと同期します。§r
+  stones:
+    title: ワールドと資源
+    author: PtrMC
+    pages:
+    - |
+      §e§l進化の石§r
+      ほのお：ネザー
+      くさ：葉
+      みず：海底
+      でんき：高山
+      つき：エンド
+  breeding:
+    title: 孵化・環境
+    author: PtrMC
+    pages:
+    - |
+      §e§l基本§r
+      性別とタマゴグループで繁殖可否が決まります。
+  devices:
+    title: 装置研究
+    author: PtrMC
+    pages:
+    - |
+      §e§l研究§r
+      採掘中に不思議な石が手に入るかもしれません…
+  legends:
+    title: 伝説
+    author: PtrMC
+    pages:
+    - |
+      §e§l伝説§r
+      極端な場所に祭壇を作り、エネルギーを注ぎましょう…
+  community:
+    title: コミュニティ
+    author: PtrMC
+    pages:
+    - |
+      §e§lコミュニティ§r
+      §7URL：§r
+      §ahttps://nn2048.github.io/pokedemo-website/§r

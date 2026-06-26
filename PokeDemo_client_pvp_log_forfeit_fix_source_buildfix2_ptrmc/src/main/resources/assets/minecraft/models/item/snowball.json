@@ -1,0 +1,296 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/snowball"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 32001
+      },
+      "model": "pokedemo:item/balls/poke_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32002
+      },
+      "model": "pokedemo:item/balls/great_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32003
+      },
+      "model": "pokedemo:item/balls/ultra_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32004
+      },
+      "model": "pokedemo:item/balls/master_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32005
+      },
+      "model": "pokedemo:item/balls/premier_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32006
+      },
+      "model": "pokedemo:item/balls/quick_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32007
+      },
+      "model": "pokedemo:item/balls/timer_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32008
+      },
+      "model": "pokedemo:item/balls/dusk_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32009
+      },
+      "model": "pokedemo:item/balls/net_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32010
+      },
+      "model": "pokedemo:item/balls/nest_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32011
+      },
+      "model": "pokedemo:item/balls/repeat_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32012
+      },
+      "model": "pokedemo:item/balls/luxury_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32013
+      },
+      "model": "pokedemo:item/balls/heal_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32014
+      },
+      "model": "pokedemo:item/balls/dive_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32015
+      },
+      "model": "pokedemo:item/balls/dream_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32016
+      },
+      "model": "pokedemo:item/balls/fast_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32017
+      },
+      "model": "pokedemo:item/balls/friend_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32018
+      },
+      "model": "pokedemo:item/balls/heavy_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32019
+      },
+      "model": "pokedemo:item/balls/level_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32020
+      },
+      "model": "pokedemo:item/balls/love_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32021
+      },
+      "model": "pokedemo:item/balls/lure_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32022
+      },
+      "model": "pokedemo:item/balls/moon_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32023
+      },
+      "model": "pokedemo:item/balls/safari_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32024
+      },
+      "model": "pokedemo:item/balls/sport_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32025
+      },
+      "model": "pokedemo:item/balls/park_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32026
+      },
+      "model": "pokedemo:item/balls/beast_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32027
+      },
+      "model": "pokedemo:item/balls/iron_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32028
+      },
+      "model": "pokedemo:item/balls/azure_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32029
+      },
+      "model": "pokedemo:item/balls/citrine_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32030
+      },
+      "model": "pokedemo:item/balls/roseate_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32031
+      },
+      "model": "pokedemo:item/balls/slate_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32032
+      },
+      "model": "pokedemo:item/balls/verdant_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32033
+      },
+      "model": "pokedemo:item/balls/ivory_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32034
+      },
+      "model": "pokedemo:item/balls/ancient_poke_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32035
+      },
+      "model": "pokedemo:item/balls/ancient_great_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32036
+      },
+      "model": "pokedemo:item/balls/ancient_ultra_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32037
+      },
+      "model": "pokedemo:item/balls/ancient_feather_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32038
+      },
+      "model": "pokedemo:item/balls/ancient_wing_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32039
+      },
+      "model": "pokedemo:item/balls/ancient_jet_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32040
+      },
+      "model": "pokedemo:item/balls/ancient_leaden_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32041
+      },
+      "model": "pokedemo:item/balls/ancient_heavy_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32042
+      },
+      "model": "pokedemo:item/balls/ancient_gigaton_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32043
+      },
+      "model": "pokedemo:item/balls/ancient_azure_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32044
+      },
+      "model": "pokedemo:item/balls/ancient_citrine_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32045
+      },
+      "model": "pokedemo:item/balls/ancient_roseate_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32046
+      },
+      "model": "pokedemo:item/balls/ancient_slate_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32047
+      },
+      "model": "pokedemo:item/balls/ancient_verdant_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32048
+      },
+      "model": "pokedemo:item/balls/ancient_ivory_ball"
+    }
+  ]
+}

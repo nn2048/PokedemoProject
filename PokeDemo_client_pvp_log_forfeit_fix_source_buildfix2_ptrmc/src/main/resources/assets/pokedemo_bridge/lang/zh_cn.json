@@ -1,0 +1,6 @@
+{
+  "message.pokedemo_bridge.battle_reopen_hint": "按B返回战斗",
+  "message.pokedemo_bridge.hud_on": "已开启左侧宝可梦栏显示",
+  "message.pokedemo_bridge.hud_off": "已关闭左侧宝可梦栏显示",
+  "message.pokedemo_bridge.loaded": "客户端模组已接入。按“O”可关闭左侧宝可梦栏显示。\n上下键选择栏位后按“R”召唤宝可梦。"
+}

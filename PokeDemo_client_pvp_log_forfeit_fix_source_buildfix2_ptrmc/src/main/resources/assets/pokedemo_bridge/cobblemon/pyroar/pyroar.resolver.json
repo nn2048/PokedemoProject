@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:pyroar",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pyroar_male",
+      "model": "cobblemon:pyroar_male.geo",
+      "texture": "cobblemon:textures/pokemon/0668_pyroar/pyroar_male.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0668_pyroar/pyroar_male_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "poser": "cobblemon:pyroar_female",
+      "model": "cobblemon:pyroar_female.geo",
+      "texture": "cobblemon:textures/pokemon/0668_pyroar/pyroar_female.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0668_pyroar/pyroar_female_shiny.png"
+    }
+  ]
+}

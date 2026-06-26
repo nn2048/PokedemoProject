@@ -1,0 +1,6 @@
+{
+  "message.pokedemo_bridge.battle_reopen_hint": "Press B to return to battle",
+  "message.pokedemo_bridge.hud_on": "Party HUD enabled",
+  "message.pokedemo_bridge.hud_off": "Party HUD hidden",
+  "message.pokedemo_bridge.loaded": "Bridge client connected. Press \"O\" to hide the party HUD.\nUse the Up/Down keys to select a slot, then press \"R\" to send out your Pokémon."
+}

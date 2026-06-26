@@ -1,0 +1,12 @@
+generatedAt: "2026-02-09T22:54:54.286818500+08:00"
+gen1TotalMoves: 165
+gen1ImportedMoves: 165
+supportedMoves: 163
+unsupportedMoves: 2
+missingGen1Nums: 0
+missingKinds:
+  damage: 1
+  stat: 1
+unsupportedMoveList:
+  - "#33 tackle (Tackle) -> damage"
+  - "#45 growl (Growl) -> stat"

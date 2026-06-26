@@ -1,0 +1,9 @@
+# Built-in species copied when plugins/PokeDemo/species is empty
+
+bulbasaur.json
+ivysaur.json
+venusaur.json
+
+charmander.json
+squirtle.json
+pikachu.json

@@ -1,0 +1,11 @@
+{
+  "id": "razor_leaf",
+  "name": "Razor Leaf",
+  "type": "grass",
+  "category": "physical",
+  "power": 55,
+  "accuracy": 0.95,
+  "pp": 25,
+  "priority": 0,
+  "effects": []
+}

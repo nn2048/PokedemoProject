@@ -1,0 +1,13 @@
+{
+  "id": "tail_whip",
+  "name": "Tail Whip",
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": 1.0,
+  "pp": 30,
+  "priority": 0,
+  "effects": [
+    { "kind": "stat_stage", "target": "target", "stat": "def", "stages": -1 }
+  ]
+}

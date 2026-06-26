@@ -1,0 +1,45 @@
+{
+  "species": "cobblemon:combee",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:combee",
+      "model": "cobblemon:combee_male.geo",
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:combee_female.geo"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee_shiny.png"
+    },
+    {
+      "aspects": [
+        "has_nectar"
+      ],
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee.png"
+    },
+    {
+      "aspects": [
+        "has_nectar",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0415_combee/combee.png"
+    }
+  ]
+}

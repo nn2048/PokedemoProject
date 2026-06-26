@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:exeggutor",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:exeggutor",
+      "model": "cobblemon:exeggutor.geo",
+      "texture": "cobblemon:textures/pokemon/0103_exeggutor/exeggutor.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0103_exeggutor/exeggutor_shiny.png"
+    },
+    {
+      "aspects": [
+        "alolan"
+      ],
+      "poser": "cobblemon:exeggutor_alolan",
+      "model": "cobblemon:exeggutor_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/0103_exeggutor/exeggutor_alolan.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/0103_exeggutor/exeggutor_alolan_shiny.png"
+    }
+  ]
+}

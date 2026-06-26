@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "pokedemo:block/apricorn_white",
+		"particle": "pokedemo:block/apricorn_white"
+	},
+	"elements": [
+		{
+			"name": "stem1",
+			"from": [8, 10, 12],
+			"to": [8, 14, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [8, 6, 8, 8], "texture": "#0"},
+				"east": {"uv": [6, 6, 8, 8], "texture": "#0"},
+				"south": {"uv": [10, 6, 10, 8], "texture": "#0"},
+				"west": {"uv": [8, 6, 10, 8], "texture": "#0"},
+				"up": {"uv": [8, 6, 8, 4], "texture": "#0"},
+				"down": {"uv": [8, 4, 8, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "stem2",
+			"from": [6, 9, 11],
+			"to": [10, 10, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 8, 4, 8.5], "texture": "#0"},
+				"east": {"uv": [0, 8, 2, 8.5], "texture": "#0"},
+				"south": {"uv": [6, 8, 8, 8.5], "texture": "#0"},
+				"west": {"uv": [4, 8, 6, 8.5], "texture": "#0"},
+				"up": {"uv": [4, 8, 2, 6], "texture": "#0"},
+				"down": {"uv": [6, 6, 4, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "apricorn1",
+			"from": [5, 3, 10],
+			"to": [11, 9, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 3, 6, 6], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 6], "texture": "#0"},
+				"south": {"uv": [9, 3, 12, 6], "texture": "#0"},
+				"west": {"uv": [6, 3, 9, 6], "texture": "#0"},
+				"up": {"uv": [6, 3, 3, 0], "texture": "#0"},
+				"down": {"uv": [9, 0, 6, 3], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "apricorn",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

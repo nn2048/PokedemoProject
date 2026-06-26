@@ -1,0 +1,1755 @@
+{
+  "format_version": "1.21.11",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    32
+  ],
+  "textures": {
+    "0": "pokedemo:block/pokemon/diglett_alolan/diglett_alolan",
+    "particle": "pokedemo:block/pokemon/diglett_alolan/diglett_alolan"
+  },
+  "elements": [
+    {
+      "name": "ground",
+      "from": [
+        2.5,
+        0,
+        4.5
+      ],
+      "to": [
+        13.5,
+        3,
+        15.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          -0.5,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2.75,
+            14,
+            5.5,
+            15.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            14,
+            2.75,
+            15.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8.25,
+            14,
+            11,
+            15.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            14,
+            8.25,
+            15.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            14,
+            2.75,
+            8.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8.25,
+            8.5,
+            5.5,
+            14
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "ground_base",
+      "from": [
+        2.3,
+        -0.2,
+        4.3
+      ],
+      "to": [
+        13.7,
+        2.2,
+        15.7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          -0.5,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            7,
+            7,
+            9.75,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4.25,
+            7,
+            7,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12.5,
+            7,
+            15.25,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            9.75,
+            7,
+            12.5,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            9.75,
+            7,
+            7,
+            1.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12.5,
+            1.5,
+            9.75,
+            7
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "body1",
+      "from": [
+        4.5,
+        1,
+        6.5
+      ],
+      "to": [
+        11.5,
+        6,
+        13.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          7.5,
+          0.5,
+          10.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            11.5,
+            11.75,
+            14
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            11.5,
+            10,
+            14
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            13.5,
+            11.5,
+            15.25,
+            14
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            11.75,
+            11.5,
+            13.5,
+            14
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            11.75,
+            11.5,
+            10,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            13.5,
+            8,
+            11.75,
+            11.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "body2",
+      "from": [
+        4.49,
+        4.99,
+        6.49
+      ],
+      "to": [
+        11.51,
+        12.01,
+        13.51
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          7.5,
+          0.5,
+          10.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.75,
+            3.5,
+            3.5,
+            7
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            3.5,
+            1.75,
+            7
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.5,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            3.5,
+            5.25,
+            7
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            3.5,
+            1.75,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            0,
+            3.5,
+            3.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "hair_front1",
+      "from": [
+        7.99,
+        11.99,
+        8.99
+      ],
+      "to": [
+        8.01,
+        14.01,
+        10.01
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          12,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.25,
+            9.5,
+            0.25,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            9.5,
+            0.25,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            9.5,
+            0.5,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0.25,
+            9.5,
+            0.5,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0.25,
+            9.5,
+            0.25,
+            9
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0.25,
+            9,
+            0.25,
+            9.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "hair_front2",
+      "from": [
+        8,
+        14,
+        9
+      ],
+      "to": [
+        8,
+        16,
+        10
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          14,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.25,
+            8.5,
+            0.25,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            8.5,
+            0.25,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            8.5,
+            0.5,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0.25,
+            8.5,
+            0.5,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0.25,
+            8.5,
+            0.25,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0.25,
+            8,
+            0.25,
+            8.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "hair_left1",
+      "from": [
+        7.99,
+        11.99,
+        8.99
+      ],
+      "to": [
+        8.01,
+        14.01,
+        10.01
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          12,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.75,
+            9.5,
+            0.75,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0.5,
+            9.5,
+            0.75,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1,
+            9.5,
+            1,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0.75,
+            9.5,
+            1,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0.75,
+            9.5,
+            0.75,
+            9
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0.75,
+            9,
+            0.75,
+            9.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "hair_left2",
+      "from": [
+        8,
+        14,
+        9
+      ],
+      "to": [
+        8,
+        16,
+        10
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          14,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.75,
+            8.5,
+            0.75,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0.5,
+            8.5,
+            0.75,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1,
+            8.5,
+            1,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0.75,
+            8.5,
+            1,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0.75,
+            8.5,
+            0.75,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0.75,
+            8,
+            0.75,
+            8.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "hair_right",
+      "from": [
+        7.99,
+        11.99,
+        8.99
+      ],
+      "to": [
+        8.01,
+        14.01,
+        10.01
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          12,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            9.5,
+            1.25,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            9.5,
+            1.25,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            9.5,
+            1.5,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            9.5,
+            1,
+            10.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1.25,
+            9.5,
+            1.25,
+            9
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            1.25,
+            9,
+            1.25,
+            9.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "hair_right3",
+      "from": [
+        8,
+        14,
+        9
+      ],
+      "to": [
+        8,
+        16,
+        10
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          14,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            8.5,
+            1.25,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            8.5,
+            1.25,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            8.5,
+            1.5,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            8.5,
+            1,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1.25,
+            8.5,
+            1.25,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            1.25,
+            8,
+            1.25,
+            8.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "nose",
+      "from": [
+        6,
+        6.25,
+        5.5
+      ],
+      "to": [
+        10,
+        8.25,
+        6.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0.5,
+          10
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.25,
+            7.5,
+            1.25,
+            8.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.5,
+            0.25,
+            8.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            7.5,
+            2.5,
+            8.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            7.5,
+            1.5,
+            8.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1.25,
+            7.5,
+            0.25,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2.25,
+            7,
+            1.25,
+            7.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "eye_left",
+      "from": [
+        6,
+        8.5,
+        6.48
+      ],
+      "to": [
+        7,
+        10.5,
+        6.48
+      ],
+      "shade": false,
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          6.5,
+          9.5,
+          6.49
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.75,
+            0,
+            0.5,
+            1
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0.75,
+            0,
+            0.75,
+            1
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            0.75,
+            1
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            0,
+            0.5,
+            1
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0.5,
+            0,
+            0.75,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0.75,
+            0,
+            1,
+            0
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "pupil_left",
+      "from": [
+        6,
+        9.5,
+        6.47
+      ],
+      "to": [
+        7,
+        10.5,
+        6.47
+      ],
+      "shade": false,
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          6.5,
+          9.5,
+          6.49
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            0,
+            1,
+            0.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            1.25,
+            0,
+            1.25,
+            0.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            0,
+            1.25,
+            0.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            1,
+            0,
+            1,
+            0.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1,
+            0,
+            1.25,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            1.25,
+            0,
+            1.5,
+            0
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "eyelid_left",
+      "from": [
+        5.49,
+        8.49,
+        6.56
+      ],
+      "to": [
+        7.51,
+        10.51,
+        7.58
+      ],
+      "shade": false,
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          6.5,
+          9.5,
+          7.09
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.75,
+            1.5,
+            0.25,
+            2.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            1,
+            1.5,
+            0.75,
+            2.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            1.5,
+            1,
+            2.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0.25,
+            1.5,
+            0,
+            2.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0.25,
+            1.5,
+            0.75,
+            1
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0.75,
+            1,
+            1.25,
+            1.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "eye_right",
+      "from": [
+        9,
+        8.5,
+        6.48
+      ],
+      "to": [
+        10,
+        10.5,
+        6.48
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9.5,
+          9.5,
+          6.49
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            0.25,
+            1
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0.25,
+            0,
+            0.5,
+            1
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0.25,
+            0,
+            0.25,
+            1
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0.25,
+            0,
+            0,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0.5,
+            0,
+            0.25,
+            0
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "pupil_right",
+      "from": [
+        9,
+        9.5,
+        6.47
+      ],
+      "to": [
+        10,
+        10.5,
+        6.47
+      ],
+      "shade": false,
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9.5,
+          9.5,
+          6.49
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            0.5,
+            1.25,
+            1
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            1,
+            0.5,
+            1,
+            1
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1.25,
+            0.5,
+            1.5,
+            1
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            1.25,
+            0.5,
+            1.25,
+            1
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1.25,
+            0.5,
+            1,
+            0.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            1.5,
+            0.5,
+            1.25,
+            0.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "eyelid_right",
+      "from": [
+        8.49,
+        8.49,
+        6.56
+      ],
+      "to": [
+        10.51,
+        10.51,
+        7.58
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9.5,
+          9.5,
+          7.09
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            2.5,
+            6,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            5.25,
+            2.5,
+            5.5,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            6.25,
+            2.5,
+            6.75,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            6,
+            2.5,
+            6.25,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            6,
+            2.5,
+            5.5,
+            2
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            6.5,
+            2,
+            6,
+            2.5
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "diglett_alolan",
+      "origin": [
+        0,
+        1,
+        0
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "ground",
+          "origin": [
+            0,
+            0,
+            0
+          ],
+          "color": 3,
+          "children": [
+            0,
+            {
+              "name": "locator_item",
+              "origin": [
+                4.5,
+                1.5,
+                -4.5
+              ],
+              "color": 0,
+              "children": []
+            },
+            1,
+            {
+              "name": "body",
+              "origin": [
+                0,
+                3,
+                0
+              ],
+              "color": 1,
+              "children": [
+                2,
+                {
+                  "name": "body2",
+                  "origin": [
+                    0,
+                    6,
+                    0
+                  ],
+                  "color": 0,
+                  "children": [
+                    3,
+                    {
+                      "name": "locator_face",
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "locator_item_face",
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "locator_head",
+                      "origin": [
+                        0,
+                        12,
+                        0
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "locator_item_hat",
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "hair",
+                      "origin": [
+                        0,
+                        12,
+                        0
+                      ],
+                      "color": 0,
+                      "children": [
+                        {
+                          "name": "hair_front",
+                          "origin": [
+                            0,
+                            12,
+                            0
+                          ],
+                          "color": 0,
+                          "children": [
+                            {
+                              "name": "hair_front_rotation",
+                              "origin": [
+                                0,
+                                12,
+                                0
+                              ],
+                              "rotation": [
+                                -20,
+                                0,
+                                0
+                              ],
+                              "color": 0,
+                              "children": [
+                                4,
+                                {
+                                  "name": "hair_front2",
+                                  "origin": [
+                                    0,
+                                    14,
+                                    0
+                                  ],
+                                  "rotation": [
+                                    -15,
+                                    0,
+                                    0
+                                  ],
+                                  "color": 0,
+                                  "children": [
+                                    5
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "hair_left",
+                          "origin": [
+                            0,
+                            12,
+                            0
+                          ],
+                          "rotation": [
+                            0,
+                            122.5,
+                            0
+                          ],
+                          "color": 0,
+                          "children": [
+                            {
+                              "name": "hair_left_rotation",
+                              "origin": [
+                                0,
+                                12,
+                                0
+                              ],
+                              "rotation": [
+                                -20,
+                                0,
+                                0
+                              ],
+                              "color": 0,
+                              "children": [
+                                6,
+                                {
+                                  "name": "hair_left2",
+                                  "origin": [
+                                    0,
+                                    14,
+                                    0
+                                  ],
+                                  "rotation": [
+                                    -15,
+                                    0,
+                                    0
+                                  ],
+                                  "color": 0,
+                                  "children": [
+                                    7
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "hair_right",
+                          "origin": [
+                            0,
+                            12,
+                            0
+                          ],
+                          "rotation": [
+                            0,
+                            -122.5,
+                            0
+                          ],
+                          "color": 0,
+                          "children": [
+                            {
+                              "name": "hair_right_rotation",
+                              "origin": [
+                                0,
+                                12,
+                                0
+                              ],
+                              "rotation": [
+                                -20,
+                                0,
+                                0
+                              ],
+                              "color": 0,
+                              "children": [
+                                8,
+                                {
+                                  "name": "hair_right2",
+                                  "origin": [
+                                    0,
+                                    14,
+                                    0
+                                  ],
+                                  "rotation": [
+                                    -15,
+                                    0,
+                                    0
+                                  ],
+                                  "color": 0,
+                                  "children": [
+                                    9
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nose",
+                      "origin": [
+                        0,
+                        7.25,
+                        -3.5
+                      ],
+                      "color": 0,
+                      "children": [
+                        10
+                      ]
+                    },
+                    {
+                      "name": "eyes",
+                      "origin": [
+                        0,
+                        9.5,
+                        -3.55
+                      ],
+                      "color": 2,
+                      "children": [
+                        {
+                          "name": "eye_left",
+                          "origin": [
+                            -1.5,
+                            9.5,
+                            -3.52
+                          ],
+                          "color": 0,
+                          "children": [
+                            11,
+                            {
+                              "name": "pupil_left",
+                              "origin": [
+                                -1.5,
+                                10,
+                                -3.53
+                              ],
+                              "color": 0,
+                              "children": [
+                                12,
+                                {
+                                  "name": "locator_eye_left",
+                                  "origin": [
+                                    -1.5,
+                                    9.5,
+                                    -3.52
+                                  ],
+                                  "color": 0,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "eyelid_left",
+                              "origin": [
+                                -1.5,
+                                9.5,
+                                -2.93
+                              ],
+                              "color": 0,
+                              "children": [
+                                13
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "eye_right",
+                          "origin": [
+                            1.5,
+                            9.5,
+                            -3.52
+                          ],
+                          "color": 0,
+                          "children": [
+                            14,
+                            {
+                              "name": "pupil_right",
+                              "origin": [
+                                1.5,
+                                10,
+                                -3.53
+                              ],
+                              "color": 0,
+                              "children": [
+                                15,
+                                {
+                                  "name": "locator_eye_right",
+                                  "origin": [
+                                    1.5,
+                                    9.5,
+                                    -3.52
+                                  ],
+                                  "color": 0,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "eyelid_right",
+                              "origin": [
+                                1.5,
+                                9.5,
+                                -2.93
+                              ],
+                              "color": 0,
+                              "children": [
+                                16
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "locator_middle",
+                  "origin": [
+                    0,
+                    6.5,
+                    0
+                  ],
+                  "color": 0,
+                  "children": []
+                },
+                {
+                  "name": "locator_target",
+                  "origin": [
+                    0,
+                    6.5,
+                    -5.5
+                  ],
+                  "color": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "locator_root",
+          "origin": [
+            0,
+            0,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "locator_top",
+          "origin": [
+            0,
+            12.5,
+            0
+          ],
+          "color": 0,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+primary: zh_cn
+fallback: en_us
+
+# battle UI hint
+battle-reopen-hint: "按B返回战斗"

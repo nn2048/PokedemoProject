@@ -1,0 +1,13 @@
+{
+  "id": "leech_seed",
+  "name": "Leech Seed",
+  "type": "grass",
+  "category": "status",
+  "power": 0,
+  "accuracy": 0.9,
+  "pp": 10,
+  "priority": 0,
+  "effects": [
+    { "kind": "leech_seed" }
+  ]
+}

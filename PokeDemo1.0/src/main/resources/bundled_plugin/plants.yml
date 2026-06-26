@@ -1,0 +1,19 @@
+plants:
+  p0:
+    world: bc5b1bbf-548b-4cb9-8c28-6b6585687e74
+    x: 71247
+    y: 79
+    z: 8741
+    kind: BERRY
+    id: liechi
+    stage: 2
+    stageStartMs: 1771221977910
+  p1:
+    world: bc5b1bbf-548b-4cb9-8c28-6b6585687e74
+    x: 71246
+    y: 79
+    z: 8743
+    kind: BERRY
+    id: liechi
+    stage: 2
+    stageStartMs: 1771222007910

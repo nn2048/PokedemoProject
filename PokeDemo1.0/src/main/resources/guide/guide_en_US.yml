@@ -1,0 +1,223 @@
+books:
+  welcome:
+    title: PokeDemo Guide
+    author: PtrMC
+    pages:
+    - '§d§lWelcome, Trainer!§r
+
+
+      §7This plugin is open-source and free.§r
+
+      §4§lDo NOT buy this plugin from paid channels.§r
+
+      §4§lNo paid redistribution of modified versions.§r
+
+
+      §7Get this book:§r
+
+      §2Craft with 3 sticks (shapeless)§r
+
+
+      §7Controls:§r
+
+      §3Right-click to open§r
+
+      §3Left-click to open the “Guide Switch” menu§r
+
+      §7(Shift+Left: quick cycle)§r
+
+      '
+    - '§e§lImportant§r
+
+      §cWhen the server lags, do NOT move your gear into GUIs!§r
+
+      §7(Inventory / PC / machines, etc.)§r
+
+      §cLosses caused by this are not compensated.§r
+
+
+      §e§lCommon§r
+
+      §a/recipes§r §fOpen crafting recipes§r
+
+
+      §3§lSummon Pokémon§r
+
+      §fHold §bShift§f + §bF§f (swap offhand) to enter summon mode§r
+
+      §fThen use §bmouse wheel§f / §bhotbar number keys§f to summon your party§r
+
+
+      §7Type: §a/poke guide§7 to get the guide again§r'
+    - '§e§lParty Details§r
+
+
+      §a/party§r §fOpen your party details§r
+
+
+      §7View your party Pokémon, HP, status, and more.§r
+
+
+      §7The sidebar party panel also syncs with your current party.§r'
+  stones:
+    title: World & Resources
+    author: PtrMC
+    pages:
+    - '§3§lEvolution Stones (natural spawn)§r
+
+
+      §3Fire Stone§7: Nether§r
+
+      §3Leaf Stone§7: randomly on leaves§r
+
+      §3Water Stone§7: ocean floor§r
+
+      §3Thunder Stone§7: exposed rocks in high mountains§r
+
+      §3Moon Stone§7: The End§r
+
+      '
+    - '§3§lApricorns & Berries§r
+
+
+      §3Apricorns§7: break leaves to get a chance§r
+
+      §4§lShears do NOT work§r
+
+
+      §3Berries§7: harvest from mature berry bushes§r
+
+      §7Planting a berry gives fixed yields of that berry type.§r
+
+      '
+    - '§3§lWild Loot§r
+
+      §7Items / TMs / etc. can be found in wild chests,§r
+
+      §7or dropped by defeating wild Pokémon.§r
+
+
+      §3§lRare fishing rewards§r
+
+      §7Mints, Ability Capsule, Ability Patch, Bottlecaps, Feathers, Medicines, TMs§r
+
+      '
+  breeding:
+    title: Breeding & Preferences
+    author: PtrMC
+    pages:
+    - '§3§lBreeding basics§r
+
+      §7Breeding depends on gender and egg groups.§r
+
+      §7Pokémon may prefer certain environments/blocks.§r
+
+      '
+    - '§3§lType-preferred blocks (examples)§r
+
+      §3Normal§7: White Wool§r
+
+      §3Flying§7: Glass§r
+
+      §3Fire§7: Netherrack§r
+
+      §3Psychic§7: End Stone§r
+
+      §3Water§7: Clay§r
+
+      §3Bug§7: Sand§r
+
+      §3Electric§7: Redstone Block§r
+
+      §3Rock§7: Cobblestone§r
+
+      '
+    - '§3Grass§7: Grass Block / Hay Bale§r
+
+      §3Ghost§7: Soul Sand§r
+
+      §3Ice§7: Ice / Packed Ice / Blue Ice§r
+
+      §3Dragon§7: Magma Block§r
+
+      §3Fighting§7: Bone Block§r
+
+      §3Dark§7: Coal Block§r
+
+      §3Poison§7: Slime Block§r
+
+      §3Steel§7: Iron Block / Copper Block§r
+
+      §3Ground§7: Stone§r
+
+      §3Fairy§7: Glowstone§r
+
+      '
+    - '§3§lHatching§r
+
+      §7Eggs hatch when the trainer moves around.§r
+
+      §2Run, explore, and adventure!§r
+
+      '
+  devices:
+    title: Device Research
+    author: PtrMC
+    pages:
+    - '§3§lDevice research§r
+
+      §7You may find strange stones while mining...§r
+
+      §7Maybe you can craft machines to study them?§r
+
+      '
+    - '§3§lMysterious Pokémon§r
+
+      §7A mysterious Pokémon deep in the jungle§r
+
+      §7seems to be able to transform into any Pokémon.§r
+
+      §3Will you experiment with it?§r
+
+      '
+    - '§3§lPasture & energy§r
+
+      §7Running a Pokémon pasture can be fun.§r
+
+      §7At night, don’t forget to provide stored energy.§r
+
+      '
+  legends:
+    title: Legends
+    author: PtrMC
+    pages:
+    - '§3§lLegends§r
+
+      §7Build altars in extreme places and charge them with energy...§r
+
+      §7Maybe you will witness a legendary one someday.§r
+
+      '
+    - '§3§lGenes & secrets§r
+
+      §7A mysterious Pokémon hidden in the deep jungle§r
+
+      §7might carry genes of all Pokémon...§r
+
+      '
+  community:
+    title: Community & Support
+    author: PtrMC
+    pages:
+    - '§3§lCommunity§r
+
+      §7Visit:§r
+
+      §9https://nn2048.github.io/pokedemo-website/§r
+
+      §7for guides and feedback.§r
+
+
+      §7Support worlds:§r
+
+      §bhttps://nn2048.github.io/pokedemo-website/§r        §bhttps://nn2048.github.io/pokedemo-website/§r        §bhttps://nn2048.github.io/pokedemo-website/§r'

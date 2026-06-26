@@ -1,0 +1,40 @@
+{
+  "species": "cobblemon:rattata",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:rattata",
+      "model": "cobblemon:rattata_male.geo",
+      "texture": "cobblemon:textures/pokemon/0019_rattata/rattata.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0019_rattata/rattata_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:rattata_female.geo"
+    },
+    {
+      "aspects": [
+        "alolan"
+      ],
+      "poser": "cobblemon:rattata_alolan",
+      "model": "cobblemon:rattata_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/0019_rattata/rattata_alolan.png"
+    },
+    {
+      "aspects": [
+        "alolan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0019_rattata/rattata_alolan_shiny.png"
+    }
+  ]
+}

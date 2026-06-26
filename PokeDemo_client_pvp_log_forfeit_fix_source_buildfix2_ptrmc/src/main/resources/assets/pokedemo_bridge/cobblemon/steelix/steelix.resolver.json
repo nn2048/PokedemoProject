@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:steelix",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:steelix",
+      "model": "cobblemon:steelix_male.geo",
+      "texture": "cobblemon:textures/pokemon/0208_steelix/steelix.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0208_steelix/steelix_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:steelix_female.geo",
+      "texture": "cobblemon:textures/pokemon/0208_steelix/steelix.png"
+    },
+    {
+      "aspects": [
+        "shiny",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0208_steelix/steelix_shiny.png"
+    }
+  ]
+}

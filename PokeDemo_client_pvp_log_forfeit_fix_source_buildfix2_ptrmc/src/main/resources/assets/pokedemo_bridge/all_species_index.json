@@ -1,0 +1,5281 @@
+[
+  {
+    "key": "abra",
+    "models": [
+      "abra.geo.json"
+    ]
+  },
+  {
+    "key": "absol",
+    "models": [
+      "absol.geo.json"
+    ]
+  },
+  {
+    "key": "accelgor",
+    "models": [
+      "accelgor.geo.json"
+    ]
+  },
+  {
+    "key": "aegislash",
+    "models": [
+      "aegislash.geo.json"
+    ]
+  },
+  {
+    "key": "aerodactyl",
+    "models": [
+      "aerodactyl.geo.json"
+    ]
+  },
+  {
+    "key": "aggron",
+    "models": [
+      "aggron.geo.json"
+    ]
+  },
+  {
+    "key": "aipom",
+    "models": [
+      "aipom_female.geo.json",
+      "aipom_male.geo.json"
+    ]
+  },
+  {
+    "key": "alakazam",
+    "models": [
+      "alakazam_female.geo.json",
+      "alakazam_male.geo.json"
+    ]
+  },
+  {
+    "key": "alcremie",
+    "models": [
+      "alcremie.geo.json"
+    ]
+  },
+  {
+    "key": "alomomola",
+    "models": [
+      "alomomola.geo.json"
+    ]
+  },
+  {
+    "key": "altaria",
+    "models": [
+      "altaria.geo.json"
+    ]
+  },
+  {
+    "key": "amaura",
+    "models": [
+      "amaura.geo.json"
+    ]
+  },
+  {
+    "key": "ambipom",
+    "models": [
+      "ambipom_female.geo.json",
+      "ambipom_male.geo.json"
+    ]
+  },
+  {
+    "key": "amoonguss",
+    "models": [
+      "amoonguss.geo.json"
+    ]
+  },
+  {
+    "key": "ampharos",
+    "models": [
+      "ampharos.geo.json"
+    ]
+  },
+  {
+    "key": "annihilape",
+    "models": [
+      "annihilape.geo.json"
+    ]
+  },
+  {
+    "key": "anorith",
+    "models": [
+      "anorith.geo.json"
+    ]
+  },
+  {
+    "key": "araquanid",
+    "models": [
+      "araquanid.geo.json"
+    ]
+  },
+  {
+    "key": "arbok",
+    "models": [
+      "arbok.geo.json"
+    ]
+  },
+  {
+    "key": "arboliva",
+    "models": [
+      "arboliva.geo.json"
+    ]
+  },
+  {
+    "key": "arcanine",
+    "models": [
+      "arcanine.geo.json"
+    ]
+  },
+  {
+    "key": "archen",
+    "models": [
+      "archen.geo.json"
+    ]
+  },
+  {
+    "key": "archeops",
+    "models": [
+      "archeops.geo.json"
+    ]
+  },
+  {
+    "key": "arctovish",
+    "models": [
+      "arctovish.geo.json"
+    ]
+  },
+  {
+    "key": "arctozolt",
+    "models": [
+      "arctozolt.geo.json"
+    ]
+  },
+  {
+    "key": "ariados",
+    "models": [
+      "ariados.geo.json"
+    ]
+  },
+  {
+    "key": "armaldo",
+    "models": [
+      "armaldo.geo.json"
+    ]
+  },
+  {
+    "key": "armarouge",
+    "models": [
+      "armarouge.geo.json"
+    ]
+  },
+  {
+    "key": "aromatisse",
+    "models": [
+      "aromatisse.geo.json"
+    ]
+  },
+  {
+    "key": "aron",
+    "models": [
+      "aron.geo.json"
+    ]
+  },
+  {
+    "key": "arrokuda",
+    "models": [
+      "arrokuda.geo.json"
+    ]
+  },
+  {
+    "key": "articuno",
+    "models": [
+      "articuno.geo.json"
+    ]
+  },
+  {
+    "key": "aurorus",
+    "models": [
+      "aurorus.geo.json"
+    ]
+  },
+  {
+    "key": "avalugg",
+    "models": [
+      "avalugg.geo.json"
+    ]
+  },
+  {
+    "key": "axew",
+    "models": [
+      "axew.geo.json"
+    ]
+  },
+  {
+    "key": "azumarill",
+    "models": [
+      "azumarill.geo.json"
+    ]
+  },
+  {
+    "key": "azurill",
+    "models": [
+      "azurill.geo.json"
+    ]
+  },
+  {
+    "key": "bagon",
+    "models": [
+      "bagon.geo.json"
+    ]
+  },
+  {
+    "key": "baltoy",
+    "models": [
+      "baltoy.geo.json"
+    ]
+  },
+  {
+    "key": "banette",
+    "models": [
+      "banette.geo.json"
+    ]
+  },
+  {
+    "key": "barbaracle",
+    "models": [
+      "barbaracle.geo.json"
+    ]
+  },
+  {
+    "key": "barboach",
+    "models": [
+      "barboach.geo.json"
+    ]
+  },
+  {
+    "key": "barraskewda",
+    "models": [
+      "barraskewda.geo.json"
+    ]
+  },
+  {
+    "key": "basculegion",
+    "models": [
+      "basculegion_female.geo.json",
+      "basculegion_male.geo.json"
+    ]
+  },
+  {
+    "key": "basculin",
+    "models": [
+      "basculin_bluestripe.geo.json",
+      "basculin_redstripe.geo.json",
+      "basculin_whitestripe.geo.json"
+    ]
+  },
+  {
+    "key": "bastiodon",
+    "models": [
+      "bastiodon.geo.json"
+    ]
+  },
+  {
+    "key": "bayleef",
+    "models": [
+      "bayleef.geo.json"
+    ]
+  },
+  {
+    "key": "beartic",
+    "models": [
+      "beartic.geo.json"
+    ]
+  },
+  {
+    "key": "beedrill",
+    "models": [
+      "beedrill.geo.json"
+    ]
+  },
+  {
+    "key": "beheeyem",
+    "models": [
+      "beheeyem.geo.json"
+    ]
+  },
+  {
+    "key": "beldum",
+    "models": [
+      "beldum.geo.json"
+    ]
+  },
+  {
+    "key": "bellibolt",
+    "models": [
+      "bellibolt.geo.json"
+    ]
+  },
+  {
+    "key": "bellossom",
+    "models": [
+      "bellossom.geo.json"
+    ]
+  },
+  {
+    "key": "bellsprout",
+    "models": [
+      "bellsprout.geo.json"
+    ]
+  },
+  {
+    "key": "bergmite",
+    "models": [
+      "bergmite.geo.json"
+    ]
+  },
+  {
+    "key": "bewear",
+    "models": [
+      "bewear.geo.json"
+    ]
+  },
+  {
+    "key": "bibarel",
+    "models": [
+      "bibarel_female.geo.json",
+      "bibarel_male.geo.json"
+    ]
+  },
+  {
+    "key": "bidoof",
+    "models": [
+      "bidoof_female.geo.json",
+      "bidoof_male.geo.json"
+    ]
+  },
+  {
+    "key": "binacle",
+    "models": [
+      "binacle.geo.json"
+    ]
+  },
+  {
+    "key": "blastoise",
+    "models": [
+      "blastoise.geo.json"
+    ]
+  },
+  {
+    "key": "blaziken",
+    "models": [
+      "blaziken_female.geo.json",
+      "blaziken_male.geo.json"
+    ]
+  },
+  {
+    "key": "blissey",
+    "models": [
+      "blissey.geo.json"
+    ]
+  },
+  {
+    "key": "blitzle",
+    "models": [
+      "blitzle.geo.json"
+    ]
+  },
+  {
+    "key": "boldore",
+    "models": [
+      "boldore.geo.json"
+    ]
+  },
+  {
+    "key": "boltund",
+    "models": [
+      "boltund.geo.json"
+    ]
+  },
+  {
+    "key": "bonsly",
+    "models": [
+      "bonsly.geo.json"
+    ]
+  },
+  {
+    "key": "bouffalant",
+    "models": [
+      "bouffalant.geo.json"
+    ]
+  },
+  {
+    "key": "bounsweet",
+    "models": [
+      "bounsweet.geo.json"
+    ]
+  },
+  {
+    "key": "braixen",
+    "models": [
+      "braixen.geo.json"
+    ]
+  },
+  {
+    "key": "brambleghast",
+    "models": [
+      "brambleghast.geo.json"
+    ]
+  },
+  {
+    "key": "bramblin",
+    "models": [
+      "bramblin.geo.json"
+    ]
+  },
+  {
+    "key": "braviary",
+    "models": [
+      "braviary.geo.json",
+      "braviary_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "breloom",
+    "models": [
+      "breloom.geo.json"
+    ]
+  },
+  {
+    "key": "brionne",
+    "models": [
+      "brionne.geo.json"
+    ]
+  },
+  {
+    "key": "bronzong",
+    "models": [
+      "bronzong.geo.json"
+    ]
+  },
+  {
+    "key": "bronzor",
+    "models": [
+      "bronzor.geo.json"
+    ]
+  },
+  {
+    "key": "bruxish",
+    "models": [
+      "bruxish.geo.json"
+    ]
+  },
+  {
+    "key": "budew",
+    "models": [
+      "budew.geo.json"
+    ]
+  },
+  {
+    "key": "buizel",
+    "models": [
+      "buizel_female.geo.json",
+      "buizel_male.geo.json"
+    ]
+  },
+  {
+    "key": "bulbasaur",
+    "models": [
+      "bulbasaur.geo.json"
+    ]
+  },
+  {
+    "key": "buneary",
+    "models": [
+      "buneary.geo.json"
+    ]
+  },
+  {
+    "key": "bunnelby",
+    "models": [
+      "bunnelby.geo.json"
+    ]
+  },
+  {
+    "key": "butterfree",
+    "models": [
+      "butterfree_female.geo.json",
+      "butterfree_male.geo.json"
+    ]
+  },
+  {
+    "key": "cacnea",
+    "models": [
+      "cacnea.geo.json"
+    ]
+  },
+  {
+    "key": "cacturne",
+    "models": [
+      "cacturne_female.geo.json",
+      "cacturne_male.geo.json"
+    ]
+  },
+  {
+    "key": "camerupt",
+    "models": [
+      "camerupt.geo.json"
+    ]
+  },
+  {
+    "key": "capsakid",
+    "models": [
+      "capsakid.geo.json"
+    ]
+  },
+  {
+    "key": "carbink",
+    "models": [
+      "carbink.geo.json"
+    ]
+  },
+  {
+    "key": "carnivine",
+    "models": [
+      "carnivine.geo.json"
+    ]
+  },
+  {
+    "key": "carracosta",
+    "models": [
+      "carracosta.geo.json"
+    ]
+  },
+  {
+    "key": "carvanha",
+    "models": [
+      "carvanha.geo.json"
+    ]
+  },
+  {
+    "key": "caterpie",
+    "models": [
+      "caterpie.geo.json"
+    ]
+  },
+  {
+    "key": "centiskorch",
+    "models": [
+      "centiskorch.geo.json"
+    ]
+  },
+  {
+    "key": "ceruledge",
+    "models": [
+      "ceruledge.geo.json"
+    ]
+  },
+  {
+    "key": "cetitan",
+    "models": [
+      "cetitan.geo.json"
+    ]
+  },
+  {
+    "key": "cetoddle",
+    "models": [
+      "cetoddle.geo.json"
+    ]
+  },
+  {
+    "key": "chandelure",
+    "models": [
+      "chandelure.geo.json"
+    ]
+  },
+  {
+    "key": "chansey",
+    "models": [
+      "chansey.geo.json"
+    ]
+  },
+  {
+    "key": "charcadet",
+    "models": [
+      "charcadet.geo.json"
+    ]
+  },
+  {
+    "key": "charizard",
+    "models": [
+      "charizard.geo.json"
+    ]
+  },
+  {
+    "key": "charmander",
+    "models": [
+      "charmander.geo.json"
+    ]
+  },
+  {
+    "key": "charmeleon",
+    "models": [
+      "charmeleon.geo.json"
+    ]
+  },
+  {
+    "key": "chatot",
+    "models": [
+      "chatot.geo.json"
+    ]
+  },
+  {
+    "key": "chesnaught",
+    "models": [
+      "chesnaught.geo.json"
+    ]
+  },
+  {
+    "key": "chespin",
+    "models": [
+      "chespin.geo.json"
+    ]
+  },
+  {
+    "key": "chewtle",
+    "models": [
+      "chewtle.geo.json"
+    ]
+  },
+  {
+    "key": "chikorita",
+    "models": [
+      "chikorita.geo.json"
+    ]
+  },
+  {
+    "key": "chimchar",
+    "models": [
+      "chimchar.geo.json"
+    ]
+  },
+  {
+    "key": "chimecho",
+    "models": [
+      "chimecho.geo.json"
+    ]
+  },
+  {
+    "key": "chinchou",
+    "models": [
+      "chinchou.geo.json"
+    ]
+  },
+  {
+    "key": "chingling",
+    "models": [
+      "chingling.geo.json"
+    ]
+  },
+  {
+    "key": "cinccino",
+    "models": [
+      "cinccino.geo.json"
+    ]
+  },
+  {
+    "key": "cinderace",
+    "models": [
+      "cinderace.geo.json"
+    ]
+  },
+  {
+    "key": "clamperl",
+    "models": [
+      "clamperl.geo.json"
+    ]
+  },
+  {
+    "key": "clauncher",
+    "models": [
+      "clauncher_left.geo.json",
+      "clauncher_right.geo.json"
+    ]
+  },
+  {
+    "key": "clawitzer",
+    "models": [
+      "clawitzer_left.geo.json",
+      "clawitzer_right.geo.json"
+    ]
+  },
+  {
+    "key": "claydol",
+    "models": [
+      "claydol.geo.json"
+    ]
+  },
+  {
+    "key": "clefable",
+    "models": [
+      "clefable.geo.json"
+    ]
+  },
+  {
+    "key": "clefairy",
+    "models": [
+      "clefairy.geo.json"
+    ]
+  },
+  {
+    "key": "cleffa",
+    "models": [
+      "cleffa.geo.json"
+    ]
+  },
+  {
+    "key": "clobbopus",
+    "models": [
+      "clobbopus.geo.json"
+    ]
+  },
+  {
+    "key": "clodsire",
+    "models": [
+      "clodsire.geo.json"
+    ]
+  },
+  {
+    "key": "cloyster",
+    "models": [
+      "cloyster.geo.json"
+    ]
+  },
+  {
+    "key": "cofagrigus",
+    "models": [
+      "cofagrigus.geo.json"
+    ]
+  },
+  {
+    "key": "combee",
+    "models": [
+      "combee_female.geo.json",
+      "combee_male.geo.json"
+    ]
+  },
+  {
+    "key": "combusken",
+    "models": [
+      "combusken_female.geo.json",
+      "combusken_male.geo.json"
+    ]
+  },
+  {
+    "key": "comfey",
+    "models": [
+      "comfey.geo.json"
+    ]
+  },
+  {
+    "key": "conkeldurr",
+    "models": [
+      "conkeldurr.geo.json"
+    ]
+  },
+  {
+    "key": "copperajah",
+    "models": [
+      "copperajah.geo.json"
+    ]
+  },
+  {
+    "key": "corphish",
+    "models": [
+      "corphish.geo.json"
+    ]
+  },
+  {
+    "key": "corsola",
+    "models": [
+      "corsola.geo.json",
+      "corsola_galarian.geo.json"
+    ]
+  },
+  {
+    "key": "corviknight",
+    "models": [
+      "corviknight.geo.json"
+    ]
+  },
+  {
+    "key": "corvisquire",
+    "models": [
+      "corvisquire.geo.json"
+    ]
+  },
+  {
+    "key": "cottonee",
+    "models": [
+      "cottonee.geo.json"
+    ]
+  },
+  {
+    "key": "crabominable",
+    "models": [
+      "crabominable.geo.json"
+    ]
+  },
+  {
+    "key": "crabrawler",
+    "models": [
+      "crabrawler.geo.json"
+    ]
+  },
+  {
+    "key": "cradily",
+    "models": [
+      "cradily.geo.json"
+    ]
+  },
+  {
+    "key": "cramorant",
+    "models": [
+      "cramorant.geo.json"
+    ]
+  },
+  {
+    "key": "cranidos",
+    "models": [
+      "cranidos.geo.json"
+    ]
+  },
+  {
+    "key": "crawdaunt",
+    "models": [
+      "crawdaunt.geo.json"
+    ]
+  },
+  {
+    "key": "croagunk",
+    "models": [
+      "croagunk_female.geo.json",
+      "croagunk_male.geo.json"
+    ]
+  },
+  {
+    "key": "crobat",
+    "models": [
+      "crobat.geo.json"
+    ]
+  },
+  {
+    "key": "crocalor",
+    "models": [
+      "crocalor.geo.json"
+    ]
+  },
+  {
+    "key": "croconaw",
+    "models": [
+      "croconaw.geo.json"
+    ]
+  },
+  {
+    "key": "crustle",
+    "models": [
+      "crustle.geo.json"
+    ]
+  },
+  {
+    "key": "cryogonal",
+    "models": [
+      "cryogonal.geo.json"
+    ]
+  },
+  {
+    "key": "cubchoo",
+    "models": [
+      "cubchoo.geo.json"
+    ]
+  },
+  {
+    "key": "cubone",
+    "models": [
+      "cubone.geo.json"
+    ]
+  },
+  {
+    "key": "cufant",
+    "models": [
+      "cufant.geo.json"
+    ]
+  },
+  {
+    "key": "cursola",
+    "models": [
+      "cursola.geo.json"
+    ]
+  },
+  {
+    "key": "cutiefly",
+    "models": [
+      "cutiefly.geo.json"
+    ]
+  },
+  {
+    "key": "cyclizar",
+    "models": [
+      "cyclizar.geo.json"
+    ]
+  },
+  {
+    "key": "cyndaquil",
+    "models": [
+      "cyndaquil.geo.json"
+    ]
+  },
+  {
+    "key": "dachsbun",
+    "models": [
+      "dachsbun.geo.json"
+    ]
+  },
+  {
+    "key": "darmanitan",
+    "models": [
+      "darmanitan.geo.json",
+      "darmanitan_zen.geo.json"
+    ]
+  },
+  {
+    "key": "dartrix",
+    "models": [
+      "dartrix.geo.json"
+    ]
+  },
+  {
+    "key": "darumaka",
+    "models": [
+      "darumaka.geo.json"
+    ]
+  },
+  {
+    "key": "decidueye",
+    "models": [
+      "decidueye.geo.json",
+      "decidueye_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "dedenne",
+    "models": [
+      "dedenne.geo.json"
+    ]
+  },
+  {
+    "key": "deerling",
+    "models": [
+      "deerling.geo.json"
+    ]
+  },
+  {
+    "key": "deino",
+    "models": [
+      "deino.geo.json"
+    ]
+  },
+  {
+    "key": "delibird",
+    "models": [
+      "delibird.geo.json"
+    ]
+  },
+  {
+    "key": "delphox",
+    "models": [
+      "delphox.geo.json"
+    ]
+  },
+  {
+    "key": "dewgong",
+    "models": [
+      "dewgong.geo.json"
+    ]
+  },
+  {
+    "key": "dewott",
+    "models": [
+      "dewott.geo.json"
+    ]
+  },
+  {
+    "key": "dewpider",
+    "models": [
+      "dewpider.geo.json"
+    ]
+  },
+  {
+    "key": "dhelmise",
+    "models": [
+      "dhelmise.geo.json"
+    ]
+  },
+  {
+    "key": "diggersby",
+    "models": [
+      "diggersby.geo.json"
+    ]
+  },
+  {
+    "key": "diglett",
+    "models": [
+      "diglett.geo.json",
+      "diglett_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "ditto",
+    "models": [
+      "ditto.geo.json"
+    ]
+  },
+  {
+    "key": "dodrio",
+    "models": [
+      "dodrio_female.geo.json",
+      "dodrio_male.geo.json"
+    ]
+  },
+  {
+    "key": "doduo",
+    "models": [
+      "doduo_female.geo.json",
+      "doduo_male.geo.json"
+    ]
+  },
+  {
+    "key": "dolliv",
+    "models": [
+      "dolliv.geo.json"
+    ]
+  },
+  {
+    "key": "dondozo",
+    "models": [
+      "dondozo.geo.json"
+    ]
+  },
+  {
+    "key": "donphan",
+    "models": [
+      "donphan_female.geo.json",
+      "donphan_male.geo.json"
+    ]
+  },
+  {
+    "key": "doublade",
+    "models": [
+      "doublade.geo.json"
+    ]
+  },
+  {
+    "key": "dracovish",
+    "models": [
+      "dracovish.geo.json"
+    ]
+  },
+  {
+    "key": "dracozolt",
+    "models": [
+      "dracozolt.geo.json"
+    ]
+  },
+  {
+    "key": "dragalge",
+    "models": [
+      "dragalge.geo.json"
+    ]
+  },
+  {
+    "key": "dragapult",
+    "models": [
+      "dragapult.geo.json"
+    ]
+  },
+  {
+    "key": "dragonair",
+    "models": [
+      "dragonair.geo.json"
+    ]
+  },
+  {
+    "key": "dragonite",
+    "models": [
+      "dragonite.geo.json"
+    ]
+  },
+  {
+    "key": "drakloak",
+    "models": [
+      "drakloak.geo.json"
+    ]
+  },
+  {
+    "key": "drampa",
+    "models": [
+      "drampa.geo.json"
+    ]
+  },
+  {
+    "key": "drapion",
+    "models": [
+      "drapion.geo.json"
+    ]
+  },
+  {
+    "key": "dratini",
+    "models": [
+      "dratini.geo.json"
+    ]
+  },
+  {
+    "key": "drednaw",
+    "models": [
+      "drednaw.geo.json"
+    ]
+  },
+  {
+    "key": "dreepy",
+    "models": [
+      "dreepy.geo.json"
+    ]
+  },
+  {
+    "key": "drifblim",
+    "models": [
+      "drifblim.geo.json"
+    ]
+  },
+  {
+    "key": "drifloon",
+    "models": [
+      "drifloon.geo.json"
+    ]
+  },
+  {
+    "key": "drilbur",
+    "models": [
+      "drilbur.geo.json"
+    ]
+  },
+  {
+    "key": "drizzile",
+    "models": [
+      "drizzile.geo.json"
+    ]
+  },
+  {
+    "key": "drowzee",
+    "models": [
+      "drowzee.geo.json"
+    ]
+  },
+  {
+    "key": "druddigon",
+    "models": [
+      "druddigon.geo.json"
+    ]
+  },
+  {
+    "key": "dubwool",
+    "models": [
+      "dubwool.geo.json"
+    ]
+  },
+  {
+    "key": "ducklett",
+    "models": [
+      "ducklett.geo.json"
+    ]
+  },
+  {
+    "key": "dudunsparce",
+    "models": [
+      "dudunsparce_three_segment.geo.json",
+      "dudunsparce_two_segment.geo.json"
+    ]
+  },
+  {
+    "key": "dugtrio",
+    "models": [
+      "dugtrio.geo.json",
+      "dugtrio_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "dunsparce",
+    "models": [
+      "dunsparce.geo.json"
+    ]
+  },
+  {
+    "key": "duosion",
+    "models": [
+      "duosion.geo.json"
+    ]
+  },
+  {
+    "key": "durant",
+    "models": [
+      "durant.geo.json"
+    ]
+  },
+  {
+    "key": "dusclops",
+    "models": [
+      "dusclops.geo.json"
+    ]
+  },
+  {
+    "key": "dusknoir",
+    "models": [
+      "dusknoir.geo.json"
+    ]
+  },
+  {
+    "key": "duskull",
+    "models": [
+      "duskull.geo.json"
+    ]
+  },
+  {
+    "key": "dwebble",
+    "models": [
+      "dwebble.geo.json"
+    ]
+  },
+  {
+    "key": "eelektrik",
+    "models": [
+      "eelektrik.geo.json"
+    ]
+  },
+  {
+    "key": "eelektross",
+    "models": [
+      "eelektross.geo.json"
+    ]
+  },
+  {
+    "key": "eevee",
+    "models": [
+      "eevee_female.geo.json",
+      "eevee_male.geo.json"
+    ]
+  },
+  {
+    "key": "eiscue",
+    "models": [
+      "eiscue_ice.geo.json",
+      "eiscue_no_ice.geo.json"
+    ]
+  },
+  {
+    "key": "ekans",
+    "models": [
+      "ekans.geo.json"
+    ]
+  },
+  {
+    "key": "eldegoss",
+    "models": [
+      "eldegoss.geo.json"
+    ]
+  },
+  {
+    "key": "electabuzz",
+    "models": [
+      "electabuzz.geo.json"
+    ]
+  },
+  {
+    "key": "electivire",
+    "models": [
+      "electivire.geo.json"
+    ]
+  },
+  {
+    "key": "electrike",
+    "models": [
+      "electrike.geo.json"
+    ]
+  },
+  {
+    "key": "electrode",
+    "models": [
+      "electrode.geo.json",
+      "electrode_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "elekid",
+    "models": [
+      "elekid.geo.json"
+    ]
+  },
+  {
+    "key": "elgyem",
+    "models": [
+      "elgyem.geo.json"
+    ]
+  },
+  {
+    "key": "emboar",
+    "models": [
+      "emboar.geo.json"
+    ]
+  },
+  {
+    "key": "emolga",
+    "models": [
+      "emolga.geo.json"
+    ]
+  },
+  {
+    "key": "empoleon",
+    "models": [
+      "empoleon.geo.json"
+    ]
+  },
+  {
+    "key": "escavalier",
+    "models": [
+      "escavalier.geo.json"
+    ]
+  },
+  {
+    "key": "espathra",
+    "models": [
+      "espathra.geo.json"
+    ]
+  },
+  {
+    "key": "espeon",
+    "models": [
+      "espeon.geo.json"
+    ]
+  },
+  {
+    "key": "espurr",
+    "models": [
+      "espurr.geo.json"
+    ]
+  },
+  {
+    "key": "excadrill",
+    "models": [
+      "excadrill.geo.json"
+    ]
+  },
+  {
+    "key": "exeggcute",
+    "models": [
+      "exeggcute.geo.json"
+    ]
+  },
+  {
+    "key": "exeggutor",
+    "models": [
+      "exeggutor.geo.json",
+      "exeggutor_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "exploud",
+    "models": [
+      "exploud.geo.json"
+    ]
+  },
+  {
+    "key": "falinks",
+    "models": [
+      "falinks.geo.json"
+    ]
+  },
+  {
+    "key": "farfetchd",
+    "models": [
+      "farfetchd.geo.json",
+      "farfetchd_galar.geo.json"
+    ]
+  },
+  {
+    "key": "farigiraf",
+    "models": [
+      "farigiraf.geo.json"
+    ]
+  },
+  {
+    "key": "fearow",
+    "models": [
+      "fearow.geo.json"
+    ]
+  },
+  {
+    "key": "feebas",
+    "models": [
+      "feebas.geo.json"
+    ]
+  },
+  {
+    "key": "fennekin",
+    "models": [
+      "fennekin.geo.json"
+    ]
+  },
+  {
+    "key": "feraligatr",
+    "models": [
+      "feraligatr.geo.json"
+    ]
+  },
+  {
+    "key": "ferroseed",
+    "models": [
+      "ferroseed.geo.json"
+    ]
+  },
+  {
+    "key": "ferrothorn",
+    "models": [
+      "ferrothorn.geo.json"
+    ]
+  },
+  {
+    "key": "fidough",
+    "models": [
+      "fidough.geo.json"
+    ]
+  },
+  {
+    "key": "finizen",
+    "models": [
+      "finizen.geo.json"
+    ]
+  },
+  {
+    "key": "finneon",
+    "models": [
+      "finneon.geo.json"
+    ]
+  },
+  {
+    "key": "flaaffy",
+    "models": [
+      "flaaffy.geo.json"
+    ]
+  },
+  {
+    "key": "flabebe",
+    "models": [
+      "flabebe.geo.json"
+    ]
+  },
+  {
+    "key": "flamigo",
+    "models": [
+      "flamigo.geo.json"
+    ]
+  },
+  {
+    "key": "flareon",
+    "models": [
+      "flareon.geo.json"
+    ]
+  },
+  {
+    "key": "fletchinder",
+    "models": [
+      "fletchinder.geo.json"
+    ]
+  },
+  {
+    "key": "fletchling",
+    "models": [
+      "fletchling.geo.json"
+    ]
+  },
+  {
+    "key": "flittle",
+    "models": [
+      "flittle.geo.json"
+    ]
+  },
+  {
+    "key": "floatzel",
+    "models": [
+      "floatzel_female.geo.json",
+      "floatzel_male.geo.json"
+    ]
+  },
+  {
+    "key": "floette",
+    "models": [
+      "floette.geo.json"
+    ]
+  },
+  {
+    "key": "floragato",
+    "models": [
+      "floragato.geo.json"
+    ]
+  },
+  {
+    "key": "florges",
+    "models": [
+      "florges.geo.json"
+    ]
+  },
+  {
+    "key": "flygon",
+    "models": [
+      "flygon.geo.json"
+    ]
+  },
+  {
+    "key": "fomantis",
+    "models": [
+      "fomantis.geo.json"
+    ]
+  },
+  {
+    "key": "foongus",
+    "models": [
+      "foongus.geo.json"
+    ]
+  },
+  {
+    "key": "forretress",
+    "models": [
+      "forretress.geo.json"
+    ]
+  },
+  {
+    "key": "fraxure",
+    "models": [
+      "fraxure.geo.json"
+    ]
+  },
+  {
+    "key": "frillish",
+    "models": [
+      "frillish_female.geo.json",
+      "frillish_male.geo.json"
+    ]
+  },
+  {
+    "key": "froakie",
+    "models": [
+      "froakie.geo.json"
+    ]
+  },
+  {
+    "key": "frogadier",
+    "models": [
+      "frogadier.geo.json"
+    ]
+  },
+  {
+    "key": "froslass",
+    "models": [
+      "froslass.geo.json"
+    ]
+  },
+  {
+    "key": "fuecoco",
+    "models": [
+      "fuecoco.geo.json"
+    ]
+  },
+  {
+    "key": "furfrou",
+    "models": [
+      "furfrou.geo.json",
+      "furfrou_cinnamon.geo.json",
+      "furfrou_crusader.geo.json",
+      "furfrou_dandy.geo.json",
+      "furfrou_debutante.geo.json",
+      "furfrou_diamond.geo.json",
+      "furfrou_heart.geo.json",
+      "furfrou_kabuki.geo.json",
+      "furfrou_lareine.geo.json",
+      "furfrou_lavender.geo.json",
+      "furfrou_matcha.geo.json",
+      "furfrou_matron.geo.json",
+      "furfrou_mourner.geo.json",
+      "furfrou_pharaoh.geo.json",
+      "furfrou_rocker.geo.json",
+      "furfrou_star.geo.json"
+    ]
+  },
+  {
+    "key": "furret",
+    "models": [
+      "furret.geo.json"
+    ]
+  },
+  {
+    "key": "gabite",
+    "models": [
+      "gabite_female.geo.json",
+      "gabite_male.geo.json"
+    ]
+  },
+  {
+    "key": "gallade",
+    "models": [
+      "gallade.geo.json"
+    ]
+  },
+  {
+    "key": "galvantula",
+    "models": [
+      "galvantula.geo.json"
+    ]
+  },
+  {
+    "key": "garbodor",
+    "models": [
+      "garbodor.geo.json"
+    ]
+  },
+  {
+    "key": "garchomp",
+    "models": [
+      "garchomp_female.geo.json",
+      "garchomp_male.geo.json"
+    ]
+  },
+  {
+    "key": "gardevoir",
+    "models": [
+      "gardevoir.geo.json"
+    ]
+  },
+  {
+    "key": "garganacl",
+    "models": [
+      "garganacl.geo.json"
+    ]
+  },
+  {
+    "key": "gastly",
+    "models": [
+      "gastly.geo.json"
+    ]
+  },
+  {
+    "key": "gastrodon",
+    "models": [
+      "gastrodon_east.geo.json",
+      "gastrodon_west.geo.json"
+    ]
+  },
+  {
+    "key": "gengar",
+    "models": [
+      "gengar.geo.json"
+    ]
+  },
+  {
+    "key": "geodude",
+    "models": [
+      "geodude.geo.json",
+      "geodude_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "gholdengo",
+    "models": [
+      "gholdengo.geo.json"
+    ]
+  },
+  {
+    "key": "gible",
+    "models": [
+      "gible_female.geo.json",
+      "gible_male.geo.json"
+    ]
+  },
+  {
+    "key": "gigalith",
+    "models": [
+      "gigalith.geo.json"
+    ]
+  },
+  {
+    "key": "gimmighoul",
+    "models": [
+      "gimmighoul_chest.geo.json",
+      "gimmighoul_chest_minecraft.geo.json",
+      "gimmighoul_roaming.geo.json"
+    ]
+  },
+  {
+    "key": "girafarig",
+    "models": [
+      "girafarig_female.geo.json",
+      "girafarig_male.geo.json"
+    ]
+  },
+  {
+    "key": "glaceon",
+    "models": [
+      "glaceon.geo.json"
+    ]
+  },
+  {
+    "key": "glalie",
+    "models": [
+      "glalie.geo.json"
+    ]
+  },
+  {
+    "key": "glameow",
+    "models": [
+      "glameow.geo.json"
+    ]
+  },
+  {
+    "key": "gligar",
+    "models": [
+      "gligar.geo.json"
+    ]
+  },
+  {
+    "key": "glimmet",
+    "models": [
+      "glimmet.geo.json"
+    ]
+  },
+  {
+    "key": "glimmora",
+    "models": [
+      "glimmora.geo.json"
+    ]
+  },
+  {
+    "key": "gliscor",
+    "models": [
+      "gliscor.geo.json"
+    ]
+  },
+  {
+    "key": "gloom",
+    "models": [
+      "gloom_female.geo.json",
+      "gloom_male.geo.json"
+    ]
+  },
+  {
+    "key": "gogoat",
+    "models": [
+      "gogoat.geo.json"
+    ]
+  },
+  {
+    "key": "golbat",
+    "models": [
+      "golbat_female.geo.json",
+      "golbat_male.geo.json"
+    ]
+  },
+  {
+    "key": "goldeen",
+    "models": [
+      "goldeen_female.geo.json",
+      "goldeen_male.geo.json"
+    ]
+  },
+  {
+    "key": "golduck",
+    "models": [
+      "golduck.geo.json"
+    ]
+  },
+  {
+    "key": "golem",
+    "models": [
+      "golem.geo.json",
+      "golem_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "golett",
+    "models": [
+      "golett.geo.json"
+    ]
+  },
+  {
+    "key": "golisopod",
+    "models": [
+      "golisopod.geo.json"
+    ]
+  },
+  {
+    "key": "golurk",
+    "models": [
+      "golurk.geo.json"
+    ]
+  },
+  {
+    "key": "goodra",
+    "models": [
+      "goodra.geo.json",
+      "goodra_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "goomy",
+    "models": [
+      "goomy.geo.json"
+    ]
+  },
+  {
+    "key": "gorebyss",
+    "models": [
+      "gorebyss.geo.json"
+    ]
+  },
+  {
+    "key": "gossifleur",
+    "models": [
+      "gossifleur.geo.json"
+    ]
+  },
+  {
+    "key": "gothita",
+    "models": [
+      "gothita.geo.json"
+    ]
+  },
+  {
+    "key": "gothitelle",
+    "models": [
+      "gothitelle.geo.json"
+    ]
+  },
+  {
+    "key": "gothorita",
+    "models": [
+      "gothorita.geo.json"
+    ]
+  },
+  {
+    "key": "gourgeist",
+    "models": [
+      "gourgeist.geo.json"
+    ]
+  },
+  {
+    "key": "grafaiai",
+    "models": [
+      "grafaiai.geo.json"
+    ]
+  },
+  {
+    "key": "granbull",
+    "models": [
+      "granbull.geo.json"
+    ]
+  },
+  {
+    "key": "grapploct",
+    "models": [
+      "grapploct.geo.json"
+    ]
+  },
+  {
+    "key": "graveler",
+    "models": [
+      "graveler.geo.json",
+      "graveler_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "greedent",
+    "models": [
+      "greedent.geo.json"
+    ]
+  },
+  {
+    "key": "greninja",
+    "models": [
+      "ashgreninja.geo.json",
+      "greninja.geo.json"
+    ]
+  },
+  {
+    "key": "grimer",
+    "models": [
+      "grimer.geo.json",
+      "grimer_alola.geo.json"
+    ]
+  },
+  {
+    "key": "grimmsnarl",
+    "models": [
+      "grimmsnarl.geo.json"
+    ]
+  },
+  {
+    "key": "grookey",
+    "models": [
+      "grookey.geo.json"
+    ]
+  },
+  {
+    "key": "grotle",
+    "models": [
+      "grotle.geo.json"
+    ]
+  },
+  {
+    "key": "grovyle",
+    "models": [
+      "grovyle.geo.json"
+    ]
+  },
+  {
+    "key": "growlithe",
+    "models": [
+      "growlithe.geo.json"
+    ]
+  },
+  {
+    "key": "grumpig",
+    "models": [
+      "grumpig.geo.json"
+    ]
+  },
+  {
+    "key": "gumshoos",
+    "models": [
+      "gumshoos.geo.json"
+    ]
+  },
+  {
+    "key": "gurdurr",
+    "models": [
+      "gurdurr.geo.json"
+    ]
+  },
+  {
+    "key": "gyarados",
+    "models": [
+      "gyarados_female.geo.json",
+      "gyarados_male.geo.json"
+    ]
+  },
+  {
+    "key": "happiny",
+    "models": [
+      "happiny.geo.json"
+    ]
+  },
+  {
+    "key": "hariyama",
+    "models": [
+      "hariyama.geo.json"
+    ]
+  },
+  {
+    "key": "hatenna",
+    "models": [
+      "hatenna.geo.json"
+    ]
+  },
+  {
+    "key": "hatterene",
+    "models": [
+      "hatterene.geo.json"
+    ]
+  },
+  {
+    "key": "hattrem",
+    "models": [
+      "hattrem.geo.json"
+    ]
+  },
+  {
+    "key": "haunter",
+    "models": [
+      "haunter.geo.json"
+    ]
+  },
+  {
+    "key": "hawlucha",
+    "models": [
+      "hawlucha.geo.json",
+      "hawlucha_leafmask.geo.json"
+    ]
+  },
+  {
+    "key": "haxorus",
+    "models": [
+      "haxorus.geo.json"
+    ]
+  },
+  {
+    "key": "heatmor",
+    "models": [
+      "heatmor.geo.json"
+    ]
+  },
+  {
+    "key": "heracross",
+    "models": [
+      "heracross_female.geo.json",
+      "heracross_male.geo.json"
+    ]
+  },
+  {
+    "key": "herdier",
+    "models": [
+      "herdier.geo.json"
+    ]
+  },
+  {
+    "key": "hippopotas",
+    "models": [
+      "hippopotas.geo.json"
+    ]
+  },
+  {
+    "key": "hippowdon",
+    "models": [
+      "hippowdon.geo.json"
+    ]
+  },
+  {
+    "key": "hitmonchan",
+    "models": [
+      "hitmonchan.geo.json"
+    ]
+  },
+  {
+    "key": "hitmonlee",
+    "models": [
+      "hitmonlee.geo.json"
+    ]
+  },
+  {
+    "key": "hitmontop",
+    "models": [
+      "hitmontop.geo.json"
+    ]
+  },
+  {
+    "key": "honchkrow",
+    "models": [
+      "honchkrow.geo.json"
+    ]
+  },
+  {
+    "key": "honedge",
+    "models": [
+      "honedge.geo.json"
+    ]
+  },
+  {
+    "key": "hoothoot",
+    "models": [
+      "hoothoot.geo.json"
+    ]
+  },
+  {
+    "key": "hoppip",
+    "models": [
+      "hoppip.geo.json"
+    ]
+  },
+  {
+    "key": "horsea",
+    "models": [
+      "horsea.geo.json"
+    ]
+  },
+  {
+    "key": "houndoom",
+    "models": [
+      "houndoom_female.geo.json",
+      "houndoom_male.geo.json"
+    ]
+  },
+  {
+    "key": "houndour",
+    "models": [
+      "houndour.geo.json"
+    ]
+  },
+  {
+    "key": "huntail",
+    "models": [
+      "huntail.geo.json"
+    ]
+  },
+  {
+    "key": "hydreigon",
+    "models": [
+      "hydreigon.geo.json"
+    ]
+  },
+  {
+    "key": "hypno",
+    "models": [
+      "hypno_female.geo.json",
+      "hypno_male.geo.json"
+    ]
+  },
+  {
+    "key": "igglybuff",
+    "models": [
+      "igglybuff.geo.json"
+    ]
+  },
+  {
+    "key": "illumise",
+    "models": [
+      "illumise.geo.json"
+    ]
+  },
+  {
+    "key": "impidimp",
+    "models": [
+      "impidimp.geo.json"
+    ]
+  },
+  {
+    "key": "incineroar",
+    "models": [
+      "incineroar.geo.json"
+    ]
+  },
+  {
+    "key": "infernape",
+    "models": [
+      "infernape.geo.json"
+    ]
+  },
+  {
+    "key": "inkay",
+    "models": [
+      "inkay.geo.json"
+    ]
+  },
+  {
+    "key": "inteleon",
+    "models": [
+      "inteleon.geo.json"
+    ]
+  },
+  {
+    "key": "ivysaur",
+    "models": [
+      "ivysaur.geo.json"
+    ]
+  },
+  {
+    "key": "jellicent",
+    "models": [
+      "jellicent_female.geo.json",
+      "jellicent_male.geo.json"
+    ]
+  },
+  {
+    "key": "jigglypuff",
+    "models": [
+      "jigglypuff.geo.json"
+    ]
+  },
+  {
+    "key": "jolteon",
+    "models": [
+      "jolteon.geo.json"
+    ]
+  },
+  {
+    "key": "joltik",
+    "models": [
+      "joltik.geo.json"
+    ]
+  },
+  {
+    "key": "jumpluff",
+    "models": [
+      "jumpluff.geo.json"
+    ]
+  },
+  {
+    "key": "jynx",
+    "models": [
+      "jynx.geo.json"
+    ]
+  },
+  {
+    "key": "kabuto",
+    "models": [
+      "kabuto.geo.json"
+    ]
+  },
+  {
+    "key": "kabutops",
+    "models": [
+      "kabutops.geo.json"
+    ]
+  },
+  {
+    "key": "kadabra",
+    "models": [
+      "kadabra_female.geo.json",
+      "kadabra_male.geo.json"
+    ]
+  },
+  {
+    "key": "kakuna",
+    "models": [
+      "kakuna.geo.json"
+    ]
+  },
+  {
+    "key": "kangaskhan",
+    "models": [
+      "kangaskhan.geo.json"
+    ]
+  },
+  {
+    "key": "karrablast",
+    "models": [
+      "karrablast.geo.json"
+    ]
+  },
+  {
+    "key": "kecleon",
+    "models": [
+      "kecleon.geo.json"
+    ]
+  },
+  {
+    "key": "kilowattrel",
+    "models": [
+      "kilowattrel.geo.json"
+    ]
+  },
+  {
+    "key": "kingdra",
+    "models": [
+      "kingdra.geo.json"
+    ]
+  },
+  {
+    "key": "kingler",
+    "models": [
+      "kingler.geo.json"
+    ]
+  },
+  {
+    "key": "kirlia",
+    "models": [
+      "kirlia.geo.json"
+    ]
+  },
+  {
+    "key": "klang",
+    "models": [
+      "klang.geo.json"
+    ]
+  },
+  {
+    "key": "klawf",
+    "models": [
+      "klawf.geo.json"
+    ]
+  },
+  {
+    "key": "kleavor",
+    "models": [
+      "kleavor.geo.json"
+    ]
+  },
+  {
+    "key": "klefki",
+    "models": [
+      "klefki.geo.json"
+    ]
+  },
+  {
+    "key": "klink",
+    "models": [
+      "klink.geo.json"
+    ]
+  },
+  {
+    "key": "klinklang",
+    "models": [
+      "klinklang.geo.json"
+    ]
+  },
+  {
+    "key": "koffing",
+    "models": [
+      "koffing.geo.json"
+    ]
+  },
+  {
+    "key": "komala",
+    "models": [
+      "komala.geo.json"
+    ]
+  },
+  {
+    "key": "krabby",
+    "models": [
+      "krabby.geo.json"
+    ]
+  },
+  {
+    "key": "kricketot",
+    "models": [
+      "kricketot_female.geo.json",
+      "kricketot_male.geo.json"
+    ]
+  },
+  {
+    "key": "kricketune",
+    "models": [
+      "kricketune_female.geo.json",
+      "kricketune_male.geo.json"
+    ]
+  },
+  {
+    "key": "krokorok",
+    "models": [
+      "krokorok.geo.json"
+    ]
+  },
+  {
+    "key": "krookodile",
+    "models": [
+      "krookodile.geo.json"
+    ]
+  },
+  {
+    "key": "lairon",
+    "models": [
+      "lairon.geo.json"
+    ]
+  },
+  {
+    "key": "lampent",
+    "models": [
+      "lampent.geo.json"
+    ]
+  },
+  {
+    "key": "lanturn",
+    "models": [
+      "lanturn.geo.json"
+    ]
+  },
+  {
+    "key": "lapras",
+    "models": [
+      "lapras.geo.json"
+    ]
+  },
+  {
+    "key": "larvesta",
+    "models": [
+      "larvesta.geo.json"
+    ]
+  },
+  {
+    "key": "larvitar",
+    "models": [
+      "larvitar.geo.json"
+    ]
+  },
+  {
+    "key": "latias",
+    "models": [
+      "latias.geo.json"
+    ]
+  },
+  {
+    "key": "latios",
+    "models": [
+      "latios.geo.json"
+    ]
+  },
+  {
+    "key": "leafeon",
+    "models": [
+      "leafeon.geo.json"
+    ]
+  },
+  {
+    "key": "leavanny",
+    "models": [
+      "leavanny.geo.json"
+    ]
+  },
+  {
+    "key": "lechonk",
+    "models": [
+      "lechonk.geo.json"
+    ]
+  },
+  {
+    "key": "ledian",
+    "models": [
+      "ledian_female.geo.json",
+      "ledian_male.geo.json"
+    ]
+  },
+  {
+    "key": "ledyba",
+    "models": [
+      "ledyba_female.geo.json",
+      "ledyba_male.geo.json"
+    ]
+  },
+  {
+    "key": "lickilicky",
+    "models": [
+      "lickilicky.geo.json"
+    ]
+  },
+  {
+    "key": "lickitung",
+    "models": [
+      "lickitung.geo.json"
+    ]
+  },
+  {
+    "key": "liepard",
+    "models": [
+      "liepard.geo.json"
+    ]
+  },
+  {
+    "key": "lileep",
+    "models": [
+      "lileep.geo.json"
+    ]
+  },
+  {
+    "key": "lilligant",
+    "models": [
+      "lilligant.geo.json",
+      "lilligant_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "lillipup",
+    "models": [
+      "lillipup.geo.json"
+    ]
+  },
+  {
+    "key": "linoone",
+    "models": [
+      "linoone.geo.json",
+      "linoone_galarian.geo.json"
+    ]
+  },
+  {
+    "key": "litleo",
+    "models": [
+      "litleo.geo.json"
+    ]
+  },
+  {
+    "key": "litten",
+    "models": [
+      "litten.geo.json"
+    ]
+  },
+  {
+    "key": "litwick",
+    "models": [
+      "litwick.geo.json"
+    ]
+  },
+  {
+    "key": "lombre",
+    "models": [
+      "lombre.geo.json"
+    ]
+  },
+  {
+    "key": "lopunny",
+    "models": [
+      "lopunny.geo.json"
+    ]
+  },
+  {
+    "key": "lotad",
+    "models": [
+      "lotad.geo.json"
+    ]
+  },
+  {
+    "key": "loudred",
+    "models": [
+      "loudred.geo.json"
+    ]
+  },
+  {
+    "key": "lucario",
+    "models": [
+      "lucario.geo.json"
+    ]
+  },
+  {
+    "key": "ludicolo",
+    "models": [
+      "ludicolo_female.geo.json",
+      "ludicolo_male.geo.json"
+    ]
+  },
+  {
+    "key": "lugia",
+    "models": [
+      "lugia.geo.json"
+    ]
+  },
+  {
+    "key": "lumineon",
+    "models": [
+      "lumineon.geo.json"
+    ]
+  },
+  {
+    "key": "lunatone",
+    "models": [
+      "lunatone.geo.json"
+    ]
+  },
+  {
+    "key": "lurantis",
+    "models": [
+      "lurantis.geo.json"
+    ]
+  },
+  {
+    "key": "luvdisc",
+    "models": [
+      "luvdisc.geo.json"
+    ]
+  },
+  {
+    "key": "luxio",
+    "models": [
+      "luxio_female.geo.json",
+      "luxio_male.geo.json"
+    ]
+  },
+  {
+    "key": "luxray",
+    "models": [
+      "luxray_female.geo.json",
+      "luxray_male.geo.json"
+    ]
+  },
+  {
+    "key": "mabosstiff",
+    "models": [
+      "mabosstiff.geo.json"
+    ]
+  },
+  {
+    "key": "machamp",
+    "models": [
+      "machamp.geo.json"
+    ]
+  },
+  {
+    "key": "machoke",
+    "models": [
+      "machoke.geo.json"
+    ]
+  },
+  {
+    "key": "machop",
+    "models": [
+      "machop.geo.json"
+    ]
+  },
+  {
+    "key": "magby",
+    "models": [
+      "magby.geo.json"
+    ]
+  },
+  {
+    "key": "magcargo",
+    "models": [
+      "magcargo.geo.json"
+    ]
+  },
+  {
+    "key": "magikarp",
+    "models": [
+      "magikarp_female.geo.json",
+      "magikarp_male.geo.json"
+    ]
+  },
+  {
+    "key": "magmar",
+    "models": [
+      "magmar.geo.json"
+    ]
+  },
+  {
+    "key": "magmortar",
+    "models": [
+      "magmortar.geo.json"
+    ]
+  },
+  {
+    "key": "magnemite",
+    "models": [
+      "magnemite.geo.json"
+    ]
+  },
+  {
+    "key": "magneton",
+    "models": [
+      "magneton.geo.json"
+    ]
+  },
+  {
+    "key": "magnezone",
+    "models": [
+      "magnezone.geo.json"
+    ]
+  },
+  {
+    "key": "makuhita",
+    "models": [
+      "makuhita.geo.json"
+    ]
+  },
+  {
+    "key": "malamar",
+    "models": [
+      "malamar.geo.json"
+    ]
+  },
+  {
+    "key": "mamoswine",
+    "models": [
+      "mamoswine_female.geo.json",
+      "mamoswine_male.geo.json"
+    ]
+  },
+  {
+    "key": "manectric",
+    "models": [
+      "manectric.geo.json"
+    ]
+  },
+  {
+    "key": "mankey",
+    "models": [
+      "mankey.geo.json"
+    ]
+  },
+  {
+    "key": "mantine",
+    "models": [
+      "mantine.geo.json"
+    ]
+  },
+  {
+    "key": "mantyke",
+    "models": [
+      "mantyke.geo.json"
+    ]
+  },
+  {
+    "key": "maractus",
+    "models": [
+      "maractus.geo.json"
+    ]
+  },
+  {
+    "key": "mareanie",
+    "models": [
+      "mareanie.geo.json"
+    ]
+  },
+  {
+    "key": "mareep",
+    "models": [
+      "mareep.geo.json"
+    ]
+  },
+  {
+    "key": "marill",
+    "models": [
+      "marill.geo.json"
+    ]
+  },
+  {
+    "key": "marowak",
+    "models": [
+      "marowak.geo.json",
+      "marowak_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "marshtomp",
+    "models": [
+      "marshtomp.geo.json"
+    ]
+  },
+  {
+    "key": "maschiff",
+    "models": [
+      "maschiff.geo.json"
+    ]
+  },
+  {
+    "key": "masquerain",
+    "models": [
+      "masquerain.geo.json"
+    ]
+  },
+  {
+    "key": "maushold",
+    "models": [
+      "maushold_four.geo.json",
+      "maushold_three.geo.json"
+    ]
+  },
+  {
+    "key": "mawile",
+    "models": [
+      "mawile.geo.json"
+    ]
+  },
+  {
+    "key": "medicham",
+    "models": [
+      "medicham_female.geo.json",
+      "medicham_male.geo.json"
+    ]
+  },
+  {
+    "key": "meditite",
+    "models": [
+      "meditite_female.geo.json",
+      "meditite_male.geo.json"
+    ]
+  },
+  {
+    "key": "meganium",
+    "models": [
+      "meganium.geo.json"
+    ]
+  },
+  {
+    "key": "meowscarada",
+    "models": [
+      "meowscarada.geo.json"
+    ]
+  },
+  {
+    "key": "meowstic",
+    "models": [
+      "meowstic_female.geo.json",
+      "meowstic_male.geo.json"
+    ]
+  },
+  {
+    "key": "meowth",
+    "models": [
+      "meowth.geo.json",
+      "meowth_alolan.geo.json",
+      "meowth_galarian.geo.json"
+    ]
+  },
+  {
+    "key": "metagross",
+    "models": [
+      "metagross.geo.json"
+    ]
+  },
+  {
+    "key": "metang",
+    "models": [
+      "metang.geo.json"
+    ]
+  },
+  {
+    "key": "metapod",
+    "models": [
+      "metapod.geo.json"
+    ]
+  },
+  {
+    "key": "mew",
+    "models": [
+      "mew.geo.json"
+    ]
+  },
+  {
+    "key": "mewtwo",
+    "models": [
+      "mewtwo.geo.json"
+    ]
+  },
+  {
+    "key": "mienfoo",
+    "models": [
+      "mienfoo.geo.json"
+    ]
+  },
+  {
+    "key": "mienshao",
+    "models": [
+      "mienshao.geo.json"
+    ]
+  },
+  {
+    "key": "mightyena",
+    "models": [
+      "mightyena.geo.json"
+    ]
+  },
+  {
+    "key": "milcery",
+    "models": [
+      "milcery.geo.json"
+    ]
+  },
+  {
+    "key": "milotic",
+    "models": [
+      "milotic_female.geo.json",
+      "milotic_male.geo.json"
+    ]
+  },
+  {
+    "key": "miltank",
+    "models": [
+      "miltank.geo.json",
+      "mooshtank.geo.json"
+    ]
+  },
+  {
+    "key": "mimikyu",
+    "models": [
+      "mimikyu.geo.json"
+    ]
+  },
+  {
+    "key": "minccino",
+    "models": [
+      "minccino.geo.json"
+    ]
+  },
+  {
+    "key": "minun",
+    "models": [
+      "minun.geo.json"
+    ]
+  },
+  {
+    "key": "misdreavus",
+    "models": [
+      "misdreavus.geo.json"
+    ]
+  },
+  {
+    "key": "mismagius",
+    "models": [
+      "mismagius.geo.json"
+    ]
+  },
+  {
+    "key": "moltres",
+    "models": [
+      "moltres.geo.json"
+    ]
+  },
+  {
+    "key": "monferno",
+    "models": [
+      "monferno.geo.json"
+    ]
+  },
+  {
+    "key": "morelull",
+    "models": [
+      "morelull.geo.json"
+    ]
+  },
+  {
+    "key": "morgrem",
+    "models": [
+      "morgrem.geo.json"
+    ]
+  },
+  {
+    "key": "morpeko",
+    "models": [
+      "morpeko.geo.json",
+      "morpeko_hangry.geo.json"
+    ]
+  },
+  {
+    "key": "mudbray",
+    "models": [
+      "mudbray.geo.json"
+    ]
+  },
+  {
+    "key": "mudkip",
+    "models": [
+      "mudkip.geo.json"
+    ]
+  },
+  {
+    "key": "mudsdale",
+    "models": [
+      "mudsdale.geo.json"
+    ]
+  },
+  {
+    "key": "muk",
+    "models": [
+      "muk.geo.json",
+      "muk_alola.geo.json"
+    ]
+  },
+  {
+    "key": "munchlax",
+    "models": [
+      "munchlax.geo.json"
+    ]
+  },
+  {
+    "key": "munna",
+    "models": [
+      "munna.geo.json"
+    ]
+  },
+  {
+    "key": "murkrow",
+    "models": [
+      "murkrow_female.geo.json",
+      "murkrow_male.geo.json"
+    ]
+  },
+  {
+    "key": "musharna",
+    "models": [
+      "musharna.geo.json"
+    ]
+  },
+  {
+    "key": "nacli",
+    "models": [
+      "nacli.geo.json"
+    ]
+  },
+  {
+    "key": "naclstack",
+    "models": [
+      "naclstack.geo.json"
+    ]
+  },
+  {
+    "key": "naganadel",
+    "models": [
+      "naganadel.geo.json"
+    ]
+  },
+  {
+    "key": "natu",
+    "models": [
+      "natu.geo.json"
+    ]
+  },
+  {
+    "key": "nickit",
+    "models": [
+      "nickit.geo.json"
+    ]
+  },
+  {
+    "key": "nidoking",
+    "models": [
+      "nidoking.geo.json"
+    ]
+  },
+  {
+    "key": "nidoqueen",
+    "models": [
+      "nidoqueen.geo.json"
+    ]
+  },
+  {
+    "key": "nidorina",
+    "models": [
+      "nidorina.geo.json"
+    ]
+  },
+  {
+    "key": "nidorino",
+    "models": [
+      "nidorino.geo.json"
+    ]
+  },
+  {
+    "key": "nincada",
+    "models": [
+      "nincada.geo.json"
+    ]
+  },
+  {
+    "key": "ninetales",
+    "models": [
+      "ninetales.geo.json",
+      "ninetales_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "ninjask",
+    "models": [
+      "ninjask.geo.json"
+    ]
+  },
+  {
+    "key": "noctowl",
+    "models": [
+      "noctowl.geo.json"
+    ]
+  },
+  {
+    "key": "noibat",
+    "models": [
+      "noibat.geo.json"
+    ]
+  },
+  {
+    "key": "noivern",
+    "models": [
+      "noivern.geo.json"
+    ]
+  },
+  {
+    "key": "nosepass",
+    "models": [
+      "nosepass.geo.json"
+    ]
+  },
+  {
+    "key": "numel",
+    "models": [
+      "numel.geo.json"
+    ]
+  },
+  {
+    "key": "nuzleaf",
+    "models": [
+      "nuzleaf_female.geo.json",
+      "nuzleaf_male.geo.json"
+    ]
+  },
+  {
+    "key": "obstagoon",
+    "models": [
+      "obstagoon.geo.json"
+    ]
+  },
+  {
+    "key": "octillery",
+    "models": [
+      "octillery_female.geo.json",
+      "octillery_male.geo.json"
+    ]
+  },
+  {
+    "key": "oddish",
+    "models": [
+      "oddish.geo.json"
+    ]
+  },
+  {
+    "key": "oinkologne",
+    "models": [
+      "oinkologne_female.geo.json",
+      "oinkologne_male.geo.json"
+    ]
+  },
+  {
+    "key": "omanyte",
+    "models": [
+      "omanyte.geo.json"
+    ]
+  },
+  {
+    "key": "omastar",
+    "models": [
+      "omastar.geo.json"
+    ]
+  },
+  {
+    "key": "onix",
+    "models": [
+      "onix.geo.json"
+    ]
+  },
+  {
+    "key": "orthworm",
+    "models": [
+      "orthworm.geo.json"
+    ]
+  },
+  {
+    "key": "oshawott",
+    "models": [
+      "oshawott.geo.json"
+    ]
+  },
+  {
+    "key": "overqwil",
+    "models": [
+      "overqwil.geo.json"
+    ]
+  },
+  {
+    "key": "pachirisu",
+    "models": [
+      "pachirisu_female.geo.json",
+      "pachirisu_male.geo.json"
+    ]
+  },
+  {
+    "key": "palafin",
+    "models": [
+      "palafin_hero.geo.json",
+      "palafin_zero.geo.json"
+    ]
+  },
+  {
+    "key": "palossand",
+    "models": [
+      "palossand.geo.json"
+    ]
+  },
+  {
+    "key": "panpour",
+    "models": [
+      "panpour.geo.json"
+    ]
+  },
+  {
+    "key": "pansage",
+    "models": [
+      "pansage.geo.json"
+    ]
+  },
+  {
+    "key": "pansear",
+    "models": [
+      "pansear.geo.json"
+    ]
+  },
+  {
+    "key": "paras",
+    "models": [
+      "paras.geo.json"
+    ]
+  },
+  {
+    "key": "parasect",
+    "models": [
+      "parasect.geo.json"
+    ]
+  },
+  {
+    "key": "patrat",
+    "models": [
+      "patrat.geo.json"
+    ]
+  },
+  {
+    "key": "pelipper",
+    "models": [
+      "pelipper.geo.json"
+    ]
+  },
+  {
+    "key": "perrserker",
+    "models": [
+      "perrserker.geo.json"
+    ]
+  },
+  {
+    "key": "persian",
+    "models": [
+      "persian.geo.json",
+      "persian_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "petilil",
+    "models": [
+      "petilil.geo.json"
+    ]
+  },
+  {
+    "key": "phanpy",
+    "models": [
+      "phanpy.geo.json"
+    ]
+  },
+  {
+    "key": "phantump",
+    "models": [
+      "phantump.geo.json"
+    ]
+  },
+  {
+    "key": "pichu",
+    "models": [
+      "pichu.geo.json",
+      "pichu_cap.geo.json",
+      "pichu_captain.geo.json",
+      "pichu_detective.geo.json",
+      "pichu_fluff.geo.json",
+      "pichu_spikey.geo.json",
+      "pichu_ukulele.geo.json"
+    ]
+  },
+  {
+    "key": "pidgeot",
+    "models": [
+      "pidgeot.geo.json"
+    ]
+  },
+  {
+    "key": "pidgeotto",
+    "models": [
+      "pidgeotto.geo.json"
+    ]
+  },
+  {
+    "key": "pidgey",
+    "models": [
+      "pidgey.geo.json"
+    ]
+  },
+  {
+    "key": "pidove",
+    "models": [
+      "pidove.geo.json"
+    ]
+  },
+  {
+    "key": "pignite",
+    "models": [
+      "pignite.geo.json"
+    ]
+  },
+  {
+    "key": "pikachu",
+    "models": [
+      "pikachu_alola_bias_female.geo.json",
+      "pikachu_alola_bias_male.geo.json",
+      "pikachu_cap_female.geo.json",
+      "pikachu_cap_male.geo.json",
+      "pikachu_captain_female.geo.json",
+      "pikachu_captain_male.geo.json",
+      "pikachu_detective_female.geo.json",
+      "pikachu_detective_male.geo.json",
+      "pikachu_female.geo.json",
+      "pikachu_fluff_female.geo.json",
+      "pikachu_fluff_male.geo.json",
+      "pikachu_male.geo.json"
+    ]
+  },
+  {
+    "key": "pikipek",
+    "models": [
+      "pikipek.geo.json"
+    ]
+  },
+  {
+    "key": "piloswine",
+    "models": [
+      "piloswine_female.geo.json",
+      "piloswine_male.geo.json"
+    ]
+  },
+  {
+    "key": "pincurchin",
+    "models": [
+      "pincurchin.geo.json"
+    ]
+  },
+  {
+    "key": "pineco",
+    "models": [
+      "pineco.geo.json"
+    ]
+  },
+  {
+    "key": "pinsir",
+    "models": [
+      "pinsir.geo.json"
+    ]
+  },
+  {
+    "key": "piplup",
+    "models": [
+      "piplup.geo.json"
+    ]
+  },
+  {
+    "key": "plusle",
+    "models": [
+      "plusle.geo.json"
+    ]
+  },
+  {
+    "key": "poipole",
+    "models": [
+      "poipole.geo.json"
+    ]
+  },
+  {
+    "key": "politoed",
+    "models": [
+      "politoed.geo.json"
+    ]
+  },
+  {
+    "key": "poliwag",
+    "models": [
+      "poliwag.geo.json"
+    ]
+  },
+  {
+    "key": "poliwhirl",
+    "models": [
+      "poliwhirl.geo.json"
+    ]
+  },
+  {
+    "key": "poliwrath",
+    "models": [
+      "poliwrath.geo.json"
+    ]
+  },
+  {
+    "key": "poltchageist",
+    "models": [
+      "poltchageist_artisan.geo.json",
+      "poltchageist_counterfeit.geo.json"
+    ]
+  },
+  {
+    "key": "polteageist",
+    "models": [
+      "polteageist_antique.geo.json",
+      "polteageist_phony.geo.json"
+    ]
+  },
+  {
+    "key": "ponyta",
+    "models": [
+      "ponyta.geo.json",
+      "ponyta_galar.geo.json"
+    ]
+  },
+  {
+    "key": "poochyena",
+    "models": [
+      "poochyena.geo.json"
+    ]
+  },
+  {
+    "key": "popplio",
+    "models": [
+      "popplio.geo.json"
+    ]
+  },
+  {
+    "key": "porygon",
+    "models": [
+      "porygon.geo.json"
+    ]
+  },
+  {
+    "key": "porygon2",
+    "models": [
+      "porygon2.geo.json"
+    ]
+  },
+  {
+    "key": "primarina",
+    "models": [
+      "primarina.geo.json"
+    ]
+  },
+  {
+    "key": "primeape",
+    "models": [
+      "primeape.geo.json"
+    ]
+  },
+  {
+    "key": "prinplup",
+    "models": [
+      "prinplup.geo.json"
+    ]
+  },
+  {
+    "key": "probopass",
+    "models": [
+      "probopass.geo.json"
+    ]
+  },
+  {
+    "key": "psyduck",
+    "models": [
+      "psyduck.geo.json"
+    ]
+  },
+  {
+    "key": "pumpkaboo",
+    "models": [
+      "pumpkaboo.geo.json"
+    ]
+  },
+  {
+    "key": "pupitar",
+    "models": [
+      "pupitar.geo.json"
+    ]
+  },
+  {
+    "key": "purrloin",
+    "models": [
+      "purrloin.geo.json"
+    ]
+  },
+  {
+    "key": "purugly",
+    "models": [
+      "purugly.geo.json"
+    ]
+  },
+  {
+    "key": "pyroar",
+    "models": [
+      "pyroar_female.geo.json",
+      "pyroar_male.geo.json"
+    ]
+  },
+  {
+    "key": "pyukumuku",
+    "models": [
+      "pyukumuku.geo.json"
+    ]
+  },
+  {
+    "key": "quagsire",
+    "models": [
+      "quagsire_female.geo.json",
+      "quagsire_male.geo.json"
+    ]
+  },
+  {
+    "key": "quaquaval",
+    "models": [
+      "quaquaval.geo.json"
+    ]
+  },
+  {
+    "key": "quaxly",
+    "models": [
+      "quaxly.geo.json"
+    ]
+  },
+  {
+    "key": "quaxwell",
+    "models": [
+      "quaxwell.geo.json"
+    ]
+  },
+  {
+    "key": "quilava",
+    "models": [
+      "quilava.geo.json"
+    ]
+  },
+  {
+    "key": "quilladin",
+    "models": [
+      "quilladin.geo.json"
+    ]
+  },
+  {
+    "key": "qwilfish",
+    "models": [
+      "qwilfish.geo.json",
+      "qwilfish_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "raboot",
+    "models": [
+      "raboot.geo.json"
+    ]
+  },
+  {
+    "key": "rabsca",
+    "models": [
+      "rabsca.geo.json"
+    ]
+  },
+  {
+    "key": "raichu",
+    "models": [
+      "raichu_alolan.geo.json",
+      "raichu_alolan_cap.geo.json",
+      "raichu_alolan_captain.geo.json",
+      "raichu_alolan_detective.geo.json",
+      "raichu_alolan_fluff.geo.json",
+      "raichu_cap_female.geo.json",
+      "raichu_cap_male.geo.json",
+      "raichu_captain_female.geo.json",
+      "raichu_captain_male.geo.json",
+      "raichu_detective_female.geo.json",
+      "raichu_detective_male.geo.json",
+      "raichu_female.geo.json",
+      "raichu_fluff_female.geo.json",
+      "raichu_fluff_male.geo.json",
+      "raichu_male.geo.json"
+    ]
+  },
+  {
+    "key": "ralts",
+    "models": [
+      "ralts.geo.json"
+    ]
+  },
+  {
+    "key": "rampardos",
+    "models": [
+      "rampardos.geo.json"
+    ]
+  },
+  {
+    "key": "rapidash",
+    "models": [
+      "rapidash.geo.json",
+      "rapidash_galar.geo.json"
+    ]
+  },
+  {
+    "key": "raticate",
+    "models": [
+      "raticate_alolan.geo.json",
+      "raticate_female.geo.json",
+      "raticate_male.geo.json"
+    ]
+  },
+  {
+    "key": "rattata",
+    "models": [
+      "rattata_alolan.geo.json",
+      "rattata_female.geo.json",
+      "rattata_male.geo.json"
+    ]
+  },
+  {
+    "key": "rayquaza",
+    "models": [
+      "rayquaza.geo.json"
+    ]
+  },
+  {
+    "key": "regice",
+    "models": [
+      "regice.geo.json"
+    ]
+  },
+  {
+    "key": "regidrago",
+    "models": [
+      "regidrago.geo.json"
+    ]
+  },
+  {
+    "key": "regieleki",
+    "models": [
+      "regieleki.geo.json"
+    ]
+  },
+  {
+    "key": "regigigas",
+    "models": [
+      "regigigas.geo.json"
+    ]
+  },
+  {
+    "key": "regirock",
+    "models": [
+      "regirock.geo.json"
+    ]
+  },
+  {
+    "key": "registeel",
+    "models": [
+      "registeel.geo.json"
+    ]
+  },
+  {
+    "key": "relicanth",
+    "models": [
+      "relicanth_female.geo.json",
+      "relicanth_male.geo.json"
+    ]
+  },
+  {
+    "key": "rellor",
+    "models": [
+      "rellor.geo.json"
+    ]
+  },
+  {
+    "key": "remoraid",
+    "models": [
+      "remoraid.geo.json"
+    ]
+  },
+  {
+    "key": "reuniclus",
+    "models": [
+      "reuniclus.geo.json"
+    ]
+  },
+  {
+    "key": "revavroom",
+    "models": [
+      "revavroom.geo.json"
+    ]
+  },
+  {
+    "key": "rhydon",
+    "models": [
+      "rhydon_female.geo.json",
+      "rhydon_male.geo.json"
+    ]
+  },
+  {
+    "key": "rhyhorn",
+    "models": [
+      "rhyhorn_female.geo.json",
+      "rhyhorn_male.geo.json"
+    ]
+  },
+  {
+    "key": "rhyperior",
+    "models": [
+      "rhyperior_female.geo.json",
+      "rhyperior_male.geo.json"
+    ]
+  },
+  {
+    "key": "ribombee",
+    "models": [
+      "ribombee.geo.json"
+    ]
+  },
+  {
+    "key": "rillaboom",
+    "models": [
+      "rillaboom.geo.json"
+    ]
+  },
+  {
+    "key": "riolu",
+    "models": [
+      "riolu.geo.json"
+    ]
+  },
+  {
+    "key": "roggenrola",
+    "models": [
+      "roggenrola.geo.json"
+    ]
+  },
+  {
+    "key": "rookidee",
+    "models": [
+      "rookidee.geo.json"
+    ]
+  },
+  {
+    "key": "roselia",
+    "models": [
+      "roselia_female.geo.json",
+      "roselia_male.geo.json"
+    ]
+  },
+  {
+    "key": "roserade",
+    "models": [
+      "roserade_female.geo.json",
+      "roserade_male.geo.json"
+    ]
+  },
+  {
+    "key": "rotom",
+    "models": [
+      "rotom.geo.json",
+      "rotom_fan.geo.json",
+      "rotom_frost.geo.json",
+      "rotom_heat.geo.json",
+      "rotom_mow.geo.json",
+      "rotom_wash.geo.json"
+    ]
+  },
+  {
+    "key": "rowlet",
+    "models": [
+      "rowlet.geo.json"
+    ]
+  },
+  {
+    "key": "rufflet",
+    "models": [
+      "rufflet.geo.json"
+    ]
+  },
+  {
+    "key": "sableye",
+    "models": [
+      "sableye.geo.json"
+    ]
+  },
+  {
+    "key": "salamence",
+    "models": [
+      "salamence.geo.json"
+    ]
+  },
+  {
+    "key": "salandit",
+    "models": [
+      "salandit.geo.json"
+    ]
+  },
+  {
+    "key": "salazzle",
+    "models": [
+      "salazzle.geo.json"
+    ]
+  },
+  {
+    "key": "samurott",
+    "models": [
+      "samurott.geo.json",
+      "samurott_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "sandaconda",
+    "models": [
+      "sandaconda.geo.json"
+    ]
+  },
+  {
+    "key": "sandile",
+    "models": [
+      "sandile.geo.json"
+    ]
+  },
+  {
+    "key": "sandshrew",
+    "models": [
+      "sandshrew.geo.json"
+    ]
+  },
+  {
+    "key": "sandslash",
+    "models": [
+      "sandslash.geo.json"
+    ]
+  },
+  {
+    "key": "sandygast",
+    "models": [
+      "sandygast.geo.json"
+    ]
+  },
+  {
+    "key": "sawk",
+    "models": [
+      "sawk.geo.json"
+    ]
+  },
+  {
+    "key": "sawsbuck",
+    "models": [
+      "sawsbuck_autumn.geo.json",
+      "sawsbuck_spring.geo.json",
+      "sawsbuck_summer.geo.json",
+      "sawsbuck_winter.geo.json"
+    ]
+  },
+  {
+    "key": "scatterbug",
+    "models": [
+      "scatterbug.geo.json"
+    ]
+  },
+  {
+    "key": "sceptile",
+    "models": [
+      "sceptile.geo.json"
+    ]
+  },
+  {
+    "key": "scizor",
+    "models": [
+      "scizor_female.geo.json",
+      "scizor_male.geo.json"
+    ]
+  },
+  {
+    "key": "scolipede",
+    "models": [
+      "scolipede.geo.json"
+    ]
+  },
+  {
+    "key": "scorbunny",
+    "models": [
+      "scorbunny.geo.json"
+    ]
+  },
+  {
+    "key": "scovillain",
+    "models": [
+      "scovillain.geo.json"
+    ]
+  },
+  {
+    "key": "scrafty",
+    "models": [
+      "scrafty.geo.json"
+    ]
+  },
+  {
+    "key": "scraggy",
+    "models": [
+      "scraggy.geo.json"
+    ]
+  },
+  {
+    "key": "scyther",
+    "models": [
+      "scyther_female.geo.json",
+      "scyther_male.geo.json"
+    ]
+  },
+  {
+    "key": "seadra",
+    "models": [
+      "seadra.geo.json"
+    ]
+  },
+  {
+    "key": "seaking",
+    "models": [
+      "seaking_female.geo.json",
+      "seaking_male.geo.json"
+    ]
+  },
+  {
+    "key": "sealeo",
+    "models": [
+      "sealeo.geo.json"
+    ]
+  },
+  {
+    "key": "seedot",
+    "models": [
+      "seedot.geo.json"
+    ]
+  },
+  {
+    "key": "seel",
+    "models": [
+      "seel.geo.json"
+    ]
+  },
+  {
+    "key": "sentret",
+    "models": [
+      "sentret.geo.json"
+    ]
+  },
+  {
+    "key": "serperior",
+    "models": [
+      "serperior.geo.json"
+    ]
+  },
+  {
+    "key": "servine",
+    "models": [
+      "servine.geo.json"
+    ]
+  },
+  {
+    "key": "sewaddle",
+    "models": [
+      "sewaddle.geo.json"
+    ]
+  },
+  {
+    "key": "sharpedo",
+    "models": [
+      "sharpedo.geo.json"
+    ]
+  },
+  {
+    "key": "shedinja",
+    "models": [
+      "shedinja.geo.json"
+    ]
+  },
+  {
+    "key": "shelgon",
+    "models": [
+      "shelgon.geo.json"
+    ]
+  },
+  {
+    "key": "shellder",
+    "models": [
+      "shellder.geo.json"
+    ]
+  },
+  {
+    "key": "shellos",
+    "models": [
+      "shellos_east.geo.json",
+      "shellos_west.geo.json"
+    ]
+  },
+  {
+    "key": "shelmet",
+    "models": [
+      "shelmet.geo.json"
+    ]
+  },
+  {
+    "key": "shieldon",
+    "models": [
+      "shieldon.geo.json"
+    ]
+  },
+  {
+    "key": "shiftry",
+    "models": [
+      "shiftry_female.geo.json",
+      "shiftry_male.geo.json"
+    ]
+  },
+  {
+    "key": "shiinotic",
+    "models": [
+      "shiinotic.geo.json"
+    ]
+  },
+  {
+    "key": "shinx",
+    "models": [
+      "shinx_female.geo.json",
+      "shinx_male.geo.json"
+    ]
+  },
+  {
+    "key": "shroodle",
+    "models": [
+      "shroodle.geo.json"
+    ]
+  },
+  {
+    "key": "shroomish",
+    "models": [
+      "shroomish.geo.json"
+    ]
+  },
+  {
+    "key": "shuckle",
+    "models": [
+      "shuckle.geo.json"
+    ]
+  },
+  {
+    "key": "shuppet",
+    "models": [
+      "shuppet.geo.json"
+    ]
+  },
+  {
+    "key": "sigilyph",
+    "models": [
+      "sigilyph.geo.json"
+    ]
+  },
+  {
+    "key": "silicobra",
+    "models": [
+      "silicobra.geo.json"
+    ]
+  },
+  {
+    "key": "simipour",
+    "models": [
+      "simipour.geo.json"
+    ]
+  },
+  {
+    "key": "simisage",
+    "models": [
+      "simisage.geo.json"
+    ]
+  },
+  {
+    "key": "simisear",
+    "models": [
+      "simisear.geo.json"
+    ]
+  },
+  {
+    "key": "sinistcha",
+    "models": [
+      "sinistcha_masterpiece.geo.json",
+      "sinistcha_unremarkable.geo.json"
+    ]
+  },
+  {
+    "key": "sinistea",
+    "models": [
+      "sinistea_antique.geo.json",
+      "sinistea_phony.geo.json"
+    ]
+  },
+  {
+    "key": "sirfetchd",
+    "models": [
+      "sirfetchd.geo.json"
+    ]
+  },
+  {
+    "key": "sizzlipede",
+    "models": [
+      "sizzlipede.geo.json"
+    ]
+  },
+  {
+    "key": "skarmory",
+    "models": [
+      "skarmory.geo.json"
+    ]
+  },
+  {
+    "key": "skeledirge",
+    "models": [
+      "skeledirge.geo.json"
+    ]
+  },
+  {
+    "key": "skiddo",
+    "models": [
+      "skiddo.geo.json"
+    ]
+  },
+  {
+    "key": "skiploom",
+    "models": [
+      "skiploom.geo.json"
+    ]
+  },
+  {
+    "key": "skorupi",
+    "models": [
+      "skorupi.geo.json"
+    ]
+  },
+  {
+    "key": "skrelp",
+    "models": [
+      "skrelp.geo.json"
+    ]
+  },
+  {
+    "key": "skwovet",
+    "models": [
+      "skwovet.geo.json"
+    ]
+  },
+  {
+    "key": "slaking",
+    "models": [
+      "slaking.geo.json"
+    ]
+  },
+  {
+    "key": "slakoth",
+    "models": [
+      "slakoth.geo.json"
+    ]
+  },
+  {
+    "key": "sliggoo",
+    "models": [
+      "sliggoo.geo.json",
+      "sliggoo_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "slowbro",
+    "models": [
+      "slowbro.geo.json",
+      "slowbro_galarian.geo.json"
+    ]
+  },
+  {
+    "key": "slowking",
+    "models": [
+      "slowking.geo.json",
+      "slowking_galarian.geo.json"
+    ]
+  },
+  {
+    "key": "slowpoke",
+    "models": [
+      "slowpoke.geo.json",
+      "slowpoke_galarian.geo.json"
+    ]
+  },
+  {
+    "key": "slugma",
+    "models": [
+      "slugma.geo.json",
+      "slugma_shiny.geo.json"
+    ]
+  },
+  {
+    "key": "slurpuff",
+    "models": [
+      "slurpuff.geo.json"
+    ]
+  },
+  {
+    "key": "smeargle",
+    "models": [
+      "smeargle.geo.json"
+    ]
+  },
+  {
+    "key": "smoliv",
+    "models": [
+      "smoliv.geo.json"
+    ]
+  },
+  {
+    "key": "smoochum",
+    "models": [
+      "smoochum.geo.json"
+    ]
+  },
+  {
+    "key": "sneasel",
+    "models": [
+      "sneasel_female.geo.json",
+      "sneasel_hisuian_female.geo.json",
+      "sneasel_hisuian_male.geo.json",
+      "sneasel_male.geo.json"
+    ]
+  },
+  {
+    "key": "sneasler",
+    "models": [
+      "sneasler.geo.json"
+    ]
+  },
+  {
+    "key": "snivy",
+    "models": [
+      "snivy.geo.json"
+    ]
+  },
+  {
+    "key": "snorlax",
+    "models": [
+      "snorlax.geo.json"
+    ]
+  },
+  {
+    "key": "snorunt",
+    "models": [
+      "snorunt.geo.json"
+    ]
+  },
+  {
+    "key": "snubbull",
+    "models": [
+      "snubbull.geo.json"
+    ]
+  },
+  {
+    "key": "sobble",
+    "models": [
+      "sobble.geo.json"
+    ]
+  },
+  {
+    "key": "solosis",
+    "models": [
+      "solosis.geo.json"
+    ]
+  },
+  {
+    "key": "solrock",
+    "models": [
+      "solrock.geo.json"
+    ]
+  },
+  {
+    "key": "spearow",
+    "models": [
+      "spearow.geo.json"
+    ]
+  },
+  {
+    "key": "spewpa",
+    "models": [
+      "spewpa.geo.json"
+    ]
+  },
+  {
+    "key": "spheal",
+    "models": [
+      "spheal.geo.json"
+    ]
+  },
+  {
+    "key": "spidops",
+    "models": [
+      "spidops.geo.json"
+    ]
+  },
+  {
+    "key": "spinarak",
+    "models": [
+      "spinarak.geo.json"
+    ]
+  },
+  {
+    "key": "spinda",
+    "models": [
+      "spinda.geo.json"
+    ]
+  },
+  {
+    "key": "spiritomb",
+    "models": [
+      "spiritomb.geo.json"
+    ]
+  },
+  {
+    "key": "spoink",
+    "models": [
+      "spoink.geo.json"
+    ]
+  },
+  {
+    "key": "sprigatito",
+    "models": [
+      "sprigatito.geo.json"
+    ]
+  },
+  {
+    "key": "spritzee",
+    "models": [
+      "spritzee.geo.json"
+    ]
+  },
+  {
+    "key": "squawkabilly",
+    "models": [
+      "squawkabilly.geo.json"
+    ]
+  },
+  {
+    "key": "squirtle",
+    "models": [
+      "squirtle.geo.json"
+    ]
+  },
+  {
+    "key": "stantler",
+    "models": [
+      "stantler.geo.json"
+    ]
+  },
+  {
+    "key": "staraptor",
+    "models": [
+      "staraptor_female.geo.json",
+      "staraptor_male.geo.json"
+    ]
+  },
+  {
+    "key": "staravia",
+    "models": [
+      "staravia_female.geo.json",
+      "staravia_male.geo.json"
+    ]
+  },
+  {
+    "key": "starly",
+    "models": [
+      "starly_female.geo.json",
+      "starly_male.geo.json"
+    ]
+  },
+  {
+    "key": "starmie",
+    "models": [
+      "starmie.geo.json"
+    ]
+  },
+  {
+    "key": "staryu",
+    "models": [
+      "staryu.geo.json"
+    ]
+  },
+  {
+    "key": "steelix",
+    "models": [
+      "steelix_female.geo.json",
+      "steelix_male.geo.json"
+    ]
+  },
+  {
+    "key": "steenee",
+    "models": [
+      "steenee.geo.json"
+    ]
+  },
+  {
+    "key": "stonjourner",
+    "models": [
+      "stonjourner.geo.json"
+    ]
+  },
+  {
+    "key": "stoutland",
+    "models": [
+      "stoutland.geo.json"
+    ]
+  },
+  {
+    "key": "stufful",
+    "models": [
+      "stufful.geo.json"
+    ]
+  },
+  {
+    "key": "stunfisk",
+    "models": [
+      "stunfisk.geo.json",
+      "stunfisk_galarian.geo.json"
+    ]
+  },
+  {
+    "key": "sudowoodo",
+    "models": [
+      "sudowoodo.geo.json"
+    ]
+  },
+  {
+    "key": "sunflora",
+    "models": [
+      "sunflora.geo.json"
+    ]
+  },
+  {
+    "key": "sunkern",
+    "models": [
+      "sunkern.geo.json"
+    ]
+  },
+  {
+    "key": "surskit",
+    "models": [
+      "surskit.geo.json"
+    ]
+  },
+  {
+    "key": "swablu",
+    "models": [
+      "swablu.geo.json"
+    ]
+  },
+  {
+    "key": "swadloon",
+    "models": [
+      "swadloon.geo.json"
+    ]
+  },
+  {
+    "key": "swampert",
+    "models": [
+      "swampert.geo.json"
+    ]
+  },
+  {
+    "key": "swanna",
+    "models": [
+      "swanna.geo.json"
+    ]
+  },
+  {
+    "key": "swellow",
+    "models": [
+      "swellow.geo.json"
+    ]
+  },
+  {
+    "key": "swinub",
+    "models": [
+      "swinub.geo.json"
+    ]
+  },
+  {
+    "key": "swirlix",
+    "models": [
+      "swirlix.geo.json"
+    ]
+  },
+  {
+    "key": "swoobat",
+    "models": [
+      "swoobat.geo.json"
+    ]
+  },
+  {
+    "key": "sylveon",
+    "models": [
+      "sylveon.geo.json"
+    ]
+  },
+  {
+    "key": "tadbulb",
+    "models": [
+      "tadbulb.geo.json"
+    ]
+  },
+  {
+    "key": "taillow",
+    "models": [
+      "taillow.geo.json"
+    ]
+  },
+  {
+    "key": "talonflame",
+    "models": [
+      "talonflame.geo.json"
+    ]
+  },
+  {
+    "key": "tandemaus",
+    "models": [
+      "tandemaus.geo.json"
+    ]
+  },
+  {
+    "key": "tangela",
+    "models": [
+      "tangela.geo.json"
+    ]
+  },
+  {
+    "key": "tangrowth",
+    "models": [
+      "tangrowth.geo.json"
+    ]
+  },
+  {
+    "key": "tarountula",
+    "models": [
+      "tarountula.geo.json"
+    ]
+  },
+  {
+    "key": "tatsugiri",
+    "models": [
+      "tatsugiri.geo.json"
+    ]
+  },
+  {
+    "key": "tauros",
+    "models": [
+      "tauros.geo.json",
+      "tauros_paldean_aqua.geo.json",
+      "tauros_paldean_blaze.geo.json",
+      "tauros_paldean_combat.geo.json"
+    ]
+  },
+  {
+    "key": "teddiursa",
+    "models": [
+      "teddiursa.geo.json"
+    ]
+  },
+  {
+    "key": "tentacool",
+    "models": [
+      "tentacool.geo.json"
+    ]
+  },
+  {
+    "key": "tentacruel",
+    "models": [
+      "tentacruel.geo.json"
+    ]
+  },
+  {
+    "key": "tepig",
+    "models": [
+      "tepig.geo.json"
+    ]
+  },
+  {
+    "key": "thievul",
+    "models": [
+      "thievul.geo.json"
+    ]
+  },
+  {
+    "key": "throh",
+    "models": [
+      "throh.geo.json"
+    ]
+  },
+  {
+    "key": "thwackey",
+    "models": [
+      "thwackey.geo.json"
+    ]
+  },
+  {
+    "key": "timburr",
+    "models": [
+      "timburr.geo.json"
+    ]
+  },
+  {
+    "key": "tinkatink",
+    "models": [
+      "tinkatink.geo.json"
+    ]
+  },
+  {
+    "key": "tinkaton",
+    "models": [
+      "tinkaton.geo.json"
+    ]
+  },
+  {
+    "key": "tinkatuff",
+    "models": [
+      "tinkatuff.geo.json"
+    ]
+  },
+  {
+    "key": "tirtouga",
+    "models": [
+      "tirtouga.geo.json"
+    ]
+  },
+  {
+    "key": "toedscool",
+    "models": [
+      "toedscool.geo.json"
+    ]
+  },
+  {
+    "key": "toedscruel",
+    "models": [
+      "toedscruel.geo.json"
+    ]
+  },
+  {
+    "key": "togedemaru",
+    "models": [
+      "togedemaru.geo.json"
+    ]
+  },
+  {
+    "key": "togekiss",
+    "models": [
+      "togekiss.geo.json"
+    ]
+  },
+  {
+    "key": "togepi",
+    "models": [
+      "togepi.geo.json"
+    ]
+  },
+  {
+    "key": "togetic",
+    "models": [
+      "togetic.geo.json"
+    ]
+  },
+  {
+    "key": "torchic",
+    "models": [
+      "torchic_female.geo.json",
+      "torchic_male.geo.json"
+    ]
+  },
+  {
+    "key": "torkoal",
+    "models": [
+      "torkoal.geo.json"
+    ]
+  },
+  {
+    "key": "torracat",
+    "models": [
+      "torracat.geo.json"
+    ]
+  },
+  {
+    "key": "torterra",
+    "models": [
+      "torterra.geo.json",
+      "torterra_acacia.geo.json",
+      "torterra_azalea.geo.json",
+      "torterra_birch.geo.json",
+      "torterra_cherry.geo.json",
+      "torterra_darkoak.geo.json",
+      "torterra_jungle.geo.json",
+      "torterra_mangrove.geo.json",
+      "torterra_oak.geo.json",
+      "torterra_spruce.geo.json",
+      "torterra_swamp.geo.json"
+    ]
+  },
+  {
+    "key": "totodile",
+    "models": [
+      "totodile.geo.json"
+    ]
+  },
+  {
+    "key": "toucannon",
+    "models": [
+      "toucannon.geo.json"
+    ]
+  },
+  {
+    "key": "toxapex",
+    "models": [
+      "toxapex.geo.json"
+    ]
+  },
+  {
+    "key": "toxel",
+    "models": [
+      "toxel.geo.json"
+    ]
+  },
+  {
+    "key": "toxicroak",
+    "models": [
+      "toxicroak_female.geo.json",
+      "toxicroak_male.geo.json"
+    ]
+  },
+  {
+    "key": "toxtricity",
+    "models": [
+      "toxtricity_amped.geo.json",
+      "toxtricity_lowkey.geo.json"
+    ]
+  },
+  {
+    "key": "tranquill",
+    "models": [
+      "tranquill.geo.json"
+    ]
+  },
+  {
+    "key": "trapinch",
+    "models": [
+      "trapinch.geo.json"
+    ]
+  },
+  {
+    "key": "treecko",
+    "models": [
+      "treecko.geo.json"
+    ]
+  },
+  {
+    "key": "trevenant",
+    "models": [
+      "trevenant.geo.json"
+    ]
+  },
+  {
+    "key": "tropius",
+    "models": [
+      "tropius.geo.json"
+    ]
+  },
+  {
+    "key": "trubbish",
+    "models": [
+      "trubbish.geo.json"
+    ]
+  },
+  {
+    "key": "trumbeak",
+    "models": [
+      "trumbeak.geo.json"
+    ]
+  },
+  {
+    "key": "tsareena",
+    "models": [
+      "tsareena.geo.json"
+    ]
+  },
+  {
+    "key": "turtonator",
+    "models": [
+      "turtonator.geo.json"
+    ]
+  },
+  {
+    "key": "turtwig",
+    "models": [
+      "turtwig.geo.json"
+    ]
+  },
+  {
+    "key": "tynamo",
+    "models": [
+      "tynamo.geo.json"
+    ]
+  },
+  {
+    "key": "typhlosion",
+    "models": [
+      "typhlosion.geo.json",
+      "typhlosion_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "tyranitar",
+    "models": [
+      "tyranitar.geo.json"
+    ]
+  },
+  {
+    "key": "tyrantrum",
+    "models": [
+      "tyrantrum.geo.json"
+    ]
+  },
+  {
+    "key": "tyrogue",
+    "models": [
+      "tyrogue.geo.json"
+    ]
+  },
+  {
+    "key": "tyrunt",
+    "models": [
+      "tyrunt.geo.json"
+    ]
+  },
+  {
+    "key": "umbreon",
+    "models": [
+      "umbreon.geo.json"
+    ]
+  },
+  {
+    "key": "unfezant",
+    "models": [
+      "unfezant_female.geo.json",
+      "unfezant_male.geo.json"
+    ]
+  },
+  {
+    "key": "unown",
+    "models": [
+      "unown_a.geo.json",
+      "unown_b.geo.json",
+      "unown_c.geo.json",
+      "unown_d.geo.json",
+      "unown_e.geo.json",
+      "unown_exclamation.geo.json",
+      "unown_f.geo.json",
+      "unown_g.geo.json",
+      "unown_h.geo.json",
+      "unown_i.geo.json",
+      "unown_j.geo.json",
+      "unown_k.geo.json",
+      "unown_l.geo.json",
+      "unown_m.geo.json",
+      "unown_n.geo.json",
+      "unown_o.geo.json",
+      "unown_p.geo.json",
+      "unown_q.geo.json",
+      "unown_question.geo.json",
+      "unown_r.geo.json",
+      "unown_s.geo.json",
+      "unown_t.geo.json",
+      "unown_u.geo.json",
+      "unown_v.geo.json",
+      "unown_w.geo.json",
+      "unown_x.geo.json",
+      "unown_y.geo.json",
+      "unown_z.geo.json"
+    ]
+  },
+  {
+    "key": "ursaluna",
+    "models": [
+      "ursaluna.geo.json"
+    ]
+  },
+  {
+    "key": "ursaring",
+    "models": [
+      "ursaring.geo.json"
+    ]
+  },
+  {
+    "key": "vanillish",
+    "models": [
+      "vanillish.geo.json"
+    ]
+  },
+  {
+    "key": "vanillite",
+    "models": [
+      "vanillite.geo.json"
+    ]
+  },
+  {
+    "key": "vanilluxe",
+    "models": [
+      "vanilluxe.geo.json"
+    ]
+  },
+  {
+    "key": "vaporeon",
+    "models": [
+      "vaporeon.geo.json"
+    ]
+  },
+  {
+    "key": "varoom",
+    "models": [
+      "varoom.geo.json"
+    ]
+  },
+  {
+    "key": "veluza",
+    "models": [
+      "veluza.geo.json"
+    ]
+  },
+  {
+    "key": "venipede",
+    "models": [
+      "venipede.geo.json"
+    ]
+  },
+  {
+    "key": "venomoth",
+    "models": [
+      "venomoth.geo.json"
+    ]
+  },
+  {
+    "key": "venonat",
+    "models": [
+      "venonat.geo.json"
+    ]
+  },
+  {
+    "key": "venusaur",
+    "models": [
+      "venusaur_female.geo.json",
+      "venusaur_male.geo.json"
+    ]
+  },
+  {
+    "key": "vespiquen",
+    "models": [
+      "vespiquen.geo.json"
+    ]
+  },
+  {
+    "key": "vibrava",
+    "models": [
+      "vibrava.geo.json"
+    ]
+  },
+  {
+    "key": "victreebel",
+    "models": [
+      "victreebel.geo.json"
+    ]
+  },
+  {
+    "key": "vigoroth",
+    "models": [
+      "vigoroth.geo.json"
+    ]
+  },
+  {
+    "key": "vileplume",
+    "models": [
+      "vileplume.geo.json",
+      "vileplume_female.geo.json",
+      "vileplume_male.geo.json"
+    ]
+  },
+  {
+    "key": "vivillon",
+    "models": [
+      "vivillon.geo.json"
+    ]
+  },
+  {
+    "key": "volbeat",
+    "models": [
+      "volbeat.geo.json"
+    ]
+  },
+  {
+    "key": "volcarona",
+    "models": [
+      "volcarona.geo.json"
+    ]
+  },
+  {
+    "key": "voltorb",
+    "models": [
+      "voltorb.geo.json",
+      "voltorb_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "vulpix",
+    "models": [
+      "vulpix.geo.json",
+      "vulpix_alolan.geo.json"
+    ]
+  },
+  {
+    "key": "wailmer",
+    "models": [
+      "wailmer.geo.json"
+    ]
+  },
+  {
+    "key": "wailord",
+    "models": [
+      "wailord.geo.json"
+    ]
+  },
+  {
+    "key": "walrein",
+    "models": [
+      "walrein.geo.json"
+    ]
+  },
+  {
+    "key": "wartortle",
+    "models": [
+      "wartortle.geo.json"
+    ]
+  },
+  {
+    "key": "watchog",
+    "models": [
+      "watchog.geo.json"
+    ]
+  },
+  {
+    "key": "wattrel",
+    "models": [
+      "wattrel.geo.json"
+    ]
+  },
+  {
+    "key": "weavile",
+    "models": [
+      "weavile_female.geo.json",
+      "weavile_male.geo.json"
+    ]
+  },
+  {
+    "key": "weedle",
+    "models": [
+      "weedle.geo.json"
+    ]
+  },
+  {
+    "key": "weepinbell",
+    "models": [
+      "weepinbell.geo.json"
+    ]
+  },
+  {
+    "key": "weezing",
+    "models": [
+      "weezing.geo.json",
+      "weezing_galar.geo.json"
+    ]
+  },
+  {
+    "key": "whimsicott",
+    "models": [
+      "whimsicott.geo.json"
+    ]
+  },
+  {
+    "key": "whirlipede",
+    "models": [
+      "whirlipede.geo.json"
+    ]
+  },
+  {
+    "key": "whiscash",
+    "models": [
+      "whiscash.geo.json",
+      "whiscash_nero.geo.json"
+    ]
+  },
+  {
+    "key": "whismur",
+    "models": [
+      "whismur.geo.json"
+    ]
+  },
+  {
+    "key": "wigglytuff",
+    "models": [
+      "wigglytuff.geo.json"
+    ]
+  },
+  {
+    "key": "wiglett",
+    "models": [
+      "wiglett.geo.json"
+    ]
+  },
+  {
+    "key": "wimpod",
+    "models": [
+      "wimpod.geo.json"
+    ]
+  },
+  {
+    "key": "wingull",
+    "models": [
+      "wingull.geo.json"
+    ]
+  },
+  {
+    "key": "wishiwashi",
+    "models": [
+      "wishiwashi_school.geo.json",
+      "wishiwashi_solo.geo.json"
+    ]
+  },
+  {
+    "key": "wobbuffet",
+    "models": [
+      "wobbuffet_female.geo.json",
+      "wobbuffet_male.geo.json"
+    ]
+  },
+  {
+    "key": "woobat",
+    "models": [
+      "woobat.geo.json"
+    ]
+  },
+  {
+    "key": "wooloo",
+    "models": [
+      "wooloo.geo.json"
+    ]
+  },
+  {
+    "key": "wooper",
+    "models": [
+      "wooper_female.geo.json",
+      "wooper_heart_female.geo.json",
+      "wooper_heart_male.geo.json",
+      "wooper_male.geo.json",
+      "wooper_paldean.geo.json"
+    ]
+  },
+  {
+    "key": "wugtrio",
+    "models": [
+      "wugtrio.geo.json"
+    ]
+  },
+  {
+    "key": "wynaut",
+    "models": [
+      "wynaut.geo.json"
+    ]
+  },
+  {
+    "key": "wyrdeer",
+    "models": [
+      "wyrdeer.geo.json"
+    ]
+  },
+  {
+    "key": "xatu",
+    "models": [
+      "xatu_female.geo.json",
+      "xatu_male.geo.json"
+    ]
+  },
+  {
+    "key": "xerneas",
+    "models": [
+      "xerneas.geo.json"
+    ]
+  },
+  {
+    "key": "yamask",
+    "models": [
+      "yamask.geo.json"
+    ]
+  },
+  {
+    "key": "yamper",
+    "models": [
+      "yamper.geo.json"
+    ]
+  },
+  {
+    "key": "yanma",
+    "models": [
+      "yanma.geo.json"
+    ]
+  },
+  {
+    "key": "yanmega",
+    "models": [
+      "yanmega.geo.json"
+    ]
+  },
+  {
+    "key": "yungoos",
+    "models": [
+      "yungoos.geo.json"
+    ]
+  },
+  {
+    "key": "zapdos",
+    "models": [
+      "zapdos.geo.json"
+    ]
+  },
+  {
+    "key": "zarude",
+    "models": [
+      "zarude.geo.json"
+    ]
+  },
+  {
+    "key": "zebstrika",
+    "models": [
+      "zebstrika.geo.json"
+    ]
+  },
+  {
+    "key": "zigzagoon",
+    "models": [
+      "zigzagoon.geo.json",
+      "zigzagoon_galarian.geo.json"
+    ]
+  },
+  {
+    "key": "zoroark",
+    "models": [
+      "zoroark.geo.json",
+      "zoroark_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "zorua",
+    "models": [
+      "zorua.geo.json",
+      "zorua_hisuian.geo.json"
+    ]
+  },
+  {
+    "key": "zubat",
+    "models": [
+      "zubat_female.geo.json",
+      "zubat_male.geo.json"
+    ]
+  },
+  {
+    "key": "zweilous",
+    "models": [
+      "zweilous.geo.json"
+    ]
+  }
+]

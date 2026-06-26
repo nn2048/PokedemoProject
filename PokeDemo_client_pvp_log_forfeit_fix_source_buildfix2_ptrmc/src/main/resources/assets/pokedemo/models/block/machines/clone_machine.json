@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "pokedemo:block/machines/clone_machine"
+  },
+  "render_type": "minecraft:translucent"
+}

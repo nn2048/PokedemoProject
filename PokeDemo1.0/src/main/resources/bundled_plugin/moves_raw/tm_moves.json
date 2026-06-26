@@ -1,0 +1,11 @@
+{
+  "_comment": "可选：为 TM51+/HM06+ 等扩展编号指定技能。键名示例 tm51, tm100, hm06。值使用 Showdown move id。",
+  "tm51": "roost",
+  "tm52": "focusblast",
+  "tm53": "energyball",
+  "tm54": "falseSwipe",
+  "tm55": "scald",
+  "hm06": "rocksmash",
+  "hm07": "waterfall",
+  "hm08": "rockclimb"
+}
